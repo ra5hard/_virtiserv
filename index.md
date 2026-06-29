@@ -9,6 +9,11 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img alt="S1A_IW_GRDH_1SDV_20260621T135231_20260621T135256_065068_08338E_78F1 @asfadmin @nasa-jpl @la-county-isd @cityoflosangeles" src="https://github.com/user-attachments/assets/03a4c5b8-31a5-45eb-9098-ac2bdc022fb6" />
+
+<img  alt="S1D_IW_GRDH_1SDV_20260621T015735_20260621T015804_003328_005D61_858E @asfadmin @nasa-jpl @la-county-isd @cityoflosangeles" src="https://github.com/user-attachments/assets/2ba3d4c1-cafc-49fc-81ed-d32342b913c0" />
+
+
 @eu-cdse hi @salesforce @shopify [https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.71556&lng=-118.17564&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18qRniPOk2A2sQDzGKQZjfGdEun0OmhIybbMnJHAXfwC%2Fqc3dgVdnoECMKPTxC1t2QLaucJCb69CKfKjHP9vzXaEZBWjTd8wlVtnCc54GZpAHDGd2pKLItz&datasetId=S2_L2A_CDAS&fromTime=2026-06-26T00%3A00%3A00.000Z&toTime=2026-06-26T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE @blackgirlscode](https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.71556&lng=-118.17564&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18qRniPOk2A2sQDzGKQZjfGdEun0OmhIybbMnJHAXfwC%2Fqc3dgVdnoECMKPTxC1t2QLaucJCb69CKfKjHP9vzXaEZBWjTd8wlVtnCc54GZpAHDGd2pKLItz&datasetId=S2_L2A_CDAS&fromTime=2026-06-26T00%3A00%3A00.000Z&toTime=2026-06-26T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/48f73c7b-1198-4fa0-9bbb-1d6bc9d2f408" />
