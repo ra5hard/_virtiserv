@@ -16,11 +16,33 @@ p {
   margin-top: 0;
 }
 
-a {
-  color: #2879d0;
+
+img {
+  max-width: 100%;
+  display: block;
+  transition: all 0.5s linear;
 }
-a:hover {
-  color: #2268b2;
+
+img:hover {
+  transform: scale(1.05);
+}
+
+a {
+  font-weight: 400;
+  text-decoration: none;
+  color: #2879d0;
+  text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+a,
+a:hover,
+ a:hover {
+  color: #c9ff23;
+  padding: 0px;
+}
+
+
+a:visited {
+  color: #2879d0;
 }
 
 header {
