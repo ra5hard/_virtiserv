@@ -163,5 +163,49 @@ SearchContext <|-- SkipSearchContext
 </div>
 
 
+
+```text
+**The Cauchy-Schwarz Inequality**\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+```
+
+![Screenshot of rendered Markdown showing a complex equation. Bold text reads "The Cauchy-Schwarz Inequality" above the formula for the inequality.](/assets/images/help/writing/math-expression-as-a-block-rendering.png)
+
+Alternatively, you can use the <code>\`\`\`math</code> code block syntax to display a math expression as a block. With this syntax, you don't need to use `$$` delimiters. The following will render the same as above:
+
+````text
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
+````
+
+## Writing dollar signs in line with and within mathematical expressions
+
+To display a dollar sign as a character in the same line as a mathematical expression, you need to escape the non-delimiter `$` to ensure the line renders correctly.
+
+* Within a math expression, add a `\` symbol before the explicit `$`.
+
+  ```text
+  This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+  ```
+
+  ![Screenshot of rendered Markdown showing how a backslash before a dollar sign displays the sign as part of a mathematical expression.](/assets/images/help/writing/dollar-sign-within-math-expression.png)
+
+* Outside a math expression, but on the same line, use span tags around the explicit `$`.
+
+  ```text
+  To split <span>$</span>100 in half, we calculate $100/2$
+  ```
+
+  ![Screenshot of rendered Markdown showing how span tags around a dollar sign display the sign as inline text not as part of a mathematical equation.](/assets/images/help/writing/dollar-sign-inline-math-expression.png)
+
+## Further reading
+
+* [The MathJax website](http://mathjax.org)
+* [Getting started with writing and formatting on GitHub](/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+
 [codepen.io/ricoThaka/pen/GgRdwGd](https://codepen.io/ricoThaka/pen/GgRdwGd)
 <img alt="image" src="https://github.com/user-attachments/assets/7ee591aa-18be-4bd6-ad98-365d0d08c814" />
