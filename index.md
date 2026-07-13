@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![ @blackgirlscode https://m.media-amazon.com/images/I/91HvdddKZuL._AC_UF1000,1000_QL80_.jpg](https://m.media-amazon.com/images/I/91HvdddKZuL._AC_UF1000,1000_QL80_.jpg)
+
 
 # Trice
 @nasa-jpl @howard-university-web-services @nasa-pds 
