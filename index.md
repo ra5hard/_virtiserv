@@ -30,6 +30,7 @@ so , i saw one of them kissing a guy and im devestated, but at least we were a t
 <img  alt="image" src="https://github.com/user-attachments/assets/b14d2245-6ef0-4448-bb02-dabf69195a69" />
 
 
+<img alt="image" src="https://github.com/user-attachments/assets/e88cbd8e-b327-432f-b5f8-5e17a3593d33" />
 
 
 @nasa-pds insight [https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.product_type=CPG @la-county-isd @nasa-jpl @doug-newman-nasa @blackgirlscode @virtiserv](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.product_type=CPG)
