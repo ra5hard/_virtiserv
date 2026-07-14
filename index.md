@@ -33,7 +33,7 @@ so , i saw one of them kissing a guy and im devestated, but at least we were a t
 <img  alt="D000M1409_721629422CPG_F0000_0817M2" src="https://github.com/user-attachments/assets/c2570017-1b05-4632-b1a3-3c33df8ea8ba" />
 <img   alt="C000M1436_724026383CPG_F0000_0200M2" src="https://github.com/user-attachments/assets/dcdf0fd6-fbe3-4758-a1e9-9878a4860b32" />
 
-
+![https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NASDAQ_Logo.svg/1280px-NASDAQ_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NASDAQ_Logo.svg/1280px-NASDAQ_Logo.svg.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C_Y-udVHdb4?si=1jtlU2fG8d9AKlmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
