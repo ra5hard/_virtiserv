@@ -53,6 +53,13 @@ This 1970's NASA movie shows the results of the Mariner 9 mission -- which produ
 
 @newshour @foxnews @nbcnews @cbs-news-data /[Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
 
+
+<img width="446" height="448" alt="LATRiCEFitZPATRiCKimages" src="https://github.com/user-attachments/assets/15ca2d53-9599-49d0-afec-26c0f117cab2" />
+
+<img width="192" height="240" alt="LATRiCEFiTZPATRiCKimages1" src="https://github.com/user-attachments/assets/1bacb860-b84f-4c15-9e56-baf9b923ec39" />
+
+<img width="335" height="597" alt="LATRiCEViRTiSERVFiTZPATRiCKimages" src="https://github.com/user-attachments/assets/ca1b1c72-f174-4d72-a207-f7e3f6565e11" />
+
 <div class="tupperware">
     
 {% for image in site.static_files %}
