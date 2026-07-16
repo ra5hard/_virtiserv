@@ -6,9 +6,23 @@ layout: default
 [firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-121.7,41.4,8.1z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-121.7,41.4,8.1z)
 @blackgirlscode idk who in oregon, my cousin was there for a long time trying to link so i know someone is upthere and would find this map useful @fbicyber @nasa-giss \
 
+<img alt="nasa-worldview-2026 JUL 10-to-2026 JUL 15 (1)" src="https://github.com/user-attachments/assets/3ec0357a-5f9f-4c56-9a3b-620ea15d50ad" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/4705b8e6-6e2f-4bb3-8f95-e17d136d2d7e" />
+
+
 <img width="625" height="336" alt="nasa-worldview-2026 JUL 10-to-2026 JUL 15" src="https://github.com/user-attachments/assets/8d636e27-a5ea-424f-ade3-51f58f6554ff" />
+
+
+We @virtiserv acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
 <img   alt="image" src="https://github.com/user-attachments/assets/df28f4ad-7628-444b-923f-2407e5af6b85" />
 
+
+[browser.dataspace.copernicus.eu/?zoom=11&lat=42.84249&lng=-122.74132&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19GRub8Rv4aVilC58aS%2F5KloedLJe2W%2FS5TXawK9QOrV0zL3NBDpTxz0q5fBFhYfdiQkSoyqEdAf1gl%2FD55cMFZQ6HYM%2BHfxvgWPLwGOQAME89%2FlSVeJgUZ&datasetId=S2_L2A_CDAS&fromTime=2026-07-15T00%3A00%3A00.000Z&toTime=2026-07-15T23%3A59%3A59.999Z&layerId=2_TONEMAPPED_NATURAL_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=42.84249&lng=-122.74132&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19GRub8Rv4aVilC58aS%2F5KloedLJe2W%2FS5TXawK9QOrV0zL3NBDpTxz0q5fBFhYfdiQkSoyqEdAf1gl%2FD55cMFZQ6HYM%2BHfxvgWPLwGOQAME89%2FlSVeJgUZ&datasetId=S2_L2A_CDAS&fromTime=2026-07-15T00%3A00%3A00.000Z&toTime=2026-07-15T23%3A59%3A59.999Z&layerId=2_TONEMAPPED_NATURAL_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img  alt="2026-07-15-00_00_2026-07-15-23_59_Sentinel-2_L2A_Highlight_Optimized_Natural_Color_" src="https://github.com/user-attachments/assets/1246693a-7ecc-49e4-b12b-9a74f9c240f3" />
 
 
 ## BIA - FALLBACK
