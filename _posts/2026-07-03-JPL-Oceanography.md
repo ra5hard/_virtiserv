@@ -12,4 +12,29 @@ mathjax: true
 
 <img alt="image" src="https://github.com/user-attachments/assets/187d01f2-b10e-48aa-8cb2-009b72c6db36" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/8d7f4a5a-e7a8-44f4-8e2b-61c8216b21dc" />
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 07-16-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.21 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+
+<img  alt="image @nasa-jpl ppl are burning me @fbicyber @nasa-pds help latrice is kissing other men under the name gloria!!!!!!!!!!!!! @nbcnews " src="https://github.com/user-attachments/assets/8d7f4a5a-e7a8-44f4-8e2b-61c8216b21dc" />
