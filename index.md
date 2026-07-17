@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+[<video controls poster="https://github.com/user-attachments/assets/538bb660-1884-41e7-8235-f9b175a42344" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4" >](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4)
+
 [@fbicyber @dhs-gov @atf-web wildfire.oregon.gov/Documents/WildfireContacts.pdf](https://wildfire.oregon.gov/Documents/WildfireContacts.pdf)
 
 
