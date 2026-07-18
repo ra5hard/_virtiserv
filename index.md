@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00028/ids/edr/browse/edl/EUE_0028_0669420947_133ECM_N0030792EDLC00028_0050LUJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00028/ids/edr/browse/edl/EUE_0028_0669420947_133ECM_N0030792EDLC00028_0050LUJ01_1200.jpg)
+
 # Wilfefire
 
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS). @nasa-jpl @la-county-isd for oregon wildfires @foratlanta @blackgirlscode [https://go.nasa.gov/44GSCAq](https://go.nasa.gov/44GSCAq)
