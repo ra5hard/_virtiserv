@@ -2,6 +2,13 @@
 layout: default
 ---
 
+[ @cbs-news-data @nbcnews coast.noaa.gov/dataviewer/#/admin/download/1418291](https://coast.noaa.gov/dataviewer/#/admin/download/1418291)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fc08ca18-8eb4-4044-9e85-4fcb9f0e0e17" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5ffcea07-ef53-4234-8692-5d10656f8897" />
+
 [ @blackgirlscode @noaagov @datadesk /noaa-wildfire](https://www.noaa.gov/noaa-wildfire)
 <img  alt="image" src="https://github.com/user-attachments/assets/b6b4f00f-910c-4c6b-96a6-e72f5e2a3ec5" />
 
