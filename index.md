@@ -9,10 +9,6 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/143d6149-be70-44d7-8227-07f6024ff521" />
 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/b8251473-495f-4894-ae5c-6da7fb3c7459" />
-
-
-<img   alt="image" src="https://github.com/user-attachments/assets/b788f30f-0c12-42e4-8377-d8a7c725ff05" />
 this one <img  alt="image" src="https://github.com/user-attachments/assets/54efb4d5-f823-46c7-8c1b-caae068af237" />
 
 ## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
