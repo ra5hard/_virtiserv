@@ -4,7 +4,9 @@ layout: default
 
 ## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
 # Long Beach, CA - [DataAccess AllFiles](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
-
+[https://www.fisheries.noaa.gov/inport/item/76024](https://www.fisheries.noaa.gov/inport/item/76024)
+@howard-university-web-services this link will be up for 14 days @whitehouse @nasa-jpl @podaac @nasa @blackgirlscode
+[coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip](https://coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/83443291-2072-4325-9458-595993718872" />
 
