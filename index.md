@@ -3,6 +3,16 @@ layout: default
 ---
 
 
+
+
+@nasa-giss @nasa-pds @nasa-jpl
+[https://worldview.earthdata.nasa.gov/?v=-125.23014661358886,37.17372361307035,-116.16951784642575,41.66612741603616&as=2021-08-08-T00%3A00%3A00Z&ae=2021-08-18-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2021-08-18-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-125.23014661358886,37.17372361307035,-116.16951784642575,41.66612741603616&as=2021-08-08-T00%3A00%3A00Z&ae=2021-08-18-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&t=2021-08-18-T00%3A00%3A00Z)
+
+<img   alt="nasa-worldview-2026 JUL 08-to-2026 JUL 18" src="https://github.com/user-attachments/assets/34cfaa4d-4382-434b-839a-0bd5c04b1aba" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4b51c7d3-7dfd-4090-897c-71e3b1a89492" />
+
+
 # Yesterdays Quake
 @usgs idk what geology department i report to @doug-newman-nasa but i felt an earthquake yesterday and i think it was [`ThisOne - CLickHere`](https://earthquake.usgs.gov/earthquakes/eventpage/ci40656850/executive) 
 
@@ -26,7 +36,8 @@ _Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes]
 @cbs-news-data @nbcnews @nasa-jpl @CityOFLosAngeles @StateOfCAlifornia
 
 [396000e3738000n -.tif 543.32 MB @nasa-jpl](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3738000n.tif)
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
 
 [384000e3738000n.tif 487mb -.tif @noaa-gov](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/384000e3738000n.tif)
 
