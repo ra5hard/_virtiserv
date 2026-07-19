@@ -2,10 +2,19 @@
 layout: default
 ---
 
+
+# WildFire
+
+
+[<video controls poster="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/20261980246_GOES18-ABI-pnw-FireTemperature-1200x1200.jpg" src="https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4" >](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/pnw/FireTemperature/GOES18-PNW-FireTemperature-600x600.mp4)
+
+nslookup later
+ [`https://sjud.senate.ca.gov`](https://sjud.senate.ca.gov/)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/513a93cf-d10b-4afc-961d-17b158b38553" />
 
 
-# Wilfefire
+
 
 [https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,country-outline,viirs_crtc,earth;@-120.2,43.8,8.0z](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,country-outline,viirs_crtc,earth;@-120.2,43.8,8.0z)
 <img  alt="image" src="https://github.com/user-attachments/assets/300ea797-6edd-45d9-b428-8480f5fa3dec" />
