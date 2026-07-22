@@ -7,6 +7,11 @@ layout: default
 [Watch - youtube.com/watch?v=H_7CCuIRgu8 @CityOfLosAngeles @la-county-isd](https://www.youtube.com/watch?v=H_7CCuIRgu8)
 <img alt="image" src="https://github.com/user-attachments/assets/8ecf5005-7e82-4f78-a87a-807b8ac2dfc4" />
 
+@nasa-jpl @howard-university-web-services
+The ppl at the park playing on the phone @nbcnews @newshour @cityoflosangles
+[MAP - @BLACKGiRLSCODE](https://www.google.com/maps/place/34%C2%B010'04.0%22N+118%C2%B022'59.5%22W/@34.1677778,-118.3831944,851m/data=!3m1!1e3!4m4!3m3!8m2!3d34.1677778!4d-118.3831944?entry=ttu&g_ep=EgoyMDI2MDcxOS4wIKXMDSoASAFQAw%3D%3D)
+<img alt="image" src="https://github.com/user-attachments/assets/b23a5b7b-4808-4fb5-97ce-09e9250ab46c" />
+
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/822712616214544384/v2" data-did="d4d6a8534a6e00c5514880d62df17f884e4d9a18"  ><a href="https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last">https://www.tumblr.com/rashardmro/822712616214544384/brandybrandybrandy-hi-brandy-i-got-robbed-last</a></div><script async src="https://assets.tumblr.com/post.js?_v=2e3257777411face7e6785c8941f968f"></script>
 
