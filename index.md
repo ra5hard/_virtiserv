@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+# Designing Social Interfaces:
+## Principles, Patterns, and Practices for Improving the User Experience
+[GoodReads📖📚](https://www.goodreads.com/en/book/show/6523283-designing-social-interfaces) // [Orielly📖]()
+
 <img   alt="what_is_aSTreet_Coder_page-0013" src="https://github.com/user-attachments/assets/9004763b-a0dc-4a32-8e54-9e3e11dec226" />
 
 
