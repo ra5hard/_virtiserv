@@ -124,8 +124,12 @@ layout: default
   </svg>
 
 @CommerceGov @Whitehouse @fbiCyber
-Trice [Twitters](https://virtiserv.github.io/twitters/)
+Trice [virtiserv.github.io/Twitters](https://virtiserv.github.io/twitters/)
 <img alt="image" src="https://github.com/user-attachments/assets/a87700f4-6073-4e67-88d3-023b98b5c3ba" />
+
+[https://codepen.io/thakarashard/pen/MWdrMBR](https://codepen.io/thakarashard/pen/MWdrMBR)
+
+<img alt="image" src="https://github.com/user-attachments/assets/09db8fea-b902-47e3-931e-1697db0a0c36" />
 
 [codepen.io/thakarashard/pen/RwzMYpE](https://codepen.io/thakarashard/pen/RwzMYpE)
 <img  alt="image" src="https://github.com/user-attachments/assets/34b5992b-69a5-4a49-b8af-f331182c2c51" />
@@ -136,6 +140,12 @@ Trice [Twitters](https://virtiserv.github.io/twitters/)
 @codepen @Nasdaq @commercegov
 Trice i created the account
 [codepen.io/editor/virtiserv/pen/019f9129-50f9-7825-96da-0099579d619e](https://codepen.io/editor/virtiserv/pen/019f9129-50f9-7825-96da-0099579d619e)
+
+<img src="https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg" src2="https://raw.githubusercontent.com/ricoThaka/twitters/master/assets/images/3654981510_8928d2d554_b.jpg" >
+
+```html
+<img src="https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg" src2="https://raw.githubusercontent.com/ricoThaka/twitters/master/assets/images/3654981510_8928d2d554_b.jpg" >
+```
 
 # Hello Trice _`Sorry`_
 @doug-newman-nasa there is a population that... idk its not closed @blackgirlscode but we are reshifting my heart cannot keep up with the relationships and that african really humiliated me at cityhall @CityOfLosAngeles ... @Nasdaq there is some research bundled in that you should view, Latrice Fitzpatricks BBB profile was deleted @whitehouse i dont know man, since she is a kash brat i need help i could hurt my reputation if this Trice and Rob thing is DNS or some other fruad and it was a hookup for Graffiti lessons or income tax prep, like in atlanta she used to lose her freedom from kidnapping for a lo of common tasks aswell @nasa @nasa-jpl 
