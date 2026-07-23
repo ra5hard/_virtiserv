@@ -9,6 +9,8 @@ layout: default
 4 # UNiVERSE#########################VirtiservLatrice#####
 {% endhighlight %}
 
+![upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg @cityoflosangeles @blackgirlscode @howard-university-web-services @whitehouse @la-county-isd](https://upload.wikimedia.org/wikipedia/commons/c/c6/Jet_Propulsion_Laboratory_logo.svg)
+
   <?xml version="1.0" encoding="utf-8"?>
   <!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
   <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
