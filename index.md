@@ -15,6 +15,65 @@ I need help because they told me if i see them married i have to get somoen from
 
 <img   alt="image" src="https://github.com/user-attachments/assets/2cc212b0-3c8c-434b-bd35-4e214ea6bf7c" />
 
+```html
+
+Non-authoritative answer:
+tiktok.com mail exchanger = 20 mx2.tiktok.com.
+tiktok.com mail exchanger = 30 mx3.tiktok.com.
+tiktok.com mail exchanger = 10 mx1.tiktok.com. and walk to the thing if there is a question of chastity before its an issue and i miss my kids growing up 
+
+
+
+jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+spacex.com mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+spacex.com mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+Server: 8.8.8.8
+Address: 8.8.8.8#53
+
+Non-authoritative answer:
+spacex.com nameserver = ns-cloud-b2.googledomains.com.
+spacex.com nameserver = ns-cloud-b1.googledomains.com.
+spacex.com nameserver = ns-cloud-b4.googledomains.com.
+spacex.com nameserver = ns-cloud-b3.googledomains.com.
+Non-authoritative answer:
+foxnews.com mail exchanger = 10 mxa-00195501.gslb.pphosted.com.
+foxnews.com mail exchanger = 10 mxb-00195501.gslb.pphosted.com.
+
+Non-authoritative answer:
+jpl.nasa.gov nameserver = a11-67.akam.net.
+jpl.nasa.gov nameserver = a14-67.akam.net.
+jpl.nasa.gov nameserver = a2-67.akam.net.
+jpl.nasa.gov nameserver = a8-65.akam.net.
+jpl.nasa.gov nameserver = a1-91.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net.
+
+cbs.com nameserver = dns3.p09.nsone.net.
+cbs.com nameserver = dns1.p09.nsone.net.
+cbs.com nameserver = ns0243.secondary.cloudflare.com.
+cbs.com nameserver = ns0004.secondary.cloudflare.com.
+cbs.com nameserver = dns4.p09.nsone.net.
+cbs.com nameserver = dns2.p09.nsone.net.
+
+jw.org nameserver = a7-66.akam.net.
+jw.org nameserver = a28-65.akam.net.
+jw.org nameserver = a1-141.akam.net.
+jw.org nameserver = a11-66.akam.net.
+jw.org nameserver = a22-67.akam.net.
+jw.org nameserver = a26-64.akam.net.
+
+karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com mail exchanger = 1 aspmx.l.google.com.
+
+```
+
 
 @nasa-jpl long beach library censors the wilma betty gif @la-county-isd @CityOfLosAngeles
 [bubblegumpop01.tumblr.com/](https://bubblegumpop01.tumblr.com/)
