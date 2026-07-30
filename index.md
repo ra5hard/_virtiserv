@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hObyglgz-kI?si=p_tbVbg8j01TomHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Governor Newsom visits Space Beach and highlights California’s aerospace dominance
 SPaceBeach [gov.ca.gov-READ](https://www.gov.ca.gov/2026/06/05/governor-newsom-visits-space-beach-and-highlights-californias-aerospace-dominance/)
