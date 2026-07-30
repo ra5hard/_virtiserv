@@ -487,6 +487,10 @@ this is the library webpage maybe its archive.org @cityoflosangeles [https://www
 
 [https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google](https://dnschecker.org/ns-lookup.php?query=NASA.gov&dns=google)
 
+[ @nasa lotts of fires in the pacific northwest @noaagov](https://worldview.earthdata.nasa.gov/?v=-122.94267710649312,43.116479296812976,-116.6972341259223,53.438808667478646&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-30-T22%3A24%3A19Z) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5a2a5381-9795-4c7c-9a12-7aeccb18b72f" />
+
 
 # Road Rash (USA)
 by [Electronic Arts](https://web.archive.org/web/19970221233250/http://www.ea.com/) / [link](https://archive.org/details/psx_roadrash)
