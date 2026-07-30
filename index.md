@@ -3,6 +3,13 @@ layout: default
 ---
 
 
+
+# 2025 @la-county-isd Fires
+I lost an account where these images were stored earthdatarashard on @vsco
+<img alt="AV320250111t213547_004_L2A_OE_f576f24d_RFL_ORT_BROWSE (1)" src="https://github.com/user-attachments/assets/6e727c39-7fb2-4c78-9b52-3ff446eb4ac2" />
+
+<img  alt="AV320250123t202047_001_L2A_OE_f576f24d_RFL_ORT_BROWSE" src="https://github.com/user-attachments/assets/415bed78-1f1b-46a2-885c-101fa7ab105d" />
+
 ![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 
 # AVIRIS-5 L2A Orthocorrected Surface Reflectance,
