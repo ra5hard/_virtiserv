@@ -2,7 +2,7 @@
 layout: default
 ---
 [aviris.jpl.nasa.gov/](https://aviris.jpl.nasa.gov/)   //// [@nasa whats up with this domain @la-county-isd web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/](https://web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/)
-@nasa-jpl i see you guys had to be quiet about the fire work, the regular dept too dependant on our woemn for sex  
+@nasa-jpl i see you guys had to be quiet about the fire work, 
 [NASA/Forest Service Maps Aid Fire Recovery](https://www.jpl.nasa.gov/news/nasaforest-service-maps-aid-fire-recovery/)
 April 9, 2015
 <img  alt="image" src="https://github.com/user-attachments/assets/d44529d4-4d86-4845-bbc9-38c12a72e80a" />
