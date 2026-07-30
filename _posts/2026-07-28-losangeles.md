@@ -23,7 +23,7 @@ permalink: losangeles
 
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
-
+gallery-aviris-palisades-eaton
 # Eaton Canyon
 [MONiTORiNG @nasa-jpl aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html](https://www.aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html)
 UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-isd @cityoflosangeles @asfadmin
