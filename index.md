@@ -3,6 +3,14 @@ layout: default
 ---
 
 
+# The Los Angeles Resivoir
+@CityOfLosAngeles
+
+[AV320250130t230650_000_L1B_RDN_4842d6a3_RDN_BROWSE.jpg](https://search.earthdata.nasa.gov/search/granules?p=C3236537162-ORNL_CLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G3658899032-ORNL_CLOUD&q=aviris&sb[0]=-118.69028%2C33.52131%2C-117.86817%2C34.33821&qt=2025-01-01T00%3A00%3A00.000Z%2C2025-01-31T23%3A59%3A59.999Z&lat=34.29852585&long=-118.48143955313013&zoom=14.213271498682408)
+
+<img   alt="AV320250130t230650_000_L1B_RDN_4842d6a3_RDN_BROWSE" src="https://github.com/user-attachments/assets/15cf770e-d1a8-405f-aaa7-d533b5b90ee0" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e84e379c-f87e-436b-9003-159cb344ca24" />
+
 
 # 2025 @la-county-isd Fires
 I lost an account where these images were stored earthdatarashard on @vsco
@@ -79,6 +87,7 @@ im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center
 [draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
 
 [Draper To Salt LAke City Commute](https://www.google.com/maps/dir/Salt+Lake+City,+Utah/13997+Minuteman+Dr,+Draper,+UT+84020/@40.4729298,-112.1375395,10z/data=!4m14!4m13!1m5!1m1!1s0x87523d9488d131ed:0x5b53b7a0484d31ca!2m2!1d-111.8881397!2d40.7605601!1m5!1m1!1s0x875280cc33063771:0xe20ca31a02951b78!2m2!1d-111.889471!2d40.4975455!3e0!5m2!1e4!1e1?entry=ttu&g_ep=EgoyMDI2MDcyNy4wIKXMDSoASAFQAw%3D%3D)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/2de5f11b-0b33-4e9e-b687-a5673e1d39d5" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/2ae9b77a-5cbb-41db-aac3-f608177c5266" />
@@ -118,7 +127,7 @@ spacex.com	mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
 <img alt="image" src="https://github.com/user-attachments/assets/ed106508-5013-4243-926f-399e528adefa" />
 S1C_IW_GRDH_1SDV_20260725T012627_20260725T012652_008693_01139E_E8C2 @asfadmin
 <img   alt="image" src="https://github.com/user-attachments/assets/52f3bc88-6e4d-48e0-ae52-def131241504" />
-<img width="1024" height="756" alt="image" src="https://github.com/user-attachments/assets/266db502-9e28-4780-9c6a-908f458f236f" />
+<img  alt="image" src="https://github.com/user-attachments/assets/266db502-9e28-4780-9c6a-908f458f236f" />
 
 
 [browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=16&lat=40.49765&lng=-111.89029&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BSzFXCCULFTCiZj6dLBSsiAmRJnMMrxI05W%2B9%2BaVeJ3GrPiXmGIvEdyOO41IDRokdB1g7is9O7Kko1wooSIozqtrLHfX5qGEFvbQrGcZgKKPM8bPX5GDPj&datasetId=S2_L2A_CDAS&fromTime=2026-07-25T00%3A00%3A00.000Z&toTime=2026-07-25T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
