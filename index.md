@@ -5,6 +5,14 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GmXfGvDlZs?si=pR3bN4z3TC9sDTzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
+[draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5a512e03-beab-4a05-bdcd-99fc55b6f83a" />
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hObyglgz-kI?si=p_tbVbg8j01TomHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Governor Newsom visits Space Beach and highlights California’s aerospace dominance
@@ -25,7 +33,7 @@ im working the [colocation issues](https://www.hpe.com/us/en/what-is/data-center
 [PDF - @blackgirlscode @lacountyDPH](https://pmc.ncbi.nlm.nih.gov/articles/PMC10631266/pdf/10.1177_27551938231185968.pdf) 
 [findlatitudeandlongitude.com/l/37.751/5231361/](https://www.findlatitudeandlongitude.com/l/37.751/5231361/) // [@emergingcoders socialcatfish.com/search/latrice-fitzpatrick-d374858102/](https://socialcatfish.com/search/latrice-fitzpatrick-d374858102/)
 
-![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+[https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
 
 [draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
 
