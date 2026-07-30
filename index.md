@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+
+
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+# AVIRIS-5 L2A Orthocorrected Surface Reflectance,
+Facility Instrument Collection [ORNL DAAC - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
+@cityoflosangeles
+<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
+
+
 [aviris.jpl.nasa.gov/](https://aviris.jpl.nasa.gov/)   //// [@nasa whats up with this domain @la-county-isd web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/](https://web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/)
 @nasa-jpl i see you guys had to be quiet about the fire work, 
 [NASA/Forest Service Maps Aid Fire Recovery](https://www.jpl.nasa.gov/news/nasaforest-service-maps-aid-fire-recovery/)
