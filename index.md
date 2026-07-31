@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![https://dn721307.ca.archive.org/0/items/AppleStickers1/Apple_stickers_1.jpg](https://dn721307.ca.archive.org/0/items/AppleStickers1/Apple_stickers_1.jpg)
+![@nasa dn721307.ca.archive.org/0/items/AppleStickers1/Apple_stickers_1.jpg](https://dn721307.ca.archive.org/0/items/AppleStickers1/Apple_stickers_1.jpg)
 
 @Ford Simulator II
 [@nasa-jpl @la-county-isd @lacmta archive.org/details/FordSimulatorIIMacintosh](https://archive.org/details/FordSimulatorIIMacintosh)
