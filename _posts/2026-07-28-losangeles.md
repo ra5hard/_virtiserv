@@ -24,21 +24,13 @@ permalink: losangeles
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
-# Eaton Canyon
+# Eaton Canyon @emit-sds @nasa-openscapes
 [MONiTORiNG @nasa-jpl aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html](https://www.aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html)
 UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-isd @cityoflosangeles @asfadmin
 <img  alt="image" src="https://github.com/user-attachments/assets/fd3b4d1e-13e8-4b67-9757-b8cb94d5e3c5" />
 
 
 <img  alt="tumblr_35300d3bd6591f7bf5cc45653bf20532_52a1c7bf_1280" src="https://github.com/user-attachments/assets/2a53188a-e294-4874-906b-dd8d827a7f64" />
-<img alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/f4978247-4891-457d-b04b-886c15e40e78" />
-
-<img alt="tumblr_8fbfbbeec24ccb1a42b7d0a9038e0bab_e4d210df_1280" src="https://github.com/user-attachments/assets/e74a27a0-de2f-43b1-b42c-6187ab1e7f84" />
-<img   alt="tumblr_1366c97ddc23776db026ef34172efdda_070fa3c6_1280" src="https://github.com/user-attachments/assets/6fd93a7a-1b19-4743-b040-11d8aefd8ba2" />
-
-
-[draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
-![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
 
 <div class="tupperware">
     
@@ -52,6 +44,9 @@ UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-is
 
 </div>
 
+
+<img alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/f4978247-4891-457d-b04b-886c15e40e78" />
+
 <div class="tupperware">
     
 {% for image in site.static_files %}
@@ -63,6 +58,15 @@ UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-is
 {% endfor %}
 
 </div>
+
+<img alt="tumblr_8fbfbbeec24ccb1a42b7d0a9038e0bab_e4d210df_1280" src="https://github.com/user-attachments/assets/e74a27a0-de2f-43b1-b42c-6187ab1e7f84" />
+<img   alt="tumblr_1366c97ddc23776db026ef34172efdda_070fa3c6_1280" src="https://github.com/user-attachments/assets/6fd93a7a-1b19-4743-b040-11d8aefd8ba2" />
+
+
+[draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
+
 
 # MArina Del Ray
 
