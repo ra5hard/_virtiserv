@@ -23,12 +23,37 @@ permalink: losangeles
 
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
-gallery-aviris-palisades-eaton
+
 # Eaton Canyon
 [MONiTORiNG @nasa-jpl aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html](https://www.aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html)
 UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-isd @cityoflosangeles @asfadmin
 <img  alt="image" src="https://github.com/user-attachments/assets/fd3b4d1e-13e8-4b67-9757-b8cb94d5e3c5" />
 
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-aviris-palisades-eaton' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-palisades-vintage-plan' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 # MArina Del Ray
 
@@ -51,17 +76,7 @@ UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-is
 </div>
 
 
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-palisades-vintage-plan' | sort: 'date' | reverse %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
 
-</div>
 
 <div class="tupperware">
     
