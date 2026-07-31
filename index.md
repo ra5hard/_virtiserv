@@ -24,6 +24,7 @@ nicole.ns.cloudflare.com internet address = 172.64.32.211
 nicole.ns.cloudflare.com internet address = 173.245.58.211
 ```
 <img  alt="image" src="https://github.com/user-attachments/assets/d0f158bb-5bfb-4a16-85bf-fb7ef28e0631" />
+<img alt="image" src="https://github.com/user-attachments/assets/fb5f4746-6078-42d8-b86e-b336cddba03e" />
 
 
 
