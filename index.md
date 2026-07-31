@@ -8,7 +8,7 @@ layout: default
 
 
 Monaleo on Beyoncé's Mentorship & [Mike Jones](https://youtu.be/7ZAYzLjQAd4?si=D_L5jGR_2d3u_BZz)'s [Houston Legacy](https://www.youtube.com/live/ea9gZp_KxBU?si=8_mP5BlmPbqyE1pc) | 360 With Jillian
-
+[WATCH - youtu.be/PdCxe7_e4SA?si=D6PkcOJ7bjqC2DlE](https://youtu.be/PdCxe7_e4SA?si=D6PkcOJ7bjqC2DlE)
 <img  alt="image" src="https://github.com/user-attachments/assets/1d21d6a9-0023-44ec-be93-66df38c90e16" />
 
 
