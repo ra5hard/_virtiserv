@@ -3,6 +3,30 @@ layout: default
 ---
 
 
+
+@la-county-isd
+
+@cityoflosangeles [MAyorBass](https://www.congress.gov/member/karen-bass/B001270) is [KarenBass.com](https://www.karenbass.com/) is hosted in qubec possibly its still corrupt @nasa-pds @nasa-jpl
+
+```
+karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.
+karenbass.com mail exchanger = 1 aspmx.l.google.com.
+karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com nameserver = conrad.ns.cloudflare.com.
+karenbass.com nameserver = nicole.ns.cloudflare.com.
+conrad.ns.cloudflare.com internet address = 108.162.195.146
+conrad.ns.cloudflare.com internet address = 162.159.44.146
+conrad.ns.cloudflare.com internet address = 172.64.35.146
+nicole.ns.cloudflare.com internet address = 108.162.192.211
+nicole.ns.cloudflare.com internet address = 172.64.32.211
+nicole.ns.cloudflare.com internet address = 173.245.58.211
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/d0f158bb-5bfb-4a16-85bf-fb7ef28e0631" />
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gMaOxuw5wnE?si=6FF7BzjJkOoCPppR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Remy Ma On Her Soft Girl Era, New Music & Angie's Summer BBQ
