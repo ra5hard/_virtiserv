@@ -5,6 +5,8 @@ layout: default
 
 [Nintendo Player's Guide (SNES)   Super Mario RPG (1996)](https://archive.org/details/Nintendo_Players_Guide_SNES_Super_Mario_RPG_1996) /// [Super Mario RPG GameSpot Video Review](https://archive.org/details/youtube-4WifkXKT30I) /// [Super Mario RPG: Legend of the Seven Stars Totally Unauthorized](https://archive.org/details/bradygames-smrpg)
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Super_Mario_RPG_Logo.png/960px-Super_Mario_RPG_Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Super_Mario_RPG_Logo.png/960px-Super_Mario_RPG_Logo.png)
+
 <iframe src="https://archive.org/embed/dkc_snes_2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Donkey_Kong_Country_Logo.webp/960px-Donkey_Kong_Country_Logo.webp.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Donkey_Kong_Country_Logo.webp/960px-Donkey_Kong_Country_Logo.webp.png)
