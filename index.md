@@ -6,7 +6,7 @@ layout: default
 
 @la-county-isd
 
-@cityoflosangeles [MAyorBass](https://www.congress.gov/member/karen-bass/B001270) is [KarenBass.com](https://www.karenbass.com/) is hosted in qubec possibly its still corrupt @nasa-pds @nasa-jpl [Witchita](https://earth.google.com/web/search/37%2e751+-97%2e822/@37.70164921,-97.71357251,467.78756662a,114075.77405149d,35y,-0h,0t,0r/data=ClYaKBIiGeOlm8Qg4EJAIfdT46WbdFjAKg4zNy43NTEgLTk3LjgyMhgCIAEiJgokCZr3HVsOs0pAEZr3HVsOs0rAGU9S9DkuKUtAIei8wEl9ZEvAQgIIAToDCgEwQgIIAEoNCP___________wEQAA) , @nasa i dont know the connections but georgia pacific has a huge imprint in buiklding materials @nbcnews @datadesk @cbs-news-data
+@cityoflosangeles [MAyorBass](https://www.congress.gov/member/karen-bass/B001270) is [KarenBass.com](https://www.karenbass.com/) is hosted in qubec possibly its still corrupt @nasa-pds @nasa-jpl [Witchita](https://earth.google.com/web/search/37%2e751+-97%2e822/@37.70164921,-97.71357251,467.78756662a,114075.77405149d,35y,-0h,0t,0r/data=ClYaKBIiGeOlm8Qg4EJAIfdT46WbdFjAKg4zNy43NTEgLTk3LjgyMhgCIAEiJgokCZr3HVsOs0pAEZr3HVsOs0rAGU9S9DkuKUtAIei8wEl9ZEvAQgIIAToDCgEwQgIIAEoNCP___________wEQAA) , @nasa i dont know the connections but [georgia pacific](https://www.kochinc.com/career-opportunities/georgia-pacific) has a huge imprint in buiklding materials @nbcnews @datadesk @cbs-news-data
 
 ```
 karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
