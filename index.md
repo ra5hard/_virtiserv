@@ -2,10 +2,18 @@
 layout: default
 ---
 
+
+@Ford Simulator II
+[@nasa-jpl @la-county-isd @lacmta archive.org/details/FordSimulatorIIMacintosh](https://archive.org/details/FordSimulatorIIMacintosh)
+<iframe src="https://archive.org/embed/FordSimulatorIIMacintosh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## Indiana Jones and the Last Crusade
 @BlackGirlsCode [archive.org/details/IndianaJonesandtheLastCrusade](https://archive.org/details/IndianaJonesandtheLastCrusade)
 
 <iframe src="https://archive.org/embed/IndianaJonesandtheLastCrusade" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/29d61913-5db4-4c60-aa0e-42436599edb0" />
+
 
 `karenbass.com	mail exchanger = 5 alt2.aspmx.l.google.com.`
 `yulpptr-in-f27.1e100.net`
