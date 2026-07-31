@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## Remy Ma On Her Soft Girl Era, New Music & Angie's Summer BBQ
+@blackgirlscode [WATCH - youtu.be/Hz4VHZDAAiI?si=To00HCZVv3_SxpWm @nasa-jpl](https://youtu.be/Hz4VHZDAAiI?si=To00HCZVv3_SxpWm)
+<img alt="image" src="https://github.com/user-attachments/assets/c3c235eb-2a07-42a9-9e9e-4f93ed3caf48" />
+
+
 ## The Cheltenham High School Football Hazing Scandal
 [WATCH - youtu.be/qeTty9FCyPo?si=mLFioCBZMWVnbniS](https://youtu.be/qeTty9FCyPo?si=mLFioCBZMWVnbniS)
 <img  alt="image" src="https://github.com/user-attachments/assets/5c91c50a-958c-42c8-8f78-0c1cac345e9c" />
