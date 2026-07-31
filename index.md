@@ -5,6 +5,8 @@ layout: default
 
 [Nintendo Player's Guide (SNES)   Super Mario RPG (1996)](https://archive.org/details/Nintendo_Players_Guide_SNES_Super_Mario_RPG_1996) /// [Super Mario RPG GameSpot Video Review](https://archive.org/details/youtube-4WifkXKT30I) /// [Super Mario RPG: Legend of the Seven Stars Totally Unauthorized](https://archive.org/details/bradygames-smrpg)
 
+Super Mario RPG: Legend of the Seven Stars[a] is a 1996 role-playing video game developed by Square and published by Nintendo for the Super Nintendo Entertainment System (SNES). It was the final Mario game for the SNES, and was directed by Chihiro Fujioka and Yoshihiko Maekawa, produced by Shigeru Miyamoto, and scored by Yoko Shimomura. - [Wiki](https://en.wikipedia.org/wiki/Super_Mario_RPG)  /// `Playonline [https://emulatormario.com/games/super-mario-rpg-legend-of-the-seven-stars](https://emulatormario.com/games/super-mario-rpg-legend-of-the-seven-stars) // [https://playclassic.games/games/role-playing-rpg-snes-games-online/play-super-mario-rpg-legend-of-the-seven-stars-online/](https://playclassic.games/games/role-playing-rpg-snes-games-online/play-super-mario-rpg-legend-of-the-seven-stars-online/)
+
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Super_Mario_RPG_Logo.png/960px-Super_Mario_RPG_Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Super_Mario_RPG_Logo.png/960px-Super_Mario_RPG_Logo.png)
 
 <iframe src="https://archive.org/embed/dkc_snes_2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
