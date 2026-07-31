@@ -38,7 +38,18 @@ ASN15169
 ```
 karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
 karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
-karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.
+
+```
+`karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.`
+[whatismyipaddress.com/ip/172.253.135.27](whatismyipaddress.com/ip/172.253.135.27)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3ae5a81d-8a6c-4a18-8cae-ed92be8916f7" />
+
+
+```
+
+
+
 karenbass.com mail exchanger = 1 aspmx.l.google.com.
 karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
 karenbass.com nameserver = conrad.ns.cloudflare.com.
