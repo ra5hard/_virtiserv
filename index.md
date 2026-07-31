@@ -6,7 +6,7 @@ layout: default
 
 ## Future - Turn On The Lights (Official Music Video)
 [WATCH - youtu.be/zIrhcTkHX_A?si=FqbInqn4JUhA8MH8](https://youtu.be/zIrhcTkHX_A?si=FqbInqn4JUhA8MH8)
-
+@doug-newman-nasa i got distracted @nasa-pds and im reorganizing with @deptofdefense / @deptofwar documenttaion Lana is not what i expected virtiserv to be @disney but i made a deal with the prettiest girls in atlanta but i did not know what pairing or dating was and just enjoyed their presence in real time @cityoflosangeles and my body got too close not to get hurt, and i thought that would not be an issue if i did not look at porn @blackgirlscode i just got blindsided @nasa @whitehouse
 <img  alt="image" src="https://github.com/user-attachments/assets/2a596019-4821-43f9-8099-aac8df1529b7" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIrhcTkHX_A?si=n5dz7R0HI3mNoyGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
