@@ -24,11 +24,67 @@ permalink: losangeles
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
-# Eaton Canyon @emit-sds @nasa-openscapes
+ # AVIRIS-5 L2A Orthocorrected Surface Reflectance,
+Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
+@cityoflosangeles
+<img  alt="image @cityoflosangeles @nasa-jpl " src="https://github.com/user-attachments/assets/02673300-e1a2-476f-aedd-40fa7b7f12b5" />
+
+
+# Eaton Canyon / Palisades 
+@emit-sds @nasa-openscapes @nasa-jpl @cityoflosangeles @stateofcalifornia
 [MONiTORiNG @nasa-jpl aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html](https://www.aviso.altimetry.fr/en/news/operational-news-and-status/operational-status.html)
 UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-isd @cityoflosangeles @asfadmin
 <img  alt="image" src="https://github.com/user-attachments/assets/fd3b4d1e-13e8-4b67-9757-b8cb94d5e3c5" />
 
+@asfadmin our email in public dns is listed as coing from here  @nasa-jpl @nasa-pds
+
+# MX Records @nasa-jpl @usnavy
+| Domain Name | MX | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | mxb-0020b901.gslb.pphosted.com. | 15745 | 
+| jpl.nasa.gov | mxa-0020b901.gslb.pphosted.com. | 15745 | 
+| spacex.com | mxb-003ea501.gslb.gpphosted.com. | 15745 | 
+| spacex.com | mxa-003ea501.gslb.gpphosted.com. | 15745 | 
+| longbeach.gov | mxb-00539a01.gslb.pphosted.com. | 15745 | 
+| longbeach.gov | mxa-00539a01.gslb.pphosted.com. | 15745 |
+| atlantaga.gov | mxb-003fa601.gslb.pphosted.com. | 15745 |
+| atlantaga.gov | mxa-003fa601.gslb.pphosted.com. | 15745 |
+| fultoncountyga.gov | mxa-0032a901.gslb.pphosted.com. | 15745 |
+| fultoncountyga.gov | mxb-0032a901.gslb.pphosted.com. | 15745 |
+| bet.com | mxa-00262c01.gslb.pphosted.com. | 15745 |
+| bet.com | mxb-00262c01.gslb.pphosted.com. | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+| mtv.com | [dnschecker.org](dnschecker.org) | 15745 |
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| jpl.nasa.gov | a14-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a7-65.akam.net. | 21600 | 
+| jpl.nasa.gov | a11-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a2-67.akam.net. | 21600 | 
+| jpl.nasa.gov | a1-91.akam.net. | 21600 | 
+| jpl.nasa.gov | a8-65.akam.net. | 21600 | 
+
+@emergingcoders @noaagov @nbcnews @newshour
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov @deptofwar| use9.akam.net. | 21600 | 
+| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+| war.gov @deptofwar| asia2.akam.net. | 21600 | 
+| war.gov @deptofwar| usc5.akam.net. | 21600 | 
+| war.gov @deptofwar| eur6.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-116.akam.net. | 21600 | 
+| war.gov @deptofwar| use2.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-95.akam.net. | 21600 | 
+
+
+
+@whitehouse @nasa-jpl
 
 <img  alt="tumblr_35300d3bd6591f7bf5cc45653bf20532_52a1c7bf_1280" src="https://github.com/user-attachments/assets/2a53188a-e294-4874-906b-dd8d827a7f64" />
 
@@ -45,6 +101,24 @@ UA_crparc_09118_25032_007_250930_L090_CX_01 @nasa-jpl @lacountyDPH @la-county-is
 {% endfor %}
 
 </div>
+
+
+
+# 2025 @la-county-isd Fires
+I lost an account where these images were stored earthdatarashard on @vsco
+<img alt="AV320250111t213547_004_L2A_OE_f576f24d_RFL_ORT_BROWSE (1)" src="https://github.com/user-attachments/assets/6e727c39-7fb2-4c78-9b52-3ff446eb4ac2" />
+
+<img  alt="AV320250123t202047_001_L2A_OE_f576f24d_RFL_ORT_BROWSE" src="https://github.com/user-attachments/assets/415bed78-1f1b-46a2-885c-101fa7ab105d" />
+
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+
+
+[aviris.jpl.nasa.gov/](https://aviris.jpl.nasa.gov/)   //// [@nasa whats up with this domain @la-county-isd web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/](https://web.archive.org/web/20201027205042/https://wildfire.jpl.nasa.gov/)
+@nasa-jpl i see you guys had to be quiet about the fire work, 
+[NASA/Forest Service Maps Aid Fire Recovery](https://www.jpl.nasa.gov/news/nasaforest-service-maps-aid-fire-recovery/)
+April 9, 2015
+<img  alt="image" src="https://github.com/user-attachments/assets/d44529d4-4d86-4845-bbc9-38c12a72e80a" />
 
 
 <img alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/f4978247-4891-457d-b04b-886c15e40e78" />
