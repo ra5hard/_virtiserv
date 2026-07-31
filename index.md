@@ -6,6 +6,7 @@ layout: default
 @Ford Simulator II
 [@nasa-jpl @la-county-isd @lacmta archive.org/details/FordSimulatorIIMacintosh](https://archive.org/details/FordSimulatorIIMacintosh)
 <iframe src="https://archive.org/embed/FordSimulatorIIMacintosh" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<img  alt="image @foratlanta" src="https://github.com/user-attachments/assets/25ce735a-5962-40ec-af00-968b13cbcd0b" />
 
 ## Indiana Jones and the Last Crusade
 @BlackGirlsCode [archive.org/details/IndianaJonesandtheLastCrusade](https://archive.org/details/IndianaJonesandtheLastCrusade)
