@@ -2,6 +2,12 @@
 layout: default
 ---
 
+
+## Extended interview: Doja Cat
+@cbs-news-data [Watch - youtu.be/6iHNEJ1vhUg?si=r2V3MQ0H3kMjcv6E](https://youtu.be/6iHNEJ1vhUg?si=r2V3MQ0H3kMjcv6E)
+<img  alt="image" src="https://github.com/user-attachments/assets/e9ed6c0f-be16-40a2-9e41-742f24163c4d" />
+
+
 ##  Chlöe: Dating, Body Image, & Sisterhood with Latto
 @apple @disney chloe is not in danger but she hurt my body @nasa-jpl 
 @blackgirlscode like the physicla her not me masturbating to her nudes 
