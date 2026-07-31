@@ -2,8 +2,14 @@
 layout: default
 ---
 
+<iframe src="https://archive.org/embed/dkc_snes_2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Donkey_Kong_Country_Logo.webp/960px-Donkey_Kong_Country_Logo.webp.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Donkey_Kong_Country_Logo.webp/960px-Donkey_Kong_Country_Logo.webp.png)
+
+[https://archive.org/details/super-punch-out-usa_202301](https://archive.org/details/super-punch-out-usa_202301)
 <iframe src="https://archive.org/embed/super-punch-out-usa_202301" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_SNES.png](https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo_SNES.png)
 
 ![@nasa dn721307.ca.archive.org/0/items/AppleStickers1/Apple_stickers_1.jpg](https://dn721307.ca.archive.org/0/items/AppleStickers1/Apple_stickers_1.jpg)
 
