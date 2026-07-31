@@ -17,6 +17,17 @@ Hostname yulpptr-in-f27.1e100.net
 ProviderGoogle LLC
 ASN15169
 ```
+
+```
+karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com mail exchanger = 10 alt4.aspmx.l.google.com.
+karenbass.com mail exchanger = 1 aspmx.l.google.com.
+karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com nameserver = conrad.ns.cloudflare.com.
+karenbass.com nameserver = nicole.ns.cloudflare.com.
+conrad.ns.cloudflare.com internet address = 108.162.195.146
+```
 ## GoogleLLC
 [bbb.org/us/ca/mountain-view/profile/internet-service/google-llc-1216-214105](https://www.bbb.org/us/ca/mountain-view/profile/internet-service/google-llc-1216-214105)
 Google LLC's main corporate headquarters is located at 1600 Amphitheatre Parkway, Mountain View, CA 94043. [1]  
