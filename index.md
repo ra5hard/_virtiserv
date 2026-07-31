@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/2a596019-4821-43f9-8099-aac8df1529b7" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIrhcTkHX_A?si=n5dz7R0HI3mNoyGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @la-county-isd 
 
@@ -33,6 +36,133 @@ conrad.ns.cloudflare.com internet address = 172.64.35.146
 nicole.ns.cloudflare.com internet address = 108.162.192.211
 nicole.ns.cloudflare.com internet address = 172.64.32.211
 nicole.ns.cloudflare.com internet address = 173.245.58.211
+```
+
+
+```json
+{
+    "ip": "108.162.192.211",
+    "country_code": "US",
+    "country_name": "United States of America",
+    "region_name": "California",
+    "district": "City and County of San Francisco",
+    "city_name": "San Francisco",
+    "latitude": 37.77493,
+    "longitude": -122.41942,
+    "zip_code": "94107",
+    "time_zone": "-07:00",
+    "asn": "13335",
+    "as": "CloudFlare Inc",
+    "as_info": {
+        "as_number": "13335",
+        "as_name": "CloudFlare Inc",
+        "as_domain": "cloudflare.com",
+        "as_usage_type": "CDN",
+        "as_cidr": "108.162.192.0/24"
+    },
+    "isp": "CloudFlare Inc.",
+    "domain": "cloudflare.com",
+    "net_speed": "T1",
+    "idd_code": "1",
+    "area_code": "415",
+    "weather_station_code": "USCA0987",
+    "weather_station_name": "San Francisco",
+    "mcc": "-",
+    "mnc": "-",
+    "mobile_brand": "-",
+    "elevation": 14,
+    "usage_type": "CDN",
+    "address_type": "Anycast",
+    "ads_category": "IAB19-11",
+    "ads_category_name": "Data Centers",
+    "continent": {
+        "name": "North America",
+        "code": "NA",
+        "hemisphere": [
+            "north",
+            "west"
+        ],
+        "translation": {
+            "lang": "en",
+            "value": "North America"
+        }
+    },
+    "country": {
+        "name": "United States of America",
+        "alpha3_code": "USA",
+        "numeric_code": 840,
+        "demonym": "Americans",
+        "flag": "https://cdn.ip2location.io/assets/img/flags/us.png",
+        "capital": "Washington, D.C.",
+        "total_area": 9826675,
+        "population": 339665118,
+        "currency": {
+            "code": "USD",
+            "name": "United States Dollar",
+            "symbol": "$"
+        },
+        "language": {
+            "code": "EN",
+            "name": "English"
+        },
+        "tld": "us",
+        "translation": {
+            "lang": "en",
+            "value": "United States of America"
+        }
+    },
+    "region": {
+        "name": "California",
+        "code": "US-CA",
+        "translation": {
+            "lang": "en",
+            "value": "California"
+        }
+    },
+    "city": {
+        "name": "San Francisco",
+        "translation": {
+            "lang": "en",
+            "value": "San Francisco"
+        }
+    },
+    "time_zone_info": {
+        "olson": "America/Los_Angeles",
+        "current_time": "2026-07-31T14:25:17-07:00",
+        "gmt_offset": -25200,
+        "is_dst": true,
+        "abbreviation": "PST",
+        "dst_start_date": "2026-03-08",
+        "dst_end_date": "2026-11-01",
+        "sunrise": "06:13",
+        "sunset": "20:20"
+    },
+    "geotargeting": {
+        "metro": "807"
+    },
+    "is_proxy": false,
+    "fraud_score": 3,
+    "proxy": {
+        "last_seen": 1,
+        "proxy_type": "DCH",
+        "threat": "-",
+        "provider": "-",
+        "is_vpn": false,
+        "is_tor": false,
+        "is_data_center": true,
+        "is_public_proxy": false,
+        "is_web_proxy": false,
+        "is_web_crawler": false,
+        "is_ai_crawler": false,
+        "is_residential_proxy": false,
+        "is_consumer_privacy_network": false,
+        "is_enterprise_private_network": false,
+        "is_spammer": false,
+        "is_scanner": false,
+        "is_botnet": false,
+        "is_bogon": false
+    }
+}
 ```
 <img  alt="image" src="https://github.com/user-attachments/assets/d0f158bb-5bfb-4a16-85bf-fb7ef28e0631" />
 <img alt="image" src="https://github.com/user-attachments/assets/fb5f4746-6078-42d8-b86e-b336cddba03e" />
