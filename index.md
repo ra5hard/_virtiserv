@@ -2,6 +2,14 @@
 layout: default
 ---
 
+## The Cheltenham High School Football Hazing Scandal
+[WATCH - youtu.be/qeTty9FCyPo?si=mLFioCBZMWVnbniS](https://youtu.be/qeTty9FCyPo?si=mLFioCBZMWVnbniS)
+<img  alt="image" src="https://github.com/user-attachments/assets/5c91c50a-958c-42c8-8f78-0c1cac345e9c" />
+
+
+Monaleo on Beyoncé's Mentorship & [Mike Jones](https://youtu.be/7ZAYzLjQAd4?si=D_L5jGR_2d3u_BZz)'s [Houston Legacy](https://www.youtube.com/live/ea9gZp_KxBU?si=8_mP5BlmPbqyE1pc) | 360 With Jillian
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1d21d6a9-0023-44ec-be93-66df38c90e16" />
 
 
 ## Seattle’s Police Chief Fired & The Minnesota Cyber Attack 
