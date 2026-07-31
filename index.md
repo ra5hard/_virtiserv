@@ -3,6 +3,15 @@ layout: default
 ---
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pcen_bZnMY4?si=DR8q1x8ZhGK-jftK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I29P2zHNGdI?si=40mVCzOsRI1L6H2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I6ZsCn2U-mU?si=ZsCaYkdwmMpSCy3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qt7MZc0ik6c?si=Ow8HQIK3zLF0DVzP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4GdB5M7GbwLZLouktYocFC?utm_source=generator&si=ff555111f8c6482e" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <img  alt="tumblr_35300d3bd6591f7bf5cc45653bf20532_52a1c7bf_1280" src="https://github.com/user-attachments/assets/2a53188a-e294-4874-906b-dd8d827a7f64" />
