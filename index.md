@@ -2,6 +2,38 @@
 layout: default
 ---
 
+`karenbass.com	mail exchanger = 5 alt2.aspmx.l.google.com.`
+`yulpptr-in-f27.1e100.net`
+
+```
+Location
+CountryUnited States (US)
+ContinentNorth America (NA)
+Coordinates37.751 (lat) / -97.822 (long)
+Time2026-07-31 16:37:43 (America/Chicago)
+Network
+IP address172.253.152.27
+Hostname yulpptr-in-f27.1e100.net
+ProviderGoogle LLC
+ASN15169
+```
+## GoogleLLC
+[bbb.org/us/ca/mountain-view/profile/internet-service/google-llc-1216-214105](https://www.bbb.org/us/ca/mountain-view/profile/internet-service/google-llc-1216-214105)
+Google LLC's main corporate headquarters is located at 1600 Amphitheatre Parkway, Mountain View, CA 94043. [1]  
+Headquarters Details 
+
+• Name: Googleplex 
+• Street: 1600 Amphitheatre Pkwy 
+• City, State, Zip: Mountain View, CA 94043 
+• Phone: 1-650-253-0000 [1, 2, 3]  
+
+If you need the address for a specific regional office or a different department, please let me know the city or region you are looking for. 
+AI responses may include mistakes.
+
+[1] https://exa.ai/websets/directory/google-offices
+[2] https://www.globaldata.com/company-profile/google/locations/
+[3] https://www.bbb.org/us/ca/mountain-view/profile/internet-service/google-llc-1216-214105
+
 
 
 ## Future - Turn On The Lights (Official Music Video)
