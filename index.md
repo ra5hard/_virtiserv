@@ -4,9 +4,7 @@ layout: default
 
 
 
-@la-county-isd
-
-@cityoflosangeles [MAyorBass](https://www.congress.gov/member/karen-bass/B001270) is [KarenBass.com](https://www.karenbass.com/) is hosted in qubec possibly its still corrupt @nasa-pds @nasa-jpl [Witchita](https://earth.google.com/web/search/37%2e751+-97%2e822/@37.70164921,-97.71357251,467.78756662a,114075.77405149d,35y,-0h,0t,0r/data=ClYaKBIiGeOlm8Qg4EJAIfdT46WbdFjAKg4zNy43NTEgLTk3LjgyMhgCIAEiJgokCZr3HVsOs0pAEZr3HVsOs0rAGU9S9DkuKUtAIei8wEl9ZEvAQgIIAToDCgEwQgIIAEoNCP___________wEQAA) , @nasa i dont know the connections but [georgia pacific](https://www.kochinc.com/career-opportunities/georgia-pacific) has a huge imprint in buiklding materials @nbcnews @datadesk @cbs-news-data
+@la-county-isd 
 
 ```
 karenbass.com mail exchanger = 5 alt2.aspmx.l.google.com.
@@ -17,6 +15,19 @@ karenbass.com mail exchanger = 5 alt1.aspmx.l.google.com.
 karenbass.com nameserver = conrad.ns.cloudflare.com.
 karenbass.com nameserver = nicole.ns.cloudflare.com.
 conrad.ns.cloudflare.com internet address = 108.162.195.146
+```
+
+@cloudflare @whitehouse Congress member [KAren Bass](https://www.congress.gov/member/karen-bass/B001270) needs login information for [KarenBass.Com](https://www.karenbass.com/) @la-county-isd @cityoflosangeles @api.congress.gov
+`karenbass.com nameserver = conrad.ns.cloudflare.com.`
+`conrad.ns.cloudflare.com internet address = 108.162.195.146`
+
+
+@cityoflosangeles [MAyorBass](https://www.congress.gov/member/karen-bass/B001270) is [KarenBass.com](https://www.karenbass.com/) is hosted in qubec possibly its still corrupt @nasa-pds @nasa-jpl [Witchita](https://earth.google.com/web/search/37%2e751+-97%2e822/@37.70164921,-97.71357251,467.78756662a,114075.77405149d,35y,-0h,0t,0r/data=ClYaKBIiGeOlm8Qg4EJAIfdT46WbdFjAKg4zNy43NTEgLTk3LjgyMhgCIAEiJgokCZr3HVsOs0pAEZr3HVsOs0rAGU9S9DkuKUtAIei8wEl9ZEvAQgIIAToDCgEwQgIIAEoNCP___________wEQAA) , @nasa i dont know the connections but [georgia pacific](https://www.kochinc.com/career-opportunities/georgia-pacific) has a huge imprint in buiklding materials @nbcnews @datadesk @cbs-news-data
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fb2dc551-1381-4058-8e96-56f5501336df" />
+
+
+```
 conrad.ns.cloudflare.com internet address = 162.159.44.146
 conrad.ns.cloudflare.com internet address = 172.64.35.146
 nicole.ns.cloudflare.com internet address = 108.162.192.211
