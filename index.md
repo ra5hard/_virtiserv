@@ -2,9 +2,13 @@
 layout: default
 ---
 
+[rashardgds.tumblr.com/](https://rashardgds.tumblr.com/)
+
+
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1192830019&color=%2399e1ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngmoneybarbie" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/youngmoneybarbie/barbie-drip" title="Barbie Drip" target="_blank" style="color: #cccccc; text-decoration: none;">Barbie Drip</a></div>
 
+<img src="https://64.media.tumblr.com/f6525642f9296661a76527c6a82aa788/4b46487d78d67394-a1/s1280x1920/5d3c9cba60d554a142a8f553f86b7684dac817ac.png"/>
 <img src="https://64.media.tumblr.com/f286c19d307a4001fc3ab802608a67a6/7b048c672aed1346-41/s1280x1920/2e3b14414cf54276e96cee49731e026452d9c881.jpg"/>
 
 @emergingcoders can you get this to lana ? [go.nasa.gov/4pLmEMZ](https://worldview.earthdata.nasa.gov/?v=-159.84845942528992,26.80087244466457,-109.8640449961849,51.402576421489705&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-30-T22%3A24%3A19Z)
