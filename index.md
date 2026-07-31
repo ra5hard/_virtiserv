@@ -5,10 +5,17 @@ layout: default
 `karenbass.com	mail exchanger = 5 alt2.aspmx.l.google.com.`
 `yulpptr-in-f27.1e100.net`
 
-[https://whatismyipaddress.com/ip/172.253.152.27](https://whatismyipaddress.com/ip/172.253.152.27)
+[whatismyipaddress.com/ip/172.253.152.27](https://whatismyipaddress.com/ip/172.253.152.27)
+
 ```
 conrad.ns.cloudflare.com internet address = 162.159.44.146
 conrad.ns.cloudflare.com internet address = 172.64.35.146
+```
+`Conrad @cityOfLosangeles @cloudflare [whatismyipaddress.com/ip/172.64.35.146](https://whatismyipaddress.com/ip/172.64.35.146)
+<img  alt="image" src="https://github.com/user-attachments/assets/824a473c-0448-4537-9807-502fd66f30f9" />
+
+```
+
 nicole.ns.cloudflare.com internet address = 108.162.192.211
 nicole.ns.cloudflare.com internet address = 172.64.32.211
 nicole.ns.cloudflare.com internet address = 173.245.58.211
