@@ -4,7 +4,7 @@ layout: default
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mario_kart_first_logo.png/330px-Mario_kart_first_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mario_kart_first_logo.png/330px-Mario_kart_first_logo.png)
 [Booklet - archive.org/details/snes_Super_Mario_Kart_USA](https://archive.org/details/snes_Super_Mario_Kart_USA)
-Super Mario Kart[a] is a 1992 kart racing game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). The first game in the Mario Kart series, it was released in Japan on August 27, 1992, North America on September 1, 1992, and Europe on January 21, 1993. Selling 8.76 million copies worldwide, the game went on to become the fourth best-selling SNES game of all time. - [Wiki](https://en.wikipedia.org/wiki/Super_Mario_Kart) // [Fandom](https://mariokart.fandom.com/wiki/Mario_Kart_Racing_Wiki:Main_Menu)
+Super Mario Kart[a] is a 1992 kart racing game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). The first game in the Mario Kart series, it was released in Japan on August 27, 1992, North America on September 1, 1992, and Europe on January 21, 1993. Selling 8.76 million copies worldwide, the game went on to become the fourth best-selling SNES game of all time. - [Wiki](https://en.wikipedia.org/wiki/Super_Mario_Kart) // [Fandom](https://mariokart.fandom.com/wiki/Mario_Kart_Racing_Wiki:Main_Menu) +++ [Starfox - Original Soundtrack @blackgirlscode @emergingcoders ](https://archive.org/details/Starfox-OST)
 
 <iframe src="https://archive.org/embed/super-mario-kart-usa_202303" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
