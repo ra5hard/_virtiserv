@@ -3,6 +3,12 @@ layout: default
 ---
 
 
+
+## Seattle’s Police Chief Fired & The Minnesota Cyber Attack 
+[WATCH - youtu.be/4aYHbRiyxJU?si=scYDW963ymTkKNpP](https://youtu.be/4aYHbRiyxJU?si=scYDW963ymTkKNpP)
+@howard-university-web-services @emergingcoders
+<img alt="image" src="https://github.com/user-attachments/assets/e3aea254-54e5-4964-99be-e7e0c6935d5d" />
+
 ## Extended interview: Doja Cat
 @cbs-news-data [Watch - youtu.be/6iHNEJ1vhUg?si=r2V3MQ0H3kMjcv6E](https://youtu.be/6iHNEJ1vhUg?si=r2V3MQ0H3kMjcv6E)
 <img  alt="image" src="https://github.com/user-attachments/assets/e9ed6c0f-be16-40a2-9e41-742f24163c4d" />
