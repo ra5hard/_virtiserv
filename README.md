@@ -1,3 +1,6 @@
+<img alt="tumblr_648cb4f6256a1817e35df27f49e941cd_165cec0c_1280" src="https://github.com/user-attachments/assets/80296ae4-0596-4369-9612-c6c6083cfa22" />
+
+
 <img width="709" height="945" alt="IMG_20250714_084757_1" src="https://github.com/user-attachments/assets/c3550e48-6f1f-4936-ad8a-5e5eb94ea5d4" />
 
 # The Architect theme
