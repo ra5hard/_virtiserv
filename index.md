@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<img  alt="tumblr_35300d3bd6591f7bf5cc45653bf20532_52a1c7bf_1280" src="https://github.com/user-attachments/assets/2a53188a-e294-4874-906b-dd8d827a7f64" />
+
+
+[draperutah.gov/ @nasa-jpl](https://www.draperutah.gov/) //// [US, UT, Draper, 13997 S Minuteman Dr, 84020](https://earth.google.com/web/search/13997+S+Minuteman+Dr,+Draper,+UT+84020,+USA/@40.49809233,-111.88980478,1357.03085006a,190.11852343d,35y,149.35617348h,81.17454632t,360r/data=CiwiJgokCX7WD4fcYkFAEYDWD4fcYkHAGRS5DvugTUpAIRc2xq4v_E7AQgIIAUICCABKDQj___________8BEAA)
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
 
 [github.com/ @dolphin-emu /dolphin](https://github.com/dolphin-emu/dolphin)
 @dolphin-emu hi I was running a [cloud C8](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) and later a [Blue5](https://www.bluproducts.com/devices/view-5/index.html) and under @libretro I could never get nothing healthy. Is it because the entire iso is loaded into memory ? [@ra5hard: _SmartPhoneLAb_](https://ra5hard.github.io/smartphone1) [@thakarashard /computing](https://thakarashard.github.io/rashardmro/2026/07/03/ComputinG.html) 
