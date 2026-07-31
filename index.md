@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMaOxuw5wnE?si=6FF7BzjJkOoCPppR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Remy Ma On Her Soft Girl Era, New Music & Angie's Summer BBQ
 @blackgirlscode [WATCH - youtu.be/Hz4VHZDAAiI?si=To00HCZVv3_SxpWm @nasa-jpl](https://youtu.be/Hz4VHZDAAiI?si=To00HCZVv3_SxpWm)
 <img alt="image" src="https://github.com/user-attachments/assets/c3c235eb-2a07-42a9-9e9e-4f93ed3caf48" />
