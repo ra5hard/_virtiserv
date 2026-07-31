@@ -2,8 +2,16 @@
 layout: default
 ---
 
+
+[github.com/ @dolphin-emu /dolphin](https://github.com/dolphin-emu/dolphin)
+@dolphin-emu hi I was running a [cloud C8](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) and later a [Blue5](https://www.bluproducts.com/devices/view-5/index.html) and under @libretro I could never get nothing healthy. Is it because the entire iso is loaded into memory ? [@ra5hard: _SmartPhoneLAb_](https://ra5hard.github.io/smartphone1) [@thakarashard /computing](https://thakarashard.github.io/rashardmro/2026/07/03/ComputinG.html) 
+
+![https://www.bluproducts.com/devices/view-5/images/t-e12.webp](https://www.bluproducts.com/devices/view-5/images/t-e12.webp)
+<img   alt="image" src="https://github.com/user-attachments/assets/ada5eeba-e725-4c9f-8429-6bac2b130522" />
+
+
 [rashardgds.tumblr.com/](https://rashardgds.tumblr.com/)
-@la-county-isd MAyor Bass if its time to run away from a particular girl this is the avenue [rashardgds.tumblr.com/post/820299943212384256](https://rashardgds.tumblr.com/post/820299943212384256)
+@la-county-isd MAyor Bass if its time to run away from a particular girl this is the avenue [rashardgds.tumblr.com/post/820299943212384256](https://rashardgds.tumblr.com/post/820299943212384256) /// [https://rashardgds.tumblr.com/archive](https://rashardgds.tumblr.com/archive)
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1192830019&color=%2399e1ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngmoneybarbie" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/youngmoneybarbie/barbie-drip" title="Barbie Drip" target="_blank" style="color: #cccccc; text-decoration: none;">Barbie Drip</a></div>
