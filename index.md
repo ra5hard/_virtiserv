@@ -2,6 +2,9 @@
 layout: default
 ---
 
+@nasa-jpl kuwait city `ECOv002_L2T_LSTE_45710_020_40RCP_20260728T164023_0713_02.png`
+<img width="538" height="538" alt="image" src="https://github.com/user-attachments/assets/9cff6af5-449e-4261-8e0d-2b56a5e43115" />
+
 
 ## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
 [WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds)
