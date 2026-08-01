@@ -25,7 +25,11 @@ permalink: losangeles
   
 </picture>
 
+
 <img width="600" height="600" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/1d59dddc-0207-4359-8801-e71c761ff89d" />
+
+
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/164a419b-e748-444d-8bad-3eb4ab3112a7" />
 
  # AVIRIS-5 L2A Orthocorrected Surface Reflectance,
 Facility Instrument Collection [@ornldaac - Data at a Glance](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-av3-l2a-rfl-2357-1)
