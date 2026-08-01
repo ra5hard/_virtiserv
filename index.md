@@ -6,6 +6,59 @@ layout: default
 [WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
 
+
+@nasa-jpl kuwait city 
+NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P05023_N_F_J_001 @isro @emergingCoders hi @blackgirlscode
+<img alt="NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/5b6e1453-3102-4b5e-b87a-e9f962fa6829" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b7e57633-bd99-4eb6-a291-4d7d7faa62e8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cac0c039-fd50-46d7-a4f1-f2e0cce99420" />
+`ECOv002_L2T_LSTE_45710_020_40RCP_20260728T164023_0713_02.png`
+<img width="538" height="538" alt="image" src="https://github.com/user-attachments/assets/9cff6af5-449e-4261-8e0d-2b56a5e43115" />
+
+```json
+{
+  "collectionConceptId": "C2595678301-LPCLOUD",
+  "conceptId": "G4267396767-LPCLOUD",
+  "dataCenter": "LPCLOUD",
+  "dataGranule": {
+    "dayNightFlag": "Night",
+    "identifiers": [
+      {
+        "identifier": "ECOv002_L1CT_RAD_45756_016_38RQT_20260731T155145_0713_02",
+        "identifierType": "ProducerGranuleId"
+      }
+    ],
+    "productionDateTime": "2026-07-31T20:35:37.582Z",
+    "archiveAndDistributionInformation": [
+      {
+        "name": "Not provided",
+        "size": 29.76,
+        "sizeUnit": "MB"
+      }
+    ]
+  },
+  "dayNightFlag": "NIGHT",
+  "granuleSize": 29.76,
+  "granuleUr": "ECOv002_L1CT_RAD_45756_016_38RQT_20260731T155145_0713_02",
+  "hasAllMetadata": true,
+  "id": "G4267396767-LPCLOUD",
+  "measuredParameters": [
+    {
+      "parameterName": "ECO_L1CT_RAD"
+    }
+  ],
+  "metadataUrls": {
+    "atom": {
+      "title": "ATOM",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/G4267396767-LPCLOUD.atom"
+    },
+```
+
+
+
+
 ## NISAR_L1_PR_RSLC_026_056_A_014_4005_DHDH_A_20260724T014303_20260724T014334_P05023_N_F_J_001
 `Dubai` @ISRO [https://search.asf.alaska.edu/#/?zoom=7.729&center=55.014,23.974&polygon=POLYGON((50.2604%2021.5007,61.2315%2021.5007,61.2315%2028.9765,50.2604%2028.9765,50.2604%2021.5007))&resultsLoaded=true&granule=NISAR_L1_PR_RSLC_026_056_A_014_4005_DHDH_A_20260724T014303_20260724T014334_P05023_N_F_J_001](https://search.asf.alaska.edu/#/?zoom=7.729&center=55.014,23.974&polygon=POLYGON((50.2604%2021.5007,61.2315%2021.5007,61.2315%2028.9765,50.2604%2028.9765,50.2604%2021.5007))&resultsLoaded=true&granule=NISAR_L1_PR_RSLC_026_056_A_014_4005_DHDH_A_20260724T014303_20260724T014334_P05023_N_F_J_001) @asfadmin
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/baba6ebb-d897-4b5c-91bc-f3517989ac89" />
@@ -56,6 +109,8 @@ More than 50,000 U.S. service members are currently deployed to the Middle East 
 
 
 @nasa-jpl kuwait city 
+NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P05023_N_F_J_001 @isro @emergingCoders hi @blackgirlscode
+<img alt="NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/5b6e1453-3102-4b5e-b87a-e9f962fa6829" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b7e57633-bd99-4eb6-a291-4d7d7faa62e8" />
 
