@@ -4,8 +4,9 @@ layout: default
 
 # 60,000 Migrants Storm Spain: A Coordinated Stunt? 
  The Lana Rundown [Watch - youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36](https://youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36)
-<img  alt="image" src="https://github.com/user-attachments/assets/2b720e0f-62aa-4dc1-bb8e-01474dc9699a" />
+<img  alt="imag @emergingcoders @blackgirlscode @nasa-jpl @whitehouse " src="https://github.com/user-attachments/assets/2b720e0f-62aa-4dc1-bb8e-01474dc9699a" />
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A559658055&color=%238dd0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/servin-killa-kam" title="Servin Killa Kam" target="_blank" style="color: #cccccc; text-decoration: none;">Servin Killa Kam</a></div>
 
 ### Mars Science Laboratory: Curiosity Raw Images [Link](https://mars.nasa.gov/msl/multimedia/raw-images/?order=sol+desc%2Cinstrument_sort+asc%2Csample_type_sort+asc%2C+date_taken+desc&per_page=50&page=0&mission=msl&af=NAV_LEFT_A%7CNAV_LEFT_B%2C%2C%2C)
 <img  alt="image" src="https://github.com/user-attachments/assets/390beee8-0de3-4156-938f-7c4b4c3cb796" />
