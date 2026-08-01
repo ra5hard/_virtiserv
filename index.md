@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
-[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco
+[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco [Wiki TALK iRAN WAR 2026 en.wikipedia.org/wiki/Talk:2026_Iran_war](https://en.wikipedia.org/wiki/Talk:2026_Iran_war) ++ [Wiki Article - en.wikipedia.org/wiki/2026_Iran_war](https://en.wikipedia.org/wiki/2026_Iran_war)
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
 
 sandiego @cityoflosangeles
