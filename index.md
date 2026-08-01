@@ -2,10 +2,15 @@
 layout: default
 ---
 
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+
+
 
 # KarenBass Cameos at [B.E.T](bet.com) Awards
 @blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
-
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
 
 [<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" />](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
 
