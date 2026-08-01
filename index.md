@@ -2,10 +2,6 @@
 layout: default
 ---
 
-@nasa-jpl kuwait city `ECOv002_L2T_LSTE_45710_020_40RCP_20260728T164023_0713_02.png`
-<img width="538" height="538" alt="image" src="https://github.com/user-attachments/assets/9cff6af5-449e-4261-8e0d-2b56a5e43115" />
-
-
 ## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
 [WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds)
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
@@ -13,6 +9,56 @@ layout: default
 
 
 [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+@nasa-jpl kuwait city 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b7e57633-bd99-4eb6-a291-4d7d7faa62e8" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cac0c039-fd50-46d7-a4f1-f2e0cce99420" />
+`ECOv002_L2T_LSTE_45710_020_40RCP_20260728T164023_0713_02.png`
+<img width="538" height="538" alt="image" src="https://github.com/user-attachments/assets/9cff6af5-449e-4261-8e0d-2b56a5e43115" />
+
+```json
+{
+  "collectionConceptId": "C2595678301-LPCLOUD",
+  "conceptId": "G4267396767-LPCLOUD",
+  "dataCenter": "LPCLOUD",
+  "dataGranule": {
+    "dayNightFlag": "Night",
+    "identifiers": [
+      {
+        "identifier": "ECOv002_L1CT_RAD_45756_016_38RQT_20260731T155145_0713_02",
+        "identifierType": "ProducerGranuleId"
+      }
+    ],
+    "productionDateTime": "2026-07-31T20:35:37.582Z",
+    "archiveAndDistributionInformation": [
+      {
+        "name": "Not provided",
+        "size": 29.76,
+        "sizeUnit": "MB"
+      }
+    ]
+  },
+  "dayNightFlag": "NIGHT",
+  "granuleSize": 29.76,
+  "granuleUr": "ECOv002_L1CT_RAD_45756_016_38RQT_20260731T155145_0713_02",
+  "hasAllMetadata": true,
+  "id": "G4267396767-LPCLOUD",
+  "measuredParameters": [
+    {
+      "parameterName": "ECO_L1CT_RAD"
+    }
+  ],
+  "metadataUrls": {
+    "atom": {
+      "title": "ATOM",
+      "href": "https://cmr.earthdata.nasa.gov/search/concepts/G4267396767-LPCLOUD.atom"
+    },
+```
+
+
 
 [search.earthdata.nasa.gov/search?sb[0]=51.99445%2C21.48011%2C60.95201%2C29.57335&lat=26.724999364758997&long=55.87082459774931&zoom=6.7466001248231535](https://search.earthdata.nasa.gov/search?sb[0]=51.99445%2C21.48011%2C60.95201%2C29.57335&lat=26.724999364758997&long=55.87082459774931&zoom=6.7466001248231535)
 <img  alt="image" src="https://github.com/user-attachments/assets/d96c6f12-4f5d-4268-81bd-ac68a644abba" />
