@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<img width="512" height="512" alt="ezgif com-resize @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov" src="https://github.com/user-attachments/assets/39458a63-a658-4bc2-a342-e88ae7d8d895" />
+
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/98930be4-cd62-4141-99eb-de4775b8e1ec" />
 
 <img width="1024" height="1024" alt="ezgif com-gif-maker (3) @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders " src="https://github.com/user-attachments/assets/d50994ff-2470-43b9-866a-0350642bf04e" />
