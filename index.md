@@ -3,6 +3,20 @@ layout: default
 ---
 
 
+# HTML
+[HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
+[ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
+[https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [color.adobe.com](https://color.adobe.com/) 
+
+# @Nasa-jpl hi @spaceexplorationtechnologies CRS34 departure confirmation @youtube [https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz](https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz)
+
+```shell
+spacex.com      mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+spacex.com      mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+```
+
 # About the United States Space Force
 ## Trump Signs Law Establishing U.S. Space Force [`READ`](https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/)
 Dec. 20, 2019 | By [Jim Garamone](https://www.war.gov/News/Author/58550/jim-garamone/) DOD News
