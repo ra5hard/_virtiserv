@@ -6,6 +6,12 @@ layout: default
 [WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [dvidshub.net/feature/operationepicfury](https://www.dvidshub.net/feature/operationepicfury) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco [Wiki TALK iRAN WAR 2026 en.wikipedia.org/wiki/Talk:2026_Iran_war](https://en.wikipedia.org/wiki/Talk:2026_Iran_war) ++ [Wiki Article - en.wikipedia.org/wiki/2026_Iran_war](https://en.wikipedia.org/wiki/2026_Iran_war) // [Iran war live: Pezeshkian says ‘future of Iran will be shaped by the people](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks)
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
 
+
+[https://worldview.earthdata.nasa.gov/?v=47.51958467311244,29.455628999208983,49.534171955305446,30.82578058018175&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-31-T22%3A05%3A56Z](https://worldview.earthdata.nasa.gov/?v=47.51958467311244,29.455628999208983,49.534171955305446,30.82578058018175&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-07-31-T22%3A05%3A56Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/769f5fcb-2682-42ac-aca3-9ffbafc5214e" />
+
+
 ![https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9556601/944w_q95.jpg](https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9556601/944w_q95.jpg)
 
 ![https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2603/9585455/1000w_q95.jpg](https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2603/9585455/1000w_q95.jpg)
