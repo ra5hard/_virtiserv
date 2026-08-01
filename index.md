@@ -13,7 +13,10 @@ Dec. 20, 2019 | By [Jim Garamone](https://www.war.gov/News/Author/58550/jim-gara
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for SMALL BUSiNESS assistance from @Nasa @nasa-jpl @howard-university-web-services @whitehouse virtiserv latrice United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
 
-![https://www.spaceforce.mil/Portals/2/Images/About_Us/USSF_Map_2025.jpg](https://www.spaceforce.mil/Portals/2/Images/About_Us/USSF_Map_2025.jpg)
+[spaceforce.mil/Portals/2/Images/About_Us/USSF_Map_2025.jpg](https://www.spaceforce.mil/Portals/2/Images/About_Us/USSF_Map_2025.jpg)
+
+<img  alt="image @howard-university-web-services @nasa-jpl spaceforce.mil/Portals/2/Images/About_Us/USSF_Map_2025.jpg" src="https://github.com/user-attachments/assets/68aa3b4c-9ccf-45f1-9a68-4e33baf6c902" />
+
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mario_kart_first_logo.png/330px-Mario_kart_first_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mario_kart_first_logo.png/330px-Mario_kart_first_logo.png)
 [Booklet - archive.org/details/snes_Super_Mario_Kart_USA](https://archive.org/details/snes_Super_Mario_Kart_USA)
