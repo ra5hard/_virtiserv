@@ -6,6 +6,46 @@ layout: default
  The Lana Rundown [Watch - youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36](https://youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36)
 <img  alt="image" src="https://github.com/user-attachments/assets/2b720e0f-62aa-4dc1-bb8e-01474dc9699a" />
 
+# MADRID DEEP SPACE COMMUNICATIONS COMPLEX
+## _MDSCC_ @nasa-jpl
+[https://www.mdscc.nasa.gov/index.php/en/dss-55-2/](https://www.mdscc.nasa.gov/index.php/en/dss-55-2/)
+Carretera de Colmenar del Arroyo a Robledo de Chavela Km 7, M-531
+28294 Robledo de Chavela
+Madrid, España
+Phone: (+34) 918677000
+Visitor Centre Phone: (+34) 918677321 / (+34) 918677312
+GPS Coordinates: +40° 25′ 47.33″, -4° 14′ 56.57″
+<object class="scroller" width="auto" height="auto" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" ></object>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/28b15312-e35e-4899-9eeb-01794f0500e4" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/71ab3120-a66c-4507-a74a-ddec74b9d448" />
+<img  alt="image" src="https://github.com/user-attachments/assets/a8d75902-5406-4b30-a079-a45952ce80cb" />
+
+## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
+[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds)
+<img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c4247de-2ddd-4109-8d0b-ec9ab0afcc16" />
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+
+
+
+# KarenBass Cameos at [B.E.T](bet.com) Awards
+@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
+
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" />](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+
+@newshour @foxnews @nbcnews @cbs-news-data [Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+[viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
+[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS)
+
+
 [Astronaut Photography Interactive Map @nasa @whitehouse @cityoflosangeles @stateofcalifornia @nasa-jpl @blackgirlscode](https://eol.jsc.nasa.gov/ExplorePhotos/) : : [Astronaut Pictures of Earth](https://storymaps.arcgis.com/stories/8dc1cafd3f4a4c70b9ce314d8c06f329) [DARKERSKY4CE](https://darkersky4ce.inaf.it/instrument-sheet-iss-astronaut-photography/)
 [CHANNEL @nasa @youtube.com/@NASAEarthObservatory](https://www.youtube.com/@NASAEarthObservatory)
 
@@ -34,31 +74,8 @@ The Story of NASA's Spaceflight Tracking and Data Network
 [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
 
 @nasa-jpl 
-<object class="scroller" width="auto" height="auto" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" ></object>
 
 
-
-## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
-[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds)
-<img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/9c4247de-2ddd-4109-8d0b-ec9ab0afcc16" />
-
-[The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://www.youtube.com/watch?v=F41Y37XTZck)
-
-
-
-
-
-# KarenBass Cameos at [B.E.T](bet.com) Awards
-@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
-[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
-
-[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" />](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
-
-@newshour @foxnews @nbcnews @cbs-news-data [Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
-[viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
-[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS)
 
 
 # HTML
