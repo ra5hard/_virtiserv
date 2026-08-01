@@ -6,6 +6,10 @@ layout: default
 [WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO)
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
 
+
+`Qeshm`
+<img   alt="image" src="https://github.com/user-attachments/assets/d58a1361-6818-4eb6-82fe-3b34c69b16d8" />
+
 `Dubai`
 [https://browser.dataspace.copernicus.eu/?zoom=13&lat=25.3012&lng=55.27659&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BZnyVVfq6LbXD3jf8ITJVcJJfmnC5ZZIyzjWo0UTMJdClkxc6zK8fuKfOpnr%2Fb0f%2Ft7agaFyjeXITDz23M6RQCgUo066CwlayXm9JeZqkXyUpTaDyb1oIB&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=13&lat=25.3012&lng=55.27659&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BZnyVVfq6LbXD3jf8ITJVcJJfmnC5ZZIyzjWo0UTMJdClkxc6zK8fuKfOpnr%2Fb0f%2Ft7agaFyjeXITDz23M6RQCgUo066CwlayXm9JeZqkXyUpTaDyb1oIB&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 
