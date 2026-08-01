@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+[`PLAY` archive.org/details/mr-zone-6-gucci-mane?webamp=default](https://archive.org/details/mr-zone-6-gucci-mane?webamp=default)
+<img alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/e6ca4d9c-6492-479c-a631-aab2be1e3e26" />
+
 <iframe src="https://archive.org/embed/marsspacescience00unse" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe src="https://archive.org/embed/InControl-withPeteRock-WBLS-1989" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
