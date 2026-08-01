@@ -5,6 +5,26 @@ layout: default
 ## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
 [WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
+
+
+![https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png?ver=lkskHhkPyb7aaBZcekfImA%3d%3d](https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png?ver=lkskHhkPyb7aaBZcekfImA%3d%3d) 
+
+### U.S. Strikes IRGC Targets After Attempted Iranian Attacks
+#### USCENTCOM @nasa @deptofwar @deptofdefense
+
+**TAMPA, Fla.** – At 10 p.m. ET on July 29, U.S. Central Command (CENTCOM) forces successfully completed a heavy wave of strikes against Iran in response to yesterday’s attempted missile attacks on U.S. forces.
+
+CENTCOM assets struck dozens of Islamic Revolutionary Guard Corps (IRGC) targets in Iran, including military command centers, missile and drone facilities, coastal surveillance and defense sites, and maritime capabilities. The strikes aimed to further diminish threats posed by Iran and its proxies to American forces, commercial shipping, and neighboring Gulf countries.
+
+On July 28, IRGC forces launched multiple ballistic missiles from Iran in an attempted surprise attack on U.S. forces based in the Middle East. All Iranian missiles were successfully intercepted.
+
+More than 50,000 U.S. service members are currently deployed to the Middle East and remain highly vigilant, focused, lethal, and ready.
+
+[https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4559495/us-strikes-irgc-targets-after-attempted-iranian-attacks/](https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4559495/us-strikes-irgc-targets-after-attempted-iranian-attacks/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/01697ceb-9c9c-4bbc-b181-0fb0d0b620bc" />
+
+
 @eu-cdse @esd [https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.64276&lng=56.32038&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FU%2FTvCkPkQjvj9sb%2F8ZtgLsoYLe5qcx4UzcdlZFpdWUgBJuIyuzeqVorZpZId8z%2FZlN%2FpNI0mk40fEUoxJj7Kjd8c4TNE59ggIyxC1VXTG1ETyKkngIRC0&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.64276&lng=56.32038&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FU%2FTvCkPkQjvj9sb%2F8ZtgLsoYLe5qcx4UzcdlZFpdWUgBJuIyuzeqVorZpZId8z%2FZlN%2FpNI0mk40fEUoxJj7Kjd8c4TNE59ggIyxC1VXTG1ETyKkngIRC0&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE) @TheSpaceDevs
 <img   alt="2026-07-31-00_00_2026-07-31-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/84a1af4f-d147-476d-bfda-5a7c72a707ba" />
 
