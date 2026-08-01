@@ -3,11 +3,14 @@ layout: default
 ---
 
 ## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
-[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco [Wiki TALK iRAN WAR 2026 en.wikipedia.org/wiki/Talk:2026_Iran_war](https://en.wikipedia.org/wiki/Talk:2026_Iran_war) ++ [Wiki Article - en.wikipedia.org/wiki/2026_Iran_war](https://en.wikipedia.org/wiki/2026_Iran_war)
+[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco [Wiki TALK iRAN WAR 2026 en.wikipedia.org/wiki/Talk:2026_Iran_war](https://en.wikipedia.org/wiki/Talk:2026_Iran_war) ++ [Wiki Article - en.wikipedia.org/wiki/2026_Iran_war](https://en.wikipedia.org/wiki/2026_Iran_war) // [Iran war live: Pezeshkian says ‘future of Iran will be shaped by the people](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks)
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
 
-sandiego @cityoflosangeles
-<img alt="image" src="https://github.com/user-attachments/assets/482fcdb3-fc5b-4f5b-a087-a22485e036a8" />
+# Operation Epic Fury
+U.S. Central Command (CENTCOM) commenced Operation Epic Fury at the direction of the President of the United States. CENTCOM forces are striking targets to dismantle the Iranian regime's security apparatus, prioritizing locations that pose an imminent threat. [https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/67b8d226-a8d1-4138-b978-c06c5a0cdfb4" />
+
 
 @nasa-jpl kuwait city 
 _Sentinel_ S1C_IW_GRDH_1SDV_20260723T144945_20260723T145015_008672_0112F8_6A63
@@ -92,7 +95,7 @@ More than 50,000 U.S. service members are currently deployed to the Middle East 
 
 @doug-newman-nasa @la-county-isd : we still got oil on the sea @nasa-jpl [https://browser.dataspace.copernicus.eu/?zoom=11&lat=33.41711&lng=-117.98801&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FBIMF5YwzN2OKMVnsjYxapH3Wa0Zqe0aROEgZP5JmhsY1JXa0cpXCbK4T%2Bnq%2BD6iKW180ZnmKRpi5mpR7gdiejEkTK66gAhdVCBZ3EBQISZi6RxP7b0p6L&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=33.41711&lng=-117.98801&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FBIMF5YwzN2OKMVnsjYxapH3Wa0Zqe0aROEgZP5JmhsY1JXa0cpXCbK4T%2Bnq%2BD6iKW180ZnmKRpi5mpR7gdiejEkTK66gAhdVCBZ3EBQISZi6RxP7b0p6L&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 <img   alt="image" src="https://github.com/user-attachments/assets/f44f1a56-70be-40ce-87ab-a6e06b5f2f15" />
-<img width="600" height="600" alt="ezgif com-resize" src="https://github.com/user-attachments/assets/9400e6e2-a46b-4c9c-bf36-2cb7693fb809" />
+<img   alt="ezgif com-resize" src="https://github.com/user-attachments/assets/9400e6e2-a46b-4c9c-bf36-2cb7693fb809" />
 
 
 
@@ -175,6 +178,9 @@ NISAR_L2_PR_GSLC_025_064_D_073_4005_DHDH_A_20260712T153549_20260712T153626_P0502
 
 
 <img   alt="ezgif com-gif-maker (1)" src="https://github.com/user-attachments/assets/920759c7-7261-4236-94f8-72945ed44889" />
+
+sandiego @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/482fcdb3-fc5b-4f5b-a087-a22485e036a8" />
 
 
 [`PLAY` archive.org/details/mr-zone-6-gucci-mane?webamp=default](https://archive.org/details/mr-zone-6-gucci-mane?webamp=default) // [`DownLoad` - archive.org/compress/mr-zone-6-gucci-mane/formats=VBR%20MP3&file=/mr-zone-6-gucci-mane.zip](https://archive.org/compress/mr-zone-6-gucci-mane/formats=VBR%20MP3&file=/mr-zone-6-gucci-mane.zip)
