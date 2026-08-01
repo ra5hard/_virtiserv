@@ -15,6 +15,7 @@ Madrid, España
 Phone: (+34) 918677000
 Visitor Centre Phone: (+34) 918677321 / (+34) 918677312
 GPS Coordinates: +40° 25′ 47.33″, -4° 14′ 56.57″
+@nasa-pds ~> ROC@jpl.nasa.gov something is wrong madrid is not showing any data transfer and dish55 is marked as testing  @doug-newman-nasa @whitehouse @USnavy @BLACKGiRLSCODE @Howard-University-Web-Services @EmergingCoders
 <object class="scroller" width="auto" height="auto" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" type="text/html" ></object>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/28b15312-e35e-4899-9eeb-01794f0500e4" />
