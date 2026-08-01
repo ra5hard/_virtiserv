@@ -3,6 +3,17 @@ layout: default
 ---
 
 
+## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
+[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds)
+<img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
+
+
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+[search.earthdata.nasa.gov/search?sb[0]=51.99445%2C21.48011%2C60.95201%2C29.57335&lat=26.724999364758997&long=55.87082459774931&zoom=6.7466001248231535](https://search.earthdata.nasa.gov/search?sb[0]=51.99445%2C21.48011%2C60.95201%2C29.57335&lat=26.724999364758997&long=55.87082459774931&zoom=6.7466001248231535)
+<img  alt="image" src="https://github.com/user-attachments/assets/d96c6f12-4f5d-4268-81bd-ac68a644abba" />
+
 ### HOT 97 News Live! 7/31/26
 
 [WATCH - youtube.com/live/KJTzHOs092k?si=BliipbTforJTpjON](https://www.youtube.com/live/KJTzHOs092k?si=BliipbTforJTpjON)
