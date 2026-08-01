@@ -6,12 +6,12 @@ layout: default
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A369774536&color=%23442424&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/um211" title="Brandy" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy</a> · <a href="https://soundcloud.com/um211/brandy-sirens" title="Sirens (feat. Timbaland)" target="_blank" style="color: #cccccc; text-decoration: none;">Sirens (feat. Timbaland)</a></div>
 
-<img width="512" height="512" alt="ezgif com-resize @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov" src="https://github.com/user-attachments/assets/39458a63-a658-4bc2-a342-e88ae7d8d895" />
+<img   alt="ezgif com-resize @nbcnews @cbs-news-data @foxnews @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders @disney @nasa @whitehouse @dhs-gov @commercegov" src="https://github.com/user-attachments/assets/39458a63-a658-4bc2-a342-e88ae7d8d895" />
 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/98930be4-cd62-4141-99eb-de4775b8e1ec" />
+<img   alt="image" src="https://github.com/user-attachments/assets/98930be4-cd62-4141-99eb-de4775b8e1ec" />
 
-<img width="1024" height="1024" alt="ezgif com-gif-maker (3) @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders " src="https://github.com/user-attachments/assets/d50994ff-2470-43b9-866a-0350642bf04e" />
+<img   alt="ezgif com-gif-maker (3) @nasa-pds Sol 4936 @nasa-openscapes @nasa-giss @emergingcoders " src="https://github.com/user-attachments/assets/d50994ff-2470-43b9-866a-0350642bf04e" />
 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A345066952&color=%2396a86b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rico_nasty" title="RICO NASTY" target="_blank" style="color: #cccccc; text-decoration: none;">RICO NASTY</a> · <a href="https://soundcloud.com/rico_nasty/key-lime-og-1" title="Key Lime OG" target="_blank" style="color: #cccccc; text-decoration: none;">Key Lime OG</a></div>
@@ -20,7 +20,7 @@ layout: default
  The Lana Rundown [Watch - youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36](https://youtu.be/fKkpEO4JxKg?si=Kr0MREf9ktOhhG36)
 <img  alt="imag @emergingcoders @blackgirlscode @nasa-jpl @whitehouse " src="https://github.com/user-attachments/assets/2b720e0f-62aa-4dc1-bb8e-01474dc9699a" />
 
-<img width="256" height="256" alt="ezgif com-gif-maker (2) @nasa-pds @la-county-isd @nasa-jpl @blackgirlscode @emergingCoders " src="https://github.com/user-attachments/assets/4ad4d54b-6b25-4b84-af8b-2359be316f4f" />
+<img   alt="ezgif com-gif-maker (2) @nasa-pds @la-county-isd @nasa-jpl @blackgirlscode @emergingCoders " src="https://github.com/user-attachments/assets/4ad4d54b-6b25-4b84-af8b-2359be316f4f" />
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A559658055&color=%238dd0ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/futureisnow" title="Future" target="_blank" style="color: #cccccc; text-decoration: none;">Future</a> · <a href="https://soundcloud.com/futureisnow/servin-killa-kam" title="Servin Killa Kam" target="_blank" style="color: #cccccc; text-decoration: none;">Servin Killa Kam</a></div>
 
