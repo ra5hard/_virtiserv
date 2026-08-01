@@ -5,7 +5,7 @@ layout: default
 
 ### HOT 97 News Live! 7/31/26
 @officialredhat @nasa-pds [ @deptofwar @deptofdefense spacetelescopelive.org/](https://spacetelescopelive.org/)
-
+[WATCH - youtube.com/live/KJTzHOs092k?si=BliipbTforJTpjON](https://www.youtube.com/live/KJTzHOs092k?si=BliipbTforJTpjON)
 <img  alt="image" src="https://github.com/user-attachments/assets/cac4d202-9b6d-4f26-8390-785b5b25452e" />
 
 
