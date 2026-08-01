@@ -3,10 +3,10 @@ layout: default
 ---
 
 ## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
-[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco [Wiki TALK iRAN WAR 2026 en.wikipedia.org/wiki/Talk:2026_Iran_war](https://en.wikipedia.org/wiki/Talk:2026_Iran_war) ++ [Wiki Article - en.wikipedia.org/wiki/2026_Iran_war](https://en.wikipedia.org/wiki/2026_Iran_war) // [Iran war live: Pezeshkian says ‘future of Iran will be shaped by the people](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks)
+[WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [dvidshub.net/feature/operationepicfury](https://www.dvidshub.net/feature/operationepicfury) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco [Wiki TALK iRAN WAR 2026 en.wikipedia.org/wiki/Talk:2026_Iran_war](https://en.wikipedia.org/wiki/Talk:2026_Iran_war) ++ [Wiki Article - en.wikipedia.org/wiki/2026_Iran_war](https://en.wikipedia.org/wiki/2026_Iran_war) // [Iran war live: Pezeshkian says ‘future of Iran will be shaped by the people](https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks)
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
 
-
+![https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9556601/944w_q95.jpg](https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2603/9556601/944w_q95.jpg)
 
 ![https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2603/9585455/1000w_q95.jpg](https://d2cto119c3bgok.cloudfront.net/thumbs/photos/2603/9585455/1000w_q95.jpg)
 [https://www.dvidshub.net/image/9585460/uss-abraham-lincoln-cvn-72-conducts-flight-operations-during-operation-epic-fury](https://www.dvidshub.net/image/9585460/uss-abraham-lincoln-cvn-72-conducts-flight-operations-during-operation-epic-fury)
