@@ -6,6 +6,8 @@ layout: default
 [WATCH - youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds](https://youtu.be/qZ-G5xmNdCI?si=FtVwvCQdfAprZ8ds) // [The Lady In The Bottle  I Dream Of Jeannie s1e1 @emergingcoders ](https://youtu.be/Q6DSFvnfu0M?si=_nG2wHQxwQB8wQwO) @TheSpaceDevs @BlueOrigin @lmco
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
 
+sandiego @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/482fcdb3-fc5b-4f5b-a087-a22485e036a8" />
 
 @nasa-jpl kuwait city 
 _Sentinel_ S1C_IW_GRDH_1SDV_20260723T144945_20260723T145015_008672_0112F8_6A63
