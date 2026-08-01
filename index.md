@@ -7,7 +7,7 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/02369dfa-66a2-4a04-9fec-a6b9ed3e1140" />
 
 
-![https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png?ver=lkskHhkPyb7aaBZcekfImA%3d%3d](https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png?ver=lkskHhkPyb7aaBZcekfImA%3d%3d) 
+![https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png?ver=lkskHhkPyb7aaBZcekfImA%3d%3d](https://www.centcom.mil/Portals/6/Official_CENTCOM_Seal.png) 
 
 ### U.S. Strikes IRGC Targets After Attempted Iranian Attacks
 #### USCENTCOM @nasa @deptofwar @deptofdefense
