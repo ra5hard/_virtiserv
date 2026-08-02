@@ -63,6 +63,7 @@ U.S. Central Command (CENTCOM) commenced Operation Epic Fury at the direction of
 
 <img  alt="image" src="https://github.com/user-attachments/assets/67b8d226-a8d1-4138-b978-c06c5a0cdfb4" />
 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/822438309441699840" data-did="4883d85403685baba38699a20c33a2a1a913bf99"><a href="https://rashardmro.tumblr.com/post/822438309441699840/do-them-shits-smell-like-an-mpc-hot97">https://rashardmro.tumblr.com/post/822438309441699840/do-them-shits-smell-like-an-mpc-hot97</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 @nasa-jpl kuwait city 
 _Sentinel_ S1C_IW_GRDH_1SDV_20260723T144945_20260723T145015_008672_0112F8_6A63
