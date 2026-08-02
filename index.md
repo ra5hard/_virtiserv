@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[@x .com/LanaJHarris](https://x.com/LanaJHarris)
+<img alt="image @foratlanta @cnn " src="https://github.com/user-attachments/assets/28bbec87-5269-4277-b9d1-aa44dc07a205" />
+
 
 @emergingcoders @nasa-pds 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We’ve stopped by a couple polling stations and the people are out! I’m told the lines were VERY long this morning but a bit shorter now. We’ll show you what they looked like and tell you why the voters say they came out on Day 1 of early voting tonight on <a href="https://x.com/wcnc?ref_src=twsrc%5Etfw">@wcnc</a> <a href="https://t.co/IQue1wBcpl">pic.twitter.com/IQue1wBcpl</a></p>&mdash; Lana Harris (@LanaJHarris) <a href="https://x.com/LanaJHarris/status/1316779143112069120?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
