@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/BB6PBpcBF8">pic.twitter.com/BB6PBpcBF8</a></p>&mdash; LuLu 🍋 (@_lupee_loo) <a href="https://x.com/_lupee_loo/status/2079312546121617444?ref_src=twsrc%5Etfw">July 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;I&#39;m only gonna have one&quot; said no one ever! <a href="https://x.com/hashtag/spondivits?src=hash&amp;ref_src=twsrc%5Etfw">#spondivits</a> <a href="https://x.com/hashtag/seafood?src=hash&amp;ref_src=twsrc%5Etfw">#seafood</a> <a href="https://x.com/hashtag/atlantarestarants?src=hash&amp;ref_src=twsrc%5Etfw">#atlantarestarants</a> <a href="https://x.com/hashtag/crablegs?src=hash&amp;ref_src=twsrc%5Etfw">#crablegs</a> <a href="https://x.com/hashtag/bobmarley?src=hash&amp;ref_src=twsrc%5Etfw">#bobmarley</a> <a href="https://x.com/hashtag/cocktails?src=hash&amp;ref_src=twsrc%5Etfw">#cocktails</a> <a href="https://t.co/2LpPdkKmlZ">pic.twitter.com/2LpPdkKmlZ</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/706869000945471490?ref_src=twsrc%5Etfw">March 7, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qht" dir="ltr"><a href="https://x.com/hashtag/NotForgotten?src=hash&amp;ref_src=twsrc%5Etfw">#NotForgotten</a> <a href="https://t.co/046r2NRPWF">https://t.co/046r2NRPWF</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/1129209047163363328?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
