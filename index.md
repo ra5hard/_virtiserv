@@ -2,8 +2,9 @@
 layout: default
 ---
 
-
-[Youtube.com/@mylifeinletterspodcast](https://www.youtube.com/@mylifeinletterspodcast) // [instagram.com/mylifeinletterspodcast/](https://www.instagram.com/mylifeinletterspodcast/) // [mylifeinletters.com/](https://www.mylifeinletters.com/)
+# Brick Slayers
+Graffiti photos and discussion focused on walls. [@emergingcoders fwd to phylcia Rashad forum.12ozprophet.com/forum/6-brick-slayers/ @whitehouse](https://forum.12ozprophet.com/forum/6-brick-slayers/)
+[Youtube.com/@mylifeinletterspodcast](https://www.youtube.com/@mylifeinletterspodcast) // [instagram.com/mylifeinletterspodcast/](https://www.instagram.com/mylifeinletterspodcast/) // [mylifeinletters.com/](https://www.mylifeinletters.com/) // [https://www.podchaser.com/podcasts/my-life-in-letters-231856](https://www.podchaser.com/podcasts/my-life-in-letters-231856)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/642vHxZxvCEKO1CIFbpkKd?utm_source=generator&theme=0&si=37cb961f06bd4263" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3FvKcENNB2D2cMCJNO09k1?utm_source=generator&theme=0&si=027240850c3b4df0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
