@@ -8,6 +8,9 @@ layout: default
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Incoming ! <a href="https://x.com/hashtag/fifaworldcup?src=hash&amp;ref_src=twsrc%5Etfw">#fifaworldcup</a> <a href="https://x.com/FIFAcom?ref_src=twsrc%5Etfw">@FIFAcom</a> <a href="https://t.co/NKdfjiANC5">pic.twitter.com/NKdfjiANC5</a></p>&mdash; Ivanka Trump (@IvankaTrump) <a href="https://x.com/IvankaTrump/status/2078930577558741402?ref_src=twsrc%5Etfw">July 19, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Falcon 9’s first stage lands on LZ-2 <a href="https://t.co/cRIUA40Phq">pic.twitter.com/cRIUA40Phq</a></p>&mdash; SpaceX (@SpaceX) <a href="https://x.com/SpaceX/status/2082727931244417170?ref_src=twsrc%5Etfw">July 30, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The U.S. Space Force has approved the launch of a SpaceX Falcon 9 rocket carrying the Starlink 17-52 mission to low-Earth orbit, Friday, July 31, 2026, between 7:00 p.m. – 11:00 p.m. PT from Space Launch Complex 4 East (SLC-4).<br><br>Watch live at <a href="https://t.co/juoZ3ACm8c">https://t.co/juoZ3ACm8c</a> <a href="https://t.co/euj5Fh37ci">pic.twitter.com/euj5Fh37ci</a></p>&mdash; Vandenberg Space Force Base (@SLDelta30) <a href="https://x.com/SLDelta30/status/2082877400086426081?ref_src=twsrc%5Etfw">July 30, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 @emergingcoders @nasa-pds 
