@@ -2,45 +2,16 @@
 layout: default
 ---
 
-# Brick Slayers
-Graffiti photos and discussion focused on walls. [@emergingcoders fwd to phylcia Rashad forum.12ozprophet.com/forum/6-brick-slayers/ @whitehouse](https://forum.12ozprophet.com/forum/6-brick-slayers/)
-[Youtube.com/@mylifeinletterspodcast](https://www.youtube.com/@mylifeinletterspodcast) // [instagram.com/mylifeinletterspodcast/](https://www.instagram.com/mylifeinletterspodcast/) // [mylifeinletters.com/](https://www.mylifeinletters.com/) // [https://www.podchaser.com/podcasts/my-life-in-letters-231856](https://www.podchaser.com/podcasts/my-life-in-letters-231856)
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/642vHxZxvCEKO1CIFbpkKd?utm_source=generator&theme=0&si=37cb961f06bd4263" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3FvKcENNB2D2cMCJNO09k1?utm_source=generator&theme=0&si=027240850c3b4df0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2367219119&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-iss-results-materials-science" title="Houston We Have a Podcast: ISS Results: Materials Science" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: ISS Results: Materials Science</a></div>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Giant sequoias are nearly four times more likely to survive extreme wildfires in forests that have been managed with prescribed burns, according to a NASA-funded study.<br><br>Get the details: <a href="https://t.co/wr8IVyDcZW">https://t.co/wr8IVyDcZW</a> <a href="https://t.co/ObBryoEZIC">pic.twitter.com/ObBryoEZIC</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://x.com/NASAEarth/status/2080692383109267489?ref_src=twsrc%5Etfw">July 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Extremely hot and dry conditions in June and July enabled large fires to break out in Europe.<br><br>Spain saw its largest fire on record in Ávila, as shown in this Landsat 9 false color image. Unburned vegetation is light green and burned areas appear brown. <a href="https://t.co/G4RJHG0fQu">https://t.co/G4RJHG0fQu</a> <a href="https://t.co/bw8muiPFRb">pic.twitter.com/bw8muiPFRb</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://x.com/NASAEarth/status/2083245767687323925?ref_src=twsrc%5Etfw">July 31, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Nine years ago today, I began my journey to Jupiter. See these interviews with members of my team to hear more about what we have learned: <a href="https://t.co/wpDgXaYV7f">https://t.co/wpDgXaYV7f</a> <a href="https://t.co/AwPR8sjSDb">pic.twitter.com/AwPR8sjSDb</a></p>&mdash; NASA&#39;s Juno Mission (@NASAJuno) <a href="https://x.com/NASAJuno/status/1291106187920805889?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When the twin ESCAPADE spacecraft arrive at Mars in September 2027, they will study how the solar wind interacts with the Martian environment and how that drives atmospheric loss at the Red Planet. <a href="https://t.co/ighZ4rnvCZ">https://t.co/ighZ4rnvCZ</a> <a href="https://t.co/lkJndvwRCG">https://t.co/lkJndvwRCG</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2080729466284961983?ref_src=twsrc%5Etfw">July 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Curiosity has delivered a new 360-degree panorama from Mars. “We’ve seen a lot of fascinating landscapes through Curiosity’s eyes, but this sea of polygons took our breath away,” said the mission’s project scientist. 1/2 <a href="https://t.co/G7sV6Xafkq">pic.twitter.com/G7sV6Xafkq</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2082529612991762499?ref_src=twsrc%5Etfw">July 29, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/V5HltP89vK">https://t.co/V5HltP89vK</a></p>&mdash; Department of War 🇺🇸 (@DeptofWar) <a href="https://x.com/DeptofWar/status/2081882940540178683?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/BB6PBpcBF8">pic.twitter.com/BB6PBpcBF8</a></p>&mdash; LuLu 🍋 (@_lupee_loo) <a href="https://x.com/_lupee_loo/status/2079312546121617444?ref_src=twsrc%5Etfw">July 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;I&#39;m only gonna have one&quot; said no one ever! <a href="https://x.com/hashtag/spondivits?src=hash&amp;ref_src=twsrc%5Etfw">#spondivits</a> <a href="https://x.com/hashtag/seafood?src=hash&amp;ref_src=twsrc%5Etfw">#seafood</a> <a href="https://x.com/hashtag/atlantarestarants?src=hash&amp;ref_src=twsrc%5Etfw">#atlantarestarants</a> <a href="https://x.com/hashtag/crablegs?src=hash&amp;ref_src=twsrc%5Etfw">#crablegs</a> <a href="https://x.com/hashtag/bobmarley?src=hash&amp;ref_src=twsrc%5Etfw">#bobmarley</a> <a href="https://x.com/hashtag/cocktails?src=hash&amp;ref_src=twsrc%5Etfw">#cocktails</a> <a href="https://t.co/2LpPdkKmlZ">pic.twitter.com/2LpPdkKmlZ</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/706869000945471490?ref_src=twsrc%5Etfw">March 7, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qht" dir="ltr"><a href="https://x.com/hashtag/NotForgotten?src=hash&amp;ref_src=twsrc%5Etfw">#NotForgotten</a> <a href="https://t.co/046r2NRPWF">https://t.co/046r2NRPWF</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/1129209047163363328?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-[@x .com/LanaJHarris](https://x.com/LanaJHarris)
-<img alt="image @foratlanta @cnn " src="https://github.com/user-attachments/assets/28bbec87-5269-4277-b9d1-aa44dc07a205" />
-
+## Why Trump’s "4th Term" Speech Has Everyone Talking
+[WATCH - @nasa-jpl @nasa-giss youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr](https://youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr)
+<img alt="image" src="https://github.com/user-attachments/assets/85e848af-89c9-499f-93fe-26792bdb7474" />
 
 @emergingcoders @nasa-pds 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We’ve stopped by a couple polling stations and the people are out! I’m told the lines were VERY long this morning but a bit shorter now. We’ll show you what they looked like and tell you why the voters say they came out on Day 1 of early voting tonight on <a href="https://x.com/wcnc?ref_src=twsrc%5Etfw">@wcnc</a> <a href="https://t.co/IQue1wBcpl">pic.twitter.com/IQue1wBcpl</a></p>&mdash; Lana Harris (@LanaJHarris) <a href="https://x.com/LanaJHarris/status/1316779143112069120?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
-## Why Trump’s "4th Term" Speech Has Everyone Talking
-[WATCH - @nasa-jpl @nasa-giss youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr](https://youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr)
-<img alt="image" src="https://github.com/user-attachments/assets/85e848af-89c9-499f-93fe-26792bdb7474" />
+
+[@x .com/LanaJHarris](https://x.com/LanaJHarris)
+<img alt="image @foratlanta @cnn " src="https://github.com/user-attachments/assets/28bbec87-5269-4277-b9d1-aa44dc07a205" />
 
 
 ## Cyberattack From Iran? Gaza Deal? Elon Suing For A.I. Nudes?  HOT 97 News 7/31/26 (Special Guest)
@@ -142,6 +113,42 @@ More than 50,000 U.S. service members are currently deployed to the Middle East 
 [https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4559495/us-strikes-irgc-targets-after-attempted-iranian-attacks/](https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4559495/us-strikes-irgc-targets-after-attempted-iranian-attacks/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/01697ceb-9c9c-4bbc-b181-0fb0d0b620bc" />
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The &quot;Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal&quot; data training webinar is now available online. Learn more about NASA’s JPL OPERA InSAR-derived surface displacement measurements product. <a href="https://t.co/czo89JFIep">https://t.co/czo89JFIep</a><a href="https://x.com/hashtag/SAR?src=hash&amp;ref_src=twsrc%5Etfw">#SAR</a> <a href="https://t.co/igfkw2htXp">pic.twitter.com/igfkw2htXp</a></p>&mdash; NASAEarthdata (@NASAEarthData) <a href="https://x.com/NASAEarthData/status/1931083799045329038?ref_src=twsrc%5Etfw">June 6, 2025</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+# Brick Slayers
+Graffiti photos and discussion focused on walls. [@emergingcoders fwd to phylcia Rashad forum.12ozprophet.com/forum/6-brick-slayers/ @whitehouse](https://forum.12ozprophet.com/forum/6-brick-slayers/)
+[Youtube.com/@mylifeinletterspodcast](https://www.youtube.com/@mylifeinletterspodcast) // [instagram.com/mylifeinletterspodcast/](https://www.instagram.com/mylifeinletterspodcast/) // [mylifeinletters.com/](https://www.mylifeinletters.com/) // [https://www.podchaser.com/podcasts/my-life-in-letters-231856](https://www.podchaser.com/podcasts/my-life-in-letters-231856)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/642vHxZxvCEKO1CIFbpkKd?utm_source=generator&theme=0&si=37cb961f06bd4263" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3FvKcENNB2D2cMCJNO09k1?utm_source=generator&theme=0&si=027240850c3b4df0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2367219119&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-iss-results-materials-science" title="Houston We Have a Podcast: ISS Results: Materials Science" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: ISS Results: Materials Science</a></div>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Giant sequoias are nearly four times more likely to survive extreme wildfires in forests that have been managed with prescribed burns, according to a NASA-funded study.<br><br>Get the details: <a href="https://t.co/wr8IVyDcZW">https://t.co/wr8IVyDcZW</a> <a href="https://t.co/ObBryoEZIC">pic.twitter.com/ObBryoEZIC</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://x.com/NASAEarth/status/2080692383109267489?ref_src=twsrc%5Etfw">July 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Extremely hot and dry conditions in June and July enabled large fires to break out in Europe.<br><br>Spain saw its largest fire on record in Ávila, as shown in this Landsat 9 false color image. Unburned vegetation is light green and burned areas appear brown. <a href="https://t.co/G4RJHG0fQu">https://t.co/G4RJHG0fQu</a> <a href="https://t.co/bw8muiPFRb">pic.twitter.com/bw8muiPFRb</a></p>&mdash; NASA Earth (@NASAEarth) <a href="https://x.com/NASAEarth/status/2083245767687323925?ref_src=twsrc%5Etfw">July 31, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Nine years ago today, I began my journey to Jupiter. See these interviews with members of my team to hear more about what we have learned: <a href="https://t.co/wpDgXaYV7f">https://t.co/wpDgXaYV7f</a> <a href="https://t.co/AwPR8sjSDb">pic.twitter.com/AwPR8sjSDb</a></p>&mdash; NASA&#39;s Juno Mission (@NASAJuno) <a href="https://x.com/NASAJuno/status/1291106187920805889?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When the twin ESCAPADE spacecraft arrive at Mars in September 2027, they will study how the solar wind interacts with the Martian environment and how that drives atmospheric loss at the Red Planet. <a href="https://t.co/ighZ4rnvCZ">https://t.co/ighZ4rnvCZ</a> <a href="https://t.co/lkJndvwRCG">https://t.co/lkJndvwRCG</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2080729466284961983?ref_src=twsrc%5Etfw">July 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Curiosity has delivered a new 360-degree panorama from Mars. “We’ve seen a lot of fascinating landscapes through Curiosity’s eyes, but this sea of polygons took our breath away,” said the mission’s project scientist. 1/2 <a href="https://t.co/G7sV6Xafkq">pic.twitter.com/G7sV6Xafkq</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2082529612991762499?ref_src=twsrc%5Etfw">July 29, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/V5HltP89vK">https://t.co/V5HltP89vK</a></p>&mdash; Department of War 🇺🇸 (@DeptofWar) <a href="https://x.com/DeptofWar/status/2081882940540178683?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/BB6PBpcBF8">pic.twitter.com/BB6PBpcBF8</a></p>&mdash; LuLu 🍋 (@_lupee_loo) <a href="https://x.com/_lupee_loo/status/2079312546121617444?ref_src=twsrc%5Etfw">July 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;I&#39;m only gonna have one&quot; said no one ever! <a href="https://x.com/hashtag/spondivits?src=hash&amp;ref_src=twsrc%5Etfw">#spondivits</a> <a href="https://x.com/hashtag/seafood?src=hash&amp;ref_src=twsrc%5Etfw">#seafood</a> <a href="https://x.com/hashtag/atlantarestarants?src=hash&amp;ref_src=twsrc%5Etfw">#atlantarestarants</a> <a href="https://x.com/hashtag/crablegs?src=hash&amp;ref_src=twsrc%5Etfw">#crablegs</a> <a href="https://x.com/hashtag/bobmarley?src=hash&amp;ref_src=twsrc%5Etfw">#bobmarley</a> <a href="https://x.com/hashtag/cocktails?src=hash&amp;ref_src=twsrc%5Etfw">#cocktails</a> <a href="https://t.co/2LpPdkKmlZ">pic.twitter.com/2LpPdkKmlZ</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/706869000945471490?ref_src=twsrc%5Etfw">March 7, 2016</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qht" dir="ltr"><a href="https://x.com/hashtag/NotForgotten?src=hash&amp;ref_src=twsrc%5Etfw">#NotForgotten</a> <a href="https://t.co/046r2NRPWF">https://t.co/046r2NRPWF</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/1129209047163363328?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+
+
 
 
 @eu-cdse @esd [https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.64276&lng=56.32038&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FU%2FTvCkPkQjvj9sb%2F8ZtgLsoYLe5qcx4UzcdlZFpdWUgBJuIyuzeqVorZpZId8z%2FZlN%2FpNI0mk40fEUoxJj7Kjd8c4TNE59ggIyxC1VXTG1ETyKkngIRC0&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.64276&lng=56.32038&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FU%2FTvCkPkQjvj9sb%2F8ZtgLsoYLe5qcx4UzcdlZFpdWUgBJuIyuzeqVorZpZId8z%2FZlN%2FpNI0mk40fEUoxJj7Kjd8c4TNE59ggIyxC1VXTG1ETyKkngIRC0&datasetId=S2_L2A_CDAS&fromTime=2026-07-31T00%3A00%3A00.000Z&toTime=2026-07-31T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE) @TheSpaceDevs
