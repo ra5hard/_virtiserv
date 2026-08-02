@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Curiosity has delivered a new 360-degree panorama from Mars. “We’ve seen a lot of fascinating landscapes through Curiosity’s eyes, but this sea of polygons took our breath away,” said the mission’s project scientist. 1/2 <a href="https://t.co/G7sV6Xafkq">pic.twitter.com/G7sV6Xafkq</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2082529612991762499?ref_src=twsrc%5Etfw">July 29, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/V5HltP89vK">https://t.co/V5HltP89vK</a></p>&mdash; Department of War 🇺🇸 (@DeptofWar) <a href="https://x.com/DeptofWar/status/2081882940540178683?ref_src=twsrc%5Etfw">July 27, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
