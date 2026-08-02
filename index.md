@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="qht" dir="ltr"><a href="https://x.com/hashtag/NotForgotten?src=hash&amp;ref_src=twsrc%5Etfw">#NotForgotten</a> <a href="https://t.co/046r2NRPWF">https://t.co/046r2NRPWF</a></p>&mdash; Spondivits (@Spondivits) <a href="https://x.com/Spondivits/status/1129209047163363328?ref_src=twsrc%5Etfw">May 17, 2019</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 [@x .com/LanaJHarris](https://x.com/LanaJHarris)
 <img alt="image @foratlanta @cnn " src="https://github.com/user-attachments/assets/28bbec87-5269-4277-b9d1-aa44dc07a205" />
 
