@@ -6,6 +6,8 @@ layout: default
 [WATCH - @nasa-jpl @nasa-giss youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr](https://youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr)
 <img alt="image" src="https://github.com/user-attachments/assets/85e848af-89c9-499f-93fe-26792bdb7474" />
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Incoming ! <a href="https://x.com/hashtag/fifaworldcup?src=hash&amp;ref_src=twsrc%5Etfw">#fifaworldcup</a> <a href="https://x.com/FIFAcom?ref_src=twsrc%5Etfw">@FIFAcom</a> <a href="https://t.co/NKdfjiANC5">pic.twitter.com/NKdfjiANC5</a></p>&mdash; Ivanka Trump (@IvankaTrump) <a href="https://x.com/IvankaTrump/status/2078930577558741402?ref_src=twsrc%5Etfw">July 19, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 @emergingcoders @nasa-pds 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">We’ve stopped by a couple polling stations and the people are out! I’m told the lines were VERY long this morning but a bit shorter now. We’ll show you what they looked like and tell you why the voters say they came out on Day 1 of early voting tonight on <a href="https://x.com/wcnc?ref_src=twsrc%5Etfw">@wcnc</a> <a href="https://t.co/IQue1wBcpl">pic.twitter.com/IQue1wBcpl</a></p>&mdash; Lana Harris (@LanaJHarris) <a href="https://x.com/LanaJHarris/status/1316779143112069120?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
