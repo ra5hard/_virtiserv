@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Nine years ago today, I began my journey to Jupiter. See these interviews with members of my team to hear more about what we have learned: <a href="https://t.co/wpDgXaYV7f">https://t.co/wpDgXaYV7f</a> <a href="https://t.co/AwPR8sjSDb">pic.twitter.com/AwPR8sjSDb</a></p>&mdash; NASA&#39;s Juno Mission (@NASAJuno) <a href="https://x.com/NASAJuno/status/1291106187920805889?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When the twin ESCAPADE spacecraft arrive at Mars in September 2027, they will study how the solar wind interacts with the Martian environment and how that drives atmospheric loss at the Red Planet. <a href="https://t.co/ighZ4rnvCZ">https://t.co/ighZ4rnvCZ</a> <a href="https://t.co/lkJndvwRCG">https://t.co/lkJndvwRCG</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2080729466284961983?ref_src=twsrc%5Etfw">July 24, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Curiosity has delivered a new 360-degree panorama from Mars. “We’ve seen a lot of fascinating landscapes through Curiosity’s eyes, but this sea of polygons took our breath away,” said the mission’s project scientist. 1/2 <a href="https://t.co/G7sV6Xafkq">pic.twitter.com/G7sV6Xafkq</a></p>&mdash; NASA Mars (@NASAMars) <a href="https://x.com/NASAMars/status/2082529612991762499?ref_src=twsrc%5Etfw">July 29, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
