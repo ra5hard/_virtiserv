@@ -8,6 +8,8 @@ layout: default
 
 <img  alt="tumblr_de9d9805664076eadfc27765172b64e5_219e25ac_1280 @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/098ee1df-fa5b-43e8-b4f9-9a3c87f1687d" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">THE TRUMP GOLD CARD. <br><br>Unlock life in America. <a href="https://t.co/ui2ZkkdxEH">https://t.co/ui2ZkkdxEH</a> <a href="https://t.co/7pxuVvnC6z">pic.twitter.com/7pxuVvnC6z</a></p>&mdash; The White House (@WhiteHouse) <a href="https://x.com/WhiteHouse/status/1998859522740466066?ref_src=twsrc%5Etfw">December 10, 2025</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 @deptofwar @teslamotors @nasa-jpl @nasa-openscapes @newshour @cbs-news-data
 
 # NS Records 
