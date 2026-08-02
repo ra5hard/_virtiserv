@@ -2,6 +2,20 @@
 layout: default
 ---
 
+## Education For Death 1943
+by D.D.Teoli Jr. A.C. [Fandom](https://disney.fandom.com/wiki/Education_for_Death)
+[@CSPAN](https://www.c-span.org/program/american-history-tv/education-for-death/532290)
+
+<iframe src="https://archive.org/embed/education-for-death-1943" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img src="https://static.wikia.nocookie.net/disney/images/e/e8/Education_for_death.jpeg/revision/latest/scale-to-width-down/1000?cb=20111018235334"/>
+
+# American TV History @disney / @CSPAN
+[c-span.org/program/american-history-tv/education-for-death/532290](https://www.c-span.org/program/american-history-tv/education-for-death/532290)
+
+<img alt="image" src="https://github.com/user-attachments/assets/71aa1974-b58f-4a20-9ff9-153d2dc17224" />
+
+
 ## Why Trump’s "4th Term" Speech Has Everyone Talking
 [WATCH - @nasa-jpl @nasa-giss youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr](https://youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr)
 <img alt="image" src="https://github.com/user-attachments/assets/85e848af-89c9-499f-93fe-26792bdb7474" />
