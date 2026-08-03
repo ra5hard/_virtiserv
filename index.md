@@ -10,6 +10,8 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/b90deb64-d672-4db0-ad78-122d2aa5d9ac" />
 
 [@stateofcalifornia planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73M00024_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73M00024_V01.PNG)
+<img   alt="image" src="https://github.com/user-attachments/assets/c72cbda0-58f9-4132-a697-8d014f3da3fa" />
+
 <img src="https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73M00024_V01.PNG"/>
 [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
 
