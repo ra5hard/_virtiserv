@@ -3,6 +3,15 @@ layout: default
 ---
 
 
+# HOT 97 News Live! 8/3/26
+@howard-university-web-services . . . @nasa-jpl that was the address I was instructed to mention if I'm doing work for them @blackgirlscode \
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmq2bxtjOds?si=f450gnkowRfIxm0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/04996098-c11e-40bc-a04d-86853bad38a1" />
+
+
 ### DOD Instruction 1035.01, “Telework and Remote Work”
 @blackgirlscode [VirtiservAstro](https://www.facebook.com/thevirtiservway/) Remember im from the garage / fire dept so im learning how to file @la-county-isd @StateOFCalifornia they sent me on a scavenger hunt --- @newshour 
 
