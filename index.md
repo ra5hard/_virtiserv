@@ -9,6 +9,14 @@ _News Conference (Aug. 3, 2026)_ [@SpaceExplorationTechnologies](https://github.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDUtReQSlb0?si=jkCSpR3_K2W3waiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+## [BLXST](https://en.wikipedia.org/wiki/Talk:Blxst) Explains Traumatic Home Invasion, [Tyler, the Creator](https://en.wikipedia.org/wiki/Talk:Tyler,_the_Creator) & Breaks Down LA Music
+[WATCH - youtu.be/mXOPIe9AdDc?si=h4Y8gZzkz20Btoep](https://youtu.be/mXOPIe9AdDc?si=h4Y8gZzkz20Btoep)
+BLXST stopped by HOT 97 to talk to Nessa about his new album, Labor of Love, and why creating this project became such a personal journey. He shares why he chose to write and produce every song himself, opens up about staying independent without a manager, and explains the meaning behind the album title and why his childhood home became the cover art. He also reflects on the L.A. artists who inspired him, the changing culture of collaboration in hip hop, and the unforgettable Tyler, The Creator story that still makes him laugh.
+
+BLXST also gets candid about one of the most difficult moments of his life, revealing how a home invasion involving his family inspired one of the album's most emotional songs. He talks about fatherhood, raising two sons, balancing family with his career, and the legacy he hopes to leave behind. Labor of Love is out now. Watch our full conversation with BLXST on HOT 97. [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
+<img  alt="image" src="https://github.com/user-attachments/assets/14ef637f-0418-4b3b-8b15-7a649fdb79ac" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LONG BEACH , CA • TOMORROW <br>1PM <a href="https://x.com/VIPLONGBEACH?ref_src=twsrc%5Etfw">@VIPLONGBEACH</a> <a href="https://t.co/SpQjcjCPUv">pic.twitter.com/SpQjcjCPUv</a></p>&mdash; BLXST (@BLXST) <a href="https://x.com/BLXST/status/2078250483245023631?ref_src=twsrc%5Etfw">July 17, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
 <a href="https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/how_much_does_the_college_you_go_to_matter/">How much does the college you go to matter?</a><br> by
