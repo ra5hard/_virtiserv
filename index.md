@@ -3,6 +3,14 @@ layout: default
 ---
 
 
+## Did [Drake](https://www.youtube.com/hashtag/drake) Snitch on [YG](https://www.youtube.com/hashtag/yg)?! Drakeo the Ruler Murder Conspiracy Gets CRAZY! [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
+[Watch - youtube.com/watch?v=X_odzc2oPo0 @dhs-gov @nasa @FemaGov @fbicyber ](https://www.youtube.com/watch?v=X_odzc2oPo0)
+The Mornings With Mero crew breaks down the wild rumors swirling around Drake allegedly funneling information to the feds about YG's alleged involvement in the murder of Drakeo the Ruler. From Glasses Malone's IG story to YG's cryptic "B Team Rollout, Red Alert" post, we unpack what it all means, the conspiracy theories connecting Drake and DJ Academics, and why rappers keep putting sensitive info out in public IG stories instead of keeping it private. 
+
+Plus: J. Cole's electrifying concert (that half the crew missed), the ongoing Dreamville "ban" debate, why music fans shouldn't have to pick sides in rap beefs, and Jim Jones' controversial take on kitten heels in the club — the ladies clap back. - [_Hot97_](https://www.youtube.com/hashtag/hot97)
+<img  alt="image" src="https://github.com/user-attachments/assets/0d0cdecf-346c-4bfa-bf7a-c93e0522e7a8" />
+
+
 ## Juno Orbit 73
 [@nasa-pds planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/`JUPITER/ORBIT_73`/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
 
