@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+## Juno Orbit 73
+[@nasa-pds planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/`JUPITER/ORBIT_73`/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
+
+@nasa-jpl I still don't know how to get color out of these images
+<img  alt="image" src="https://github.com/user-attachments/assets/b90deb64-d672-4db0-ad78-122d2aa5d9ac" />
+
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
+
 # Juno Orbit77
 @nasa-pds hi its [rashard @nasa-jpl @nasa-openscapes](https://ra5hard.github.io/) 
 A lot of the images are sup0er grainy. I was saying the camera is broken for a while bc I don't see solid images in the data product for like I do with cassini or the rovers... @nasa-jpl Orbit77 finished compiling in April I'll keep me eyes open to see the pattern, I don't want to miss anything! - [Rashard](https://ra5hard.github.io/linux/) [@ucla planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/`JUPITER/ORBIT_77`/JNCR_2025291_77M00031_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_77/JNCR_2025291_77M00031_V01.PNG)(
