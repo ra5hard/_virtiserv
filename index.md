@@ -5,7 +5,8 @@ layout: default
 
 # The Keyport Cancer Crisis & Elon Musk’s AI Lawsuit | The Daily Drop
 [WATCH - youtu.be/mQ7uVEiLWMQ?si=3Wi0a1dMl96YnWH5](https://youtu.be/mQ7uVEiLWMQ?si=3Wi0a1dMl96YnWH5)
-@nasa-jpl please don't hold our relationship status against her having a press interview, she is highly educated from @howard-university-web-services and I'm pretty sure she is [Halle]() of [Chloe and HAlle]()
+@nasa-jpl please don't hold our relationship status against her having a press interview, she is highly educated from @howard-university-web-services and I'm pretty sure she is [Halle](https://www.grammy.com/artists/chloe-x-halle/243636/) of [Chloe and HAlle](https://chloexhalle.com/) @teslamotors she is related to a rapper with Grammys so she is really volatile and indanger of being enslaved by sex traffickers @dhs-gov ask that Asian man why he on camera with that little girl ? [`Halle Bailey Warns Twitter To ‘Keep It Cute’ Amidst Sister Chloe’s Criticism: ‘I Go To War For The Ones I Love’](https://www.yahoo.com/news/halle-bailey-warns-twitter-keep-174330188.html)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/239e85eb-bb25-41cf-bd7c-bd0791f31946" />
 
 
@@ -23,6 +24,7 @@ Sorry about that! Please try again later.
 ```
 <img alt="image" src="https://github.com/user-attachments/assets/26e74b8b-87e8-446f-9715-44f882f409cc" />
 
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">hate that i made you looove me ❤️🎸 <a href="https://t.co/NdFtkeCX1Q">pic.twitter.com/NdFtkeCX1Q</a></p>&mdash; Halle (@HalleBailey) <a href="https://x.com/HalleBailey/status/2079245379359609011?ref_src=twsrc%5Etfw">July 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 ## [BLXST](https://en.wikipedia.org/wiki/Talk:Blxst) Explains Traumatic Home Invasion, [Tyler, the Creator](https://en.wikipedia.org/wiki/Talk:Tyler,_the_Creator) & Breaks Down LA Music
 [WATCH - youtu.be/mXOPIe9AdDc?si=h4Y8gZzkz20Btoep](https://youtu.be/mXOPIe9AdDc?si=h4Y8gZzkz20Btoep)
