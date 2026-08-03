@@ -9,7 +9,7 @@ layout: default
 @nasa-jpl I still don't know how to get color out of these images
 <img  alt="image" src="https://github.com/user-attachments/assets/b90deb64-d672-4db0-ad78-122d2aa5d9ac" />
 
-![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
+[https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
 
 # Juno Orbit77
 @nasa-pds hi its [rashard @nasa-jpl @nasa-openscapes](https://ra5hard.github.io/) 
