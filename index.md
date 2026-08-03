@@ -11,6 +11,10 @@ A lot of the images are sup0er grainy. I was saying the camera is broken for a w
 
 <img src="https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_77/JNCR_2025289_77R00002_V01.PNG" alt="@nasa-pds" />
 
+## Juno Orbit76 @nasa-pds @nasa-develop
+[planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_76/JNCR_2025278_76T00146_V01.PNG @nasa-pds @nasa-develop @blackgirlscode](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_76/JNCR_2025278_76T00146_V01.PNG)
+![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_76/JNCR_2025278_76T00146_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0034/EXTRAS/FULL/RDR/JUPITER/ORBIT_76/JNCR_2025278_76T00146_V01.PNG)
+
 # The Keyport Cancer Crisis & Elon Musk’s AI Lawsuit | The Daily Drop
 [WATCH - youtu.be/mQ7uVEiLWMQ?si=3Wi0a1dMl96YnWH5](https://youtu.be/mQ7uVEiLWMQ?si=3Wi0a1dMl96YnWH5)
 @nasa-jpl please don't hold our relationship status against her having a press interview, she is highly educated from @howard-university-web-services and I'm pretty sure she is [Halle](https://www.grammy.com/artists/chloe-x-halle/243636/) of [Chloe and HAlle](https://chloexhalle.com/) @teslamotors she is related to a rapper with Grammys so she is really volatile and indanger of being enslaved by sex traffickers @dhs-gov ask that Asian man why he on camera with that little girl ? [`Halle Bailey Warns Twitter To ‘Keep It Cute’ Amidst Sister Chloe’s Criticism: ‘I Go To War For The Ones I Love’](https://www.yahoo.com/news/halle-bailey-warns-twitter-keep-174330188.html)
