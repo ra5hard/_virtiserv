@@ -3,6 +3,16 @@ layout: default
 ---
 
 
+[https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song)](https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song))
+
+# _J. Cole - She Knows (Explicit Video) ft. [Amber Coffman](https://www.youtube.com/watch?v=twCZQWTZxDM), [Cults](https://www.youtube.com/watch?v=eAM9diyVRiM)_
+[WATCH - youtu.be/jYdaQJzcAcw?si=tyyISLjoDneflr_R](https://youtu.be/jYdaQJzcAcw?si=tyyISLjoDneflr_R) +++++++ [Dirty Projectors - Stillness Is The Move (Official Video)](https://youtu.be/YMPF6lpM0XM?si=kYQluO_YX4JwKKXT) 
+
+<img  alt="image @howard-university-web-services @nasa-jpl " src="https://github.com/user-attachments/assets/26647cc8-0860-47ba-bfef-06731f6c9d34" />
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Fs9cdPDhptWEDJmiCbkEW?utm_source=generator&si=c2f703fcdb674cf1" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## Did [Drake](https://www.youtube.com/hashtag/drake) Snitch on [YG](https://www.youtube.com/hashtag/yg)?! Drakeo the Ruler Murder Conspiracy Gets CRAZY! [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
 [Watch - youtube.com/watch?v=X_odzc2oPo0 @dhs-gov @nasa @FemaGov @fbicyber ](https://www.youtube.com/watch?v=X_odzc2oPo0)
 The Mornings With Mero crew breaks down the wild rumors swirling around Drake allegedly funneling information to the feds about YG's alleged involvement in the murder of Drakeo the Ruler. From Glasses Malone's IG story to YG's cryptic "B Team Rollout, Red Alert" post, we unpack what it all means, the conspiracy theories connecting Drake and DJ Academics, and why rappers keep putting sensitive info out in public IG stories instead of keeping it private. 
