@@ -8,6 +8,8 @@ _News Conference (Aug. 3, 2026)_ [@SpaceExplorationTechnologies](https://github.
 @Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia - [rashard](https://ra5hard.github.io/) hi @BLACKGiRLSCODE @cbs-news-data
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDUtReQSlb0?si=jkCSpR3_K2W3waiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+# `This account has been permanently banned.
+## Check your inbox for a message with more information.`
 [https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/comment/nb0vwgo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/comment/nb0vwgo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 Dizzy-Decision-2115
