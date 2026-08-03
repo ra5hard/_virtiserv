@@ -2,6 +2,21 @@
 layout: default
 ---
 
+## @NASA's SpaceX Crew-13 Mission Overview 
+_News Conference (Aug. 3, 2026)_ [@SpaceExplorationTechnologies](https://github.com/spaceexplorationtechnologies) // [r-spacex](https://github.com/r-spacex) ++ [@Reddit reddit.com/r/spacex/ @nasa-pds @CityOfLosAngeles](reddit.com/r/spacex/)
+
+@Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia - [rashard](https://ra5hard.github.io/) hi @BLACKGiRLSCODE @cbs-news-data
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IDUtReQSlb0?si=jkCSpR3_K2W3waiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[reddit.com/r/spacex/?rdt=43035&logging_in=true](reddit.com/r/spacex/?rdt=43035&logging_in=true)
+<img   alt="image" src="https://github.com/user-attachments/assets/43af350f-7739-4e64-a703-98886d9ce4a5" />
+
+<img alt="image @BLACKGiRLSCODE @cbs-news-data @Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia  " src="https://github.com/user-attachments/assets/265d1ba4-e025-40a8-808b-c77864eefce4" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/999f2fb7-ab2e-43aa-8eb3-8111622781ea" />
+
+
+
 ## Education For Death 1943
 by D.D.Teoli Jr. A.C. [Fandom](https://disney.fandom.com/wiki/Education_for_Death)
 [@CSPAN](https://www.c-span.org/program/american-history-tv/education-for-death/532290)
