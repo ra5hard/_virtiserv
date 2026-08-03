@@ -8,6 +8,13 @@ _News Conference (Aug. 3, 2026)_ [@SpaceExplorationTechnologies](https://github.
 @Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia - [rashard](https://ra5hard.github.io/) hi @BLACKGiRLSCODE @cbs-news-data
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDUtReQSlb0?si=jkCSpR3_K2W3waiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/comment/nb0vwgo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/comment/nb0vwgo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+Dizzy-Decision-2115
+•1y ago [de·i·fy/ˈdēəˌfī/verb](https://www.merriam-webster.com/dictionary/deify)
+
+worship, regard, or treat (someone or something) as a god. <~ meditate on that... they like garbage men at the end of the day bc they make super cool shit ppl steal, you gotta be ok with that! And what they tell you in your face. I still dont trust my contractor Mori and Associates but if Jose not dead I can show him the badge they gave me for my space station role in helpdesk at mission control... Knowing all operating systems is a plus to get grounded to recive #ALOT_OF_INFORMATiON!!!!!!!!!!!! then you can post again about school -Rashard u/nasa #MARS/#JPL
+
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
 <a href="https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/how_much_does_the_college_you_go_to_matter/">How much does the college you go to matter?</a><br> by
 <a href="https://www.reddit.com/user/Key_Insurance_8493/">u/Key_Insurance_8493</a> in
