@@ -4,9 +4,15 @@ layout: default
 
 ## @NASA's SpaceX Crew-13 Mission Overview 
 _News Conference (Aug. 3, 2026)_ [@SpaceExplorationTechnologies](https://github.com/spaceexplorationtechnologies) // [r-spacex](https://github.com/r-spacex) ++ [@Reddit reddit.com/r/spacex/ @nasa-pds @CityOfLosAngeles](reddit.com/r/spacex/)
-
+[WATCH - @nasa-jpl youtube.com/live/IDUtReQSlb0?si=M2k7z8F56IRk-zu7](https://www.youtube.com/live/IDUtReQSlb0?si=M2k7z8F56IRk-zu7)
 @Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia - [rashard](https://ra5hard.github.io/) hi @BLACKGiRLSCODE @cbs-news-data
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDUtReQSlb0?si=jkCSpR3_K2W3waiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
+<a href="https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/how_much_does_the_college_you_go_to_matter/">How much does the college you go to matter?</a><br> by
+<a href="https://www.reddit.com/user/Key_Insurance_8493/">u/Key_Insurance_8493</a> in
+<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a>
+</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 [reddit.com/r/spacex/?rdt=43035&logging_in=true](reddit.com/r/spacex/?rdt=43035&logging_in=true)
 <img   alt="image" src="https://github.com/user-attachments/assets/43af350f-7739-4e64-a703-98886d9ce4a5" />
