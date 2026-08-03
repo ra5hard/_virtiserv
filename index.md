@@ -2,11 +2,26 @@
 layout: default
 ---
 
+
+# The Keyport Cancer Crisis & Elon Musk’s AI Lawsuit | The Daily Drop
+[WATCH - youtu.be/mQ7uVEiLWMQ?si=3Wi0a1dMl96YnWH5](https://youtu.be/mQ7uVEiLWMQ?si=3Wi0a1dMl96YnWH5)
+@nasa-jpl please don't hold our relationship status against her having a press interview, she is highly educated from @howard-university-web-services and I'm pretty sure she is [Halle]() of [Chloe and HAlle]()
+<img  alt="image" src="https://github.com/user-attachments/assets/239e85eb-bb25-41cf-bd7c-bd0791f31946" />
+
+
 ## @NASA's SpaceX Crew-13 Mission Overview 
 _News Conference (Aug. 3, 2026)_ [@SpaceExplorationTechnologies](https://github.com/spaceexplorationtechnologies) // [r-spacex](https://github.com/r-spacex) ++ [@Reddit reddit.com/r/spacex/ @nasa-pds @CityOfLosAngeles](reddit.com/r/spacex/)
 [WATCH - @nasa-jpl youtube.com/live/IDUtReQSlb0?si=M2k7z8F56IRk-zu7](https://www.youtube.com/live/IDUtReQSlb0?si=M2k7z8F56IRk-zu7)
 @Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia - [rashard](https://ra5hard.github.io/) hi @BLACKGiRLSCODE @cbs-news-data
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IDUtReQSlb0?si=jkCSpR3_K2W3waiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[tiktok.com/@chloexhalleofficial](https://www.tiktok.com/@chloexhalleofficial)
+@emerginCoders [Dojacat](https://www.dojacat.com/) hi CHloe and HAlle ned @tiktok account help @nasa-jpl what are the boundaries of small business support... They are so pretty their beauty makes me feel isolated bc they love making unauthorized biographies and docs about us @nasa-giss @nasa-develop @doug-newman-nasa 
+```
+Something went wrong
+Sorry about that! Please try again later.
+```
+<img alt="image" src="https://github.com/user-attachments/assets/26e74b8b-87e8-446f-9715-44f882f409cc" />
 
 
 ## [BLXST](https://en.wikipedia.org/wiki/Talk:Blxst) Explains Traumatic Home Invasion, [Tyler, the Creator](https://en.wikipedia.org/wiki/Talk:Tyler,_the_Creator) & Breaks Down LA Music
