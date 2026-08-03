@@ -10,6 +10,9 @@ The Mornings With Mero crew breaks down the wild rumors swirling around Drake al
 Plus: J. Cole's electrifying concert (that half the crew missed), the ongoing Dreamville "ban" debate, why music fans shouldn't have to pick sides in rap beefs, and Jim Jones' controversial take on kitten heels in the club — the ladies clap back. - [_Hot97_](https://www.youtube.com/hashtag/hot97)
 <img  alt="image" src="https://github.com/user-attachments/assets/0d0cdecf-346c-4bfa-bf7a-c93e0522e7a8" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 ## Juno Orbit 73
 [@nasa-pds planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/`JUPITER/ORBIT_73`/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
