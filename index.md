@@ -3,8 +3,15 @@ layout: default
 ---
 
 
-# HOT 97 News Live! 8/3/26
-@howard-university-web-services . . . @nasa-jpl that was the address I was instructed to mention if I'm doing work for them @blackgirlscode \
+# HOT 97 News Live! 8/3/26 [Chlöe](https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ)
+[https://www.chloebailey.net/](https://www.chloebailey.net/) @blackgirlsco
+@howard-university-web-services . . . @nasa-jpl that was the address I was instructed to tion if I'm doing work for them @blackgirlscode \ @USnavy Chlöe bailey got a whitwoman porn on her page @la-county-isd @podaac for hosting ? @nasa-pds @nasa-jpl 
+
+[WATCH - youtube.com/live/vmq2bxtjOds?si=Lti-FTgeYVTKF2ZH](https://www.youtube.com/live/vmq2bxtjOds?si=Lti-FTgeYVTKF2ZH)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ed98a01-8849-43ae-a3fb-cdc4dcbb77dc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fedd07f8-b90a-4b69-80b2-bb72a72e59ac" />
+
 
 ```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vmq2bxtjOds?si=f450gnkowRfIxm0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
