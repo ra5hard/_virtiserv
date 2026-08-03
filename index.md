@@ -16,7 +16,11 @@ BLXST stopped by HOT 97 to talk to Nessa about his new album, Labor of Love, and
 BLXST also gets candid about one of the most difficult moments of his life, revealing how a home invasion involving his family inspired one of the album's most emotional songs. He talks about fatherhood, raising two sons, balancing family with his career, and the legacy he hopes to leave behind. Labor of Love is out now. Watch our full conversation with BLXST on HOT 97. [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
 <img  alt="image" src="https://github.com/user-attachments/assets/14ef637f-0418-4b3b-8b15-7a649fdb79ac" />
 
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">LONG BEACH , CA • TOMORROW <br>1PM <a href="https://x.com/VIPLONGBEACH?ref_src=twsrc%5Etfw">@VIPLONGBEACH</a> <a href="https://t.co/SpQjcjCPUv">pic.twitter.com/SpQjcjCPUv</a></p>&mdash; BLXST (@BLXST) <a href="https://x.com/BLXST/status/2078250483245023631?ref_src=twsrc%5Etfw">July 17, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">interview with dj drama is from 2022, out now</p>&mdash; T (@tylerthecreator) <a href="https://x.com/tylerthecreator/status/2061931033096835291?ref_src=twsrc%5Etfw">June 2, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
 <a href="https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/how_much_does_the_college_you_go_to_matter/">How much does the college you go to matter?</a><br> by
