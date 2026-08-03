@@ -3,6 +3,87 @@ layout: default
 ---
 
 
+### DOD Instruction 1035.01, “Telework and Remote Work”
+@blackgirlscode [VirtiservAstro](https://www.facebook.com/thevirtiservway/) Remember im from the garage / fire dept so im learning how to file @la-county-isd @StateOFCalifornia they sent me on a scavenger hunt --- @newshour 
+
+DOD Instruction 1035.01, “Telework and Remote,” establishes policy, assigns responsibilities, and prescribes procedures for implementing DOD telework and remote work programs. This policy replaces DOD Instruction 1035.01, “Telework Policy,” dated April 4, 2012.
+
+@deptofdefense @nasa-giss @blackgirlscode @la-county-isd @cityoflosangeles @nasa-jpl @whitehouse @nasa-giss
+[Telework and Remote Work Toolkit](https://www.dcpas.osd.mil/policy/worklife/telework-remote-work)
+
+[dcpas.osd.mil/sites/default/files/2025-02/Initial%20Department%20of%20Defense%20Implementation%20Guidance%20Return%20to%20In-Person%20Work.pdf](https://www.dcpas.osd.mil/sites/default/files/2025-02/Initial%20Department%20of%20Defense%20Implementation%20Guidance%20Return%20to%20In-Person%20Work.pdf)
+<img   alt="image" src="https://github.com/user-attachments/assets/ef7c0603-3103-4eb8-8cf7-bb6febaf9a79" />
+
+![https://kathrynbarger.lacounty.gov/wp-content/uploads/2025/12/white-logo-1.png @longbeachinnovationteam @voyager-tech-inc](https://kathrynbarger.lacounty.gov/wp-content/uploads/2025/12/white-logo-1.png) 
+
+
+<picture>
+ 
+  <source
+    srcset="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b"
+  />
+    <source
+    srcset="https://planetarydata.jpl.nasa.gov/images/PDSIMG_logo.png"
+  />
+
+
+
+  <img  alt="image" src="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b" />
+  
+</picture>
+
+@blackgirlscode @nbcnews [Jared](https://youtu.be/8VwRdui50FY?si=dVJh20tr5-67AHkv) π [Jupiter @nasa Saving Gallileo📺🛰️📡🪐](https://youtu.be/aezcXjKYZkM?si=8g6V30fpvS11BKzs)
+
+@nasa-jpl i dont know how to write if things are changing a lot 
+
+Memorandum for Chief Human Capital Officers [READ](https://www.opm.gov/chcoc/latest-memos/2025-guide-to-telework-and-remote-work-in-the-federal-government.pdf)
+From: Veronica E. Hinton
+Associate Director
+Workforce Policy and Innovation
+Subject: **Guide to Telework and Remote Work in the Federal Government**
+On January 20, 2025, President Donald J. Trump signed a Presidential Memorandum
+(PM) titled, [Return to In-Person Work](https://www.federalregister.gov/documents/2025/01/28/2025-01907/return-to-in-person-work), which instructed Executive department and
+agency heads to “take all necessary steps to terminate remote work arrangements and
+require employees to return to work in-person at their respective duty stations on a
+full-time basis.” 
+[web.archive.org/web/20251207034849/https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf](https://web.archive.org/web/20251207034849/https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf)
+[https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf](https://www.opm.gov/policy-data-oversight/future-of-the-workforce/hybrid-work-environment-toolkit/prepare-to-transition-checklist.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8bc48576-6d40-433a-be16-3152cd355a62" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9302b59f-ecb5-4bfc-8642-64ed7c598e4f" />
+
+
+@Nasa-pds
+While using the [DeepSpaceNetwork](https://www.nasa.gov/communicating-with-missions/dsn/) monitoring tool [DSN _NOW_](https://eyes.nasa.gov/apps/dsn-now/dsn.html) and soaw Juno transmitting data. I dont know who controls these things , but @usgs stores in more portable formats... I guess its architecture to explore for the lab, Alot of sites are here on github @CityOfLosAngeles Karenbass / HollyMitchell i spend a lot of time browsing because wheni find repos i can work, thats how we work in this era 
+
+
+
+_Overview of the FITS Data Format_ [Link - heasarc.gsfc.nasa.gov/docs/heasarc/fits_overview.html](https://heasarc.gsfc.nasa.gov/docs/heasarc/fits_overview.html) [[1](https://danmoser.github.io/notes/gai_fits-imgs.html)]
+FITS was originally developed in the late 1970's as an archive and interchange format for astronomical data files. In the past decade FITS has also come into wide use as an on-line file format that can be directly read and written by data analysis software. FITS is much more than just another image format (such as JPG or GIF) and is primarily designed to store scientific data sets consisting of multidimensional arrays and 2-dimensional tables containing rows and columns of data.
+@blackgirlscode @nasa-pds im going to check on [juno](https://pds-ppi.igpp.ucla.edu/mission/JUNO) @la-county-isd was the big bear man angry with me with the isd hat on @LACMTA? 
+
+[Deep Space Network Explainer Video: How Do We Know Where Faraway Spacecraft Are?](https://www.nasa.gov/stem-content/deep-space-network-explainer-video-how-do-we-know-where-faraway-spacecraft-are/) `books` [Uplink-Downlink A History of the `Deep Space Network` 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) :: [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) [Read You Loud and Clear! - _dEEPsPACEnETWORK @NASA-JPL_](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) :: [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) [Rover ControL an Planning Software ](https://human-factors.arc.nasa.gov/publications/COCPIT_Mars_Perseverance_Rover.pdf) [AMMOS offers an Suite of tools for Real-time Monitoring and Control of a Spacecraft](https://ammos.nasa.gov/pdf/Brochure-Monitor-Control-Solution.pdf) part of the - Ground Data System (GDS) tool suite 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8216048e-0012-4942-b306-2930a9dd119a" />
+
+
+<picture>: The Picture element [docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/picture) @mdn @geeksforgeeks [Tut](https://www.w3schools.com/tags/tag_picture.asp) @w3schools @blackgirlscode @la-county-isd @cityoflosangeles @stateofcalifornia
+
+```
+<picture>
+ 
+  <source
+    srcset="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b"
+  />
+    <source
+    srcset="https://planetarydata.jpl.nasa.gov/images/PDSIMG_logo.png"
+  />
+  <img width="933" height="176" alt="image" src="https://github.com/user-attachments/assets/bfc50bfe-972a-48ab-b6b2-b098f0666e6b" />
+  
+</picture>
+```
+
 [https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song)](https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song))
 
 # _J. Cole - She Knows (Explicit Video) ft. [Amber Coffman](https://www.youtube.com/watch?v=twCZQWTZxDM), [Cults](https://www.youtube.com/watch?v=eAM9diyVRiM)_
