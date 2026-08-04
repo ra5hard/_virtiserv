@@ -72,6 +72,9 @@ To: <holetoanotheruniverse40@gmail.com>
 @nasa-pds [Watch - youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC](https://www.youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC)
 <img alt="image" src="https://github.com/user-attachments/assets/82c8831b-0d65-46d3-b59c-5bf9ac1478bc" />
 
+
+<img Alt="image" src="https://github.com/user-attachments/assets/32a8cc3a-b155-483e-bc0c-b5dee1232572" />
+
 # Digging Into [Trump](https://www.whitehouse.gov/administration/donald-j-trump/)'s Speech, 
 Robot MMA Fight, The Odyssey, San Fermín Festival : HOT 97 News 7/17/26
 [WATCH - youtu.be/d8D5w1uuSwI?si=g9b9yossyMkJqgts](https://youtu.be/d8D5w1uuSwI?si=g9b9yossyMkJqgts)
