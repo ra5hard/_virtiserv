@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<img alt="GIOVANNI-outputG02VOBir" src="https://github.com/user-attachments/assets/dc626bfd-7719-499e-99f2-8e865a2d506b" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/36cbfe11-eb15-4a6f-a525-ef75bfc09c8a" />
 
 
