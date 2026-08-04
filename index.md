@@ -2,6 +2,34 @@
 layout: default
 ---
 
+# 
+"The Whole World Is On Fire": The Global Wildfire Outbreak
+@howard-university-web-services 
+[WATCH - youtube.com/watch?v=K45NFimZq1Q](https://www.youtube.com/watch?v=K45NFimZq1Q)
+<img  alt="image" src="https://github.com/user-attachments/assets/02e8fada-2422-453b-b6c9-2340680fc574" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/68be8273-cbc4-4df6-a0e0-a0066c2ac857" />
+
+[github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| hot97.com | vivienne.ns.cloudflare.com. | 21600 | 
+| hot97.com | denver.ns.cloudflare.com. | 21600 | 
+
+| Mx Record | hot97-com.mail.protection.outlook.com. | 
+| -----------|----------------------------------------|
+| IP | 52.101.42.16 | 
+| Status | Success | 
+| Test duration(ms) | 73 | 
+| AS Number | AS8075 | 
+| Organization | Microsoft Corporation | 
+| Domain | microsoft.com | 
+| Country | United States | 
+| Abuse Contact | Network : 52.96.0.0-52.115.255.255<br />Name : Microsoft Abuse Contact<br />Email : abuse@microsoft.com<br />Phone : +1-425-882-8080<br />Address : US, WA, Redmond, One Microsoft Way, 98052<br />Country: US<br /> | | Mx Record | hot97-com.mail.protection.outlook.com. | 
+
 External site 
 
 The host or presenter would like @Webex Meetings to open a website on your computer. @Cisco is not responsible for the content or availability of external sites. We recommend that you make sure this website content is from a trusted source. If you view this page or go to this site, you will be subject to the privacy policy and terms and conditions of the destination site.
