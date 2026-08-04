@@ -12,6 +12,37 @@ layout: default
 | federallabs.org | stanley.ns.cloudflare.com. | 21600 | 
 | federallabs.org | maria.ns.cloudflare.com. | 21600 | 
 
+# MX Records 
+
+## us-smtp-inbound-1.mimecast.com.
+
+| Mx Record | us-smtp-inbound-1.mimecast.com. | 
+| -----------|---------------------------------|
+| IP | 170.10.128.221 | 
+| Status | Success | 
+| Test duration(ms) | 17 | 
+| AS Number | AS30031 | 
+| Organization | Mimecast North America Inc | 
+| Domain | mimecast.com | 
+| Country | United States | 
+| Abuse Contact | Network : 170.10.128.0/19<br />Name : MIMEC-ABUSE<br />Email : abuse@mimecast.com<br />Phone : +1-617-393-7050<br />Address : US, MA, Lexington, 191 Spring St, 02421<br />Country: US<br /> | 
+
+## us-smtp-inbound-2.mimecast.com.
+
+| Mx Record | us-smtp-inbound-2.mimecast.com. | 
+| -----------|---------------------------------|
+| IP | 170.10.128.141 | 
+| Status | Success | 
+| Test duration(ms) | 18 | 
+| AS Number | AS30031 | 
+| Organization | Mimecast North America Inc | 
+| Domain | mimecast.com | 
+| Country | United States | 
+| Abuse Contact | Network : 170.10.128.0/19<br />Name : MIMEC-ABUSE<br />Email : abuse@mimecast.com<br />Phone : +1-617-393-7050<br />Address : US, MA, Lexington, 191 Spring St, 02421<br />Country: US<br /> | 
+
+
+
+
 <img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/5a1f7065-119e-47f2-8a57-7828fff4986c" />
 
 
