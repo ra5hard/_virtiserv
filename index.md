@@ -2,6 +2,12 @@
 layout: default
 ---
 
+
+LIVE NEWS: FOX LOCAL Atlanta 24/7 Live Stream
+[Watch - youtube.com/watch?v=egVaFAi74cI](https://www.youtube.com/watch?v=egVaFAi74cI)
+@foxnews @fox
+<img alt="image" src="https://github.com/user-attachments/assets/7554b969-ba63-460e-b126-d6038f2d7579" />
+
 ## THE HEALTH EFFECTS OF
 # CoNDUCTED ENERGY WEAPONS
 
