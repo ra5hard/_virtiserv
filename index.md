@@ -3,6 +3,11 @@ layout: default
 ---
 
 
+# NASA Earth Observations for Reservoir and Water Utility Management
+@blackgirlscode hi @howard-university-web-services
+<img alt="image" src="https://github.com/user-attachments/assets/52cdaab3-ecb2-41df-9e13-981d1f8e111d" />
+
+
 # Israel Sabotaging The Gaza Deal?
 [Wildfires Everywhere](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-112.3,42.3,6.0z), [Ariana Grande](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-112.3,42.3,6.0z)'s Health : HOT 97 News 8/3/26 @usatoday @newshour @nasa-jpl `newsroom` @howard-university-web-services @emergingcoders @blackgirlscode 
 [WATCH - youtu.be/B_4VOG02JTg?si=YRv8So99J726PajF](https://youtu.be/B_4VOG02JTg?si=YRv8So99J726PajF)
