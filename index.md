@@ -4,6 +4,8 @@ layout: default
 
 # Tomorrow ~
 
+@nasa-pds [Watch - youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC](https://www.youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC)
+<img alt="image" src="https://github.com/user-attachments/assets/82c8831b-0d65-46d3-b59c-5bf9ac1478bc" />
 
 # Digging Into [Trump](https://www.whitehouse.gov/administration/donald-j-trump/)'s Speech, 
 Robot MMA Fight, The Odyssey, San Fermín Festival : HOT 97 News 7/17/26
