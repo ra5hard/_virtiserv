@@ -3,6 +3,44 @@ layout: default
 ---
 
 
+
+#  Funeral Director Arrested for Stealing $2.2M Estate
+@howard-university-web-services 
+[WATCH @nasa-jpl she need viewers! youtu.be/JeR0tCr3F2c?si=T1HQ5DyXuYjC4Z7w](https://youtu.be/JeR0tCr3F2c?si=T1HQ5DyXuYjC4Z7w)
+<img   alt="image" src="https://github.com/user-attachments/assets/0a8bef8d-caaa-4480-b7c1-6b242be25455" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7720e49a-96dc-4c4f-9775-56aa8b11d2e4" />
+
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| hot97.com | vivienne.ns.cloudflare.com. | 21600 | 
+| hot97.com | denver.ns.cloudflare.com. | 21600 | 
+
+
+
+# MX Records 
+
+## hot97-com.mail.protection.outlook.com.
+
+| Mx Record | hot97-com.mail.protection.outlook.com. | 
+| -----------|----------------------------------------|
+| IP | 52.101.42.16 | 
+| Status | Success | 
+| Test duration(ms) | 73 | 
+| AS Number | AS8075 | 
+| Organization | Microsoft Corporation | 
+| Domain | microsoft.com | 
+| Country | United States | 
+| Abuse Contact | Network : 52.96.0.0-52.115.255.255<br />Name : Microsoft Abuse Contact<br />Email : abuse@microsoft.com<br />Phone : +1-425-882-8080<br />Address : US, WA, Redmond, One Microsoft Way, 98052<br />Country: US<br /> | 
+
+
+
+
+
 ## FIRO: Agile Reservoir Management Saves Millions Through Smart Forecasting
 [link - federallabs.org/flc-highlights/awards/firo-agile-reservoir-management](https://federallabs.org/flc-highlights/awards/firo-agile-reservoir-management)
 # NS Records 
