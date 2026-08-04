@@ -26,7 +26,12 @@ permalink: losangeles
 </picture>
 
 
-[https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4221131205-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.82046125&long=-118.51938603088962&zoom=9.515931928384592](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4221131205-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.82046125&long=-118.51938603088962&zoom=9.515931928384592)
+[EMIT_L1B_RAD_001_20260602T180011_2615312_003/EMIT_L1B_RAD_001_20260602T180011_2615312_003.png @EMIT-SDS @lA-COUNTY-ISD @CITYOFLOSANgELES](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4207410245-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.6615906&long=-118.12857959102142&zoom=9.430587593607589)
+
+<img  alt="EMIT_L1B_RAD_001_20260602T180011_2615312_003  @CITYOFLOSANGELES @NOAAGOV @COMMERCEGOV @FBICYBER @STATEOFCALIFORNIA @EMIT-SDS @HOWARD-UNIVERSITY-WEB-SERVICES" src="https://github.com/user-attachments/assets/990b81e1-cdac-48f0-8f05-5b20122d9dd9" />
+
+
+[search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4221131205-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.82046125&long=-118.51938603088962&zoom=9.515931928384592](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4221131205-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.82046125&long=-118.51938603088962&zoom=9.515931928384592)
 
 <img  alt=" @CITYOFLOSANGELES @NOAAGOV @COMMERCEGOV @FBICYBER @STATEOFCALIFORNIA @EMIT-SDS EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/6178ff06-fb8a-4096-a58f-a5ca6000bbfc" />
 
