@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+[CHiLE RainFALL - https://worldview.earthdata.nasa.gov/?v=-75.960825,-44.011475,-66.679575,-27.417724999999997&z=4&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,IMERG_Precipitation_Rate_30min,IMERG_Precipitation_Rate,BlueMarble_NextGeneration,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&s=33.9419,-24.2681%2B-71.3202,-35.7146&t=2026-07-25-T00%3A00%3A00Z=(https://worldview.earthdata.nasa.gov/?v=-75.960825,-44.011475,-66.679575,-27.417724999999997&z=4&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,IMERG_Precipitation_Rate_30min,IMERG_Precipitation_Rate,BlueMarble_NextGeneration,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&s=33.9419,-24.2681%2B-71.3202,-35.7146&t=2026-07-25-T00%3A00%3A00Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/46317466-1bbd-4bbd-b120-21aee65f564a" />
+
+
 # NASA Earth Observations for Reservoir and Water Utility Management
 @blackgirlscode hi @howard-university-web-services
 <img alt="image" src="https://github.com/user-attachments/assets/52cdaab3-ecb2-41df-9e13-981d1f8e111d" />
