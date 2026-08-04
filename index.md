@@ -2,7 +2,7 @@
 layout: default
 ---
 
-@webex, why was i removed from my training ? [Rashard @nasa-openscapes @doug-newman-nasa]
+@webex, why was i removed from my training ? [Rashard @nasa-openscapes @doug-newman-nasa] @nasa-pds @nasa-jpl @nasa-giss @nasa-develop 
 <img alt="image" src="https://github.com/user-attachments/assets/7b2c68ed-450c-47d9-91ad-d7d72b8abb9f" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/530c7ce0-4935-49ba-a674-a5d153db3342" />
