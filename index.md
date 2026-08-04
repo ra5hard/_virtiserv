@@ -2,6 +2,11 @@
 layout: default
 ---
 
+@webex, why was i removed from my training ? [Rashard @nasa-openscapes @doug-newman-nasa]
+<img alt="image" src="https://github.com/user-attachments/assets/7b2c68ed-450c-47d9-91ad-d7d72b8abb9f" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/530c7ce0-4935-49ba-a674-a5d153db3342" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/c0ae44ec-f269-42ea-8156-1f821d622653" />
 
 [CHiLE RainFALL - worldview.earthdata.nasa.gov/?v=-75.960825,-44.011475,-66.679575,-27.417724999999997&z=4&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden)](https://worldview.earthdata.nasa.gov/?v=-75.960825,-44.011475,-66.679575,-27.417724999999997&z=4&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,IMERG_Precipitation_Rate_30min,IMERG_Precipitation_Rate,BlueMarble_NextGeneration,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&s=33.9419,-24.2681%2B-71.3202,-35.7146&t=2026-07-25-T00%3A00%3A00Z)
