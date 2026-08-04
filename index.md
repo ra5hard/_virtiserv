@@ -3,6 +3,27 @@ layout: default
 ---
 
 # Tomorrow ~
+[https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song)](https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song))
+
+# _J. Cole - She Knows (Explicit Video) ft. [Amber Coffman](https://www.youtube.com/watch?v=twCZQWTZxDM), [Cults](https://www.youtube.com/watch?v=eAM9diyVRiM)_
+[WATCH - youtu.be/jYdaQJzcAcw?si=tyyISLjoDneflr_R](https://youtu.be/jYdaQJzcAcw?si=tyyISLjoDneflr_R) +++++++ [Dirty Projectors - Stillness Is The Move (Official Video)](https://youtu.be/YMPF6lpM0XM?si=kYQluO_YX4JwKKXT) 
+
+<img  alt="image @howard-university-web-services @nasa-jpl " src="https://github.com/user-attachments/assets/26647cc8-0860-47ba-bfef-06731f6c9d34" />
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Fs9cdPDhptWEDJmiCbkEW?utm_source=generator&si=c2f703fcdb674cf1" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Did [Drake](https://www.youtube.com/hashtag/drake) Snitch on [YG](https://www.youtube.com/hashtag/yg)?! Drakeo the Ruler Murder Conspiracy Gets CRAZY! [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
+[Watch - youtube.com/watch?v=X_odzc2oPo0 @dhs-gov @nasa @FemaGov @fbicyber ](https://www.youtube.com/watch?v=X_odzc2oPo0)
+The Mornings With Mero crew breaks down the wild rumors swirling around Drake allegedly funneling information to the feds about YG's alleged involvement in the murder of Drakeo the Ruler. From Glasses Malone's IG story to YG's cryptic "B Team Rollout, Red Alert" post, we unpack what it all means, the conspiracy theories connecting Drake and DJ Academics, and why rappers keep putting sensitive info out in public IG stories instead of keeping it private. 
+
+Plus: J. Cole's electrifying concert (that half the crew missed), the ongoing Dreamville "ban" debate, why music fans shouldn't have to pick sides in rap beefs, and Jim Jones' controversial take on kitten heels in the club — the ladies clap back. - [_Hot97_](https://www.youtube.com/hashtag/hot97)
+<img  alt="image" src="https://github.com/user-attachments/assets/0d0cdecf-346c-4bfa-bf7a-c93e0522e7a8" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 ## Fwd: Registration approved for Webex webinar: Part 1: Data Requirements for Reservoir Management
 11am @nasa-openscapes @doug-newman-nasa
 @cityoflosangeles @usgs @blackgirlscode [AGENDA - earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf) // [Register @emergingcoders @nasa-giss](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
@@ -31,6 +52,7 @@ To: <holetoanotheruniverse40@gmail.com>
 <img alt="image" src="https://github.com/user-attachments/assets/470fc0d8-ceba-4ece-9e41-f9a5fbe7b8ef" />
 
 
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png](https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png)
 
 @nasa-pds [Watch - youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC](https://www.youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC)
 <img alt="image" src="https://github.com/user-attachments/assets/82c8831b-0d65-46d3-b59c-5bf9ac1478bc" />
@@ -169,26 +191,6 @@ FITS was originally developed in the late 1970's as an archive and interchange f
 </picture>
 ```
 
-[https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song)](https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song))
-
-# _J. Cole - She Knows (Explicit Video) ft. [Amber Coffman](https://www.youtube.com/watch?v=twCZQWTZxDM), [Cults](https://www.youtube.com/watch?v=eAM9diyVRiM)_
-[WATCH - youtu.be/jYdaQJzcAcw?si=tyyISLjoDneflr_R](https://youtu.be/jYdaQJzcAcw?si=tyyISLjoDneflr_R) +++++++ [Dirty Projectors - Stillness Is The Move (Official Video)](https://youtu.be/YMPF6lpM0XM?si=kYQluO_YX4JwKKXT) 
-
-<img  alt="image @howard-university-web-services @nasa-jpl " src="https://github.com/user-attachments/assets/26647cc8-0860-47ba-bfef-06731f6c9d34" />
-
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0Fs9cdPDhptWEDJmiCbkEW?utm_source=generator&si=c2f703fcdb674cf1" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-## Did [Drake](https://www.youtube.com/hashtag/drake) Snitch on [YG](https://www.youtube.com/hashtag/yg)?! Drakeo the Ruler Murder Conspiracy Gets CRAZY! [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
-[Watch - youtube.com/watch?v=X_odzc2oPo0 @dhs-gov @nasa @FemaGov @fbicyber ](https://www.youtube.com/watch?v=X_odzc2oPo0)
-The Mornings With Mero crew breaks down the wild rumors swirling around Drake allegedly funneling information to the feds about YG's alleged involvement in the murder of Drakeo the Ruler. From Glasses Malone's IG story to YG's cryptic "B Team Rollout, Red Alert" post, we unpack what it all means, the conspiracy theories connecting Drake and DJ Academics, and why rappers keep putting sensitive info out in public IG stories instead of keeping it private. 
-
-Plus: J. Cole's electrifying concert (that half the crew missed), the ongoing Dreamville "ban" debate, why music fans shouldn't have to pick sides in rap beefs, and Jim Jones' controversial take on kitten heels in the club — the ladies clap back. - [_Hot97_](https://www.youtube.com/hashtag/hot97)
-<img  alt="image" src="https://github.com/user-attachments/assets/0d0cdecf-346c-4bfa-bf7a-c93e0522e7a8" />
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 ## Juno Orbit 73
 [@nasa-pds planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/`JUPITER/ORBIT_73`/JNCR_2025159_73C00021_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0033/EXTRAS/FULL/RDR/JUPITER/ORBIT_73/JNCR_2025159_73C00021_V01.PNG)
