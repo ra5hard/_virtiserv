@@ -2,6 +2,18 @@
 layout: default
 ---
 
+## THE HEALTH EFFECTS OF
+# CoNDUCTED ENERGY WEAPONS
+
+[ @spaceexplorationtechnologies https://youtu.be/krZhzn-Pe-g?is=uWHElbzmzLiw87wR](https://youtu.be/krZhzn-Pe-g?is=uWHElbzmzLiw87wR)
+
+[ @cityoflosangeles KARENBASS - HOLLYMitchell @la-county-isd prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/8d3b0c78-7e11-407c-bc6f-49a1b2fc27da" />
+[https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+
+
 
 
 # "The Whole World Is On Fire": The Global [Wildfire Outbreak](https://ecostress.jpl.nasa.gov/wildfire_gallery)
