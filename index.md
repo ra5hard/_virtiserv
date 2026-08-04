@@ -3,7 +3,13 @@ layout: default
 ---
 
 [https://swotviz.cuahsi.io/ @la-county-isd](https://swotviz.cuahsi.io)
-`/#/map?center={%22lat%22:38.47939467327645,%22lng%22:-12.304687500000002}&zoom=3&activeBaseLayerName=CartoDB_DarkMatterNoLabels&activeOverlays=[%22Lakes%22,%22Esri_Hydro_Reference_Overlay%22]` <~ @doug-newman-nasa @shopify @jekyll this link stopped me from building [virtiserv.github.io/actions/runs/30945121653/job/92113078071](https://github.com/virtiserv/virtiserv.github.io/actions/runs/30945121653/job/92113078071) @SWOT-community 
+
+{% raw %}
+
+/#/map?center={%22lat%22:38.47939467327645,%22lng%22:-12.304687500000002}&zoom=3&activeBaseLayerName=CartoDB_DarkMatterNoLabels&activeOverlays=[%22Lakes%22,%22Esri_Hydro_Reference_Overlay%22]
+
+{% endraw %}
+ <~ @doug-newman-nasa @shopify @jekyll this link stopped me from building [virtiserv.github.io/actions/runs/30945121653/job/92113078071](https://github.com/virtiserv/virtiserv.github.io/actions/runs/30945121653/job/92113078071) @SWOT-community 
 ` Liquid Exception: Liquid syntax error (line 13): Unknown tag '22lat' in index.md `
 
 <img   alt="image" src="https://github.com/user-attachments/assets/7bb4b101-2c45-4287-a150-b38867e7f68f" />
