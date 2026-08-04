@@ -3,6 +3,34 @@ layout: default
 ---
 
 # Tomorrow ~
+## Fwd: Registration approved for Webex webinar: Part 1: Data Requirements for Reservoir Management
+11am @nasa-openscapes @doug-newman-nasa
+@cityoflosangeles @usgs @blackgirlscod [AGENDA - earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf) // [Register @emergingcoders @nasa-giss](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/4a884206-a845-4a99-8703-3248111ed3f4" />
+
+```
+@HollyJMitchell@bos.lacounty.gov Mrs Mitchell, if i am imagining things about @chloe.bailey@gmail.com
+i would like to be corrected @normani@fifthharmonyofficial.com @Normaniofficial@outlook.com
+or crazy things about @lanajharris@gmail.com @onelana10@juno.com @nkordei@valdosta.edu
+can you work with family services to make my pickup gentle, i was lied to and cheated on!
+ @ksc-newsroom@mail.nasa.gov .............. @letschat@virtiserv.com @press@hot97.com
+@Small Business Programs Office @lanajharris@gmail.com hi i signed up for the late class
+ since my availability changed @atlantacouncil@atlantaga.gov @office@lafirstumc.org 
+
+---------- Forwarded message ---------
+From: NASA ARSET <messenger@webex.com>
+Date: Mon, Aug 3, 2026 at 11:07 AM
+Subject: Registration approved for Webex webinar: Part 1: Data Requirements for Reservoir Management
+To: <holetoanotheruniverse40@gmail.com>
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/56dab74a-0722-4872-8d25-f46bedc531ed" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/470fc0d8-ceba-4ece-9e41-f9a5fbe7b8ef" />
+
+
 
 @nasa-pds [Watch - youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC](https://www.youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC)
 <img alt="image" src="https://github.com/user-attachments/assets/82c8831b-0d65-46d3-b59c-5bf9ac1478bc" />
