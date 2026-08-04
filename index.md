@@ -23,7 +23,7 @@ _Gravity Recovery and Climate Experiment (GRACE)_ [info @nasa](https://sealevel.
 ## GRACE Groundwater Anomalies
 
 ![https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png](https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png)
-[@nasa-openscapes @nasa-jpl firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z) / [https://apps.geoglows.org/grace-groundwater](https://apps.geoglows.org/grace-groundwater) 
+[@nasa-openscapes @nasa-jpl firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z) / 
 
 Monitoring California Groundwater
 Released Wednesday, June 7, 2023
@@ -33,10 +33,10 @@ Released Wednesday, June 7, 2023
 
 [<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
 
-
+[apps.geoglows.org/grace-groundwater](https://apps.geoglows.org/grace-groundwater) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f8fec3ba-912a-4051-86ee-d50ab54cc2bf" />
-
+[apps.geoglows.org/grace-groundwater](https://apps.geoglows.org/grace-groundwater) 
 <img  alt="image" src="https://github.com/user-attachments/assets/ac7e640d-608f-4c7f-9fdb-b8f99a15098e" />
 
 [hydroviewer.geoglows.org/#lon=57.41&lat=25.94&zoom=5.27&definition=](https://hydroviewer.geoglows.org/#lon=57.41&lat=25.94&zoom=5.27&definition=)
