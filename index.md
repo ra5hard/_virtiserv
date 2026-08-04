@@ -3,6 +3,18 @@ layout: default
 ---
 
 
+## FIRO: Agile Reservoir Management Saves Millions Through Smart Forecasting
+[link - federallabs.org/flc-highlights/awards/firo-agile-reservoir-management](https://federallabs.org/flc-highlights/awards/firo-agile-reservoir-management)
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| federallabs.org | stanley.ns.cloudflare.com. | 21600 | 
+| federallabs.org | maria.ns.cloudflare.com. | 21600 | 
+
+<img width="1919" height="828" alt="image" src="https://github.com/user-attachments/assets/5a1f7065-119e-47f2-8a57-7828fff4986c" />
+
+
 <img   alt="image" src="https://github.com/user-attachments/assets/6c2bc842-1da2-4efc-9c95-07d9d090d130" />
 
 
