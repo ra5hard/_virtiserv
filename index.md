@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+
 # "The Whole World Is On Fire": The Global [Wildfire Outbreak](https://ecostress.jpl.nasa.gov/wildfire_gallery)
 @howard-university-web-services 
 [WATCH - youtube.com/watch?v=K45NFimZq1Q](https://www.youtube.com/watch?v=K45NFimZq1Q)
@@ -12,6 +14,10 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ac7e640d-608f-4c7f-9fdb-b8f99a15098e" />
 
+[hydroviewer.geoglows.org/#lon=57.41&lat=25.94&zoom=5.27&definition=](https://hydroviewer.geoglows.org/#lon=57.41&lat=25.94&zoom=5.27&definition=)
+<img  alt="image" src="https://github.com/user-attachments/assets/f5344382-c6a5-4eda-ad24-e2ca667e4660" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7f15a7d8-03ca-473a-ae64-51f8ce7d92e8" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/02e8fada-2422-453b-b6c9-2340680fc574" />
 
@@ -22,6 +28,7 @@ layout: default
 
 [github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
 
+![https://github.com/virtiserv/virtiserv.github.io/blob/master/assets/plots/GIOVANNI-output8lSCn_uI.png?raw=true](https://github.com/virtiserv/virtiserv.github.io/blob/master/assets/plots/GIOVANNI-output8lSCn_uI.png?raw=true)
 # NS Records 
 
 | Domain Name | NS | TTL | 
