@@ -26,6 +26,12 @@ permalink: losangeles
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
+# ECOSTRESS Tiled Evaporative Stress Index PT-JPL Instantaneous L4 Global 70 m V002
+@nasa-jpl @cityofsantamonica @la-county-isd @CityOfLosangeles [Holly J Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) hi its [rashard](https://ra5hard.github.io/) Since this image is the plant temperature i thinnk those spotches in the ocean is the [Kelp Forest @Ucla](https://www.santamonicabay.org/what-we-do/projects/kelp-forest-restoration-project/) @doug-newman-nasa @blackgirlscode hi @NOAAgov @USNAVY [https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076104650-LPCLOUD!C2076104650-LPCLOUD&pg[1][a]=4263774534!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&g=G4263774534-LPCLOUD&q=ecostress&sb[0]=-118.94085%2C33.26251%2C-117.34503%2C34.20349&lat=33.835430349999996&long=-118.50775364468085&zoom=8.100569520342773](https://search.earthdata.nasa.gov/search/granules/granule-details?p=C2076104650-LPCLOUD!C2076104650-LPCLOUD&pg[1][a]=4263774534!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&g=G4263774534-LPCLOUD&q=ecostress&sb[0]=-118.94085%2C33.26251%2C-117.34503%2C34.20349&lat=33.835430349999996&long=-118.50775364468085&zoom=8.100569520342773)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e83d7a46-d4bf-4528-88e8-d45d85e9a97b" />
+<img alt="image" src="https://github.com/user-attachments/assets/9e4fe986-cc7f-4bfe-8971-4944fec494de" />
+
 
 <img  alt="EMIT_L1B_RAD_001_20231018T210240_2329114_008" src="https://github.com/user-attachments/assets/f3603ef6-4ee7-4737-8e87-1e8384e128a1" />
 
