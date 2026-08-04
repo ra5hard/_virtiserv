@@ -15,6 +15,9 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/02e8fada-2422-453b-b6c9-2340680fc574" />
 
+
+<img alt="FIRMS_24hrs,24hrs @-359 6,0 0,2 8z" src="https://github.com/user-attachments/assets/fb04ec88-0db7-4f10-b469-65831422cb19" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/68be8273-cbc4-4df6-a0e0-a0066c2ac857" />
 
 [github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/cityhalla.log)
