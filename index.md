@@ -7,6 +7,10 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/46317466-1bbd-4bbd-b120-21aee65f564a" />
 
+<img  alt="GIOVANNI-output9qlSidUP" src="https://github.com/user-attachments/assets/989b28d0-e0dc-40e1-9e68-af52cbcb0eb8" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/11174bc2-9f38-480a-b322-fa0f494be5f5" />
+
 
 # NASA Earth Observations for Reservoir and Water Utility Management
 @blackgirlscode hi @howard-university-web-services
