@@ -13,6 +13,8 @@ layout: default
 [https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/e7669669-0f2b-4528-a21d-79dea56f9d85" />
+
 
 
 
