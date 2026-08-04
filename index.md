@@ -10,7 +10,32 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/88a4ab8a-6038-436a-b9b5-9c3db21920fe" />
 
-[@nasa-openscapes @nasa-jpl firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z)
+
+## GRACE FO Soil Moisture Within Continental United States: Monitoring Drought
+[ReadMore](https://svs.gsfc.nasa.gov/5574/) 
+
+_Gravity Recovery and Climate Experiment (GRACE)_ [info @nasa](https://sealevel.nasa.gov/missions/grace)
+[ice loss](https://svs.gsfc.nasa.gov/31166/)
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.01000_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005574/gws.mp4)
+
+
+
+## GRACE Groundwater Anomalies
+
+![https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png](https://apps.geoglows.org/grace-groundwater/geoglows-logo-nav.png)
+[@nasa-openscapes @nasa-jpl firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z) / [https://apps.geoglows.org/grace-groundwater](https://apps.geoglows.org/grace-groundwater) 
+
+Monitoring California Groundwater
+Released Wednesday, June 7, 2023
+
+
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_title1_202202_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_title1_1080p6.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_title1_1080p6.mp4)
+
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f8fec3ba-912a-4051-86ee-d50ab54cc2bf" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ac7e640d-608f-4c7f-9fdb-b8f99a15098e" />
 
