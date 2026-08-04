@@ -2,7 +2,20 @@
 layout: default
 ---
 
-# Tomorrow ~
+# HOT 97 News Live! 8/3/26 [Chlöe](https://www.youtube.com/channel/UCOriumHxzl4O2G7MXS7rrpQ)
+[https://www.chloebailey.net/](https://www.chloebailey.net/) @blackgirlscode
+@howard-university-web-services . . . @nasa-jpl that was the address I was instructed to tion if I'm doing work for them @blackgirlscode \ @USnavy Chlöe bailey got a whitwoman porn on her page @la-county-isd @podaac for hosting ? @nasa-pds @nasa-jpl 
+
+[WATCH - youtube.com/live/vmq2bxtjOds?si=Lti-FTgeYVTKF2ZH](https://www.youtube.com/live/vmq2bxtjOds?si=Lti-FTgeYVTKF2ZH)
+<img   alt="image" src="https://github.com/user-attachments/assets/2ed98a01-8849-43ae-a3fb-cdc4dcbb77dc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fedd07f8-b90a-4b69-80b2-bb72a72e59ac" />
+
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmq2bxtjOds?si=f450gnkowRfIxm0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+<img alt="image" src="https://github.com/user-attachments/assets/04996098-c11e-40bc-a04d-86853bad38a1" />
 [https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song)](https://en.wikipedia.org/wiki/She_Knows_(J._Cole_song))
 
 # _J. Cole - She Knows (Explicit Video) ft. [Amber Coffman](https://www.youtube.com/watch?v=twCZQWTZxDM), [Cults](https://www.youtube.com/watch?v=eAM9diyVRiM)_
@@ -23,6 +36,10 @@ Plus: J. Cole's electrifying concert (that half the crew missed), the ongoing Dr
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">LINK ME THERE <a href="https://t.co/yAuItmkSkc">pic.twitter.com/yAuItmkSkc</a></p>&mdash; yg (@YG) <a href="https://x.com/YG/status/2066935663812071679?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+#  [_ARSET Applied Remote Sensing Training Program_](https://www.earthdata.nasa.gov/data/projects/arset)
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png](https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png)
 
 ## Fwd: Registration approved for Webex webinar: Part 1: Data Requirements for Reservoir Management
 11am @nasa-openscapes @doug-newman-nasa
@@ -51,8 +68,6 @@ To: <holetoanotheruniverse40@gmail.com>
 
 <img alt="image" src="https://github.com/user-attachments/assets/470fc0d8-ceba-4ece-9e41-f9a5fbe7b8ef" />
 
-
-![https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png](https://earthdata.nasa.gov/s3fs-public/styles/hds_two_column/public/2025-05/LogoWithTextColor.png)
 
 @nasa-pds [Watch - youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC](https://www.youtube.com/live/5cMzGDvGuPA?si=ddGZRcwjlFQbiBwC)
 <img alt="image" src="https://github.com/user-attachments/assets/82c8831b-0d65-46d3-b59c-5bf9ac1478bc" />
