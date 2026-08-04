@@ -10,6 +10,14 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/88a4ab8a-6038-436a-b9b5-9c3db21920fe" />
 
+[ATHARA - https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=](https://hydroviewer.geoglows.org/#lon=38.90&lat=16.24&zoom=11.00&definition=) // [Eritrea, Africa's Hermit Kingdom - in a Nutshell](https://suetravels.com/africa/eritrea/eritrea-africas-hermit-kingdom-in-a-nutshell/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2bc6d6ab-bd38-43bc-bd2b-66404042e3f4" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b9c53cb-e79f-4283-9fe5-075040cf1ffb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7cd0386b-0d93-4594-8b37-2a9e94ef2a2c" />
 
 ## GRACE FO Soil Moisture Within Continental United States: Monitoring Drought
 [ReadMore](https://svs.gsfc.nasa.gov/5574/) 
