@@ -2,6 +2,16 @@
 layout: default
 ---
 
+External site 
+
+The host or presenter would like @Webex Meetings to open a website on your computer. @Cisco is not responsible for the content or availability of external sites. We recommend that you make sure this website content is from a trusted source. If you view this page or go to this site, you will be subject to the privacy policy and terms and conditions of the destination site.
+
+Destination site: [https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
+
+@cbs-news-data @blackgirlscode @nassa-pds @nasa-jpl
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5b456c4f-8cec-49b7-b369-a9915c5e4562" />
+
 [https://swotviz.cuahsi.io/ @la-county-isd](https://swotviz.cuahsi.io)
 
 {% raw %}
@@ -10,6 +20,7 @@ layout: default
 
 {% endraw %}
  <~ @doug-newman-nasa @shopify @jekyll this link stopped me from building [virtiserv.github.io/actions/runs/30945121653/job/92113078071](https://github.com/virtiserv/virtiserv.github.io/actions/runs/30945121653/job/92113078071) @SWOT-community 
+ 
 ` Liquid Exception: Liquid syntax error (line 13): Unknown tag '22lat' in index.md `
 
 <img   alt="image" src="https://github.com/user-attachments/assets/7bb4b101-2c45-4287-a150-b38867e7f68f" />
