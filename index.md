@@ -7,6 +7,8 @@ LIVE NEWS: FOX LOCAL Atlanta 24/7 Live Stream
 [Watch - youtube.com/watch?v=egVaFAi74cI](https://www.youtube.com/watch?v=egVaFAi74cI)
 @foxnews @fox
 <img alt="image" src="https://github.com/user-attachments/assets/7554b969-ba63-460e-b126-d6038f2d7579" />
+<img  alt="GIOVANNI-outputLl0WJXHg" src="https://github.com/user-attachments/assets/c4bf5155-6fa7-4f9d-9921-10692f13ef89" />
+<img width="1148" height="557" alt="GIOVANNI-output7_S_yFeu" src="https://github.com/user-attachments/assets/cae95a90-4030-46b9-a2a6-4ad49d9547eb" />
 
 <img   alt="GIOVANNI-output6o9kfJvi" src="https://github.com/user-attachments/assets/c320057c-9b51-40b5-9fac-197422e89fc3" />
 
