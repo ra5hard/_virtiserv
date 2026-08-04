@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[@nasa-openscapes](https://worldview.earthdata.nasa.gov/?v=-116.24666127043507,35.1001305765356,-114.00049942313542,36.71750417215029&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,GRanD_Reservoirs,GRanD_Dams,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),BlueMarble_NextGeneration,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&s=33.9419,-24.2681%2B-71.3202,-35.7146%2B-77.0365,39.985%2B-114.762,36.017&t=2026-07-23-T00%3A00%3A00Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/15113435-dfed-4e3b-88d7-d7f28045e0d6" />
+<img  alt="image" src="https://github.com/user-attachments/assets/7bdd8d48-5729-43f5-b256-365dd9f9da39" />
 
 
 #  Funeral Director Arrested for Stealing $2.2M Estate
