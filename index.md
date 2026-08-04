@@ -2,23 +2,27 @@
 layout: default
 ---
 
+[https://swotviz.cuahsi.io/ @la-county-isd](https://swotviz.cuahsi.io)
+`/#/map?center={%22lat%22:38.47939467327645,%22lng%22:-12.304687500000002}&zoom=3&activeBaseLayerName=CartoDB_DarkMatterNoLabels&activeOverlays=[%22Lakes%22,%22Esri_Hydro_Reference_Overlay%22]` <~ @doug-newman-nasa @shopify @jekyll this link stopped me from building [virtiserv.github.io/actions/runs/30945121653/job/92113078071](https://github.com/virtiserv/virtiserv.github.io/actions/runs/30945121653/job/92113078071) @SWOT-community 
+` Liquid Exception: Liquid syntax error (line 13): Unknown tag '22lat' in index.md `
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7bb4b101-2c45-4287-a150-b38867e7f68f" />
 
 
-[GEOGLOWS - RiverForcastingSystem @la-county-isd @cityoflosangeles](https://hydroviewer.geoglows.org/#lon=10.00&lat=18.00&zoom=3.00&definition=)
+
+
+[GEOGLOWS - RiverForcastingSystem @la-county-isd @cityoflosangeles](https://hydroviewer.geoglows.org/#lon=10.00&lat=18.00&zoom=3.00&definition=) // [registry.opendata.aws/`geoglows-v2`/](https://registry.opendata.aws/geoglows-v2/)
 
 [https://hydroviewer.geoglows.org/#lon=46.63&lat=21.03&zoom=5.27&definition= @howard-university-web-services @emergingcoders @blackgirlscode](https://hydroviewer.geoglows.org/#lon=46.63&lat=21.03&zoom=5.27&definition=)
 
 <img alt="image" src="https://github.com/user-attachments/assets/2bee625a-f40e-47aa-876c-cb0a55b30778" />
 
 [https://hydroviewer.geoglows.org/#lon=10.00&lat=18.00&zoom=3.00&definition=](https://hydroviewer.geoglows.org/#lon=10.00&lat=18.00&zoom=3.00&definition=)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/211975b5-256c-44d5-86e1-05900c1ff2f3" />
 
 [https://earth.gsfc.nasa.gov/gwm](https://earth.gsfc.nasa.gov/gwm)
 <img  alt="image" src="https://github.com/user-attachments/assets/42a66b34-a58b-4fbe-b6bf-09cc75136611" />
-
-[https://swotviz.cuahsi.io/ @la-county-isd](https://swotviz.cuahsi.io/#/map?center={%22lat%22:38.47939467327645,%22lng%22:-12.304687500000002}&zoom=3&activeBaseLayerName=CartoDB_DarkMatterNoLabels&activeOverlays=[%22Lakes%22,%22Esri_Hydro_Reference_Overlay%22])
-
-<img   alt="image" src="https://github.com/user-attachments/assets/7bb4b101-2c45-4287-a150-b38867e7f68f" />
 
 
 [@nasa-openscapes](https://worldview.earthdata.nasa.gov/?v=-116.24666127043507,35.1001305765356,-114.00049942313542,36.71750417215029&as=2026-07-15-T00%3A00%3A00Z&ae=2026-07-25-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,GRanD_Reservoirs,GRanD_Dams,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),BlueMarble_NextGeneration,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&al=true&ab=on&s=33.9419,-24.2681%2B-71.3202,-35.7146%2B-77.0365,39.985%2B-114.762,36.017&t=2026-07-23-T00%3A00%3A00Z)
