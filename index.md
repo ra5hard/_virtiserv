@@ -8,6 +8,10 @@ LIVE NEWS: FOX LOCAL Atlanta 24/7 Live Stream
 @foxnews @fox
 <img alt="image" src="https://github.com/user-attachments/assets/7554b969-ba63-460e-b126-d6038f2d7579" />
 
+<img   alt="GIOVANNI-output6o9kfJvi" src="https://github.com/user-attachments/assets/c320057c-9b51-40b5-9fac-197422e89fc3" />
+
+<img  alt="GIOVANNI-outputnwKlDwU9" src="https://github.com/user-attachments/assets/920a4a23-aeee-43d4-b15c-a0961f31a660" />
+
 ## THE HEALTH EFFECTS OF
 # CoNDUCTED ENERGY WEAPONS
 
