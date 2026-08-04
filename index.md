@@ -3,6 +3,41 @@ layout: default
 ---
 
 
+# Israel Sabotaging The Gaza Deal?
+[Wildfires Everywhere](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-112.3,42.3,6.0z), [Ariana Grande](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,terra_crc,earth;@-112.3,42.3,6.0z)'s Health : HOT 97 News 8/3/26 @usatoday @newshour @nasa-jpl `newsroom` @howard-university-web-services @emergingcoders @blackgirlscode 
+[WATCH - youtu.be/B_4VOG02JTg?si=YRv8So99J726PajF](https://youtu.be/B_4VOG02JTg?si=YRv8So99J726PajF)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e8e0a9d8-d29e-493a-a7f0-789d42fbdf26" />
+
+```
+
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-03-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.22 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa
+```
+
+[In-N-Out Shooting, Abandoned Town & Teacher Arrested | The Daily Drop](https://www.youtube.com/watch?v=KnyuCIJujbA)
+<img   alt="image" src="https://github.com/user-attachments/assets/253e67a5-011e-4c81-8a10-9011644d2568" />
+
 
 ## [Tony Yayo](https://soundcloud.com/tony_yayo) vs. [Memphis Bleek](https://afrotech.com/memphis-bleek-net-worth) : Who Really Has the Better Album?
 [WATCH - youtube.com/watch?v=taqk_dQKkbE @disney @nbcnews](https://www.youtube.com/watch?v=taqk_dQKkbE)
