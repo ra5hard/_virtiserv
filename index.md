@@ -2,10 +2,12 @@
 layout: default
 ---
 
-# 
-"The Whole World Is On Fire": The Global Wildfire Outbreak
+# "The Whole World Is On Fire": The Global Wildfire Outbreak
 @howard-university-web-services 
 [WATCH - youtube.com/watch?v=K45NFimZq1Q](https://www.youtube.com/watch?v=K45NFimZq1Q)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88a4ab8a-6038-436a-b9b5-9c3db21920fe" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/02e8fada-2422-453b-b6c9-2340680fc574" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/68be8273-cbc4-4df6-a0e0-a0066c2ac857" />
