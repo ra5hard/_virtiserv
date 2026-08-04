@@ -5,7 +5,7 @@ layout: default
 # Tomorrow ~
 ## Fwd: Registration approved for Webex webinar: Part 1: Data Requirements for Reservoir Management
 11am @nasa-openscapes @doug-newman-nasa
-@cityoflosangeles @usgs @blackgirlscod [AGENDA - earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf) // [Register @emergingcoders @nasa-giss](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
+@cityoflosangeles @usgs @blackgirlscode [AGENDA - earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/arset-2026-reservoirs-agenda.pdf) // [Register @emergingcoders @nasa-giss](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/4a884206-a845-4a99-8703-3248111ed3f4" />
