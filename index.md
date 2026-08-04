@@ -2,11 +2,16 @@
 layout: default
 ---
 
-# "The Whole World Is On Fire": The Global Wildfire Outbreak
+# "The Whole World Is On Fire": The Global [Wildfire Outbreak](https://ecostress.jpl.nasa.gov/wildfire_gallery)
 @howard-university-web-services 
 [WATCH - youtube.com/watch?v=K45NFimZq1Q](https://www.youtube.com/watch?v=K45NFimZq1Q)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/88a4ab8a-6038-436a-b9b5-9c3db21920fe" />
+
+[@nasa-openscapes @nasa-jpl firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,noaa20_crtc,earth;@-117.1,42.8,6.4z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ac7e640d-608f-4c7f-9fdb-b8f99a15098e" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/02e8fada-2422-453b-b6c9-2340680fc574" />
 
