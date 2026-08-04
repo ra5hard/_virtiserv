@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/36cbfe11-eb15-4a6f-a525-ef75bfc09c8a" />
+
+
 @webex, why was i removed from my training ? [Rashard @nasa-openscapes @doug-newman-nasa] @nasa-pds @nasa-jpl @nasa-giss @nasa-develop 
 <img alt="image" src="https://github.com/user-attachments/assets/7b2c68ed-450c-47d9-91ad-d7d72b8abb9f" />
 
