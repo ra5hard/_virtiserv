@@ -12,8 +12,6 @@ permalink: losangeles
 
 
 
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
- -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
@@ -24,6 +22,16 @@ permalink: losangeles
   <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
+
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+ -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
+
+
+<img  alt="EMIT_L1B_RAD_001_20231018T210240_2329114_008" src="https://github.com/user-attachments/assets/f3603ef6-4ee7-4737-8e87-1e8384e128a1" />
+
+
+<img alt="EMIT_L1B_RAD_001_20250805T170846_2521711_004" src="https://github.com/user-attachments/assets/f9a7ca7a-86f3-45ae-a1b3-335114e83d41" />
+
 
 
 [EMIT_L1B_RAD_001_20260602T180011_2615312_003/EMIT_L1B_RAD_001_20260602T180011_2615312_003.png @EMIT-SDS @lA-COUNTY-ISD @CITYOFLOSANgELES](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4207410245-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.6615906&long=-118.12857959102142&zoom=9.430587593607589)
