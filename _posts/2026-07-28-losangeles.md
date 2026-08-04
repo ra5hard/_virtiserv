@@ -25,6 +25,12 @@ permalink: losangeles
   
 </picture>
 
+
+[https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4221131205-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.82046125&long=-118.51938603088962&zoom=9.515931928384592](https://search.earthdata.nasa.gov/search/granules?p=C2408009906-LPCLOUD!C2076102081-LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4221131205-LPCLOUD&q=EMIT&sb[0]=-119.27194%2C33.39476%2C-117.68315%2C34.04479&lat=33.82046125&long=-118.51938603088962&zoom=9.515931928384592)
+
+<img  alt=" @CITYOFLOSANGELES @NOAAGOV @COMMERCEGOV @FBICYBER @STATEOFCALIFORNIA @EMIT-SDS EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/6178ff06-fb8a-4096-a58f-a5ca6000bbfc" />
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cMzGDvGuPA?si=Xd4VVTZUmbejL2OK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @nasa-jpl @la-county-isd @cityoflosangeles
