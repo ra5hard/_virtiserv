@@ -2,7 +2,13 @@
 layout: default
 ---
 
-[Department of Defense Directed Energy Weapons: Background and Issues for Congress](https://www.congress.gov/crs-product/R46925) 
+# WWII Bombs are Exploding in France Because of Wildfires
+do you believe that [?](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) 
+[WATCH - youtu.be/QNNXMGreXaE?si=whP4f1UalfdqOVrP](https://youtu.be/QNNXMGreXaE?si=whP4f1UalfdqOVrP)
+<img  alt="image" src="https://github.com/user-attachments/assets/bd0994fb-9a22-4e18-aa9b-1bb93df8d689" />
+
+
+[Department of Defense Directed Energy Weapons: Background and Issues for Congress - `@whitehouse congress.gov`](https://www.congress.gov/crs-product/R46925) 
 
 # BitbucketForVirtiserv
 
