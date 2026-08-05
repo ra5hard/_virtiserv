@@ -3,12 +3,29 @@ layout: default
 ---
 
 
+
+
+# NYC Subway Fire, MARTA Body Found & ICE Scandal 
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| ice.gov | max.ns.cloudflare.com. | 21600 | 
+| ice.gov | raina.ns.cloudflare.com. | 21600 | 
+
+
+[WATCH - youtu.be/oUt0ntc02zs?si=2fOolSd0QMRf8amK](https://youtu.be/oUt0ntc02zs?si=2fOolSd0QMRf8amK)
+<img  alt="image" src="https://github.com/user-attachments/assets/9af0b492-44fc-437f-a26e-2ee84bccca87" />
+
+
 # The MAGA Split? MTG, Tucker Carlson, Thomas Massie & Joe Kent Hint at Something Bigger
 [@fecgov fec.gov/data/committee/C00580100/](https://www.fec.gov/data/committee/C00580100/)
 [github.com/fecgov](https://github.com/fecgov)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/934db39d-8512-484f-99a2-48864a941afe" />
 
+
+One the most unexpected but most magical moment of the night & there were so many this night. I’m so thankful & honored to be so loved in the way u love me @tip This love was very challenging over these 25yrs but so well worth it. The way u show your love for me so loudly I have to recognize that some may never experience a love like ours. So thank u God for Blessing me over & over again!! Gave me the greatest lil/BIG family I could ever dream of!! 🙏🏽🥰🙌🏽
 <img   alt="image" src="https://github.com/user-attachments/assets/738d9cf1-44c3-42d8-bee2-7fa1dc0b38d7" />
 
 
