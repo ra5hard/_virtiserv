@@ -19,11 +19,14 @@ layout: default
 
 
 # The MAGA Split? MTG, Tucker Carlson, Thomas Massie & Joe Kent Hint at Something Bigger
+[`WATCH` - youtu.be/wbSBCDYkweg?si=T9BwiyNCr9UOYZqd](https://youtu.be/wbSBCDYkweg?si=T9BwiyNCr9UOYZqd)
 [@fecgov fec.gov/data/committee/C00580100/](https://www.fec.gov/data/committee/C00580100/)
-[github.com/fecgov](https://github.com/fecgov)
+[github.com/fecgov](https://github.com/fecgov) /// [SEAL @commercegov @fbicyber @nasa-jpl fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg) // [
+Parasites! , 22 Dogs Rescued & Developing Story in Old Fourth Ward ](https://youtu.be/akjPAceJs_E?si=DmaBtfY88LQDyksL)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/934db39d-8512-484f-99a2-48864a941afe" />
 
+![https://www.fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg)
 
 One the most unexpected but most magical moment of the night & there were so many this night. I’m so thankful & honored to be so loved in the way u love me @tip This love was very challenging over these 25yrs but so well worth it. The way u show your love for me so loudly I have to recognize that some may never experience a love like ours. So thank u God for Blessing me over & over again!! Gave me the greatest lil/BIG family I could ever dream of!! 🙏🏽🥰🙌🏽
 <img   alt="image" src="https://github.com/user-attachments/assets/738d9cf1-44c3-42d8-bee2-7fa1dc0b38d7" />
