@@ -12,6 +12,7 @@ layout: default
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In light of all the renewed interest in my family affairs I am going to file my own paperwork for an ethics investigation into myself to clear my name from these horrific attacks on myself and family. I have absolutely nothing to hide. <br><br>We will be providing the committee all…</p>&mdash; Max Miller (@MaxMillerOH) <a href="https://x.com/MaxMillerOH/status/2084665339799822436?ref_src=twsrc%5Etfw">August 4, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <img   alt="image" src="https://github.com/user-attachments/assets/eadde453-2e21-4975-8b9c-23368f528136" />
+
 [Active fire Past 7 Days - FRANCE @NASA-GiSS - LiNK](https://firms.modaps.eosdis.nasa.gov/map/#d:7days,24hrs;l:fires_all,countries,aqua_crc,earth;@7.8,45.3,5.9z)
 <img  alt="FIRMS_7days,24hrs @7 8,45 3,5 9z" src="https://github.com/user-attachments/assets/4dd1bfc9-1a27-4cc3-9413-fbbe0f665e4d" />
 
