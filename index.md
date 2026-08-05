@@ -2,6 +2,47 @@
 layout: default
 ---
 
+
+
+# BitbucketForVirtiserv
+<img alt="image" src="https://github.com/user-attachments/assets/9b3f704e-c27c-47d8-a359-ea34ed501d35" />
+
+![https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled](https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled) 
+[bitbucket.org/virtiserv/workspace/overview/](https://bitbucket.org/virtiserv/workspace/overview/)
+@howard-university-web-services I know there are standards to getting taken to dinner, I'm just saying someone poisoned city hall and the library with [chlorine](https://pubmed.ncbi.nlm.nih.gov/3953542/) and suffered [tooth erosion](https://my.clevelandclinic.org/health/diseases/tooth-erosion) [[1](https://www.colgate.com/en-us/oral-health/threats-to-dental-health/the-effects-of-chlorine-on-your-teeth) after being attacked with a [DEW](https://www.congress.gov/crs-product/R46925)
+[bitbucket.org/virtiserv/virtiserv.github.io/src/master/](https://bitbucket.org/virtiserv/virtiserv.github.io/src/master/) <~ issa backup @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce3940ff-4811-4073-b258-53e26244fd16" />
+
+@emergingcoders @salesforce @Shopify
+[<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
+
+```html
+[<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
+```
+
+## Import a repository from GitHub or GitLab
+Importing the repository into Bitbucket
+- Select the Create button and select Repository from the dropdown menu.
+- Select Import repository from the Create a new repository dialog.
+- Enter the URL.
+- Select the Workspace.
+- Select the Project.
+- Enter a Name for your new repository.
+- If you want the repository to be public, uncheck This is a private repository.
+- Select Import repository.
+
+  [Import a repository from GitHub or GitLab](https://support.atlassian.com/bitbucket-cloud/docs/import-a-repository-from-github-or-gitlab/)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/d5af6c38-83a6-4d87-989d-e50e47dad52b" />
+
+[bitbucket.org/virtiserv](https://bitbucket.org/virtiserv)
+<img alt="image" src="https://github.com/user-attachments/assets/148035ff-46c1-4177-9219-e0f3cfb7cc7a" />
+
+![https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original @nasa-jpl @nasa-openscapes](https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/9dac5fd5-749f-4696-90b8-544e1066ddd1" />
 Your registration for this @Webex webinar has been declined.
 
@@ -43,43 +84,6 @@ do you believe that [?](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM)
 
 
 [Department of Defense Directed Energy Weapons: Background and Issues for Congress - `@whitehouse congress.gov`](https://www.congress.gov/crs-product/R46925) 
-
-# BitbucketForVirtiserv
-
-![https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled](https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled) 
-[bitbucket.org/virtiserv/workspace/overview/](https://bitbucket.org/virtiserv/workspace/overview/)
-@howard-university-web-services I know there are standards to getting taken to dinner, I'm just saying someone poisoned city hall and the library with [chlorine](https://pubmed.ncbi.nlm.nih.gov/3953542/) and suffered [tooth erosion](https://my.clevelandclinic.org/health/diseases/tooth-erosion) [[1](https://www.colgate.com/en-us/oral-health/threats-to-dental-health/the-effects-of-chlorine-on-your-teeth) after being attacked with a [DEW](https://www.congress.gov/crs-product/R46925)
-[bitbucket.org/virtiserv/virtiserv.github.io/src/master/](https://bitbucket.org/virtiserv/virtiserv.github.io/src/master/) <~ issa backup @blackgirlscode 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/ce3940ff-4811-4073-b258-53e26244fd16" />
-
-@emergingcoders @salesforce @Shopify
-[<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
-
-```html
-[<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
-```
-
-## Import a repository from GitHub or GitLab
-Importing the repository into Bitbucket
-- Select the Create button and select Repository from the dropdown menu.
-- Select Import repository from the Create a new repository dialog.
-- Enter the URL.
-- Select the Workspace.
-- Select the Project.
-- Enter a Name for your new repository.
-- If you want the repository to be public, uncheck This is a private repository.
-- Select Import repository.
-
-  [Import a repository from GitHub or GitLab](https://support.atlassian.com/bitbucket-cloud/docs/import-a-repository-from-github-or-gitlab/)
-
-
-<img   alt="image" src="https://github.com/user-attachments/assets/d5af6c38-83a6-4d87-989d-e50e47dad52b" />
-
-[bitbucket.org/virtiserv](https://bitbucket.org/virtiserv)
-<img alt="image" src="https://github.com/user-attachments/assets/148035ff-46c1-4177-9219-e0f3cfb7cc7a" />
-
-![https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original @nasa-jpl @nasa-openscapes](https://upload.wikimedia.org/wikipedia/commons/3/32/Atlassian_Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 
 # neptune @nasa-jpl
