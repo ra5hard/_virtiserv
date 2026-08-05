@@ -2,7 +2,16 @@
 layout: default
 ---
 
-[https://www.youtube.com/@AtlantaNewsFirst](https://www.youtube.com/@AtlantaNewsFirst) @blackgirlscode we were divided for nothing!!! @nasa-jpl I'm concerned @nasa-pds I done missed the greatest brides bc of local striptease support @cityoflosangeles 
+# Sol 4972: Right Navigation Camera
+This image was taken by NAV_RIGHT_B onboard NASA's Mars rover Curiosity on Sol 4972 (2026-08-02T00:58:14.000Z)
+
+Credits: NASA/JPL-Caltech
+@doug-newman-nasa @nasa-pds 
+@nasa-openscapes @nasa-jpl
+<img   alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/838fa1b8-8dd9-4fb4-a848-1a8b13b27c29" />
+
+
+[youtube.com/@AtlantaNewsFirst](https://www.youtube.com/@AtlantaNewsFirst) @blackgirlscode we were divided for nothing!!! @nasa-jpl I'm concerned @nasa-pds I done missed the greatest brides bc of local striptease support @cityoflosangeles 
 
 [WATCH - youtube.com/watch?v=eQPkS_v38ys](https://www.youtube.com/watch?v=eQPkS_v38ys)
 [The Spotlight: ‘Onlyfans house’ raided in Bellevue, WA](https://youtu.be/tyVyBbyCQIs?si=7i4RfPfktRVWoCtL) // [OnlyFans model Courtney Clenney accused of stabbing her boyfriend to death @cbs-news-data](https://www.cbsnews.com/miami/news/onlyfans-model-courtney-clenney-plea-deal-reached/) // [OnlyFans spending in NY: See top cities and counties, report estimates](https://www.democratandchronicle.com/story/news/2026/08/04/onlyfans-spending-new-york-cities-counties-report/91077073007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z112724p003050l004350c003050e1190xxv112724&gca-ft=23&gca-ds=sophi) // [Alleged victim of OnlyFans model speaks out after bail denied](https://ktla.com/news/california/alleged-victim-of-onlyfans-model-speaks-out-after-bail-denied/) // [Israeli OnlyFans model Adva Lavie denied bail in Los Angeles after removing ankle monitor @foratlanta](https://www.jpost.com/international/article-904412)
