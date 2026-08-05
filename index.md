@@ -16,6 +16,7 @@ GPS Coordinates: +40° 25′ 47.33″, -4° 14′ 56.57″
 
 [Google Earth](https://earth.google.com/web/search/Madrid+Deep+Space+Communications+Complex+(MDSCC),+Madrid,+Spain/@40.42961307,-4.24493855,786.23964856a,1505.77483293d,35y,0h,0t,0r/data=Cq0BGn8SeQokMHhkNDFhZjAwNDZhODMyNjU6MHgzMjAyNmY4N2E0NGMzNTQ3GVJB6hs9N0RAIZds4R7w_RDAKj9NYWRyaWQgRGVlcCBTcGFjZSBDb21tdW5pY2F0aW9ucyBDb21wbGV4IChNRFNDQyksIE1hZHJpZCwgU3BhaW4YAiABIiYKJAnAuBvZIEVEQBHkZCELtTVEQBlfDH-JUFwQwCGzSuP04zgRwEICCAFCAggASg0I____________ARAA)
 <img  alt="image" src="https://github.com/user-attachments/assets/d4449424-ecae-4504-84ca-6a033808d3fe" />
+<img alt="image" src="https://github.com/user-attachments/assets/3deedef1-cdd7-4f10-9c9a-b3c3d54298de" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/dcc04130-3ed9-40e1-91d9-e1f5a6acddd9" />
 
