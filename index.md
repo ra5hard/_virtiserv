@@ -4,7 +4,7 @@ layout: default
 
 # Iran Leaders In-Fighting? 
 _A 3rd Political Party? [Love & Hip Hop Starr Arrested @cbs-news-data @newshour](https://www.cbsnews.com/atlanta/news/love-and-hip-hop-sidney-favors-arrested-for-alleged-sexual-assault-of-a-child-da-fani/) HOT 97 News 8/4/26_
-[WATCH - Youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX](https://youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX)
+[WATCH - Youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX](https://youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX) :: @foratlanta [youtube.com/watch?v=Y9lNJhluUoQ](https://www.youtube.com/watch?v=Y9lNJhluUoQ)
 <img  alt="image" src="https://github.com/user-attachments/assets/34f432ab-26e7-4950-8d5e-e7f3010c3320" />
 
 
