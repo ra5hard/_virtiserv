@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+<img alt="image" src="https://github.com/user-attachments/assets/9dac5fd5-749f-4696-90b8-544e1066ddd1" />
 Your registration for this @Webex webinar has been declined.
 
 Part 2: Accessing NASA Earth Observations for Reservoir Management
@@ -16,7 +16,7 @@ JOIN WEBEX WEBINAR
 https://nasaevents.webex.com/nasaevents/j.php?MTID=me160efc901efc2620c0435fc0b3acf20
 Webinar number (access code): 2826 786 4616
 ```
-<img alt="image" src="https://github.com/user-attachments/assets/9dac5fd5-749f-4696-90b8-544e1066ddd1" />
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/d7d5ddb1-d023-446b-bba9-0fa448398f7f" />
 
