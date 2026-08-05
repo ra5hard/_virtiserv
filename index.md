@@ -2,8 +2,14 @@
 layout: default
 ---
 
+# Is Sydney Starr Being Set Up? 
+## _The Latest Details_ [`WATCH` - youtu.be/Bjl-zVq6sIM?si=utGPQppEmny89e3-](https://youtu.be/Bjl-zVq6sIM?si=utGPQppEmny89e3-) 
+// [Love & Hip Hop Starr Arrested @cbs-news-data @newshour](https://www.cbsnews.com/atlanta/news/love-and-hip-hop-sidney-favors-arrested-for-alleged-sexual-assault-of-a-child-da-fani/) HOT 97 News 8/4/26_
+[WATCH - Youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX](https://youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX) :: @foratlanta [youtube.com/watch?v=Y9lNJhluUoQ](https://www.youtube.com/watch?v=Y9lNJhluUoQ) // [Love & Hip Hop Star Sidney Starr Arrested for Child Molestation](https://www.youtube.com/watch?v=SrS5E3R-1Lc) // [What's Actually Happening With Ariana Grande](https://www.youtube.com/watch?v=mfcpM5HQs00) 
+[Sidney Starr Defends Trans Community, Denies Charges as Mugshot Surfaces - thatgrapejuice.net @nbcnews @newshour](https://thatgrapejuice.net/entertainment/2026/08/sidney-starr-defends-trans-community-denies-charges-as-mugshot-surfaces/)
+<img alt="image" src="https://github.com/user-attachments/assets/3272a59d-87fa-4065-9be9-47633f4b9a5f" />
 
-
+![https://thatgrapejuice.net/wp-content/themes/tgj17july17/images/logo.png @nasa-jpl they know a lot! @doug-newman-nasa @la-county-isd](https://thatgrapejuice.net/wp-content/themes/tgj17july17/images/logo.png)
 
 # NYC Subway Fire, MARTA Body Found & ICE Scandal 
 # NS Records 
@@ -28,6 +34,7 @@ Parasites! , 22 Dogs Rescued & Developing Story in Old Fourth Ward ](https://you
 
 ![https://www.fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg)
 
+@foratlanta [youtube.com/watch?v=Y9lNJhluUoQ](https://www.youtube.com/watch?v=Y9lNJhluUoQ) 
 One the most unexpected but most magical moment of the night & there were so many this night. I’m so thankful & honored to be so loved in the way u love me @tip This love was very challenging over these 25yrs but so well worth it. The way u show your love for me so loudly I have to recognize that some may never experience a love like ours. So thank u God for Blessing me over & over again!! Gave me the greatest lil/BIG family I could ever dream of!! 🙏🏽🥰🙌🏽
 <img   alt="image" src="https://github.com/user-attachments/assets/738d9cf1-44c3-42d8-bee2-7fa1dc0b38d7" />
 
