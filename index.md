@@ -9,11 +9,14 @@ layout: default
 [WATCH - https://www.youtube.com/live/glJDEcQPcTY?si=DQwAKyrgjv-EVxhS](https://www.youtube.com/live/glJDEcQPcTY?si=DQwAKyrgjv-EVxhS)
 <img  alt="image" src="https://github.com/user-attachments/assets/3d896d08-7b41-41b1-9cc1-fe23f369a5f1" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In light of all the renewed interest in my family affairs I am going to file my own paperwork for an ethics investigation into myself to clear my name from these horrific attacks on myself and family. I have absolutely nothing to hide. <br><br>We will be providing the committee all…</p>&mdash; Max Miller (@MaxMillerOH) <a href="https://x.com/MaxMillerOH/status/2084665339799822436?ref_src=twsrc%5Etfw">August 4, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<img   alt="image" src="https://github.com/user-attachments/assets/eadde453-2e21-4975-8b9c-23368f528136" />
 [Active fire Past 7 Days - FRANCE @NASA-GiSS - LiNK](https://firms.modaps.eosdis.nasa.gov/map/#d:7days,24hrs;l:fires_all,countries,aqua_crc,earth;@7.8,45.3,5.9z)
 <img  alt="FIRMS_7days,24hrs @7 8,45 3,5 9z" src="https://github.com/user-attachments/assets/4dd1bfc9-1a27-4cc3-9413-fbbe0f665e4d" />
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In light of all the renewed interest in my family affairs I am going to file my own paperwork for an ethics investigation into myself to clear my name from these horrific attacks on myself and family. I have absolutely nothing to hide. <br><br>We will be providing the committee all…</p>&mdash; Max Miller (@MaxMillerOH) <a href="https://x.com/MaxMillerOH/status/2084665339799822436?ref_src=twsrc%5Etfw">August 4, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-<img   alt="image" src="https://github.com/user-attachments/assets/eadde453-2e21-4975-8b9c-23368f528136" />
+
+
 
 [https://worldview.earthdata.nasa.gov/?v=-5.8870000000000005,42.40656796875,10.988,50.71223203125&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_Thermal_Anomalies_All,MODIS_Terra_Thermal_Anomalies_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_All,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11,BlueMarble_ShadedRelief&lg=true&tr=el_nino&s=2.5505,46.5594&t=2023-10-22-T06%3A19%3A29Z](https://worldview.earthdata.nasa.gov/?v=-5.8870000000000005,42.40656796875,10.988,50.71223203125&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_Thermal_Anomalies_All,MODIS_Terra_Thermal_Anomalies_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_All,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11,BlueMarble_ShadedRelief&lg=true&tr=el_nino&s=2.5505,46.5594&t=2023-10-22-T06%3A19%3A29Z)
 
