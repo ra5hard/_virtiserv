@@ -3,6 +3,19 @@ layout: default
 ---
 
 
+# WWII Bombs are Exploding in France Because of Wildfires
+do you believe that [?](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) 
+[WATCH - youtu.be/QNNXMGreXaE?si=whP4f1UalfdqOVrP](https://youtu.be/QNNXMGreXaE?si=whP4f1UalfdqOVrP)
+
+<img  alt="S1A_IW_GRDH_1SDV_20260629T060725_20260629T060750_065180_083778_A0E1 @asfadmin" src="https://github.com/user-attachments/assets/df8cbe2e-ba44-4eb8-849f-6c04ec505aef" />
+
+[Active fire Past 7 Days - `FRANCE @NASA-GiSS - LiNK`](https://firms.modaps.eosdis.nasa.gov/map/#d:7days,24hrs;l:fires_all,countries,aqua_crc,earth;@7.8,45.3,5.9z)
+<img  alt="image" src="https://github.com/user-attachments/assets/bd0994fb-9a22-4e18-aa9b-1bb93df8d689" />
+
+[Active fire Past 7 Days - FRANCE @NASA-GiSS - LiNK](https://firms.modaps.eosdis.nasa.gov/map/#d:7days,24hrs;l:fires_all,countries,aqua_crc,earth;@7.8,45.3,5.9z)
+<img  alt="FIRMS_7days,24hrs @7 8,45 3,5 9z" src="https://github.com/user-attachments/assets/4dd1bfc9-1a27-4cc3-9413-fbbe0f665e4d" />
+
+
 
 # BitbucketForVirtiserv
 
@@ -77,16 +90,6 @@ From Apollo 11 to Artemis II, space missions have provided numerous images of a 
 @lanajharris is chloe sharing work with no presentation ? those are gravity anomoly maps @nasajpl save us from burbank @repkarenbass!!!!!!!!!!!!!!!!!!!!!!!! @hot97 hi @power106
 - @doug-newman-nasa @howard-university-web-services @Cityoflosangeles @la-county-isd 
 ![https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005660/geoid.png](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005660/geoid.png) 
-
-# WWII Bombs are Exploding in France Because of Wildfires
-do you believe that [?](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) 
-[WATCH - youtu.be/QNNXMGreXaE?si=whP4f1UalfdqOVrP](https://youtu.be/QNNXMGreXaE?si=whP4f1UalfdqOVrP)
-[Active fire Past 7 Days - `FRANCE @NASA-GiSS - LiNK`](https://firms.modaps.eosdis.nasa.gov/map/#d:7days,24hrs;l:fires_all,countries,aqua_crc,earth;@7.8,45.3,5.9z)
-<img  alt="image" src="https://github.com/user-attachments/assets/bd0994fb-9a22-4e18-aa9b-1bb93df8d689" />
-
-[Active fire Past 7 Days - FRANCE @NASA-GiSS - LiNK](https://firms.modaps.eosdis.nasa.gov/map/#d:7days,24hrs;l:fires_all,countries,aqua_crc,earth;@7.8,45.3,5.9z)
-<img  alt="FIRMS_7days,24hrs @7 8,45 3,5 9z" src="https://github.com/user-attachments/assets/4dd1bfc9-1a27-4cc3-9413-fbbe0f665e4d" />
-
 
 [Department of Defense Directed Energy Weapons: Background and Issues for Congress - `@whitehouse congress.gov`](https://www.congress.gov/crs-product/R46925) 
 
