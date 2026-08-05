@@ -2,6 +2,28 @@
 layout: default
 ---
 
+[Department of Defense Directed Energy Weapons: Background and Issues for Congress](https://www.congress.gov/crs-product/R46925) 
+
+
+![https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled](https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled) 
+
+@howard-university-web-services I know there are standards to getting taken to dinner, I'm just saying someone poisoned city hall and the library with [chlorine](https://pubmed.ncbi.nlm.nih.gov/3953542/) and suffered [tooth erosion](https://my.clevelandclinic.org/health/diseases/tooth-erosion) [[1](https://www.colgate.com/en-us/oral-health/threats-to-dental-health/the-effects-of-chlorine-on-your-teeth) after being attacked with a [DEW](https://www.congress.gov/crs-product/R46925)
+[bitbucket.org/virtiserv/virtiserv.github.io/src/master/](https://bitbucket.org/virtiserv/virtiserv.github.io/src/master/) <~ issa backup @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce3940ff-4811-4073-b258-53e26244fd16" />
+
+## Import a repository from GitHub or GitLab
+Importing the repository into Bitbucket
+- Select the Create button and select Repository from the dropdown menu.
+- Select Import repository from the Create a new repository dialog.
+- Enter the URL.
+- Select the Workspace.
+- Select the Project.
+- Enter a Name for your new repository.
+- If you want the repository to be public, uncheck This is a private repository.
+- Select Import repository.
+
+  [Import a repository from GitHub or GitLab](https://support.atlassian.com/bitbucket-cloud/docs/import-a-repository-from-github-or-gitlab/)
 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/d5af6c38-83a6-4d87-989d-e50e47dad52b" />
