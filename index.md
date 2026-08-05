@@ -10,6 +10,11 @@ do you believe that [?](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM)
 [Active fire Past 7 Days - `FRANCE @NASA-GiSS - LiNK`](https://firms.modaps.eosdis.nasa.gov/map/#d:7days,24hrs;l:fires_all,countries,aqua_crc,earth;@7.8,45.3,5.9z)
 <img  alt="image" src="https://github.com/user-attachments/assets/bd0994fb-9a22-4e18-aa9b-1bb93df8d689" />
 
+
+[https://worldview.earthdata.nasa.gov/?v=-5.8870000000000005,42.40656796875,10.988,50.71223203125&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_Thermal_Anomalies_All,MODIS_Terra_Thermal_Anomalies_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_All,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11,BlueMarble_ShadedRelief&lg=true&tr=el_nino&s=2.5505,46.5594&t=2023-10-22-T06%3A19%3A29Z](https://worldview.earthdata.nasa.gov/?v=-5.8870000000000005,42.40656796875,10.988,50.71223203125&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Aqua_Thermal_Anomalies_All,MODIS_Terra_Thermal_Anomalies_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_All,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11,BlueMarble_ShadedRelief&lg=true&tr=el_nino&s=2.5505,46.5594&t=2023-10-22-T06%3A19%3A29Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f3cd234f-bab1-42eb-9eab-fea6a93f94f5" />
+
 River to paris
 <img  alt="S1A_IW_GRDH_1SDV_20260629T060725_20260629T060750_065180_083778_A0E1 @asfadmin" src="https://github.com/user-attachments/assets/df8cbe2e-ba44-4eb8-849f-6c04ec505aef" />
 
