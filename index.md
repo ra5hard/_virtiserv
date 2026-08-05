@@ -3,6 +3,22 @@ layout: default
 ---
 
 
+Your registration for this @Webex webinar has been declined.
+
+Part 2: Accessing NASA Earth Observations for Reservoir Management
+Host: Natasha Johnson-Griffin @nasa-jsc-robotics @nasa-jpl @nasa-pds
+Natasha its @rashard There are two events in my calendar declined I don't know if I got kicked out of the meeting early or not and making sure I'm ready to login @doug-newman-nasa 
+Thursday, August 6, 2026
+11:00 AM  |  (UTC-07:00) Pacific Time (US & Canada)  
+```
+
+JOIN WEBEX WEBINAR
+https://nasaevents.webex.com/nasaevents/j.php?MTID=me160efc901efc2620c0435fc0b3acf20
+Webinar number (access code): 2826 786 4616
+```
+<img alt="image" src="https://github.com/user-attachments/assets/9dac5fd5-749f-4696-90b8-544e1066ddd1" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/d7d5ddb1-d023-446b-bba9-0fa448398f7f" />
 
 # _New NASA renderings show Earth as lumpy_
 From Apollo 11 to Artemis II, space missions have provided numerous images of a beautiful, seemingly smooth and perfectly round Earth. But new NASA renderings show our home looking more like a lumpy potato than a blue marble. Wired magazine senior science editor Brian Kahn joins to discuss. @cbs-news-data [`WATCH - youtu.be/2pI8dTaIcJ0?si=jQ7pIsQJCRKhqASQ](https://youtu.be/2pI8dTaIcJ0?si=jQ7pIsQJCRKhqASQ) @usatoday 
