@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+
+# _New NASA renderings show Earth as lumpy_
+From Apollo 11 to Artemis II, space missions have provided numerous images of a beautiful, seemingly smooth and perfectly round Earth. But new NASA renderings show our home looking more like a lumpy potato than a blue marble. Wired magazine senior science editor Brian Kahn joins to discuss. @cbs-news-data [`WATCH - youtu.be/2pI8dTaIcJ0?si=jQ7pIsQJCRKhqASQ](https://youtu.be/2pI8dTaIcJ0?si=jQ7pIsQJCRKhqASQ) @usatoday 
+<img   alt="image" src="https://github.com/user-attachments/assets/c0e5f6b3-08b6-492d-9184-fa5eb2e93dc1" />
+>The geoid is an equipotential surface that can be thought of as the shape an ocean surface would take due to the Earth's gravity field. [https://svs.gsfc.nasa.gov/5660/ @nasa-jpl @cbsinteractive](https://svs.gsfc.nasa.gov/5660/)
+- [Rashard @nasa-openscapes](https://ra5hard.github.io/) @doug-newman-nasa @howard-university-web-services @Cityoflosangeles @la-county-isd 
+![https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005660/geoid.png](https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005660/geoid.png) 
+
 # WWII Bombs are Exploding in France Because of Wildfires
 do you believe that [?](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) 
 [WATCH - youtu.be/QNNXMGreXaE?si=whP4f1UalfdqOVrP](https://youtu.be/QNNXMGreXaE?si=whP4f1UalfdqOVrP)
