@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Iran Leaders In-Fighting? 
+_A 3rd Political Party? [Love & Hip Hop Starr Arrested @cbs-news-data @newshour](https://www.cbsnews.com/atlanta/news/love-and-hip-hop-sidney-favors-arrested-for-alleged-sexual-assault-of-a-child-da-fani/) HOT 97 News 8/4/26_
+[WATCH - Youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX](https://youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX)
+<img  alt="image" src="https://github.com/user-attachments/assets/34f432ab-26e7-4950-8d5e-e7f3010c3320" />
+
 
 # The OnlyFans boom: 
 _The girls making millions on X-rated websites : [60 Minutes Australia](https://www.youtube.com/@60MinutesAU)_
