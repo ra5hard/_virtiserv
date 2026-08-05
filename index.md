@@ -7,7 +7,7 @@ Your registration for this @Webex webinar has been declined.
 
 Part 2: Accessing NASA Earth Observations for Reservoir Management
 Host: Natasha Johnson-Griffin @nasa-jsc-robotics @nasa-jpl @nasa-pds
-Natasha its @rashard There are two events in my calendar declined I don't know if I got kicked out of the meeting early or not and making sure I'm ready to login @doug-newman-nasa 
+Natasha its @rashard There are two events in my calendar declined I don't know if I got kicked out of the meeting early or not and making sure I'm ready to login @doug-newman-nasa there's still one calendar entry left @emergingcoders @blackgirlscode online training is still like brick and mortar I'm always disappointed when I cant hear and participate in the professors lectures @nasa-jpl @nasa-develop @cityoflosangeles 
 Thursday, August 6, 2026
 11:00 AM  |  (UTC-07:00) Pacific Time (US & Canada)  
 ```
