@@ -5,7 +5,7 @@ layout: default
 [https://www.youtube.com/@AtlantaNewsFirst](https://www.youtube.com/@AtlantaNewsFirst) @blackgirlscode we were divided for nothing!!! @nasa-jpl I'm concerned @nasa-pds I done missed the greatest brides bc of local striptease support @cityoflosangeles 
 
 [WATCH - youtube.com/watch?v=eQPkS_v38ys](https://www.youtube.com/watch?v=eQPkS_v38ys)
-[The Spotlight: ‘Onlyfans house’ raided in Bellevue, WA](https://youtu.be/tyVyBbyCQIs?si=7i4RfPfktRVWoCtL) // [OnlyFans model Courtney Clenney accused of stabbing her boyfriend to death @cbs-news-data](https://www.cbsnews.com/miami/news/onlyfans-model-courtney-clenney-plea-deal-reached/)
+[The Spotlight: ‘Onlyfans house’ raided in Bellevue, WA](https://youtu.be/tyVyBbyCQIs?si=7i4RfPfktRVWoCtL) // [OnlyFans model Courtney Clenney accused of stabbing her boyfriend to death @cbs-news-data](https://www.cbsnews.com/miami/news/onlyfans-model-courtney-clenney-plea-deal-reached/) // [OnlyFans spending in NY: See top cities and counties, report estimates](https://www.democratandchronicle.com/story/news/2026/08/04/onlyfans-spending-new-york-cities-counties-report/91077073007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z112724p003050l004350c003050e1190xxv112724&gca-ft=23&gca-ds=sophi)
 
 <img alt="image" src="https://github.com/user-attachments/assets/d1c1f149-fb36-4e05-a72a-6de635313ade" />
 
