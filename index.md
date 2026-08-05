@@ -5,17 +5,22 @@ layout: default
 
 
 # BitbucketForVirtiserv
-<img alt="image" src="https://github.com/user-attachments/assets/9b3f704e-c27c-47d8-a359-ea34ed501d35" />
 
 ![https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled](https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled) 
+
+@emergingcoders @salesforce @Shopify
+[<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
+
+<img alt="image" src="https://github.com/user-attachments/assets/9b3f704e-c27c-47d8-a359-ea34ed501d35" />
+
+
 [bitbucket.org/virtiserv/workspace/overview/](https://bitbucket.org/virtiserv/workspace/overview/)
 @howard-university-web-services I know there are standards to getting taken to dinner, I'm just saying someone poisoned city hall and the library with [chlorine](https://pubmed.ncbi.nlm.nih.gov/3953542/) and suffered [tooth erosion](https://my.clevelandclinic.org/health/diseases/tooth-erosion) [[1](https://www.colgate.com/en-us/oral-health/threats-to-dental-health/the-effects-of-chlorine-on-your-teeth) after being attacked with a [DEW](https://www.congress.gov/crs-product/R46925)
 [bitbucket.org/virtiserv/virtiserv.github.io/src/master/](https://bitbucket.org/virtiserv/virtiserv.github.io/src/master/) <~ issa backup @blackgirlscode 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ce3940ff-4811-4073-b258-53e26244fd16" />
 
-@emergingcoders @salesforce @Shopify
-[<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
+
 
 ```html
 [<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
