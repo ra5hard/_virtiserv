@@ -2,11 +2,139 @@
 layout: default
 ---
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8bab6eb0-560a-41ef-be41-7610f069cb1e" />
+
+[@usps PUBLiC DNS LOG FROM @CityofSantaMonica 👟 `Adidas`Store](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/May31santamonicaAdidasFreeERiKATUSCONDTLAANNiVERSARYVirtiservBlackgirlscode.log)
+@teslamotors [`TeslaDiner` LocalLosanglesDNS @spaceexplorationtechnologies @r-spacex github.com/virtiserv/rashardmro/blob/master/assets/logs/June21_TESLADiNERHOLLYWOODJunteenthVirtiservRashardNasaEarydataJPL.log](https://github.com/virtiserv/rashardmro/blob/master/assets/logs/June21_TESLADiNERHOLLYWOODJunteenthVirtiservRashardNasaEarydataJPL.log)
+
+@emergingCoders @blackgirlscode @howard-university-web-services [⚽@footlocker.com/product/~/KJ2422.html](https://www.footlocker.com/product/~/KJ2422.html)
+![https://assets.footlocker.com/is/image/FLDM/KJ2422_06?$tile500jpg$=true&fmt=png-alpha](https://assets.footlocker.com/is/image/FLDM/KJ2422_06?$tile500jpg$=true&fmt=png-alpha)
+
 ![https://admin.publichealth.lacounty.gov/PublicHealthHE-Blue.gif](https://admin.publichealth.lacounty.gov/PublicHealthHE-Blue.gif)
-[https://cityclerk.lacity.org/onlinedocs/2025/25-0600_misc_4-20-2025.pdf](https://cityclerk.lacity.org/onlinedocs/2025/25-0600_misc_4-20-2025.pdf)
+[https://cityclerk.lacity.org/onlinedocs/2025/25-0600_misc_4-20-2025.pdf](https://cityclerk.lacity.org/onlinedocs/2025/25-0600_misc_4-20-2025.pdf) // @la-coun ty-isd Holly [github.com/CityofSantaMonica](https://github.com/CityofSantaMonica)
 
 
 ![https://about.usps.com/newsroom/global/images/releases/usps-250.png](https://about.usps.com/newsroom/global/images/releases/usps-250.png)
+
+
+```shell
+
+Non-authoritative answer:
+usps.com	nameserver = dns082.usps.com.
+usps.com	nameserver = dns141.usps.com.
+
+Authoritative answers can be found from:
+dns141.usps.com	internet address = 56.0.141.25
+dns082.usps.com	internet address = 56.0.82.25
+dns141.usps.com	has AAAA address 2610:68:3130:25:6010::25
+dns082.usps.com	has AAAA address 2610:68:5130:11:1410::25
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+usps.com	mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com.
+usps.com	mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com.
+
+Authoritative answers can be found from:
+
+
+; <<>> DiG 9.20.22 <<>> usps.com ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29913
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;usps.com.			IN	ANY
+
+;; ANSWER SECTION:
+usps.com.		117	IN	A	56.0.134.100
+usps.com.		3600	IN	MX	10 mxa-0038fd02.gslb.gpphosted.com.
+usps.com.		3600	IN	MX	10 mxb-0038fd02.gslb.gpphosted.com.
+usps.com.		3599	IN	NS	dns082.usps.com.
+usps.com.		3599	IN	NS	dns141.usps.com.
+
+;; Query time: 52 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (TCP)
+;; WHEN: Sun May 31 17:43:36 PDT 2026
+;; MSG SIZE  rcvd: 168
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780274617
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+wp1-ext.usps.gov	canonical name = wildcard.usps.com.edgekey.net.
+wildcard.usps.com.edgekey.net	canonical name = e6531.dsca.akamaiedge.net.
+
+Authoritative answers can be found from:
+dsca.akamaiedge.net
+	origin = n0dsca.akamaiedge.net
+	mail addr = hostmaster.akamai.com
+	serial = 1780274617
+	refresh = 1000
+	retry = 1000
+	expire = 1000
+	minimum = 1800
+
+
+; <<>> DiG 9.20.22 <<>> wp1-ext.usps.gov ANY
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4268
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+;; QUESTION SECTION:
+;wp1-ext.usps.gov.		IN	ANY
+
+;; ANSWER SECTION:
+wp1-ext.usps.gov.	300	IN	CNAME	wildcard.usps.com.edgekey.net.
+wp1-ext.usps.gov.	300	IN	RRSIG	CNAME 7 3 300 20260610033805 20260531032531 36053 usps.gov. V/lH7HdiZBUYbyJT20wYIHPjP3bzKC1k7j+iVo+Rk3d0LXLqLyQs9BRQ iRTkCzV6+eowafhu9PLtLbDEMr2hxy87bDidn5vooZ114WSlx6oZlzlL jzTRdMe+snwP8kTnaZ9JQnomCx0gmLW76crqPyhCFNOxWSurv01UcFTY VaE=
+
+;; Query time: 56 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (TCP)
+;; WHEN: Sun May 31 17:43:36 PDT 2026
+;; MSG SIZE  rcvd: 256
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uspto.com	mail exchanger = 0 mail.uspto.com.
+
+Authoritative answers can be found from:
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+uspto.com	nameserver = ns5.mpower.nl.
+uspto.com	nameserver = ns6.mpower.nl.
+
+```
 
 ![https://news.usps.com/wp-content/uploads/2018/01/List-Logos_large-story.jpg](https://news.usps.com/wp-content/uploads/2018/01/List-Logos_large-story.jpg)
 
