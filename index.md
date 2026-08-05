@@ -2,9 +2,20 @@
 layout: default
 ---
 
+
+# The MAGA Split? MTG, Tucker Carlson, Thomas Massie & Joe Kent Hint at Something Bigger
+[@fecgov fec.gov/data/committee/C00580100/](https://www.fec.gov/data/committee/C00580100/)
+[github.com/fecgov](https://github.com/fecgov)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/934db39d-8512-484f-99a2-48864a941afe" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/738d9cf1-44c3-42d8-bee2-7fa1dc0b38d7" />
+
+
 # Iran Leaders In-Fighting? 
 _A 3rd Political Party? [Love & Hip Hop Starr Arrested @cbs-news-data @newshour](https://www.cbsnews.com/atlanta/news/love-and-hip-hop-sidney-favors-arrested-for-alleged-sexual-assault-of-a-child-da-fani/) HOT 97 News 8/4/26_
-[WATCH - Youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX](https://youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX) :: @foratlanta [youtube.com/watch?v=Y9lNJhluUoQ](https://www.youtube.com/watch?v=Y9lNJhluUoQ)
+[WATCH - Youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX](https://youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX) :: @foratlanta [youtube.com/watch?v=Y9lNJhluUoQ](https://www.youtube.com/watch?v=Y9lNJhluUoQ) // [Love & Hip Hop Star Sidney Starr Arrested for Child Molestation](https://www.youtube.com/watch?v=SrS5E3R-1Lc) // [What's Actually Happening With Ariana Grande](https://www.youtube.com/watch?v=mfcpM5HQs00)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/34f432ab-26e7-4950-8d5e-e7f3010c3320" />
 
 
