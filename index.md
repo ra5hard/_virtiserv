@@ -4,6 +4,7 @@ layout: default
 
 [Department of Defense Directed Energy Weapons: Background and Issues for Congress](https://www.congress.gov/crs-product/R46925) 
 
+# BitbucketForVirtiserv
 
 ![https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled](https://upload.wikimedia.org/wikipedia/commons/f/fc/Bitbucket_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled) 
 
@@ -11,6 +12,13 @@ layout: default
 [bitbucket.org/virtiserv/virtiserv.github.io/src/master/](https://bitbucket.org/virtiserv/virtiserv.github.io/src/master/) <~ issa backup @blackgirlscode 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ce3940ff-4811-4073-b258-53e26244fd16" />
+
+@emergingcoders @salesforce @Shopify
+[<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
+
+```html
+[<video controls src="https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm" />](https://archive.org/download/vid-20260411-163609-170/BitbucketForVirtiservLatriceLana_NASAJPLSMALLBUSiNESSScreen%20recording%202026-08-05%202.35.10%20PM.webm)
+```
 
 ## Import a repository from GitHub or GitLab
 Importing the repository into Bitbucket
