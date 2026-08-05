@@ -5,6 +5,7 @@ layout: default
 
 
 # HOT 97 News Live! 8/5/26
+@whitehouse @dhs-gov @femagov @weather-gov @commercegov @fbicyber
 [WATCH - https://www.youtube.com/live/glJDEcQPcTY?si=DQwAKyrgjv-EVxhS](https://www.youtube.com/live/glJDEcQPcTY?si=DQwAKyrgjv-EVxhS)
 <img  alt="image" src="https://github.com/user-attachments/assets/3d896d08-7b41-41b1-9cc1-fe23f369a5f1" />
 
@@ -25,7 +26,7 @@ layout: default
 <iframe width="560" height="315" src="https://www.youtube.com/embed/glJDEcQPcTY?si=1uNAhgTmuJ7prSr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ```
 
-<img  alt="image" src="https://github.com/user-attachments/assets/f3cd234f-bab1-42eb-9eab-fea6a93f94f5" />
+
 
 River to paris
 <img  alt="S1A_IW_GRDH_1SDV_20260629T060725_20260629T060750_065180_083778_A0E1 @asfadmin" src="https://github.com/user-attachments/assets/df8cbe2e-ba44-4eb8-849f-6c04ec505aef" />
