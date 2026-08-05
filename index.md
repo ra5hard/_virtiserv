@@ -2,6 +2,15 @@
 layout: default
 ---
 
+[worldview.earthdata.nasa.gov/?v=38.18441959990213,14.798623371959215,39.37703511403632,15.675505992756145&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=38.8607,15.3628&t=2026-08-04-T01%3A34%3A02Z](https://worldview.earthdata.nasa.gov/?v=38.18441959990213,14.798623371959215,39.37703511403632,15.675505992756145&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=38.8607,15.3628&t=2026-08-04-T01%3A34%3A02Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/83ff63b9-b0a4-4ab6-b850-44423e25a1bf" />
+[youtube.com/@AtlantaNewsFirst](https://www.youtube.com/@AtlantaNewsFirst) @blackgirlscode we were divided for nothing!!! @nasa-jpl I'm concerned @nasa-pds I done missed the greatest brides bc of local striptease support @cityoflosangeles 
+
+[WATCH - youtube.com/watch?v=eQPkS_v38ys](https://www.youtube.com/watch?v=eQPkS_v38ys)
+[The Spotlight: ‘Onlyfans house’ raided in Bellevue, WA](https://youtu.be/tyVyBbyCQIs?si=7i4RfPfktRVWoCtL) // [OnlyFans model Courtney Clenney accused of stabbing her boyfriend to death @cbs-news-data](https://www.cbsnews.com/miami/news/onlyfans-model-courtney-clenney-plea-deal-reached/) // [OnlyFans spending in NY: See top cities and counties, report estimates](https://www.democratandchronicle.com/story/news/2026/08/04/onlyfans-spending-new-york-cities-counties-report/91077073007/?gnt-cfr=1&gca-cat=p&gca-uir=false&gca-epti=z112724p003050l004350c003050e1190xxv112724&gca-ft=23&gca-ds=sophi) // [Alleged victim of OnlyFans model speaks out after bail denied](https://ktla.com/news/california/alleged-victim-of-onlyfans-model-speaks-out-after-bail-denied/) // [Israeli OnlyFans model Adva Lavie denied bail in Los Angeles after removing ankle monitor @foratlanta](https://www.jpost.com/international/article-904412)
+
+<img alt="image" src="https://github.com/user-attachments/assets/d1c1f149-fb36-4e05-a72a-6de635313ade" />
+
 # Sol 4972: Right Navigation Camera
 This image was taken by NAV_RIGHT_B onboard NASA's Mars rover Curiosity on Sol 4972 (2026-08-02T00:58:14.000Z)
 
