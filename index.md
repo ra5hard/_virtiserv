@@ -6,10 +6,34 @@ layout: default
 ## _The Latest Details_ [`WATCH` - youtu.be/Bjl-zVq6sIM?si=utGPQppEmny89e3-](https://youtu.be/Bjl-zVq6sIM?si=utGPQppEmny89e3-) 
 // [Love & Hip Hop Starr Arrested @cbs-news-data @newshour](https://www.cbsnews.com/atlanta/news/love-and-hip-hop-sidney-favors-arrested-for-alleged-sexual-assault-of-a-child-da-fani/) HOT 97 News 8/4/26_
 [WATCH - Youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX](https://youtu.be/OteHCXW-QMI?si=VUjTL1f2CG6DqtvX) :: @foratlanta [youtube.com/watch?v=Y9lNJhluUoQ](https://www.youtube.com/watch?v=Y9lNJhluUoQ) // [Love & Hip Hop Star Sidney Starr Arrested for Child Molestation](https://www.youtube.com/watch?v=SrS5E3R-1Lc) // [What's Actually Happening With Ariana Grande](https://www.youtube.com/watch?v=mfcpM5HQs00) 
-[Sidney Starr Defends Trans Community, Denies Charges as Mugshot Surfaces - thatgrapejuice.net @nbcnews @newshour](https://thatgrapejuice.net/entertainment/2026/08/sidney-starr-defends-trans-community-denies-charges-as-mugshot-surfaces/) // [Chingy Reveals Why He Almost Stopped Taking Photos With Gay Fans - Complex](https://www.complex.com/music/a/jaelaniturnerwilliams/chingy-photos-gay-fans) / [https://eurweb.com/chingy-reflects-on-sidney-starrs-lies-impacting-his-career/](https://eurweb.com/chingy-reflects-on-sidney-starrs-lies-impacting-his-career/) 
+[Sidney Starr Defends Trans Community, Denies Charges as Mugshot Surfaces - thatgrapejuice.net @nbcnews @newshour](https://thatgrapejuice.net/entertainment/2026/08/sidney-starr-defends-trans-community-denies-charges-as-mugshot-surfaces/) // [Chingy Reveals Why He Almost Stopped Taking Photos With Gay Fans - Complex](https://www.complex.com/music/a/jaelaniturnerwilliams/chingy-photos-gay-fans) / [https://eurweb.com/chingy-reflects-on-sidney-starrs-lies-impacting-his-career/](https://eurweb.com/chingy-reflects-on-sidney-starrs-lies-impacting-his-career/) // [[Reality TV's Sidney Starr arrested for child sex assault in Georgia](https://www.fox5atlanta.com/news/sidney-starr-accused-child-assault-fulton-county-hotel)  [businessinsider.com/fox-business-newsat-github-2013-9](https://www.businessinsider.com/fox-business-newsat-github-2013-9)
 <img alt="image" src="https://github.com/user-attachments/assets/3272a59d-87fa-4065-9be9-47633f4b9a5f" />
 
 ![https://thatgrapejuice.net/wp-content/themes/tgj17july17/images/logo.png @nasa-jpl they know a lot! @doug-newman-nasa @la-county-isd](https://thatgrapejuice.net/wp-content/themes/tgj17july17/images/logo.png)
+
+## Why Trump’s "4th Term" Speech Has Everyone Talking
+[WATCH - @nasa-jpl @nasa-giss youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr](https://youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr)
+<img alt="image" src="https://github.com/user-attachments/assets/85e848af-89c9-499f-93fe-26792bdb7474" />
+
+<img  alt="tumblr_de9d9805664076eadfc27765172b64e5_219e25ac_1280 @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/098ee1df-fa5b-43e8-b4f9-9a3c87f1687d" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">THE TRUMP GOLD CARD. <br><br>Unlock life in America. <a href="https://t.co/ui2ZkkdxEH">https://t.co/ui2ZkkdxEH</a> <a href="https://t.co/7pxuVvnC6z">pic.twitter.com/7pxuVvnC6z</a></p>&mdash; The White House (@WhiteHouse) <a href="https://x.com/WhiteHouse/status/1998859522740466066?ref_src=twsrc%5Etfw">December 10, 2025</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@deptofwar @teslamotors @nasa-jpl @nasa-openscapes @newshour @cbs-news-data
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov @deptofwar| use9.akam.net. | 21600 | 
+| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+| war.gov @deptofwar| asia2.akam.net. | 21600 | 
+| war.gov @deptofwar| usc5.akam.net. | 21600 | 
+| war.gov @deptofwar| eur6.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-116.akam.net. | 21600 | 
+| war.gov @deptofwar| use2.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-95.akam.net. | 21600 | 
+
 
 # NYC Subway Fire, MARTA Body Found & ICE Scandal 
 # NS Records 
