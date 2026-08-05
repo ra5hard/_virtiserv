@@ -2,6 +2,12 @@
 layout: default
 ---
 
+[https://www.youtube.com/@AtlantaNewsFirst](https://www.youtube.com/@AtlantaNewsFirst) @blackgirlscode we were divided for nothing!!! @nasa-jpl I'm concerned @nasa-pds I done missed the greatest brides bc of local striptease support @cityoflosangeles 
+
+[WATCH - youtube.com/watch?v=eQPkS_v38ys](https://www.youtube.com/watch?v=eQPkS_v38ys)
+<img alt="image" src="https://github.com/user-attachments/assets/d1c1f149-fb36-4e05-a72a-6de635313ade" />
+
+
 [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @nasa-jpl Madrid still quiet and say testing . . . @blackgirlscode
 MADRID DEEP SPACE COMMUNICATIONS COMPLEX
 Phone: (+34) 918677000
