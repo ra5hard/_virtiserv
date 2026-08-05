@@ -4,6 +4,12 @@ layout: default
 
 
 # neptune @nasa-jpl
+[@nasa-pds https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3Avoyager&fq=ATLAS_INSTRUMENT_NAME%3Avg-iss&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=neptune&start=6240](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3Avoyager&fq=ATLAS_INSTRUMENT_NAME%3Avg-iss&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=neptune&start=6240)
+
+[https://planetarydata.jpl.nasa.gov/img/data/voyager/vg_0011/extras/browse/neptune/c1169xxx/c1169901.jpg](https://planetarydata.jpl.nasa.gov/img/data/voyager/vg_0011/extras/browse/neptune/c1169xxx/c1169901.jpg)
+
+<img src="https://planetarydata.jpl.nasa.gov/img/data/voyager/vg_0011/extras/browse/neptune/c1169xxx/c1169901.jpg"/>
+
 [pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/data/qedr/vgr2/VGR_1246-MBMQTV-067870-DATA-067870.021.vic](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:vgr:voyager_2:/wenkert_pdart16_vgr_rav1ciun/data/qedr/vgr2/VGR_1246-MBMQTV-067870-DATA-067870.021.vic)
 <img   alt="VGR_1246-MBMQTV-067870-DATA-067870 021" src="https://github.com/user-attachments/assets/5972d083-1af5-40d3-89cc-d7dc385f5b79" />
 
