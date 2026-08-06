@@ -6,6 +6,9 @@ layout: default
 Right Navigation Camera (Navcam)
 NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01913/ids/edr/browse/ncam/NRF_1913_0836773084_096ECM_N0892556NCAM02913_10_195J03_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01913/ids/edr/browse/ncam/NRF_1913_0836773084_096ECM_N0892556NCAM02913_10_195J03_1200.jpg)
+
+
 This image was acquired on Aug. 5, 2026 (Sol 1940) at the local mean solar time of 16:41:28.
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01917/ids/edr/browse/ncam/NRF_1917_0837131086_426ECM_N0893644NCAM02917_04_195J01_1200.jpg @nasa-pds](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01917/ids/edr/browse/ncam/NRF_1917_0837131086_426ECM_N0893644NCAM02917_04_195J01_1200.jpg)
