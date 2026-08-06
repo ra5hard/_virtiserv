@@ -11,7 +11,7 @@ _Rudy's friend, Dustin, gives the gang the wrong information on sex education wh
 [Watch - youtu.be/ZtqvJPo4SnU?si=eKEgnlqNTx9oHZgI](https://youtu.be/ZtqvJPo4SnU?si=eKEgnlqNTx9oHZgI) [[1](https://www.youtube.com/watch?v=ptCDQVnpTR0)] r.i.p. [dailymotionfile](https://www.dailymotion.com/video/x7ntrzp) // [metacritic](https://www.metacritic.com/tv/fat-albert-and-the-cosby-kids/season-5/episode-8-soft-core/) @emergingcoders @salesforce @Shopify
 
 ### [Felix In Hollywood [1923]]
-[@CityO(FLosAngeles archive.org/details/FelixInHollywood1923](https://archive.org/details/FelixInHollywood1923)
+[@CityOFLosAngeles archive.org/details/FelixInHollywood1923](https://archive.org/details/FelixInHollywood1923)
 
 
 # HOT 97 News Live! 8/5/26
