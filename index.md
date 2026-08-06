@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+<img alt="image" src="https://github.com/user-attachments/assets/3c142081-34bd-4ba1-8edd-6808392ded1f" />
+
+
 [usbr.gov/uc/rm/crsp/gc/](https://www.usbr.gov/uc/rm/crsp/gc/)
 [earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
 ![https://www.usbr.gov/uc/img/gallery/gcd/images/1.jpg](https://www.usbr.gov/uc/img/gallery/gcd/images/1.jpg) 
