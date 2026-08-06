@@ -30,6 +30,10 @@ _Rudy's friend, Dustin, gives the gang the wrong information on sex education wh
 
 <img   alt="image" src="https://github.com/user-attachments/assets/eadde453-2e21-4975-8b9c-23368f528136" />
 
+@doug-newman-nasa @nasa-jpl Madrid and goldstone are really quiet!
+[eyes.nasa.gov/apps/dsn-now/dsn.html @nasa-develop @nasa-giss @blackgirlscode](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img  alt="eyes.nasa.gov/apps/dsn-now/dsn.html image @doug-newman-nasa @nasa-jpl Madrid and goldstone are really quiet!" src="https://github.com/user-attachments/assets/96f45249-925e-40ed-9804-d2f5999a40dc" />
+
 
 # APK Archive
 ## Android Package Manager
