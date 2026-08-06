@@ -2,7 +2,7 @@
 layout: default
 ---
 
-
+![https://www.usbr.gov/img/logo-white.png @la-county-isd](https://www.usbr.gov/img/logo-white.png)
 @nasa working out cloud access for
 _NASA Earth Observations for Reservoir and Water Utility Management_
 This ARSET training uses precipitation, soil moisture, and snow data to help reservoir managers assess inflows and manage water allocation and flood risks. [earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management) /// [nasaevents.webex.com/wbxmjs/joinservice/sites/nasaevents/meeting/download/60a9e59bef974b4cb4fc599e52825fe0?MTID=me160efc901efc2620c0435fc0b3acf20&launchApp=true&siteurl=nasaevents&theme=light](https://nasaevents.webex.com/wbxmjs/joinservice/sites/nasaevents/meeting/download/60a9e59bef974b4cb4fc599e52825fe0?MTID=me160efc901efc2620c0435fc0b3acf20&launchApp=true&siteurl=nasaevents&theme=light) [https://www.daito.io/?](https://www.daito.io/)
