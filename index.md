@@ -2,6 +2,16 @@
 layout: default
 ---
 
+
+@nasa working out cloud access for
+_NASA Earth Observations for Reservoir and Water Utility Management_
+This ARSET training uses precipitation, soil moisture, and snow data to help reservoir managers assess inflows and manage water allocation and flood risks. [earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
+
+---
+
+[https://me.developers.google.com/u/115345190250819501276](https://me.developers.google.com/u/115345190250819501276)
+<img   alt="image" src="https://github.com/user-attachments/assets/e7f49891-34cc-4fb8-818b-b1053f801ca0" />
+
 @emit-sds @doug-newman-nasa im sorry i was toired im locked out of this part of the labs 
 
 ```
