@@ -9,7 +9,7 @@ This ARSET training uses precipitation, soil moisture, and snow data to help res
 
 ---
 
-[https://me.developers.google.com/u/115345190250819501276](https://me.developers.google.com/u/115345190250819501276)
+[me.developers.google.com/u/115345190250819501276](https://me.developers.google.com/u/115345190250819501276)
 <img   alt="image" src="https://github.com/user-attachments/assets/e7f49891-34cc-4fb8-818b-b1053f801ca0" />
 
 @emit-sds @doug-newman-nasa im sorry i was toired im locked out of this part of the labs 
