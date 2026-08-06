@@ -9,6 +9,7 @@ layout: default
 >"Welcome to our last `Atlanta` Specific show everybody. We are moving to two hours of national new with the rundown" - [Lana j Harris](https://www.linkedin.com/in/lana-harris-8bb580108) /// [hot97atlanta.com/](https://hot97atlanta.com/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/94d15e27-d3a0-49d5-854d-4f4545e8d437" />
+
 ![https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png](https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png)
 
 # Zoning Review Board Meeting
