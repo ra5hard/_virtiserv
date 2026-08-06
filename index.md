@@ -5,7 +5,7 @@ layout: default
 
 ![https://code.earthengine.google.com/images/GoogleEarthEngine_v2.png](https://code.earthengine.google.com/images/GoogleEarthEngine_v2.png)
 
-@nasa @nasa-jpl @nasa-openscapes
+@nasa @nasa-jpl @nasa-openscapes [earth.gsfc.nasa.gov/gwm/lake/Index](https://earth.gsfc.nasa.gov/gwm/lake/Index)
 [https://code.earthengine.google.com/47c1a569b20181c80d78756c8ba2981f](https://code.earthengine.google.com/47c1a569b20181c80d78756c8ba2981f) the teacher indian 0-100 @blackgirlscode im lost! losing my cellphone wasted my lab time! @Cityoflosangeles at least i got in 
 <img  alt="image" src="https://github.com/user-attachments/assets/4039f9b7-c810-4632-a36a-1904c4ffe62b" />
 
