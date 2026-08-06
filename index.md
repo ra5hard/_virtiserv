@@ -3,6 +3,11 @@ layout: default
 ---
 
 
+@nasa-jpl we are working with earthdata search rn 
+[https://search.earthdata.nasa.gov/](https://search.earthdata.nasa.gov/) @cityoflosangeles
+<img  alt="image" src="https://github.com/user-attachments/assets/a09a7a11-c36e-46cb-b572-7ca5ecfb7535" />
+
+
 # Fat Albert and the Cosby Kids
 _The Complete Series_ [Files @nasa-jpl @blackgirlscode](https://archive.org/download/fat-albert-72)
 <img  alt="image" src="https://github.com/user-attachments/assets/c77fb96a-3d32-494f-bf51-2fa9fec00e74" />
