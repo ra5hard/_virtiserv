@@ -18,8 +18,21 @@ _Rudy's friend, Dustin, gives the gang the wrong information on sex education wh
 
 [https://svs.gsfc.nasa.gov/30496/](https://svs.gsfc.nasa.gov/30496/)
 
+![https://esawebb.org/assets/images/esa-jwst-logo.png](https://esawebb.org/assets/images/esa-jwst-logo.png) 
 
+[esawebb.org/images/jupiter_jetstream1/](https://esawebb.org/images/jupiter_jetstream1/)
 
+![https://cdn.esawebb.org/archives/images/screen/jupiter-auroras1.jpg](https://cdn.esawebb.org/archives/images/screen/jupiter-auroras1.jpg)
+With giant storms, powerful winds, auroras, and extreme temperature and pressure conditions, Jupiter has a lot going on. Now, the NASA/ESA/CSA James Webb Space Telescope has captured new images of the planet. Webb’s Jupiter observations will give scientists even more clues to Jupiter’s inner life.
+
+This image comes from the observatory’s Near-Infrared Camera (NIRCam), which has three specialized infrared filters that showcase details of the planet. Since infrared light is invisible to the human eye, the light has been mapped onto the visible spectrum. Generally, the longest wavelengths appear redder and the shortest wavelengths are shown as more blue. Scientists collaborated with citizen scientist Judy Schmidt to translate the Webb data into images.
+
+This image was created from a composite of several images from Webb. Visible auroras extend to high altitudes above both the northern and southern poles of Jupiter. The auroras shine in a filter that is mapped to redder colors, which also highlights light reflected from lower clouds and upper hazes. A different filter, mapped to yellows and greens, shows hazes swirling around the northern and southern poles. A third filter, mapped to blues, showcases light that is reflected from a deeper main cloud. The Great Red Spot, a famous storm so big it could swallow Earth, appears white in these views, as do other clouds, because they are reflecting a lot of sunlight.
+
+Credit:
+NASA, ESA, Jupiter ERS Team; image processing by Judy Schmidt
+![https://cdn.esawebb.org/archives/images/screen/jupiter_jetstream1.jpg](https://cdn.esawebb.org/archives/images/screen/jupiter_jetstream1.jpg)
+![https://cdn.esawebb.org/archives/images/screen/weic2419a.jpg](https://cdn.esawebb.org/archives/images/screen/weic2419a.jpg)
 
 # HOT 97 News Live! 8/5/26
 @whitehouse @dhs-gov @femagov @weather-gov @commercegov @fbicyber
