@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+# Fat Albert and the Cosby Kids
+_The Complete Series_ [Files @nasa-jpl @blackgirlscode](https://archive.org/download/fat-albert-72)
+<img  alt="image" src="https://github.com/user-attachments/assets/c77fb96a-3d32-494f-bf51-2fa9fec00e74" />
+
 [longbeach.gov/mayor/mayor-priorities/grow-long-beach/](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/)
 <img  alt="image" src="https://github.com/user-attachments/assets/f0d62371-3ba6-4be9-b119-b153767f3202" />
 
