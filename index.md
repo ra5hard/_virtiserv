@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# 
+DJ Spinking on DJ Etiquette, 
+Opening for Cardi B & Navigating The Music Industry
+[WATCH https://www.youtube.com/watch?v=QgoEb7wT6u8](https://www.youtube.com/watch?v=QgoEb7wT6u8)
+<img  alt="image" src="https://github.com/user-attachments/assets/c95ffe7e-d94e-4c11-930c-79f06d409374" />
+
 
 # A Police Official Drove Her Son's Getaway Car?! 
 [youtu.be/eWEGLmNKf2c?si=6wxTGQuElF6ExSav](https://youtu.be/eWEGLmNKf2c?si=6wxTGQuElF6ExSav)
