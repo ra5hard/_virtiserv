@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# 
+U.S. Spacewalk 96
+[WATCH - youtube.com/live/XNKdYbmPKJ8?si=qWASZBZn0WZKVa07](https://www.youtube.com/live/XNKdYbmPKJ8?si=qWASZBZn0WZKVa07) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1fd903cb-f502-4bc7-8c91-5f67e023e094" />
+
+
 @nasa-giss @nasa-jpl @doug-newman-nasa the homework opens up on 11/08/26 . . . . @nasa-openscapes its the date format!!! i done missed things man i see . . . but not that much @blackgirlscode @emergingCoders @disney somone look like [dojacat](https://www.dojacat.com/) was on skidrow yesterday morning with no bra and dehydration sag @howard-university-web-services  !!!   @nasa-jpl @la-county-isd @CityOfLosAngeles 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/498a666a-3177-445f-b50f-22a4ba2d2756" />
