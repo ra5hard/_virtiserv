@@ -2,6 +2,13 @@
 layout: default
 ---
 
+@nasa-giss @nasa-jpl @doug-newman-nasa the homework opens up on 11/08/26 . . . . @nasa-openscapes its the date format!!! i done missed things man i see . . . but not that much @blackgirlscod !!! 
+<img  alt="image" src="https://github.com/user-attachments/assets/498a666a-3177-445f-b50f-22a4ba2d2756" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/96e53e37-6fa0-435a-a979-42ad75247ee9" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/ed9cfd08-3341-4567-a845-0d4b8e4c38d3" />
 
 ![https://hydroviewer.geoglows.org/img/geoglows-logo-nav.png](https://hydroviewer.geoglows.org/img/geoglows-logo-nav.png)
