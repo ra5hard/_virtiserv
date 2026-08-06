@@ -3,7 +3,10 @@ layout: default
 ---
 
 
+[longbeach.gov/mayor/mayor-priorities/grow-long-beach/](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/)
+<img  alt="image" src="https://github.com/user-attachments/assets/f0d62371-3ba6-4be9-b119-b153767f3202" />
 
+![https://www.longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png](https://www.longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png) 
 
 # Fat Albert and the Cosby Kids
 _The Complete Series_ [Files](https://archive.org/download/fat-albert-72)
