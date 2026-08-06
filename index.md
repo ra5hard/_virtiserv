@@ -8,7 +8,7 @@ layout: default
 
 The "Starter Pack" Assassin? Why This Trump Threat Feels Different
 [youtu.be/f2_w02BOctM?si=iMFabc64H5HQ59d2 @deptofwar @nasa-jpl @nasa-pds @usnavy ](https://youtu.be/f2_w02BOctM?si=iMFabc64H5HQ59d2)
-<img  alt="image" src="https://github.com/user-attachments/assets/7ea521cb-993b-472c-b477-69f2ca0ac7e8" />
+<img  alt="image @whitehouse @cityoflosangeles @foratlanta youtu.be/f2_w02BOctM?si=iMFabc64H5HQ59d2 @deptofwar @nasa-jpl @nasa-pds @usnavy ](https://youtu.be/f2_w02BOctM?si=iMFabc64H5HQ59d2" src="https://github.com/user-attachments/assets/7ea521cb-993b-472c-b477-69f2ca0ac7e8" />
 
 # JPL and the Space Age: Explorer 1
 [youtu.be/qyphzmuzF18?si=Hc7OlcXUV49HZu8n](https://youtu.be/qyphzmuzF18?si=Hc7OlcXUV49HZu8n)
