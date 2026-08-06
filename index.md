@@ -2,8 +2,18 @@
 layout: default
 ---
 
-# 
-DJ Spinking on DJ Etiquette, 
+<img alt="image" src="https://github.com/user-attachments/assets/a11e7ca5-3829-4b6e-9a1d-93a34177c646" />
+
+[https://www.usgs.gov/programs/groundwater-and-streamflow-information-program/streamflow-monitoring](https://www.usgs.gov/programs/groundwater-and-streamflow-information-program/streamflow-monitoring)
+
+
+# U.S. Spacewalk 96
+[WATCH - youtube.com/live/XNKdYbmPKJ8?si=qWASZBZn0WZKVa07](https://www.youtube.com/live/XNKdYbmPKJ8?si=qWASZBZn0WZKVa07) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1fd903cb-f502-4bc7-8c91-5f67e023e094" />
+
+
+# DJ Spinking on DJ Etiquette, 
 Opening for Cardi B & Navigating The Music Industry
 [WATCH https://www.youtube.com/watch?v=QgoEb7wT6u8](https://www.youtube.com/watch?v=QgoEb7wT6u8)
 <img  alt="image" src="https://github.com/user-attachments/assets/c95ffe7e-d94e-4c11-930c-79f06d409374" />
@@ -14,12 +24,6 @@ Opening for Cardi B & Navigating The Music Industry
 <img  alt="image" src="https://github.com/user-attachments/assets/7c55abce-dc36-4fcb-8b3b-d5ae8d1c155a" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/ab0d3508-3ed6-4cd3-aad8-49244fc26374" />
-
-# U.S. Spacewalk 96
-[WATCH - youtube.com/live/XNKdYbmPKJ8?si=qWASZBZn0WZKVa07](https://www.youtube.com/live/XNKdYbmPKJ8?si=qWASZBZn0WZKVa07) 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/1fd903cb-f502-4bc7-8c91-5f67e023e094" />
-
 
 @nasa-giss @nasa-jpl @doug-newman-nasa the homework opens up on 11/08/26 . . . . @nasa-openscapes its the date format!!! i done missed things man i see . . . but not that much @blackgirlscode @emergingCoders @disney somone look like [dojacat](https://www.dojacat.com/) was on skidrow yesterday morning with no bra and dehydration sag @howard-university-web-services  !!!   @nasa-jpl @la-county-isd @CityOfLosAngeles 
 
