@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+# JPL and the Space Age: Explorer 1
+[youtu.be/qyphzmuzF18?si=Hc7OlcXUV49HZu8n](https://youtu.be/qyphzmuzF18?si=Hc7OlcXUV49HZu8n)
+
 ## NASA Earth Observations for Reservoir and Water Utility Management
 _This ARSET training uses precipitation, soil moisture, and snow data to help reservoir managers assess inflows and manage water allocation and flood risks._ [Link](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
 
