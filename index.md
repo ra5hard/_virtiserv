@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+[usbr.gov/uc/rm/crsp/gc/](https://www.usbr.gov/uc/rm/crsp/gc/)
+[earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management)
+![https://www.usbr.gov/uc/img/gallery/gcd/images/1.jpg](https://www.usbr.gov/uc/img/gallery/gcd/images/1.jpg) 
+
 @nasa-jpl we are working with earthdata search rn 
 [https://search.earthdata.nasa.gov/](https://search.earthdata.nasa.gov/) @cityoflosangeles
 <img  alt="image" src="https://github.com/user-attachments/assets/a09a7a11-c36e-46cb-b572-7ca5ecfb7535" />
