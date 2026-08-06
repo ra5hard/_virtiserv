@@ -3,7 +3,9 @@ layout: default
 ---
 
 # A Police Official Drove Her Son's Getaway Car?! 
-[youtu.be/eWEGLmNKf2c?si=6wxTGQuElF6ExSav](https://youtu.be/eWEGLmNKf2c?si=6wxTGQuElF6ExSav)
+[WATCH - youtu.be/eWEGLmNKf2c?si=6wxTGQuElF6ExSav](https://youtu.be/eWEGLmNKf2c?si=6wxTGQuElF6ExSav)
+
+@nasa-giss @nasa-jpl @doug-newman-nasa the homework opens up on 11/08/26 . . . . @nasa-openscapes its the date format!!! i done missed things man i see . . . but not that much @blackgirlscode @emergingCoders @disney somone look like [dojacat](https://www.dojacat.com/) was on skidrow yesterday morning with no bra and dehydration sag @howard-university-web-services  !!!   @nasa-jpl @la-county-isd @CityOfLosAngeles 
 <img  alt="image" src="https://github.com/user-attachments/assets/7c55abce-dc36-4fcb-8b3b-d5ae8d1c155a" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/ab0d3508-3ed6-4cd3-aad8-49244fc26374" />
@@ -38,7 +40,7 @@ Opening for Cardi B & Navigating The Music Industry
 
 
 
-@nasa-giss @nasa-jpl @doug-newman-nasa the homework opens up on 11/08/26 . . . . @nasa-openscapes its the date format!!! i done missed things man i see . . . but not that much @blackgirlscode @emergingCoders @disney somone look like [dojacat](https://www.dojacat.com/) was on skidrow yesterday morning with no bra and dehydration sag @howard-university-web-services  !!!   @nasa-jpl @la-county-isd @CityOfLosAngeles 
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/498a666a-3177-445f-b50f-22a4ba2d2756" />
 
