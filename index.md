@@ -7,7 +7,7 @@ layout: default
 @FORATLANTA  [WATCH - youtu.be/3J20YXbwhSE](https://youtu.be/3J20YXbwhSE)
 @nasa-giss @nasa-jpl @doug-newman-nasa  [Georgia Division of Family & Children Services@georgiadivisionoffamilychi931](https://www.youtube.com/channel/UCcWclXWbEGiJ62OQyRCr82Q/featured)
 <img  alt="image" src="https://github.com/user-attachments/assets/b4b0e9da-4ae2-4697-9116-a8f612070a10" />
-
+![https://dfcs.georgia.gov/sites/dfcs.georgia.gov/files/styles/two_one_1000x500/public/2022-02/iStock-1138111344.png?h=239e30dc&itok=1Elq4JYQ](https://dfcs.georgia.gov/sites/dfcs.georgia.gov/files/styles/two_one_1000x500/public/2022-02/iStock-1138111344.png)
 
 The "Starter Pack" Assassin? Why This Trump Threat Feels Different
 [youtu.be/f2_w02BOctM?si=iMFabc64H5HQ59d2 @deptofwar @nasa-jpl @nasa-pds @usnavy ](https://youtu.be/f2_w02BOctM?si=iMFabc64H5HQ59d2)
