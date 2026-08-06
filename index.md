@@ -2,6 +2,37 @@
 layout: default
 ---
 
+@emit-sds @doug-newman-nasa im sorry i was toired im locked out of this part of the labs 
+
+```
+
+Khadidja BOUNOUA
+Unverified
+11:25 AM
+please does google earth engine require learning programming to work on it and write script ?
+R
+You
+(Me)
+Unverified
+11:26 AM
+@Natasha if users have no way to initiate 2factor, they might not be able to create the account . . . thats my issue i was using google auth on android b4 the last robbery Google Cloud access blocked
+Effective August 25, 2025, Google Cloud has begun to enforce 2-step verification (2SV), also called multi-factor authentication (MFA). Go to your security settings to turn on 2-step verification.
+
+SM
+Sherrie Morris
+(Panelist)
+nasa.gov
+11:27 AM
+Sherrie Morris deleted their own reply.
+R
+You
+(Me)
+Unverified
+11:27 AM
+sure thing, it sucks to be sidelined
+
+```
+<img alt="image" src="https://github.com/user-attachments/assets/09dd53e1-aa2d-4c12-ad84-ebe0fcacbb63" />
 
 <img alt="image @webex @doug-newman-nasa" src="https://github.com/user-attachments/assets/3c142081-34bd-4ba1-8edd-6808392ded1f" />
 
