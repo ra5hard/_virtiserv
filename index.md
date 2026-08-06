@@ -2,6 +2,13 @@
 layout: default
 ---
 
+# Fat Albert and the Cosby Kids
+_The Complete Series_ [Files](https://archive.org/download/fat-albert-72)
+<iframe src="https://archive.org/embed/fat-albert-72" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+_S5.E8_ `Soft Core` [IMDb](https://www.imdb.com/title/tt1993872/)
+_Rudy's friend, Dustin, gives the gang the wrong information on sex education when he gives them pornographic magazines and shows them dirty movies. Rudy's mother intervenes and points the boys in the right direction._
+[Watch - youtu.be/ZtqvJPo4SnU?si=eKEgnlqNTx9oHZgI](https://youtu.be/ZtqvJPo4SnU?si=eKEgnlqNTx9oHZgI) [[1](https://www.youtube.com/watch?v=ptCDQVnpTR0)] r.i.p. [dailymotionfile](https://www.dailymotion.com/video/x7ntrzp) // [metacritic](https://www.metacritic.com/tv/fat-albert-and-the-cosby-kids/season-5/episode-8-soft-core/) @emergingcoders @salesforce @Shopify
 
 
 # HOT 97 News Live! 8/5/26
