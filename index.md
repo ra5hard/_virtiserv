@@ -7,6 +7,8 @@ layout: default
 _The Complete Series_ [Files @nasa-jpl @blackgirlscode](https://archive.org/download/fat-albert-72)
 <img  alt="image" src="https://github.com/user-attachments/assets/c77fb96a-3d32-494f-bf51-2fa9fec00e74" />
 
+@lanajharris@gmail.com hi my water resivoir data management class under @Rashard Iman Kelly holetoanotheruniverse40@gmail.com got corrupted bc I had to change timeslots after the african insurrectionsist robbed me my availibility changed [@HollyJMitchell@bos.lacounty.gov](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) @[Natasha Johnson-Griffin](https://science.gsfc.nasa.gov/sci/bio/natasha.r.johnson-griffin/) and I never notified the company [@jplnewsroom@jpl.nasa.gov](https://www.jpl.nasa.gov/news/) or the county [@normani@fifthharmonyofficial.com](https://www.officialnormani.com/homepage/) @onelana10@juno.com hi im healing [@chloe.bailey@gmail.com](https://www.chloebailey.net/) im not mad I used  [virtiserv](https://www.facebook.com/thevirtiservway/) as an email for me [webex class](https://www.earthdata.nasa.gov/s3fs-public/2026-07/arset-2026-reservoirs-part1.pdf) - [virtiserv.github.io](https://virtiserv.github.io/)
+
 [longbeach.gov/mayor/mayor-priorities/grow-long-beach/](https://www.longbeach.gov/mayor/mayor-priorities/grow-long-beach/)
 <img  alt="image" src="https://github.com/user-attachments/assets/f0d62371-3ba6-4be9-b119-b153767f3202" />
 
