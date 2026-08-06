@@ -18,9 +18,14 @@ _Rudy's friend, Dustin, gives the gang the wrong information on sex education wh
 
 [https://svs.gsfc.nasa.gov/30496/](https://svs.gsfc.nasa.gov/30496/)
 
+# Data collected by NASA's Juno spacecraft during its first pass over Jupiter's Great Red Spot in July 2017 indicate that this iconic feature penetrates well below the clouds.
+
+Data collected by NASA's Juno spacecraft during its first pass over Jupiter's Great Red Spot in July 2017 indicate that this iconic feature penetrates well below the clouds. Other revelations from the mission include that Jupiter has two previously uncharted radiation zones. The findings were announced Monday at the annual American Geophysical Union meeting in New Orleans. [https://www.jpl.nasa.gov/news/nasas-juno-probes-the-depths-of-jupiters-great-red-spot/](https://www.jpl.nasa.gov/news/nasas-juno-probes-the-depths-of-jupiters-great-red-spot/) 
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/imagesjuno201712112andy-home.width-768.gif](https://d2pn8kiwq2w21t.cloudfront.net/images/imagesjuno201712112andy-home.width-768.gif)
 ![https://esawebb.org/assets/images/esa-jwst-logo.png](https://esawebb.org/assets/images/esa-jwst-logo.png) 
 
-[esawebb.org/images/jupiter_jetstream1/](https://esawebb.org/images/jupiter_jetstream1/)
+[esawebb.org/images/jupiter_jetstream1/ @esa](https://esawebb.org/images/jupiter_jetstream1/)
 
 ![https://cdn.esawebb.org/archives/images/screen/jupiter-auroras1.jpg](https://cdn.esawebb.org/archives/images/screen/jupiter-auroras1.jpg)
 With giant storms, powerful winds, auroras, and extreme temperature and pressure conditions, Jupiter has a lot going on. Now, the NASA/ESA/CSA James Webb Space Telescope has captured new images of the planet. Webb’s Jupiter observations will give scientists even more clues to Jupiter’s inner life.
