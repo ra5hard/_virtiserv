@@ -2,6 +2,7 @@
 
 pages build and deployment #999 hung sesh [https://github.com/virtiserv/virtiserv.github.io/actions/runs/31127423085/job/92703989170 @github @nasa-jpl ](https://github.com/virtiserv/virtiserv.github.io/actions/runs/31127423085/job/92703989170)
 <img   alt="image" src="https://github.com/user-attachments/assets/1632a6b8-d375-4915-9957-880e1102f557" />
+<img   alt="image" src="https://github.com/user-attachments/assets/51da98ad-c1e8-49a4-a2f9-c36d3db4e177" />
 
 
 ## Why Trump’s "4th Term" Speech Has Everyone Talking
