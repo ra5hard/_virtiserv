@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+# Savannah July29,2026
+[@doug-newman-openscapes ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.14/-8990830.38/3791371.70&layers=aqv_chla_20260729_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.14/-8990830.38/3791371.70&layers=aqv_chla_20260729_landsat:1.00:0.00:30.00:default)
+@nasa is there anything useful i can apply for that will make me ready to recive my daughter wheni get a new place @blackgirlscode ?
+<img   alt="image" src="https://github.com/user-attachments/assets/e8261705-385e-4ca5-9218-8b6d495b8801" />
+
+
 # A Police Official Drove Her Son's Getaway Car?! 
 [WATCH - youtu.be/eWEGLmNKf2c?si=6wxTGQuElF6ExSav](https://youtu.be/eWEGLmNKf2c?si=6wxTGQuElF6ExSav)
 
