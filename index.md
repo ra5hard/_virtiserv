@@ -27,6 +27,8 @@ _Rudy's friend, Dustin, gives the gang the wrong information on sex education wh
 <img  alt="FIRMS_7days,24hrs @7 8,45 3,5 9z" src="https://github.com/user-attachments/assets/4dd1bfc9-1a27-4cc3-9413-fbbe0f665e4d" />
 
 
+![https://www.drupal.org/files/druplicon-small.png](https://www.drupal.org/files/druplicon-small.png)
+![https://www.drupal.org/files/example-remixes.png](https://www.drupal.org/files/example-remixes.png)
 
 [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
 [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) 
