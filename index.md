@@ -3,6 +3,11 @@ layout: default
 ---
 
 
+![https://hydroviewer.geoglows.org/img/geoglows-logo-nav.png](https://hydroviewer.geoglows.org/img/geoglows-logo-nav.png)
+<img alt="image" src="https://github.com/user-attachments/assets/bb151812-c380-45b5-9b4b-0d75e3fc0c7d" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5d045c44-bc89-4730-9599-f37968fa72a4" />
+
 ![https://code.earthengine.google.com/images/GoogleEarthEngine_v2.png](https://code.earthengine.google.com/images/GoogleEarthEngine_v2.png)
 
 @nasa @nasa-jpl @nasa-openscapes [earth.gsfc.nasa.gov/gwm/lake/Index](https://earth.gsfc.nasa.gov/gwm/lake/Index)
