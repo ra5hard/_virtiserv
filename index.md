@@ -8,6 +8,8 @@ NASA's Mars Perseverance rover acquired this image using its onboard Right Navig
 
 This image was acquired on Aug. 5, 2026 (Sol 1940) at the local mean solar time of 16:41:28.
 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01917/ids/edr/browse/ncam/NRF_1917_0837131086_426ECM_N0893644NCAM02917_04_195J01_1200.jpg @nasa-pds](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01917/ids/edr/browse/ncam/NRF_1917_0837131086_426ECM_N0893644NCAM02917_04_195J01_1200.jpg)
+
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01927/ids/edr/browse/ncam/NRF_1927_0838021201_645ECM_N0894246NCAM02927_07_195J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01927/ids/edr/browse/ncam/NRF_1927_0838021201_645ECM_N0894246NCAM02927_07_195J02_1200.jpg)
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01935/ids/edr/browse/ncam/NRF_1935_0838727109_693ECM_N0900000NCAM00709_09_095J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01935/ids/edr/browse/ncam/NRF_1935_0838727109_693ECM_N0900000NCAM00709_09_095J01_1200.jpg) 
