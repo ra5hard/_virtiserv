@@ -2,7 +2,20 @@
 layout: default
 ---
 
+# Mars Perseverance Sol 1940: 
+Right Navigation Camera (Navcam)
+NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
 
+This image was acquired on Aug. 5, 2026 (Sol 1940) at the local mean solar time of 16:41:28.
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01927/ids/edr/browse/ncam/NRF_1927_0838021201_645ECM_N0894246NCAM02927_07_195J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01927/ids/edr/browse/ncam/NRF_1927_0838021201_645ECM_N0894246NCAM02927_07_195J02_1200.jpg)
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01935/ids/edr/browse/ncam/NRF_1935_0838727109_693ECM_N0900000NCAM00709_09_095J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01935/ids/edr/browse/ncam/NRF_1935_0838727109_693ECM_N0900000NCAM00709_09_095J01_1200.jpg) 
+
+<img  alt="Mars_Perseverance_NRF_1940_0839178513_050ECM_N0902288NCAM02940_01_195J" src="https://github.com/user-attachments/assets/16cecd94-224c-4a73-ba03-f772f2e458d6" />
+
+
+<img  alt="Mars_Perseverance_NRF_1939_0839092818_862ECM_N0901420NCAM02939_04_195J" src="https://github.com/user-attachments/assets/09ab72e5-cd74-4ed1-bbea-cb1f997c1bab" />
 
 ## Parasites! , 22 Dogs Rescued & Developing Story in Old Fourth Ward HOT 97 News Atl (7/10/26)
 [WATCH - youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V](https://youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V)
