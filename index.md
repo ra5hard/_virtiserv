@@ -28,6 +28,8 @@ _[APK Archive : A collection of APK (Android Package) Software Programs uploaded
 [Soul Edge Ver. II (Asia, SO4/VER.C)](https://www.retrogames.cc/arcade-games/soul-edge-ver-ii-asia-so4-ver-c.html)
 Chd [d](https://archive.org/download/sega-dreamcast-redump-collection/Soulcalibur%20%28USA%29.chd) : [psp](https://archive.org/download/psp-chd-zstd-redump-part2/psp-chd-zstd/Soulcalibur%20-%20Broken%20Destiny%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CRu%29.chd) : [psx](https://archive.org/download/chd_psx/CHD-PSX-USA/Soul%20Blade%20%28USA%29.chd)
 <img   alt="image" src="https://github.com/user-attachments/assets/9a7257bd-d8c2-4f3e-ae7f-da282b1752cb" />
+<img alt="image" src="https://github.com/user-attachments/assets/456fe7e9-02bf-46c5-a91a-a5b6447e7197" />
+
 
 # HOT 97 News Live! 8/5/26
 @whitehouse @dhs-gov @femagov @weather-gov @commercegov @fbicyber
