@@ -23,6 +23,10 @@ _Rudy's friend, Dustin, gives the gang the wrong information on sex education wh
 _[APK Archive : A collection of APK (Android Package) Software Programs uploaded by various users.]_
 [archive.org/details/apkarchive](https://archive.org/details/apkarchive)
 
+# Soul Calibur (World, SOC14/VER.C)
+[retrogames.cc/arcade-games/soul-calibur-world-soc14-ver-c.html](https://www.retrogames.cc/arcade-games/soul-calibur-world-soc14-ver-c.html)
+[Soul Edge Ver. II (Asia, SO4/VER.C)](https://www.retrogames.cc/arcade-games/soul-edge-ver-ii-asia-so4-ver-c.html)
+Chd [d](https://archive.org/download/sega-dreamcast-redump-collection/Soulcalibur%20%28USA%29.chd) : [psp](https://archive.org/download/psp-chd-zstd-redump-part2/psp-chd-zstd/Soulcalibur%20-%20Broken%20Destiny%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%2CRu%29.chd)
 # HOT 97 News Live! 8/5/26
 @whitehouse @dhs-gov @femagov @weather-gov @commercegov @fbicyber
 [WATCH - https://www.youtube.com/live/glJDEcQPcTY?si=DQwAKyrgjv-EVxhS](https://www.youtube.com/live/glJDEcQPcTY?si=DQwAKyrgjv-EVxhS)
