@@ -14,6 +14,11 @@ layout: default
 [Wu-Tang](https://youtu.be/gTIidNQqodc?si=IdGsdut1xUYv9lHh)'s [Lost](https://youtu.be/MPFFwFWoPps) Years at [HOT 97](https://youtu.be/6aSayexEN5E?si=4KJ8I-Jo9q3NS0mq) + New Solo [Album](https://www.youtube.com/watch?v=pFciweAYwR0) // [genius.com/artists/Czarface/albums](https://genius.com/artists/Czarface/albums)
 [WATCH - youtu.be/Xp_goDCKSXM?si=V_OnA36zrY7uV8pp @nbcnews @newshour](https://youtu.be/Xp_goDCKSXM?si=V_OnA36zrY7uV8pp) @howard-university-web-services @blackgirlscode 
 <img alt="image" src="https://github.com/user-attachments/assets/97990e49-2d50-40a0-aeb3-22e9e4a85985" />
+
+
+[@landsat @doug-newman-nasa](https://earth.google.com/web/@40.81342011,-109.31582187,3462.59654902a,4401193.2714361d,35y,0h,0t,0r/data=CgRCAggBMikKJwolCiExSHE3OHhFSlJpbXplX0ZKczVnNnFwcEZmSWctWkEzd0cgAToDCgEwQgIIAEoHCKmTzwMQAQ)
+<img  alt="image" src="https://github.com/user-attachments/assets/f5ba72f4-f09c-4b55-af32-119b6753d91d" />
+
 [epic.gsfc.nasa.gov/archive/natural/2026/08/04/jpg/epic_1b_20260804212011.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/04/jpg/epic_1b_20260804212011.jpg)
 <img  alt="image" src="https://github.com/user-attachments/assets/8c40eb93-08d0-458f-9004-b12dfeeb33a5" />
 
