@@ -10,7 +10,7 @@ layout: default
 
 
 
-[https://gis.earthdata.nasa.gov/portal/home/index.html](https://gis.earthdata.nasa.gov/portal/home/index.html)
+[gis.earthdata.nasa.gov/portal/home/index.html](https://gis.earthdata.nasa.gov/portal/home/index.html)
 ![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg)
 
 ## Inspectah Deck on Missing the Knicks Playoffs,
