@@ -8,13 +8,18 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+# sPACEaCE
+[WIKI https://en.wikipedia.org/wiki/Space_Ace](https://en.wikipedia.org/wiki/Space_Ace) // [abandonware - abandonwaredos.com/abandonware-game.php?abandonware=Space+Ace&gid=1364](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Space+Ace&gid=1364) // [fandom - dragonslair.fandom.com/wiki/Space_Ace_(game)](https://dragonslair.fandom.com/wiki/Space_Ace_(game))
+
+<iframe src="https://archive.org/embed/msdos_Space_Ace_1989" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[https://archive.org/details/arcade_evosocc](https://archive.org/details/arcade_evosocc)
 
 ![https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png](https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png)
 @BerkeleyLab Escapade b is talking under [**ESCB**]() [@RocketLAb](https://rocketlabcorp.com/missions/escapade/)
 
 
 SPACECRAFT
-NAME:ESCAPADE Blue
+[_NAME_](https://archive.org/details/internetarcadeturbo):ESCAPADE Blue
 ```
 RANGE
 -
