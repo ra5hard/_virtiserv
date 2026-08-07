@@ -8,6 +8,19 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+
+#aser Gas Pump Fire & Miss NC Crown Drama
+@officialredhat [https://www.youtube.com/watch?v=r2AmGxlTaFQ](https://www.youtube.com/watch?v=r2AmGxlTaFQ)
+
+<img alt="image" src="https://github.com/user-attachments/assets/3a1a3e1d-b9de-4f15-8832-84340b8dea07" />
+
+# Fauci Charged With Contempt?
+_And What's Going On In Wisconsin?_
+[youtu.be/jJt9hHTggO4?si=xkPhzJEuYNM5V0mW](https://youtu.be/jJt9hHTggO4?si=xkPhzJEuYNM5V0mW)
+@ermergingcoders the bumps on Lana face on my butt @la-county-isd she got in trouble like that in Atlanta @foratlanta // [Dave Chappelle on investing in his Ohio town and backing its local public radio station](https://www.youtube.com/watch?v=3CcY-h9uSAs) ++ [@newshour youtube.com/@PBSNewsHour](https://www.youtube.com/@PBSNewsHour)
+<img  alt="image" src="https://github.com/user-attachments/assets/e47a7b18-94c6-4aa7-817f-0861bce8b739" />
+
+
 # sPACEaCE
 [WIKI https://en.wikipedia.org/wiki/Space_Ace](https://en.wikipedia.org/wiki/Space_Ace) // [abandonware - abandonwaredos.com/abandonware-game.php?abandonware=Space+Ace&gid=1364](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Space+Ace&gid=1364) // [fandom - dragonslair.fandom.com/wiki/Space_Ace_(game)](https://dragonslair.fandom.com/wiki/Space_Ace_(game))
 
