@@ -20,13 +20,17 @@ from the solar wind’s interaction with the charged particles in Mars’ upper 
 
 
 # TRACERS
-A satellite mission led by the University of Iowa to study the mysterious, powerful interactions between the magnetic fields of the Sun and Earth. [@uiowa - @nasa-openscapes @nasa-giss _Tracers.physics.uiowa.edu_/](https://tracers.physics.uiowa.edu/)
+A satellite mission led by the University of Iowa to study the mysterious, powerful interactions between the magnetic fields of the Sun and Earth. [@uiowa - @nasa-openscapes @nasa-giss _Tracers.physics.uiowa.edu_/](https://tracers.physics.uiowa.edu/) // [`TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites)` eoportal.org/satellite-missions/tracers](https://www.eoportal.org/satellite-missions/tracers)
 ![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa)
+
 
 [tiktok.com/discover/lana-harris-quit](https://www.tiktok.com/discover/lana-harris-quit)
 Jul 20, 2026 — Join us as Lana Harris bids farewell to Atlanta News First, sharing heartfelt moments and gratitude with her team. A touching goodbye! 46 Like
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lanajharris/video/7496589297793994026" data-video-id="7496589297793994026" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lanajharris" href="https://www.tiktok.com/@lanajharris?refer=embed">@lanajharris</a> <p>You guys 🥹🥹🥹 this was officially my last show at ANF and they gave me a goodbye 😭 Rick!! My partner in crime and the steady voice beside me day in and day out, there are no words for how deeply I appreciated this 🥹. I’m going to miss you (and your humor)!! I cannot believe my producer Jasmin made that happen, you are a QUEEN, thank you! Court I love that your voice was in it too lol, and Carol I can’t thank you enough for catching the BTS. You guys made that so special 😊. This team at Atlanta News First and my city will always have the biggest place in my heart ❤️</p> <a target="_blank" title="♬ original sound - Lana Harris | News Updates" href="https://www.tiktok.com/music/original-sound-7496589380245818155?refer=embed">♬ original sound - Lana Harris | News Updates</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
+![https://helio.data.nasa.gov/static/media/heliodata-logo-cropped-3.4f6afdd9b8a0c5fab4b8.png](https://helio.data.nasa.gov/static/media/heliodata-logo-cropped-3.4f6afdd9b8a0c5fab4b8.png) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e17b54d2-939c-4e77-8c3d-0722f0815336" />
 
