@@ -9,6 +9,7 @@ layout: default
 </picture>
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/73c5ea05-cfaf-4075-a816-b6e09db84eb7" />
 
 [gis.earthdata.nasa.gov/portal/home/index.html](https://gis.earthdata.nasa.gov/portal/home/index.html)
 ![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg)
