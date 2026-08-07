@@ -8,6 +8,11 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+# Sevananda
+[sevananda.coop/](https://www.sevananda.coop/)
+[youtube.com/watch?v=euYXuFBmpqw](https://www.youtube.com/watch?v=euYXuFBmpqw)
+Sevananda is one of the leading vegan/vegetarian co ops in the country. It is located in the Little 5 Points area of Atlanta Georgia. Sevananda has been open for more than 30 years and it's still going strong. Sevananda sells a variety of meat substitutes, bulk items, household goods and other products ![https://cdn.prod.website-files.com/6a22f7987dfef55fef6762ce/6a3f67f29e25967fa176ec27_Side%20By%20Side%20Green%20letters-p-500.png](https://cdn.prod.website-files.com/6a22f7987dfef55fef6762ce/6a3f67f29e25967fa176ec27_Side%20By%20Side%20Green%20letters-p-500.png) 
+
 [raisedonporn.com/](https://raisedonporn.com/) + [WATCH - youtu.be/hzPylqS01qU](https://youtu.be/hzPylqS01qU)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/33eba0d4-4b58-400c-9ad8-793c13376719" />
