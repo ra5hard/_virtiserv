@@ -8,6 +8,13 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+[raisedonporn.com/](https://raisedonporn.com/) + [WATCH - youtu.be/hzPylqS01qU](https://youtu.be/hzPylqS01qU)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d4609158-0170-44a3-8508-0a13bf012fc2" />
+
+<img  alt="image @emergingcoders" src="https://github.com/user-attachments/assets/f6b03e1c-05f2-4567-b5ec-64671cc003e7" />
+[exoduscry.com/podcast/exodus-crys-first-ever-book-raised-on-porn-helen-taylor-benji-nolot/](exoduscry.com/podcast/exodus-crys-first-ever-book-raised-on-porn-helen-taylor-benji-nolot/)
+
 ` Started streaming 30 minutes ago ` [#hipHop](https://www.youtube.com/hashtag/hiphop) // [#HOT97](https://www.youtube.com/hashtag/hot97) // [#RapNews](https://www.youtube.com/hashtag/rapnews)
 
 # _HOT 97 News Live! 8/7/26_
