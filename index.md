@@ -9,6 +9,12 @@ layout: default
 </picture>
 
 
+
+## Inspectah Deck on Missing the Knicks Playoffs,
+[Wu-Tang](https://youtu.be/gTIidNQqodc?si=IdGsdut1xUYv9lHh)'s [Lost](https://youtu.be/MPFFwFWoPps) Years at [HOT 97](https://youtu.be/6aSayexEN5E?si=4KJ8I-Jo9q3NS0mq) + New Solo Album [youtube.com/watch?v=pFciweAYwR0](https://www.youtube.com/watch?v=pFciweAYwR0) // [genius.com/artists/Czarface/albums](https://genius.com/artists/Czarface/albums)
+[WATCH - youtu.be/Xp_goDCKSXM?si=V_OnA36zrY7uV8pp @nbcnews @newshour](https://youtu.be/Xp_goDCKSXM?si=V_OnA36zrY7uV8pp)
+<img alt="image" src="https://github.com/user-attachments/assets/97990e49-2d50-40a0-aeb3-22e9e4a85985" />
+
 @whitehouse [worldview.earthdata.nasa.gov/?v=-142.89184924103756,18.231557153843998,-87.88554988209039,59.05384221268531&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.2428,33.9242&t=2026-08-07-T20%3A39%3A00Z](https://worldview.earthdata.nasa.gov/?v=-142.89184924103756,18.231557153843998,-87.88554988209039,59.05384221268531&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.2428,33.9242&t=2026-08-07-T20%3A39%3A00Z)
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
 <img alt="image" src="https://github.com/user-attachments/assets/91e9f128-06e2-43aa-bfe1-162ff3852d9b" />
