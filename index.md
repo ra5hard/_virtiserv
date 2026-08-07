@@ -8,6 +8,12 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+` Started streaming 30 minutes ago ` [#hipHop](https://www.youtube.com/hashtag/hiphop) // [#HOT97](https://www.youtube.com/hashtag/hot97) // [#RapNews](https://www.youtube.com/hashtag/rapnews)
+
+# _HOT 97 News Live! 8/7/26_
+`TopPost` [WATCH - youtube.com/live/gPAKPrILFzc?si=hyh6GKYHJx3YipKk](https://www.youtube.com/live/gPAKPrILFzc?si=hyh6GKYHJx3YipKk)
+<img alt="image" src="https://github.com/user-attachments/assets/c6278d1b-0419-40b3-9a2d-d215faacdd9a" />
+
 @blackgirlscode @nasa-jpl i think lana daddy work in this dept [pds.nasa.gov/datasearch/subscription-service/SS-20260807.shtml](https://pds.nasa.gov/datasearch/subscription-service/SS-20260807.shtml)
 <img  alt="image" src="https://github.com/user-attachments/assets/73c5ea05-cfaf-4075-a816-b6e09db84eb7" />
 
