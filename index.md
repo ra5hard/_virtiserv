@@ -16,6 +16,9 @@ layout: default
 <img alt="image" src="https://github.com/user-attachments/assets/97990e49-2d50-40a0-aeb3-22e9e4a85985" />
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/834e8a98-bc8c-408f-bfce-809a5395eb46" />
+
+
 [@landsat @doug-newman-nasa](https://earth.google.com/web/@40.81342011,-109.31582187,3462.59654902a,4401193.2714361d,35y,0h,0t,0r/data=CgRCAggBMikKJwolCiExSHE3OHhFSlJpbXplX0ZKczVnNnFwcEZmSWctWkEzd0cgAToDCgEwQgIIAEoHCKmTzwMQAQ)
 <img  alt="image" src="https://github.com/user-attachments/assets/f5ba72f4-f09c-4b55-af32-119b6753d91d" />
 
