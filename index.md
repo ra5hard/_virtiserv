@@ -2,6 +2,38 @@
 layout: default
 ---
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+### The 1992 Los Angeles riots/uprising
+Was a series of riots and civil disturbances that occurred in Los Angeles County, California, United States, during April and May 1992.
+[wiki](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots) : [wikiTalk](https://en.wikipedia.org/wiki/Talk:1992_Los_Angeles_riots)
+
+Documentary
+- [LA 92 Full Doc National Geographic](https://youtu.be/DcFuY_lPwh8?si=xh53ZxD_hRRoZ3zg) [LA92 _ Trailer](https://youtu.be/DcFuY_lPwh8?si=xh53ZxD_hRRoZ3zg) @natgeosociety
+[youtube](https://youtu.be/uaotkHlHJwo?si=j5SGrNoepeT_i2UR)
+[@netflix](https://www.netflix.com/title/80184131) @StateOfCalifornia : LongBeach Public Library `Oh no! This title currently isn’t available to watch in your country.` + [DiscussionGuide](https://films.nationalgeographic.com/la-92-discussion-guide)  @nasa-jpl @emit-sds @whitehouse @cityoflosangeles @blackgirlscode
+- The Day After the L.A. Riots (1992 Life & Times Broadcast)  
+@PBS SoCal [Watch](https://youtu.be/dujzeuh_8mU)
+- L.A.’s 1992 Civil Unrest: The Causes and Legacy
+USC Dornsife College of Letters, Arts and Sciences [Watch](https://youtu.be/BTNzW9wM-Wo) @NetDem-USC
+<img alt="image" width="50%" src="https://github.com/user-attachments/assets/8896c63c-8c49-4fd2-a111-cb9e56153152" />
+
+
+
+
+1992 LA RIOTS @CityOfLosAngeles
+[Harvey](https://www.linkedin.com/in/harvey-levin-997229304) [Levin](https://www.imdb.com/name/nm0505608/) - before [TMZ](https://youtu.be/np0XaQqwGYM?si=4EuYiL4C-twApUBw) - reporting for CBS LA
+@cbs-news-data  @blackgirlscode [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0UPGVWwjTMcVQ6TxgbimptHaYVa16oiSUxk6uTmuKEjDzQyKuY97U6LfZ8MQ2Rz36l&id=100084464911565)
+[watch](https://www.youtube.com/watch?v=YqA1Qj2MAu0)
+
+#[karenBass](https://www.dailymail.co.uk/news/karen-bass/index.html)  im going to listen in, i was kidnapped around this time Essence NASA Jet Propulsion Laboratory https://youtu.be/YqA1Qj2MAu0?si=LfGXpJ5ny6asniiJ #Yo_Latrice sartu is my ibeji twin... i really dont know what it means in america, our village was torn apart and someone blew up our market in a helicopter. I dont know if it was los angeles or somolia but mymomma put on the bunny ears man, an we here! Black Girls Code Normani thats y i can still love you, the shit just hurt Los Angeles County Board of Supervisors and im tired of being tortutrd by people who make bad vacation chioces and catalog shop #RelationshipTruths Virgin Mary Ethiopian Orthodox Tewahedo Cathedral i dont remember church, but i remember people The Ministry of Foreign Affairs of Ethiopia Secretary Sean Duffy
+<img  alt="image" src="https://github.com/user-attachments/assets/71e6963d-80cb-4f22-9eb1-edb8ce80217d" />
+@whitehouse 
+
 # Mars Perseverance Sol 1940: 
 Right Navigation Camera (Navcam)
 NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
