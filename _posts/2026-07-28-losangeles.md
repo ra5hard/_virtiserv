@@ -32,6 +32,131 @@ permalink: losangeles
 -- _old_
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3svun7l5s26" data-bluesky-cid="bafyreidj5jh5o5hugtalpnir7jfxmi6e6mnk757m3wu2dyd6ic6kwf7e44" data-bluesky-embed-color-mode="system"><p lang="en">#MR_OBAMA! its rashard from @nasaearthwatch.bsky.social #EARTHDATA #LOSANGELES #JPL but im confused bc the gate and the call center are not follwoing protocol, iDont knw how to tell u github.com/rashardsdata... @crockett.house.gov @beyer.house.gov @repgwenmoore.bsky.social @judiciarydems.senate.gov<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">[image or embed]</a></p>&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">October 22, 2025 at 3:37 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
+
+## [BLXST](https://en.wikipedia.org/wiki/Talk:Blxst) Explains Traumatic Home Invasion, [Tyler, the Creator](https://en.wikipedia.org/wiki/Talk:Tyler,_the_Creator) & Breaks Down LA Music
+[WATCH - youtu.be/mXOPIe9AdDc?si=h4Y8gZzkz20Btoep](https://youtu.be/mXOPIe9AdDc?si=h4Y8gZzkz20Btoep)
+BLXST stopped by HOT 97 to talk to Nessa about his new album, Labor of Love, and why creating this project became such a personal journey. He shares why he chose to write and produce every song himself, opens up about staying independent without a manager, and explains the meaning behind the album title and why his childhood home became the cover art. He also reflects on the L.A. artists who inspired him, the changing culture of collaboration in hip hop, and the unforgettable Tyler, The Creator story that still makes him laugh.
+
+BLXST also gets candid about one of the most difficult moments of his life, revealing how a home invasion involving his family inspired one of the album's most emotional songs. He talks about fatherhood, raising two sons, balancing family with his career, and the legacy he hopes to leave behind. Labor of Love is out now. Watch our full conversation with BLXST on HOT 97. [EMAiL📧`info@HOT97.com`](mailto:info@hot97.com)
+<img  alt="image" src="https://github.com/user-attachments/assets/14ef637f-0418-4b3b-8b15-7a649fdb79ac" />
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LONG BEACH , CA • TOMORROW <br>1PM <a href="https://x.com/VIPLONGBEACH?ref_src=twsrc%5Etfw">@VIPLONGBEACH</a> <a href="https://t.co/SpQjcjCPUv">pic.twitter.com/SpQjcjCPUv</a></p>&mdash; BLXST (@BLXST) <a href="https://x.com/BLXST/status/2078250483245023631?ref_src=twsrc%5Etfw">July 17, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">interview with dj drama is from 2022, out now</p>&mdash; T (@tylerthecreator) <a href="https://x.com/tylerthecreator/status/2061931033096835291?ref_src=twsrc%5Etfw">June 2, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
+<a href="https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/how_much_does_the_college_you_go_to_matter/">How much does the college you go to matter?</a><br> by
+<a href="https://www.reddit.com/user/Key_Insurance_8493/">u/Key_Insurance_8493</a> in
+<a href="https://www.reddit.com/r/NASAJobs/">NASAJobs</a>
+</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+# `This account has been permanently banned.`
+## `Check your inbox for a message with more information.`
+[https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/comment/nb0vwgo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/NASAJobs/comments/1mzx1l0/comment/nb0vwgo/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+Dizzy-Decision-2115
+•1y ago [de·i·fy/ˈdēəˌfī/verb](https://www.merriam-webster.com/dictionary/deify)
+
+worship, regard, or treat (someone or something) as a god. <~ meditate on that... they like garbage men at the end of the day bc they make super cool shit ppl steal, you gotta be ok with that! And what they tell you in your face. I still dont trust my contractor Mori and Associates but if Jose not dead I can show him the badge they gave me for my space station role in helpdesk at mission control... Knowing all operating systems is a plus to get grounded to recive #ALOT_OF_INFORMATiON!!!!!!!!!!!! then you can post again about school -Rashard u/nasa #MARS/#JPL
+
+[reddit.com/r/spacex/?rdt=43035&logging_in=true](reddit.com/r/spacex/?rdt=43035&logging_in=true)
+<img   alt="image" src="https://github.com/user-attachments/assets/43af350f-7739-4e64-a703-98886d9ce4a5" />
+
+<img alt="image @BLACKGiRLSCODE @cbs-news-data @Nasa-JPL @DEPTofWAR I'm tired, I got cheated on and I cant get basic things like headphones and a replacement handset @stateofcalifornia  " src="https://github.com/user-attachments/assets/265d1ba4-e025-40a8-808b-c77864eefce4" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/999f2fb7-ab2e-43aa-8eb3-8111622781ea" />
+
+
+
+## Education For Death 1943
+by D.D.Teoli Jr. A.C. [Fandom](https://disney.fandom.com/wiki/Education_for_Death)
+[@CSPAN](https://www.c-span.org/program/american-history-tv/education-for-death/532290)
+
+<iframe src="https://archive.org/embed/education-for-death-1943" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img src="https://static.wikia.nocookie.net/disney/images/e/e8/Education_for_death.jpeg/revision/latest/scale-to-width-down/1000?cb=20111018235334"/>
+
+# American TV History @disney / @CSPAN
+[c-span.org/program/american-history-tv/education-for-death/532290](https://www.c-span.org/program/american-history-tv/education-for-death/532290)
+
+<img alt="image" src="https://github.com/user-attachments/assets/71aa1974-b58f-4a20-9ff9-153d2dc17224" />
+
+
+## Why Trump’s "4th Term" Speech Has Everyone Talking
+[WATCH - @nasa-jpl @nasa-giss youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr](https://youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr)
+<img alt="image" src="https://github.com/user-attachments/assets/85e848af-89c9-499f-93fe-26792bdb7474" />
+
+<img  alt="tumblr_de9d9805664076eadfc27765172b64e5_219e25ac_1280 @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/098ee1df-fa5b-43e8-b4f9-9a3c87f1687d" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">THE TRUMP GOLD CARD. <br><br>Unlock life in America. <a href="https://t.co/ui2ZkkdxEH">https://t.co/ui2ZkkdxEH</a> <a href="https://t.co/7pxuVvnC6z">pic.twitter.com/7pxuVvnC6z</a></p>&mdash; The White House (@WhiteHouse) <a href="https://x.com/WhiteHouse/status/1998859522740466066?ref_src=twsrc%5Etfw">December 10, 2025</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@deptofwar @teslamotors @nasa-jpl @nasa-openscapes @newshour @cbs-news-data
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| war.gov @deptofwar| use9.akam.net. | 21600 | 
+| war.gov @deptofwar| asia3.akam.net. | 21600 | 
+| war.gov @deptofwar| asia2.akam.net. | 21600 | 
+| war.gov @deptofwar| usc5.akam.net. | 21600 | 
+| war.gov @deptofwar| eur6.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-116.akam.net. | 21600 | 
+| war.gov @deptofwar| use2.akam.net. | 21600 | 
+| war.gov @deptofwar| ns1-95.akam.net. | 21600 | 
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
+[![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL) 
+[![Twitter Follow](https://img.shields.io/badge/Social-@DojaCat__-blue?style=social&logo=X)](https://twitter.com/@DojaCat)
+[![Twitter Follow](https://img.shields.io/badge/Social-@RealRemyMa__-blue?style=social&logo=X)](https://twitter.com/@RealRemyMa)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Power106LA__-blue?style=social&logo=X)](https://twitter.com/@Power106LA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@BrownBagAM__-blue?style=social&logo=X)](https://twitter.com/@BrownBagAM)
+[![Twitter Follow](https://img.shields.io/badge/Social-@IAmSteveHarvey__-blue?style=social&logo=X)](https://twitter.com/@IAmSteveHarvey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Latto__-blue?style=social&logo=X)](https://twitter.com/@Latto)
+[![Twitter Follow](https://img.shields.io/badge/Social-@_LanaHarris__-blue?style=social&logo=X)](https://twitter.com/@_LanaHarris)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Tip__-blue?style=social&logo=X)](https://twitter.com/@Tip)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Domani__-blue?style=social&logo=X)](https://twitter.com/@Domani)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Drake__-blue?style=social&logo=X)](https://twitter.com/@Drake)
+[![Twitter Follow](https://img.shields.io/badge/Social-@PeteHegseth__-blue?style=social&logo=X)](https://twitter.com/@PeteHegseth)
+[![Twitter Follow](https://img.shields.io/badge/Social-@DeKalbSchools__-blue?style=social&logo=X)](https://twitter.com/@DeKalbSchools)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ChloeBailey__-blue?style=social&logo=X)](https://twitter.com/@ChloeBailey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@GavinNewsom__-blue?style=social&logo=X)](https://twitter.com/@GavinNewsom)
+[![Twitter Follow](https://img.shields.io/badge/Social-@JenSiebelNewsom__-blue?style=social&logo=X)](https://twitter.com/@JenSiebelNewsom)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Dance411__-blue?style=social&logo=X)](https://twitter.com/@Dance411)
+[![Twitter Follow](https://img.shields.io/badge/Social-@MagicCity__-blue?style=social&logo=X)](https://twitter.com/@MagicCity)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ComplexMusic__-blue?style=social&logo=X)](https://twitter.com/@ComplexMusic)
+[![Twitter Follow](https://img.shields.io/badge/Social-@Tinashe__-blue?style=social&logo=X)](https://twitter.com/@Tinashe)
+[![Twitter Follow](https://img.shields.io/badge/Social-@atlcouncil__-blue?style=social&logo=X)](https://twitter.com/@atlcouncil)
+[![Twitter Follow](https://img.shields.io/badge/Social-@KeishaBottoms__-blue?style=social&logo=X)](https://twitter.com/@KeishaBottoms)
+[![Twitter Follow](https://img.shields.io/badge/Social-@lakeyah__-blue?style=social&logo=X)](https://twitter.com/@lakeyah)
+[![Twitter Follow](https://img.shields.io/badge/Social-@coi_leray__-blue?style=social&logo=X)](https://twitter.com/@coi_leray)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LindseyPHorvath__-blue?style=social&logo=X)](https://twitter.com/@LindseyPHorvath)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@HollyJMitchell)
+[![Twitter Follow](https://img.shields.io/badge/Social-@_HollyJMitchell__-blue?style=social&logo=X)](https://twitter.com/@_HollyJMitchell)
+[![Twitter Follow](https://img.shields.io/badge/Social-@KTLA__-blue?style=social&logo=X)](https://twitter.com/@KTLA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@SFCLA__-blue?style=social&logo=X)](https://twitter.com/@SFCLA)
+[![Twitter Follow](https://img.shields.io/badge/Social-@THEREALSWIZZZ__-blue?style=social&logo=X)](https://twitter.com/@THEREALSWIZZZ)
+[![Twitter Follow](https://img.shields.io/badge/Social-@aliciakeys__-blue?style=social&logo=X)](https://twitter.com/@aliciakeys)
+[![Twitter Follow](https://img.shields.io/badge/Social-@nbcsnl__-blue?style=social&logo=X)](https://twitter.com/@nbcsnl)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LightSkinKeisha__-blue?style=social&logo=X)](https://twitter.com/@LightSkinKeisha)
+[![Twitter Follow](https://img.shields.io/badge/Social-@ellamai__-blue?style=social&logo=X)](https://twitter.com/@ellamai)
+[![Twitter Follow](https://img.shields.io/badge/Social-@drinkchamps__-blue?style=social&logo=X)](https://twitter.com/@drinkchamps)
+[![Twitter Follow](https://img.shields.io/badge/Social-@keishakashdoll__-blue?style=social&logo=X)](https://twitter.com/@keishakashdoll)
+[![Twitter Follow](https://img.shields.io/badge/Social-@chloexhalle__-blue?style=social&logo=X)](https://twitter.com/@chloexhalle)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HalleBailey__-blue?style=social&logo=X)](https://twitter.com/@HalleBailey)
+[![Twitter Follow](https://img.shields.io/badge/Social-@SaucySantana__-blue?style=social&logo=X)](https://twitter.com/@SaucySantana)
+[![Twitter Follow](https://img.shields.io/badge/Social-@chloeandhalle__-blue?style=social&logo=X)](https://twitter.com/@chloeandhalle)
+[![Twitter Follow](https://img.shields.io/badge/Social-@cxhnews__-blue?style=social&logo=X)](https://twitter.com/@cxhnews)
+[![Twitter Follow](https://img.shields.io/badge/Social-@LaurenLondon__-blue?style=social&logo=X)](https://twitter.com/@LaurenLondon)
+[![Twitter Follow](https://img.shields.io/badge/Social-@HOT97__-blue?style=social&logo=X)](https://twitter.com/@HOT97)
+[![Twitter Follow](https://img.shields.io/badge/Social-@hot1079atl__-blue?style=social&logo=X)](https://twitter.com/@hot1079atl)
+[![Twitter Follow](https://img.shields.io/badge/Social-@parksideaps__-blue?style=social&logo=X)](https://twitter.com/@parksideaps)
+[![Twitter Follow](https://img.shields.io/badge/Social-@CBSNewsATL__-blue?style=social&logo=X)](https://twitter.com/@CBSNewsATL)
+[![Twitter Follow](https://img.shields.io/badge/Social-@sartu365__-blue?style=social&logo=X)](https://twitter.com/@sartu365)
+
 # ECOSTRESS Tiled Evaporative Stress Index PT-JPL Instantaneous L4 Global 70 m V002
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/676436631?h=fab6527fa1" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
