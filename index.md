@@ -14,7 +14,7 @@ layout: default
 [science.nasa.gov/mission/escapade/](https://science.nasa.gov/mission/escapade/)
 **ESCAPADE** will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape. Mars has a hybrid magnetosphere that consists of an induced magnetic field (resulting
 from the solar wind’s interaction with the charged particles in Mars’ upper atmos [Read more @emergingcoders @blackgirlscode](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) // **[ESCAPADE PressKit REVISED]** 
-[@cityoflosangeles @blackgirlscode  youtube.com/watch?v=CeVloJdLYms](https://www.youtube.com/watch?v=CeVloJdLYms) <~ I think his heart was broken too over covid @nasa-jpl @cityoflosangeles @blackgirlscode 
+[@cityoflosangeles @blackgirlscode  youtube.com/watch?v=CeVloJdLYms](https://www.youtube.com/watch?v=CeVloJdLYms) <~ I think his heart was broken too over covid @nasa-jpl @cityoflosangeles @blackgirlscode [Mars Escapade FactSheet @nasa-pds `PDF`](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) // [Mars Escapade PRESSKiT @cbs-news-data @newshour @foratlanta `PDF`](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf)
 
 <img  alt="image @nasa-jpl @cityoflosangeles @blackgirlscode  https://eyes.nasa.gov/apps/dsn-now/dsn.html" src="https://github.com/user-attachments/assets/e86e0bbc-3ee2-49db-a177-b09ebcf874e1" />
 
