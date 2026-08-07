@@ -8,6 +8,26 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+
+<iframe src="https://archive.org/embed/arcade_starblad" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+![https://images.launchbox-app.com/8ebe8c97-0b06-4bfb-b91d-1261711c5b1a.png](https://images.launchbox-app.com/8ebe8c97-0b06-4bfb-b91d-1261711c5b1a.png) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/aa105ab8-f91f-4aeb-99fd-636eca9606c2" />
+<img alt="image" src="https://github.com/user-attachments/assets/74b5d03a-90b5-4fbb-b2a4-e37fc558d13c" />
+<img alt="image" src="https://github.com/user-attachments/assets/41d032c6-daf9-4651-b549-531685cc42bc" />
+
+## Parasites! , 22 Dogs Rescued & Developing Story in Old Fourth Ward HOT 97 News Atl (7/10/26)
+[WATCH - youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V](https://youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V)
+>"Welcome to our last `Atlanta` Specific show everybody. We are moving to two hours of national new with the rundown" - [Lana j Harris](https://www.linkedin.com/in/lana-harris-8bb580108) /// [hot97atlanta.com/](https://hot97atlanta.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/94d15e27-d3a0-49d5-854d-4f4545e8d437" />
+
+![https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png](https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png)
+
+
+[mfaethiopia.blog/](https://mfaethiopia.blog/)
+
 ### The 1992 Los Angeles riots/uprising
 Was a series of riots and civil disturbances that occurred in Los Angeles County, California, United States, during April and May 1992.
 [wiki](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots) : [wikiTalk](https://en.wikipedia.org/wiki/Talk:1992_Los_Angeles_riots)
@@ -61,13 +81,6 @@ This image was acquired on Aug. 5, 2026 (Sol 1940) at the local mean solar time 
 
 <img  alt="Mars_Perseverance_NRF_1939_0839092818_862ECM_N0901420NCAM02939_04_195J" src="https://github.com/user-attachments/assets/09ab72e5-cd74-4ed1-bbea-cb1f997c1bab" />
 
-## Parasites! , 22 Dogs Rescued & Developing Story in Old Fourth Ward HOT 97 News Atl (7/10/26)
-[WATCH - youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V](https://youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V)
->"Welcome to our last `Atlanta` Specific show everybody. We are moving to two hours of national new with the rundown" - [Lana j Harris](https://www.linkedin.com/in/lana-harris-8bb580108) /// [hot97atlanta.com/](https://hot97atlanta.com/)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/94d15e27-d3a0-49d5-854d-4f4545e8d437" />
-
-![https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png](https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png)
 
 # Zoning Review Board Meeting
 [youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
