@@ -10,19 +10,75 @@ layout: default
 
 
 ![https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png](https://www.ssl.berkeley.edu/wp-content/uploads/2026/02/SSL-horizontal-logo-768x54.png)
+@BerkeleyLab Escapade b is talking under [**ESCB**]() [@RocketLAb](https://rocketlabcorp.com/missions/escapade/)
+
+
+SPACECRAFT
+NAME:ESCAPADE Blue
+```
+RANGE
+-
+ROUND-TRIP LIGHT TIME
+-
+ANTENNA NAME
+DSS 35
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+AZIMUTH
+43 deg
+ELEVATION
+20 deg
+WIND SPEED
+0 km/hr
+
+MODE
+-
+```
+
+```
+UP SIGNAL
+SOURCE
+ESCAPADE BLUE
+FREQUENCY BAND
+X
+POWER TRANSMITTED
+0.2 kW
+
+DOWN SIGNAL
+SOURCE
+ESCAPADE BLUE
+FREQUENCY BAND
+X
+DATA RATE
+8.000 kb/sec
+POWER RECEIVED
+-120 dBm(1.0 x 10-18 kW)
+```
+
+![https://advancedspace.com/wp-content/uploads/2025/10/IPA-169x300.webp @lmco @boeing @fbicyber @usnavy](https://advancedspace.com/wp-content/uploads/2025/10/IPA-169x300.webp) 
 
 [science.nasa.gov/mission/escapade/](https://science.nasa.gov/mission/escapade/)
 **ESCAPADE** will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape. Mars has a hybrid magnetosphere that consists of an induced magnetic field (resulting
-from the solar wind’s interaction with the charged particles in Mars’ upper atmos [Read more @emergingcoders @blackgirlscode](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) // **[ESCAPADE PressKit REVISED]** 
-[@cityoflosangeles @blackgirlscode  youtube.com/watch?v=CeVloJdLYms](https://www.youtube.com/watch?v=CeVloJdLYms) <~ I think his heart was broken too over covid @nasa-jpl @cityoflosangeles @blackgirlscode [Mars Escapade FactSheet @nasa-pds `PDF`](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) // [Mars Escapade PRESSKiT @cbs-news-data @newshour @foratlanta `PDF`](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf)
+from the solar wind’s interaction with the charged particles in Mars’ upper atmosphere. Satisfying NASA’s policies for planetary protection... [ESCAPADE will help](https://advancedspace.com/escapade/) establish a new pathway for high-capability scientific missions at a fraction of the cost of previous Mars orbiters. [Read more @emergingcoders @blackgirlscode](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) [](https://advancedspace.com/escapade/)// **[ESCAPADE PressKit REVISED]** 
+[@cityoflosangeles @blackgirlscode  youtube.com/watch?v=CeVloJdLYms](https://www.youtube.com/watch?v=CeVloJdLYms) <~ I think his heart was broken too over covid @nasa-jpl @cityoflosangeles @blackgirlscode [Mars Escapade FactSheet @nasa-pds `PDF`](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) // [Mars Escapade PRESSKiT @cbs-news-data @newshour @foratlanta `PDF`](https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE%20Fact%20Sheet.pdf) // [Springer nature https://link.springer.com/article/10.1007/s11214-025-01184-4?fromPaywallRec=false](https://link.springer.com/article/10.1007/s11214-025-01184-4?fromPaywallRec=false) // [`LAUNCHCOVERAGE` - @howard-university-web-services svs.gsfc.nasa.gov/14918/](https://svs.gsfc.nasa.gov/14918/) // [`SSL Berkeley's ESCAPADE Website` - ssl.berkeley.edu/projects/escapade/](https://www.ssl.berkeley.edu/projects/escapade/) // [_Unraveling Cause and effect in Mars’ hybrid magnetosphere_ escapade.ssl.berkeley.edu/](https://escapade.ssl.berkeley.edu/) // [@NASA ’s Second ESCAPADE Spacecraft Completes Trajectory Maneuver](https://science.nasa.gov/blogs/escapade/2026/01/07/nasas-escapade-spacecraft-completes-trajectory-maneuver/)
+
+
+## ESCAPADE Trajectory Animations
+Released Thursday, November 13, 2025
+[Vanessa Thomas sound black @blackgirlscode](https://svs.gsfc.nasa.gov/search/?people=Vanessa%20Thomas)
+[<video controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014915/14915_DeepSpaceTransferView1_4K_H264.00360_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014915/14915_DeepSpaceTransferView1_4K_H264.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014915/14915_DeepSpaceTransferView1_4K_H264.mp4)
+
+
+![https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png](https://escapade.ssl.berkeley.edu/wp-content/uploads/2024/01/cropped-ESCAPADE-Logo_Color_Partial.png)
+
 
 <img  alt="image @nasa-jpl @cityoflosangeles @blackgirlscode  https://eyes.nasa.gov/apps/dsn-now/dsn.html" src="https://github.com/user-attachments/assets/e86e0bbc-3ee2-49db-a177-b09ebcf874e1" />
 
 
 # TRACERS
 A satellite mission led by the University of Iowa to study the mysterious, powerful interactions between the magnetic fields of the Sun and Earth. [@uiowa - @nasa-openscapes @nasa-giss _Tracers.physics.uiowa.edu_/](https://tracers.physics.uiowa.edu/) // [`TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites)` eoportal.org/satellite-missions/tracers](https://www.eoportal.org/satellite-missions/tracers)
-![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa)
-
+![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa) // [`HELiODATA` helio.data.nasa.gov/mission/TRACERS](https://helio.data.nasa.gov/mission/TRACERS) // 
+![https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo.svg](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo.svg)
 
 [tiktok.com/discover/lana-harris-quit](https://www.tiktok.com/discover/lana-harris-quit)
 Jul 20, 2026 — Join us as Lana Harris bids farewell to Atlanta News First, sharing heartfelt moments and gratitude with her team. A touching goodbye! 46 Like
