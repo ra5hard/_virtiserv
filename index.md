@@ -9,6 +9,8 @@ layout: default
 </picture>
 
 
+[@cityoflosangeles @blackgirlscode  youtube.com/watch?v=CeVloJdLYms](https://www.youtube.com/watch?v=CeVloJdLYms) <~ I think his heart was broken too over covid @nasa-jpl @cityoflosangeles @blackgirlscode 
+
 [tiktok.com/discover/lana-harris-quit](https://www.tiktok.com/discover/lana-harris-quit)
 Jul 20, 2026 — Join us as Lana Harris bids farewell to Atlanta News First, sharing heartfelt moments and gratitude with her team. A touching goodbye! 46 Like
 
