@@ -13,12 +13,13 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/d4609158-0170-44a3-8508-0a13bf012fc2" />
 
 <img  alt="image @emergingcoders" src="https://github.com/user-attachments/assets/f6b03e1c-05f2-4567-b5ec-64671cc003e7" />
-[exoduscry.com/podcast/exodus-crys-first-ever-book-raised-on-porn-helen-taylor-benji-nolot/](exoduscry.com/podcast/exodus-crys-first-ever-book-raised-on-porn-helen-taylor-benji-nolot/)
+
+
+# _HOT 97 News Live! 8/7/26_
+`TopPost` [WATCH - youtube.com/live/gPAKPrILFzc?si=hyh6GKYHJx3YipKk](https://www.youtube.com/live/gPAKPrILFzc?si=hyh6GKYHJx3YipKk) / [exoduscry.com/podcast/exodus-crys-first-ever-book-raised-on-porn-helen-taylor-benji-nolot/](exoduscry.com/podcast/exodus-crys-first-ever-book-raised-on-porn-helen-taylor-benji-nolot/)
 
 ` Started streaming 30 minutes ago ` [#hipHop](https://www.youtube.com/hashtag/hiphop) // [#HOT97](https://www.youtube.com/hashtag/hot97) // [#RapNews](https://www.youtube.com/hashtag/rapnews)
 
-# _HOT 97 News Live! 8/7/26_
-`TopPost` [WATCH - youtube.com/live/gPAKPrILFzc?si=hyh6GKYHJx3YipKk](https://www.youtube.com/live/gPAKPrILFzc?si=hyh6GKYHJx3YipKk)
 <img alt="image" src="https://github.com/user-attachments/assets/c6278d1b-0419-40b3-9a2d-d215faacdd9a" />
 
 @blackgirlscode @nasa-jpl i think lana daddy work in this dept [pds.nasa.gov/datasearch/subscription-service/SS-20260807.shtml](https://pds.nasa.gov/datasearch/subscription-service/SS-20260807.shtml)
