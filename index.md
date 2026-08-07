@@ -19,6 +19,10 @@ from the solar wind’s interaction with the charged particles in Mars’ upper 
 <img  alt="image @nasa-jpl @cityoflosangeles @blackgirlscode  https://eyes.nasa.gov/apps/dsn-now/dsn.html" src="https://github.com/user-attachments/assets/e86e0bbc-3ee2-49db-a177-b09ebcf874e1" />
 
 
+# TRACERS
+A satellite mission led by the University of Iowa to study the mysterious, powerful interactions between the magnetic fields of the Sun and Earth. [@uiowa - @nasa-openscapes @nasa-giss _Tracers.physics.uiowa.edu_/](https://tracers.physics.uiowa.edu/)
+![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/styles/square__768_x_768/public/2024-11/TracersPatch_update_v2.png?h=29c33e67&itok=W2GlikGa)
+
 [tiktok.com/discover/lana-harris-quit](https://www.tiktok.com/discover/lana-harris-quit)
 Jul 20, 2026 — Join us as Lana Harris bids farewell to Atlanta News First, sharing heartfelt moments and gratitude with her team. A touching goodbye! 46 Like
 
