@@ -8,7 +8,7 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
-
+@blackgirlscode @nasa-jpl i think lana daddy work in this dept [pds.nasa.gov/datasearch/subscription-service/SS-20260807.shtml](https://pds.nasa.gov/datasearch/subscription-service/SS-20260807.shtml)
 <img  alt="image" src="https://github.com/user-attachments/assets/73c5ea05-cfaf-4075-a816-b6e09db84eb7" />
 
 [gis.earthdata.nasa.gov/portal/home/index.html](https://gis.earthdata.nasa.gov/portal/home/index.html)
