@@ -34,6 +34,13 @@ USC Dornsife College of Letters, Arts and Sciences [Watch](https://youtu.be/BTNz
 <img  alt="image" src="https://github.com/user-attachments/assets/71e6963d-80cb-4f22-9eb1-edb8ce80217d" />
 @whitehouse 
 
+
+
+# 1968: East Los Angeles Walkouts
+[guides.loc.gov/latinx-civil-rights/east-la-walkouts @cityoflosangeles . . @nasa-jpl they still strugglin](https://guides.loc.gov/latinx-civil-rights/east-la-walkouts)
+<img  alt="image" src="https://github.com/user-attachments/assets/9a2c8e79-97e8-4a34-8e82-8d1304f78f24" />
+
+
 # Mars Perseverance Sol 1940: 
 Right Navigation Camera (Navcam)
 NASA's Mars Perseverance rover acquired this image using its onboard Right Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
