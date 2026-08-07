@@ -8,6 +8,11 @@ layout: default
     <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
 </picture>
 
+
+@whitehouse [worldview.earthdata.nasa.gov/?v=-142.89184924103756,18.231557153843998,-87.88554988209039,59.05384221268531&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.2428,33.9242&t=2026-08-07-T20%3A39%3A00Z](https://worldview.earthdata.nasa.gov/?v=-142.89184924103756,18.231557153843998,-87.88554988209039,59.05384221268531&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.2428,33.9242&t=2026-08-07-T20%3A39%3A00Z)
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+<img alt="image" src="https://github.com/user-attachments/assets/91e9f128-06e2-43aa-bfe1-162ff3852d9b" />
+
 <img alt="image @nasa-jpl @nasa-pds @blackgirlscode  " src="https://github.com/user-attachments/assets/19a4cfd1-54ec-4dc8-b8f6-2b847affa325" />
 
 
