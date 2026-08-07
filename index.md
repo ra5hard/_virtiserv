@@ -13,15 +13,17 @@ layout: default
 
 ![https://images.launchbox-app.com/8ebe8c97-0b06-4bfb-b91d-1261711c5b1a.png](https://images.launchbox-app.com/8ebe8c97-0b06-4bfb-b91d-1261711c5b1a.png) 
 
+## Parasites! , 22 Dogs Rescued & Developing Story in Old Fourth Ward HOT 97 News Atl (7/10/26)
+[WATCH - youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V](https://youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V)
+>"Welcome to our last `Atlanta` Specific show everybody. We are moving to two hours of national new with the rundown" - [Lana j Harris](https://www.linkedin.com/in/lana-harris-8bb580108) /// [hot97atlanta.com/](https://hot97atlanta.com/) / [https://www.youtube.com/hot97](https://www.youtube.com/hot97)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/94d15e27-d3a0-49d5-854d-4f4545e8d437" />
+
+[youtube.com/@HOT97ontv](https://www.youtube.com/@HOT97ontv) /// 
 <img  alt="image" src="https://github.com/user-attachments/assets/aa105ab8-f91f-4aeb-99fd-636eca9606c2" />
 <img alt="image" src="https://github.com/user-attachments/assets/74b5d03a-90b5-4fbb-b2a4-e37fc558d13c" />
 <img alt="image" src="https://github.com/user-attachments/assets/41d032c6-daf9-4651-b549-531685cc42bc" />
 
-## Parasites! , 22 Dogs Rescued & Developing Story in Old Fourth Ward HOT 97 News Atl (7/10/26)
-[WATCH - youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V](https://youtu.be/akjPAceJs_E?si=HDd0x8HuxfSesC_V)
->"Welcome to our last `Atlanta` Specific show everybody. We are moving to two hours of national new with the rundown" - [Lana j Harris](https://www.linkedin.com/in/lana-harris-8bb580108) /// [hot97atlanta.com/](https://hot97atlanta.com/)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/94d15e27-d3a0-49d5-854d-4f4545e8d437" />
 
 ![https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png](https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png)
 
