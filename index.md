@@ -9,6 +9,10 @@ layout: default
 </picture>
 
 
+[_Asmara_ECOv002_L2T_LSTE_45588_017_37PDT_20260720T212326_0713_02 @eosdis-nasa @nasa-openscapes](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4256503073-LPCLOUD&q=ECOSTRESS%20Version%203%20Level%201&sb[0]=38.84786%2C15.18299%2C39.01698%2C15.45355&lat=15.78370645&long=38.61759160877743&zoom=8.770440179749016)
+[disasters-nasa.hub.arcgis.com/](https://disasters-nasa.hub.arcgis.com/)
+<img   alt="ECOv002_L2T_LSTE_45588_017_37PDT_20260720T212326_0713_02_height" src="https://github.com/user-attachments/assets/3dd8f007-578d-4b63-9738-b6db0144b4cc" />
+
 #aser Gas Pump Fire & Miss NC Crown Drama
 @officialredhat [https://www.youtube.com/watch?v=r2AmGxlTaFQ](https://www.youtube.com/watch?v=r2AmGxlTaFQ)
 
