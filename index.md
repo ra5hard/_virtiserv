@@ -12,6 +12,15 @@ layout: default
 
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5)
 
+
+
+## F355 Challenge
+([F355 チャレンジ](https://segaretro.org/F355_Challenge)), also known as F355 Challenge: Passione Rossa, is an arcade racing game developed by Sega AM2 for Sega NAOMI Multiboard hardware. It is the brainchild of AM2 head and Ferrari enthusiast Yu Suzuki, and was originally released in 1999. // [Ferrari F355 Challenge: Dreamcast vs PlayStation 2
+By Tom Charnock](https://www.thedreamcastjunkyard.co.uk/2016/12/ferrari-f355-challenge-dreamcast-vs.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/ac75f1df-ab57-4d66-a7f6-703a1595f065" />
+
+
+
 ## Breaktionary
 [DJ Q-Bert – Breaktionary Volume 1 (2006)](https://youtu.be/g0Ozo6nznHg)
 [_Purchase_ @ `THudRumble`](https://www.djqbert.com/products/break001)
