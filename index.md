@@ -19,6 +19,8 @@ layout: default
 [_How to Photograph Graffiti_ - graffiti.org/faq/photofaq @nasa-pds @nasa-jpl](https://www.graffiti.org/faq/photofaq/)
 [graffiti.org/talk/](https://www.graffiti.org/talk/)
 
+![https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif](https://www.graffiti.org/assets/images/kezaclogowhitetontrans.gif)
+
 # Nitrogen Dioxide (L3, Vertical Column Troposphere, Subdaily) (PROVISIONAL) [[link](https://www.earthdata.nasa.gov/data/catalog/larc-cloud-tempo-no2-l3-nrt-v02)]
 ### What is the troposphere?
 _The troposphere is the innermost layer of Earth’s atmosphere._ [link](https://spaceplace.nasa.gov/troposphere/en/)
