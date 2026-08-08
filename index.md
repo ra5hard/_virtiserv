@@ -16,6 +16,8 @@ layout: default
 # Why is Drake Giving Away G-Wagons to Strangers?
 [@la-county-isd `WATCH` youtube.com/watch?v=7001vEWv9vA](https://www.youtube.com/watch?v=7001vEWv9vA)
 @nasa-jpl los angeles sucks 
+[_Mercedes-Benz G-Class review_- topgear.com](https://www.topgear.com/car-reviews/mercedes-benz/g-class)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/0a133559-dc63-42df-9344-b8d3d27495a0" />
 
 # What Is… Earth’s Atmosphere?
