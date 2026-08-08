@@ -12,6 +12,13 @@ layout: default
 
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5) // [Leflaur Leflah - Eshkoshka](https://youtu.be/XjxyDx5e6mw) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E)
 
+[HOT 97 TV  : : : youtube.com/@HOT97ontv](https://www.youtube.com/@HOT97ontv)
+<img alt="image" src="https://github.com/user-attachments/assets/25518f31-78e5-4940-91ef-7bd9417d04a7" />
+
+[Saweetie - https://youtube.com/shorts/LmjEbmfipeY?si=NCYCQXu5dpksGL75](https://youtube.com/shorts/LmjEbmfipeY?si=NCYCQXu5dpksGL75) 
+<img   alt="image" src="https://github.com/user-attachments/assets/f07b631b-78f8-4359-8e7e-366f245a393f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/78b7ea13-53c7-4ae5-affa-e15650604d75" />
 
 
 [wclk.com/](https://www.wclk.com/)
@@ -21,7 +28,7 @@ layout: default
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
 
 # Animated `HTML video poster Attr.
-@nasa-jpl the hover attribute makes for a real pick up over normal unstyled boxes, i hope its not tacky @cityoflosangeles @foratlanta [https://codepen.io/editor/RashardKElly/pen/019fe3b7-1c3a-71bc-90c8-b7a3cef19356](https://codepen.io/editor/RashardKElly/pen/019fe3b7-1c3a-71bc-90c8-b7a3cef19356)
+@nasa-jpl the hover attribute makes for a real pick up over normal unstyled boxes, i hope its not tacky @cityoflosangeles @foratlanta [https://codepen.io/editor/RashardKElly/pen/019fe3b7-1c3a-71bc-90c8-b7a3cef19356](https://codepen.io/editor/RashardKElly/pen/019fe3b7-1c3a-71bc-90c8-b7a3cef19356) // [NY-TRiSTATE_Of_Mind](https://www.youtube.com/live/9tUbn0stykY?si=vS0kYfPmnrJwsEoG)
 
 ```css
 
@@ -87,6 +94,8 @@ background-size: 10px 10px;
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A694087468&color=%234664ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
 
+@nbcnews hi @disney
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/hot-97-6046?embed=true" frameborder="0"></iframe>
 
 ![https://store.somafm.com/cdn/shop/t/3/assets/logo.png](https://store.somafm.com/cdn/shop/t/3/assets/logo.png)
 @blackgirlscode hi more stations [somafm.com/](https://somafm.com/)
