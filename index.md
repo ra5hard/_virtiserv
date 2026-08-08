@@ -14,16 +14,17 @@ layout: default
 
 ## Breaktionary
 [DJ Q-Bert – Breaktionary Volume 1 (2006)](https://youtu.be/g0Ozo6nznHg)
-[Purchase @ `THudRumble`](https://www.djqbert.com/products/break001)
+[_Purchase_ @ `THudRumble`](https://www.djqbert.com/products/break001)
 ![https://www.djqbert.com/cdn/shop/products/break001.jpg](https://www.djqbert.com/cdn/shop/products/break001.jpg)
 
 ### _art_
-[at149st.com/](https://www.at149st.com/)
+[at149st.com](https://www.at149st.com/)
 [marthathemovie.com/](https://www.marthathemovie.com/)
 [_Art Crimes The Writing on the Wall_](https://www.graffiti.org/)
 [_How to Photograph Graffiti_ - graffiti.org/faq/photofaq](https://www.graffiti.org/faq/photofaq/)
 
-
+# RedHatCheckin
+my phones got jacked
 [redhatofficial.github.io/](https://redhatofficial.github.io/)
 [`CB2` @redhatofficial @nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @foratlanta @blackgirlscode vsco.co/rashardsartu/media/69d470af049c6d2a92318eb6](https://vsco.co/rashardsartu/media/69d470af049c6d2a92318eb6)
 <img  alt="image @redhatofficial @nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @foratlanta @blackgirlscode" src="https://github.com/user-attachments/assets/de57560a-b459-45d3-b86b-83d0a0085bdc" />
