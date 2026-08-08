@@ -21,7 +21,7 @@ layout: default
 [at149st.com](https://www.at149st.com/)
 [marthathemovie.com/](https://www.marthathemovie.com/)
 [_Art Crimes The Writing on the Wall_](https://www.graffiti.org/)
-[_How to Photograph Graffiti_ - graffiti.org/faq/photofaq](https://www.graffiti.org/faq/photofaq/)
+[_How to Photograph Graffiti_ - graffiti.org/faq/photofaq @nasa-pds @nasa-jpl](https://www.graffiti.org/faq/photofaq/)
 
 # RedHatCheckin
 my phones got jacked
