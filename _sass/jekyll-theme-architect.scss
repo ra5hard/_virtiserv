@@ -320,6 +320,8 @@ iframe {
 }
 
 video {
+  height: auto;
+  width: 100%;
   border-radius:12px;
   display: block;
   margin-block: 10px 10px;
@@ -334,7 +336,7 @@ background-size: 5px 5px;
   
 border-radius:12px;
   background-attachment: fixed;
-  transition: 1s all  cubic-bezier(1,.1,.2,3);
+  transition: 1s all  cubic-bezier(.5,.1,.2,3);
 }
 
 video:hover {
@@ -351,7 +353,7 @@ video:hover {
         #e8f5fd 0);
 background-size: 10px 10px;
   background-attachment: fixed;
-  transition: 1s all  cubic-bezier(1,.1,.2,3);
+  transition: 1s all  cubic-bezier(.8,.1,.2,3);
 
 }
 
