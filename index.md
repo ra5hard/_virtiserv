@@ -12,6 +12,11 @@ layout: default
 
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ)
 
+
+[`CB2` @redhatofficial @nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @foratlanta @blackgirlscode vsco.co/rashardsartu/media/69d470af049c6d2a92318eb6](https://vsco.co/rashardsartu/media/69d470af049c6d2a92318eb6)
+<img  alt="image @redhatofficial @nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @foratlanta @blackgirlscode" src="https://github.com/user-attachments/assets/de57560a-b459-45d3-b86b-83d0a0085bdc" />
+
+
 # Sevananda
 [sevananda.coop/](https://www.sevananda.coop/)
 [youtube.com/watch?v=euYXuFBmpqw](https://www.youtube.com/watch?v=euYXuFBmpqw)
