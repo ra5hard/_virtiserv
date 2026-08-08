@@ -18,6 +18,10 @@ layout: default
 @nasa-jpl los angeles sucks 
 [_Mercedes-Benz G-Class review_- topgear.com](https://www.topgear.com/car-reviews/mercedes-benz/g-class)
 
+![https://www.topgear.com/sites/default/files/2024/12/1-Mercedes-G-Class-review-2025.jpg](https://www.topgear.com/sites/default/files/2024/12/1-Mercedes-G-Class-review-2025.jpg)
+
+[<video controls loading="lazy" poster="https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/EP-AMG-FRAME.png" src="https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-LS.mp4" />](https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-LS.mp4)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/0a133559-dc63-42df-9344-b8d3d27495a0" />
 
 # What Is… Earth’s Atmosphere?
