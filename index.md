@@ -12,6 +12,16 @@ layout: default
 
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5)
 
+
+# What Is… Earth’s Atmosphere?
+[nasa.gov/general/what-is-earths-atmosphere/](https://www.nasa.gov/general/what-is-earths-atmosphere/)
+
+![https://www.nasa.gov/wp-content/uploads/2024/05/atmospheric-layers.jpeg](https://www.nasa.gov/wp-content/uploads/2024/05/atmospheric-layers.jpeg?resize=768,715)
+> orbital sunset from the International Space Station as it soared 261 miles above the Pacific Ocean off the northern coast of Japan. The layers are clearly visible as thin bands extending from the surface out into space.
+![https://www.nasa.gov/wp-content/uploads/2024/01/iss070e073828.jpg](https://www.nasa.gov/wp-content/uploads/2024/01/iss070e073828.jpg)
+
+
+
 ### _art_
 [at149st.com](https://www.at149st.com/)
 [marthathemovie.com/](https://www.marthathemovie.com/)
