@@ -17,7 +17,7 @@ layout: default
 # Nitrogen Dioxide (L3, Vertical Column Troposphere, Subdaily) (PROVISIONAL) [[link](https://www.earthdata.nasa.gov/data/catalog/larc-cloud-tempo-no2-l3-nrt-v02)]
 ### What is the troposphere?
 _The troposphere is the innermost layer of Earth’s atmosphere._ [link](https://spaceplace.nasa.gov/troposphere/en/)
-@LA=-County-isd @nasa-jpl @nasa @nasa-giss @CityOfLosAngeles
+@LA-County-isd @nasa-jpl @nasa @nasa-giss @CityOfLosAngeles
 The Tropospheric Emissions: Monitoring of Pollution (TEMPO) Level 3 (L3) Nitrogen Dioxide Vertical Column Troposphere layer provides information on the amount of nitrogen dioxide in the troposphere. This is provided as the total number of nitrogen dioxide molecules in the tropospheric column of air above one square centimeter on the Earth’s surface (molecules/cm2).
 <img   alt="nasa-worldview-2026 JUL 06 00_00Z-to-2026 AUG 07 00_00Z" src="https://github.com/user-attachments/assets/fc4879cb-379f-461c-a394-6cb52a9b30c0" />
 <img   alt="GIOVANNI-outputui_UW7Gu" src="https://github.com/user-attachments/assets/89384bc7-b926-4957-92b1-02566181c252" />
