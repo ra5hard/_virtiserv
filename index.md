@@ -20,7 +20,7 @@ layout: default
 
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
 
-# Why is Drake Giving Away [@mercedes-benz](github.com/mercedes-benz-foss-manifesto) G-Wagons to Strangers?
+# Why is [Drake](https://vossenwheels.com/wp-content/uploads/2022/01/HF6-5-All-Finishes960x768.mov) Giving Away [@mercedes-benz](github.com/mercedes-benz-foss-manifesto) G-Wagons to Strangers?
 [@la-county-isd `WATCH` youtube.com/watch?v=7001vEWv9vA](https://www.youtube.com/watch?v=7001vEWv9vA)
 @nasa-jpl los angeles sucks 
 [_Mercedes-Benz G-Class review_- topgear.com](https://www.topgear.com/car-reviews/mercedes-benz/g-class)
