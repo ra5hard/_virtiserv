@@ -16,9 +16,22 @@ layout: default
 
 [wclk.com/](https://www.wclk.com/)
 
-<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
-
+<iframe allow="autoplay" width="40%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
+
+# Why is Drake Giving Away [@mercedes-benz](github.com/mercedes-benz-foss-manifesto) G-Wagons to Strangers?
+[@la-county-isd `WATCH` youtube.com/watch?v=7001vEWv9vA](https://www.youtube.com/watch?v=7001vEWv9vA)
+@nasa-jpl los angeles sucks 
+[_Mercedes-Benz G-Class review_- topgear.com](https://www.topgear.com/car-reviews/mercedes-benz/g-class)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a133559-dc63-42df-9344-b8d3d27495a0" />
+
+[<video controls loading="lazy" poster="https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/EP-AMG-FRAME.png" src="https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-LS.mp4" />](https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-LS.mp4)
+
+![https://www.topgear.com/sites/default/files/2024/12/1-Mercedes-G-Class-review-2025.jpg](https://www.topgear.com/sites/default/files/2024/12/1-Mercedes-G-Class-review-2025.jpg)
+
+
+
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A694087468&color=%234664ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
 
@@ -49,17 +62,8 @@ Humanity’s farthest and longest-lived spacecraft, Voyager 1 and 2, marked 40 y
 [WAVY TV 10 -- youtube](https://www.youtube.com/@wavy)
 ![https://keepmystation.com/wp-content/uploads/2022/11/WAVY-logo.png](https://keepmystation.com/wp-content/uploads/2022/11/WAVY-logo.png)
 
-# Why is Drake Giving Away [@mercedes-benz](github.com/mercedes-benz-foss-manifesto) G-Wagons to Strangers?
-[@la-county-isd `WATCH` youtube.com/watch?v=7001vEWv9vA](https://www.youtube.com/watch?v=7001vEWv9vA)
-@nasa-jpl los angeles sucks 
-[_Mercedes-Benz G-Class review_- topgear.com](https://www.topgear.com/car-reviews/mercedes-benz/g-class)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/0a133559-dc63-42df-9344-b8d3d27495a0" />
 
 
-![https://www.topgear.com/sites/default/files/2024/12/1-Mercedes-G-Class-review-2025.jpg](https://www.topgear.com/sites/default/files/2024/12/1-Mercedes-G-Class-review-2025.jpg)
-
-[<video controls loading="lazy" poster="https://www.mbusa.com/content/dam/mb-nafta/us/new-class-page-images/EP-AMG-FRAME.png" src="https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-LS.mp4" />](https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26-g-class/2026-G-SUV-LS.mp4)
 
 
 # What Is… Earth’s Atmosphere?
