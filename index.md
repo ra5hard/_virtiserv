@@ -12,6 +12,12 @@ layout: default
 
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5)
 
+# Coko Gamble (Part 2) | Before the Applause
+[WATCH - youtu.be/eAN_EtRd-uE?si=je8g74acb1WUUZgw](https://youtu.be/eAN_EtRd-uE?si=je8g74acb1WUUZgw) :: Welcome to Before the Applause, The Work You Didn't See! On this special two part episode, host Patrice Covington sits down to talk with four-time Grammy award winner and lead singer of SWV Coko Gamble. https://www.[wavy.com/hr-show/](https://www.wavy.com/hr-show/)
+<img   alt="image" src="https://github.com/user-attachments/assets/228afd9a-d5b5-46b3-98ed-72bd1e5ef686" />
+
+[WAVY TV 10 -- youtube](https://www.youtube.com/@wavy)
+![https://keepmystation.com/wp-content/uploads/2022/11/WAVY-logo.png](https://keepmystation.com/wp-content/uploads/2022/11/WAVY-logo.png)
 
 # Why is Drake Giving Away [@mercedes-benz](github.com/mercedes-benz-foss-manifesto) G-Wagons to Strangers?
 [@la-county-isd `WATCH` youtube.com/watch?v=7001vEWv9vA](https://www.youtube.com/watch?v=7001vEWv9vA)
