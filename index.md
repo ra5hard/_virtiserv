@@ -12,9 +12,17 @@ layout: default
 
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5)
 
+## Breaktionary
+[DJ Q-Bert – Breaktionary Volume 1 (2006)](https://youtu.be/g0Ozo6nznHg)
+[Purchase @ `THudRumble`](https://www.djqbert.com/products/break001)
+![https://www.djqbert.com/cdn/shop/products/break001.jpg](https://www.djqbert.com/cdn/shop/products/break001.jpg)
+
 ### _art_
 [at149st.com/](https://www.at149st.com/)
 [marthathemovie.com/](https://www.marthathemovie.com/)
+[_Art Crimes The Writing on the Wall_](https://www.graffiti.org/)
+[_How to Photograph Graffiti_ - graffiti.org/faq/photofaq](https://www.graffiti.org/faq/photofaq/)
+
 
 [redhatofficial.github.io/](https://redhatofficial.github.io/)
 [`CB2` @redhatofficial @nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @foratlanta @blackgirlscode vsco.co/rashardsartu/media/69d470af049c6d2a92318eb6](https://vsco.co/rashardsartu/media/69d470af049c6d2a92318eb6)
