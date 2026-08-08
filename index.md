@@ -20,6 +20,53 @@ layout: default
 
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
 
+# Animated `HTML video poster Attr.
+@nasa-jpl the hover attribute makes for a real pick up over normal unstyled boxes, i hope its not tacky @cityoflosangeles @foratlanta [https://codepen.io/editor/RashardKElly/pen/019fe3b7-1c3a-71bc-90c8-b7a3cef19356](https://codepen.io/editor/RashardKElly/pen/019fe3b7-1c3a-71bc-90c8-b7a3cef19356)
+
+```css
+
+video {
+  height: auto;
+  width: 100%;
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
+  background: linear-gradient(45deg,
+        #08a0e9 25%,
+        #e8f5fd 0,
+        #e8f5fd 50%,
+        #08a0e9 0,
+        #08a0e9 75%,
+        #e8f5fd 0);
+background-size: 5px 5px;
+  
+border-radius:12px;
+  background-attachment: fixed;
+  transition: 1s all  cubic-bezier(.5,.1,.2,3);
+}
+
+video:hover {
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
+  background: rgb(217,4,121);
+  background: linear-gradient(45deg,
+        #08a0e9 25%,
+        #e8f5fd 0,
+        #e8f5fd 50%,
+        #08a0e9 0,
+        #08a0e9 75%,
+        #e8f5fd 0);
+background-size: 10px 10px;
+  background-attachment: fixed;
+  transition: 1s all  cubic-bezier(.8,.1,.2,3);
+
+}
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/ab0557a2-ee16-40c6-bd21-1ec1665e3b83" />
+
+
 # Why is [Drake](https://vossenwheels.com/wp-content/uploads/2022/01/HF6-5-All-Finishes960x768.mov) Giving Away [@mercedes-benz](github.com/mercedes-benz-foss-manifesto) G-Wagons to Strangers?
 [@la-county-isd `WATCH` youtube.com/watch?v=7001vEWv9vA](https://www.youtube.com/watch?v=7001vEWv9vA)
 @nasa-jpl los angeles sucks 
