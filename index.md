@@ -15,12 +15,10 @@ layout: default
 
 
 [wclk.com/](https://www.wclk.com/)
+
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
+
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
-
-[mars.asu.edu/](https://mars.asu.edu/)
-[nasa.gov/marshall/](https://www.nasa.gov/marshall/)
-
-<img width="532" height="248" alt="image" src="https://github.com/user-attachments/assets/3de87bfe-cdef-42ba-b798-b39a83079903" />
 
 
 
@@ -35,6 +33,12 @@ layout: default
 Humanity’s farthest and longest-lived spacecraft, Voyager 1 and 2, marked 40 years of operation and exploration in August/September 2017. In this panel presentation, hear behind-the-scenes accounts from original and current mission team members as they describe the engineering challenges and momentous science achievements of the mission. This program was recorded at JPL on August 24, 2017. - [ra5hard.github.io/2026/05/27/Voyager1_n_2.html](https://ra5hard.github.io/2026/05/27/Voyager1_n_2.html) @howard-university-web-services @blackgirlscode
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/43-mission-current-Voyager-1.height-700.png @deptofwar](https://d2pn8kiwq2w21t.cloudfront.net/images/43-mission-current-Voyager-1.height-700.png)
+
+
+[mars.asu.edu/](https://mars.asu.edu/)
+[nasa.gov/marshall/](https://www.nasa.gov/marshall/)
+
+<img width="532" height="248" alt="image" src="https://github.com/user-attachments/assets/3de87bfe-cdef-42ba-b798-b39a83079903" />
 
 
 # Coko Gamble (Part 2) | Before the Applause
