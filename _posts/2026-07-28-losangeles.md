@@ -22,7 +22,7 @@ permalink: losangeles
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
-
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
 
 ## F355 Challenge
 ([F355 チャレンジ](https://segaretro.org/F355_Challenge)), also known as F355 Challenge: Passione Rossa, is an arcade racing game developed by Sega AM2 for Sega NAOMI Multiboard hardware. It is the brainchild of AM2 head and Ferrari enthusiast Yu Suzuki, and was originally released in 1999. // [Ferrari F355 Challenge: Dreamcast vs PlayStation 2
