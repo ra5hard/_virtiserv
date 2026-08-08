@@ -12,7 +12,12 @@ layout: default
 
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5)
 
+## 2 On 2 Open Ice Challenge (rev 1.21)
 
+[archive.org/details/arcade_openice](https://archive.org/details/arcade_openice) ++ [github.com/mamedev/mame](https://github.com/mamedev/mame) // [github.com/libretro](https://github.com/libretro)
+<img  alt="image" src="https://github.com/user-attachments/assets/34aeb30b-fb12-47f4-b776-25221a6392db" />
+
+<iframe src="https://archive.org/embed/arcade_openice" width="560" height="500" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## F355 Challenge
 ([F355 チャレンジ](https://segaretro.org/F355_Challenge)), also known as F355 Challenge: Passione Rossa, is an arcade racing game developed by Sega AM2 for Sega NAOMI Multiboard hardware. It is the brainchild of AM2 head and Ferrari enthusiast Yu Suzuki, and was originally released in 1999. // [Ferrari F355 Challenge: Dreamcast vs PlayStation 2
