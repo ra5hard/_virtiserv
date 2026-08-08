@@ -13,6 +13,11 @@ layout: default
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5)
 
 
+# Why is Drake Giving Away G-Wagons to Strangers?
+[@la-county-isd `WATCH` youtube.com/watch?v=7001vEWv9vA](https://www.youtube.com/watch?v=7001vEWv9vA)
+@nasa-jpl los angeles sucks 
+<img  alt="image" src="https://github.com/user-attachments/assets/0a133559-dc63-42df-9344-b8d3d27495a0" />
+
 # What Is… Earth’s Atmosphere?
 [nasa.gov/general/what-is-earths-atmosphere/](https://www.nasa.gov/general/what-is-earths-atmosphere/)
 
