@@ -13,7 +13,7 @@ layout: default
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5)
 
 
-# Why is Drake Giving Away G-Wagons to Strangers?
+# Why is Drake Giving Away [@mercedes-benz](https://github.com//mercedes-benz-foss-manifesto) G-Wagons to Strangers?
 [@la-county-isd `WATCH` youtube.com/watch?v=7001vEWv9vA](https://www.youtube.com/watch?v=7001vEWv9vA)
 @nasa-jpl los angeles sucks 
 [_Mercedes-Benz G-Class review_- topgear.com](https://www.topgear.com/car-reviews/mercedes-benz/g-class)
