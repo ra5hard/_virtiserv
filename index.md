@@ -13,6 +13,15 @@ layout: default
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5) // [Leflaur Leflah - Eshkoshka](https://youtu.be/XjxyDx5e6mw) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E)
 
 
+
+
+# Voyager
+[Watch - Voyager Mission 40th Anniversary @newshour @nasa-pds](https://youtu.be/US_byEAbXP0)
+Humanity’s farthest and longest-lived spacecraft, Voyager 1 and 2, marked 40 years of operation and exploration in August/September 2017. In this panel presentation, hear behind-the-scenes accounts from original and current mission team members as they describe the engineering challenges and momentous science achievements of the mission. This program was recorded at JPL on August 24, 2017. - [ra5hard.github.io/2026/05/27/Voyager1_n_2.html](https://ra5hard.github.io/2026/05/27/Voyager1_n_2.html) @howard-university-web-services @blackgirlscode
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/43-mission-current-Voyager-1.height-700.png @deptofwar](https://d2pn8kiwq2w21t.cloudfront.net/images/43-mission-current-Voyager-1.height-700.png)
+
+
 # Coko Gamble (Part 2) | Before the Applause
 [WATCH - youtu.be/eAN_EtRd-uE?si=je8g74acb1WUUZgw](https://youtu.be/eAN_EtRd-uE?si=je8g74acb1WUUZgw) :: Welcome to Before the Applause, The Work You Didn't See! On this special two part episode, host Patrice Covington sits down to talk with four-time Grammy award winner and lead singer of SWV Coko Gamble. [wavy.com/hr-show/](https://www.wavy.com/hr-show/)
 
