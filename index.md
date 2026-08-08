@@ -12,10 +12,18 @@ layout: default
 
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5)
 
+# Nitrogen Dioxide (L3, Vertical Column Troposphere, Subdaily) (PROVISIONAL)
+The Tropospheric Emissions: Monitoring of Pollution (TEMPO) Level 3 (L3) Nitrogen Dioxide Vertical Column Troposphere layer provides information on the amount of nitrogen dioxide in the troposphere. This is provided as the total number of nitrogen dioxide molecules in the tropospheric column of air above one square centimeter on the Earth’s surface (molecules/cm2).
+<img   alt="nasa-worldview-2026 JUL 06 00_00Z-to-2026 AUG 07 00_00Z" src="https://github.com/user-attachments/assets/fc4879cb-379f-461c-a394-6cb52a9b30c0" />
+<img   alt="GIOVANNI-outputui_UW7Gu" src="https://github.com/user-attachments/assets/89384bc7-b926-4957-92b1-02566181c252" />
+<img alt="GIOVANNI-outputnjhUow9h" src="https://github.com/user-attachments/assets/7c3de22d-1192-427a-a2fc-dcc0bd0784a8" />
+
+
 
 ## Iran War Update!
 7 and 4 Year Old Steal Parent's Car, New UFO Drop
 @deptofwar pete can you assign a female to help her @nasa-pds @whitehouse this report was more intelligent  [WATCH - youtube.com/watch?v=JaJBzs3zfxA](https://www.youtube.com/watch?v=JaJBzs3zfxA) @CityOfLosAngeles @NEWSHOUR if she is interested none of that cali cock blocking, you ppl good for that @USnavy
+[linkedin.com/in/lana-harris-8bb580108](https://www.linkedin.com/in/lana-harris-8bb580108)
 <img alt="image" src="https://github.com/user-attachments/assets/10c86a46-b3f6-4015-a11d-e3e0fcc3bd32" />
 
 hi @lanajharris this is my email to @NASAJPL HR and dfcs @info@keishaforgovernor.com @lanajharris@gmail.com you go to the nose store with @normani@fifthharmonyofficial.com ? https://www.youtube.com/shorts/xC54y5ADqps //// https://www.youtube.com/shorts/yyfDRBiyYVI @tinyharris@gmail.com she has a bump on her face like the ones on my back that are all muddy darkbrown black @customer_services_dfcs@dhs.ga.gov @HollyJMitchell@bos.lacounty.gov ........ @douglas.j.newman@nasa.gov it says nasa administrator... i just need to let someone in authority know. i think lana is glorilla and just sustained the friendship after her biological clock called for a new partner @secretary@atlantamasjid.com if that is the case im still waiting patiently @onelana10@juno.com i know seeing you on the pole meas that you are open for purchase @kathryn@bos.lacounty.gov if she dancing in hollywood how can she have a shot @Small Business Programs Office - virtiserv was a great idea its the blue print for the modern family. Thats what they told us in the spaceforce meeting @chance_saltzman@spaceforce.mil so i might be struggling to heal my existence and know shes the best bookkeeper ever and my body will heal @FirstDistrict@bos.lacounty.gov @FirstDistrict@bos.lacounty.gov @letschat@virtiserv.com ::: @info@snoopdogg.com do you agree with los angeles county being depopulated for pimp shit ? @Gallagher, Dori (JPL-5143)[JPL Employee]  @Gordon, Seth W (JPL-5145)[JPL Employee] im trying to make la work
