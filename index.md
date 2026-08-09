@@ -13,11 +13,37 @@ layout: default
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5) // [Leflaur Leflah - Eshkoshka](https://youtu.be/XjxyDx5e6mw) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // [
 Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 
+[wclk.com/](https://www.wclk.com/)
+
+<iframe allow="autoplay" width="40%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
+
+![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
+
+
+# Cannonball Adderley - Somethin' Else
+[Cannonball Adderley - Somethin' Else](https://youtu.be/mLPW93VIVgs?list=RDmLPW93VIVgs)
+![https://i.discogs.com/HIivvi3YzgPxTj8d_edw60ubOzG87s7ASnd7U3Qr3Pk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzUy/ODAtMTQ0MjIzMzY4/OS05Mzc5LmpwZWc.jpeg](https://i.discogs.com/HIivvi3YzgPxTj8d_edw60ubOzG87s7ASnd7U3Qr3Pk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzUy/ODAtMTQ0MjIzMzY4/OS05Mzc5LmpwZWc.jpeg)
+
+
+[wiki](https://en.wikipedia.org/wiki/Speak_No_Evil_(Wayne_Shorter_album)) // [jazzmessengers.com/fr/85155/wayne-shorter/](https://www.jazzmessengers.com/fr/85155/wayne-shorter/speak-no-evil-2021-audiophile-reissue) // [Discogs - discogs.com/master/140424-Wayne-Shorter-Speak-No-Evil](https://www.discogs.com/master/140424-Wayne-Shorter-Speak-No-Evil)
+![https://i.discogs.com/GIQOsTU_5gnlxhoyVpOTEJh8vMCgkTAXFNFJEPapXdI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAy/MjcwLTE2OTEwNjYy/ODEtMjc1Mi5qcGVn.jpeg](https://i.discogs.com/GIQOsTU_5gnlxhoyVpOTEJh8vMCgkTAXFNFJEPapXdI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDAy/MjcwLTE2OTEwNjYy/ODEtMjc1Mi5qcGVn.jpeg)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/27Rl7A8jXEQOkIfUKOa6ZU?utm_source=generator&si=2b91c025be364cc3" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# K̲e̲nny B̲u̲rre̲ll - M̲i̲dni̲ght B̲lu̲e̲
+[Listen - youtu.be/fZfbROH5U8o?si=hzOQNA0J4tipQgE7](https://youtu.be/fZfbROH5U8o?si=hzOQNA0J4tipQgE7) // [poemas-de-sol.blogspot.com/2023/09/kenny-burrell-1963](https://poemas-de-sol.blogspot.com/2023/09/kenny-burrell-1963-greatest-hits.html) 
+<iframe src="https://archive.org/embed/kenny-burrell-1963-greatest-hits-midnight-blue-full-album" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/738459e2-01ed-4a3c-9773-c6ada4f6c670" />
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/250px-Blogger.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/250px-Blogger.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+
 # Kenny Dorham - 1955 - Afro-Cuban
+[Listen - Kenny ̲D̲o̲r̲h̲a̲m̲ – A̲f̲r̲o-C̲u̲b̲a̲n̲ (̲1̲9̲5̲5̲)̲](https://youtu.be/n88ArEaG9B4?si=gLJTiclaneK0HEii)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7hPFS8GU0hBHZGR01y74mI?utm_source=generator&theme=0&si=2efbf4676ba242f5" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![https://i0.wp.com/latinjazznet.com/wp-content/uploads/2014/04/Kenny-Dorham-Afro-Cuban.jpg](https://i0.wp.com/latinjazznet.com/wp-content/uploads/2014/04/Kenny-Dorham-Afro-Cuban.jpg)
-[Kenny Dorham - store.bluenote.com](https://store.bluenote.com/collections/kenny-dorham?srsltid=AfmBOorCdkl0FsVYDO_Y2rhm5ECDpXhzz50OHVOpNF6gfnFSp1_TIjY9) // [ Raul Da Gama -reviw @blackgirlscode](https://latinjazznet.com/reviews/albums/essentials/kenny-dorham-afro-cuban/)
+[Kenny Dorham - store.bluenote.com](https://store.bluenote.com/collections/kenny-dorham?srsltid=AfmBOorCdkl0FsVYDO_Y2rhm5ECDpXhzz50OHVOpNF6gfnFSp1_TIjY9) // [ Raul Da Gama -reviw @blackgirlscode](https://latinjazznet.com/reviews/albums/essentials/kenny-dorham-afro-cuban/) // [Listen - Kenny ̲D̲o̲r̲h̲a̲m̲ – A̲f̲r̲o-C̲u̲b̲a̲n̲ (̲1̲9̲5̲5̲)̲](https://youtu.be/n88ArEaG9B4?si=gLJTiclaneK0HEii)
 
 # Panoply netCDF, HDF and GRIB Data Viewer
 [download - https://www.giss.nasa.gov/tools/panoply/download @la-county-isd @nasa-jpl @cityoflosangeles](https://www.giss.nasa.gov/tools/panoply/download/)
@@ -34,11 +60,7 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 <img  alt="image" src="https://github.com/user-attachments/assets/78b7ea13-53c7-4ae5-affa-e15650604d75" />
 
 
-[wclk.com/](https://www.wclk.com/)
 
-<iframe allow="autoplay" width="40%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
-
-![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
 
 # Animated `HTML video poster Attr.
 @nasa-jpl the hover attribute makes for a real pick up over normal unstyled boxes, i hope its not tacky @cityoflosangeles @foratlanta [https://codepen.io/editor/RashardKElly/pen/019fe3b7-1c3a-71bc-90c8-b7a3cef19356](https://codepen.io/editor/RashardKElly/pen/019fe3b7-1c3a-71bc-90c8-b7a3cef19356) // [NY-TRiSTATE_Of_Mind](https://www.youtube.com/live/9tUbn0stykY?si=vS0kYfPmnrJwsEoG)
