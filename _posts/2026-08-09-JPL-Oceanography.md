@@ -8,6 +8,10 @@ mathjax: true
 ---
 
 
+# Panoply netCDF, HDF and GRIB Data Viewer
+[download - https://www.giss.nasa.gov/tools/panoply/download @la-county-isd @nasa-jpl @cityoflosangeles](https://www.giss.nasa.gov/tools/panoply/download/)
+
+<img src="https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png" alt="Screenshot of sample Panoply windows"/>
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3t3uztqsk2f" data-bluesky-cid="bafyreihisszsbkvtw6h3euyjnmg7myxrapluhwd4p43iq6nrd2rlogbmwe" data-bluesky-embed-color-mode="dark"><p lang="en">www.giss.nasa.gov/tools/panopl... #EarthScience @beyer.house.gov  @epw.senate.gov<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3t3uztqsk2f?ref_src=embed">[image or embed]</a></p>&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3t3uztqsk2f?ref_src=embed">October 22, 2025 at 5:24 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
