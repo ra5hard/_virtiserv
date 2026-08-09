@@ -23,7 +23,12 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 <img alt="image" src="https://github.com/user-attachments/assets/ce0f0032-6375-4592-a1ec-390cf2d5c10f" />
 
 
-The Peir Bridge got torn down, [SkateMEmories]()
+[WHAT TO EXPECT @CityofLosangeles - pacpark.com/santa-monica-pier-bridge-replacement-project/](https://pacpark.com/santa-monica-pier-bridge-replacement-project/)
+
+The Pier Bridge got torn down, [_SkateMEmories_]
+	[Vintage Pier Work](https://calisphere.org/item/bfb3a0af510766766f0d9942931dfc5f/) // [The Santa Monica Pier has a surprisingly troubled past](https://www.krqe.com/destination-usa/the-santa-monica-pier-has-a-surprisingly-troubled-past/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a48ffa86-0011-4543-958e-5200697850dc" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ac11ce4f-218b-46af-b656-f804e0275178" />
 
