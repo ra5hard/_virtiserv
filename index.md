@@ -19,6 +19,67 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
 
+[@emergingcoders bubblegumpop01.tumblr.com/post/792164405993521152/prd-oas-institution-detail-for-podaac](https://bubblegumpop01.tumblr.com/post/792164405993521152/prd-oas-institution-detail-for-podaac)
+<img alt="image" src="https://github.com/user-attachments/assets/ce0f0032-6375-4592-a1ec-390cf2d5c10f" />
+
+
+The Peir Bridge got torn down, [SkateMEmories]()
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ac11ce4f-218b-46af-b656-f804e0275178" />
+
+[@la-county-isd @CityofSantaMonica](https://dnschecker.org/all-dns-records-of-domain.php?query=SantaMonica.gov&rtype=ALL&dns=google)
+
+# A Records 
+
+| Name | TTL | Data | 
+|------|-----|------|
+| SantaMonica.gov | 120 | 45.223.122.122 | 
+| SantaMonica.gov | 120 | 45.223.97.122 | 
+
+
+# MX Records 
+
+| Name | TTL | Data | Address | Preferences | 
+|------|-----|------|---------|-------------|
+| SantaMonica.gov | 300 | 148.163.133.194 | mxa-00399d01.gslb.pphosted.com. | 10 | 
+| SantaMonica.gov | 300 | 148.163.137.194 | mxb-00399d01.gslb.pphosted.com. | 10 | 
+
+# NS Records 
+
+| Name | TTL | Data | 
+|------|-----|------|
+| SantaMonica.gov | 21600 | ns-1577.awsdns-05.co.uk. | 
+| SantaMonica.gov | 21600 | ns-1421.awsdns-49.org. | 
+| SantaMonica.gov | 21600 | ns-156.awsdns-19.com. | 
+| SantaMonica.gov | 21600 | ns-587.awsdns-09.net. | 
+
+
+# SOA Records 
+
+| Name | TTL | Mname | Rname | Serial | Refresh | Retry | Expire | 
+|------|-----|-------|-------|--------|---------|-------|--------|
+| SantaMonica.gov | 900 | ns-1577.awsdns-05.co.uk. | awsdns-hostmaster.amazon.com. | 1 | 7200 | 900 | 1209600 | 
+
+# TXT Records 
+
+| Name | TTL | Data | 
+|------|-----|------|
+| SantaMonica.gov | "60" | "google-site-verification=Fqsn8q_p_0pjHK7ASajbu0RNcNvOjmU6ezVlmpAueoA" | 
+| SantaMonica.gov | "60" | "google-site-verification=1J59QNzLQArGP-8xCIzqJS6oRbbLenfNih6d6frVOiA" | 
+| SantaMonica.gov | "60" | "google-site-verification=0D0WEl7MPKTX3GJP19H9KWhziDoMO05CQ5KeBtQ6OW4" | 
+| SantaMonica.gov | "60" | "v=spf1 include:spf.protection.outlook.com include:service-now-spf.smgov.net include:mail-spf.smgov.net -all" | 
+| SantaMonica.gov | "60" | "ZOOM_verify_IpxbWqeVKmGUHugMzH62DN" | 
+| SantaMonica.gov | "60" | "cisco-ci-domain-verification=bb5c65973b78564e762f5d9c71e4598ffaf19adad9f64f1853449ccae3a39de" | 
+| SantaMonica.gov | "60" | "canva-site-verification=yoRAI86-dzAmymOjRT54jQ" | 
+| SantaMonica.gov | "60" | "docusign=595198ca-8371-42e3-a483-c8282abc9eca" | 
+| SantaMonica.gov | "60" | "docusign=583ee89e-1dd3-4199-9163-91d5fab3ef7a" | 
+| SantaMonica.gov | "60" | "XW7ZR3SWDIt5fvFiRhNV+ThbZ3fKJNeGSyrgtRieHv+o8Kxe7m1Oc3GK1rMKQ2FnhAYgMWZZCP2deyrWS3P/aQ==" | 
+| SantaMonica.gov | "60" | "MS=ms74119532" | 
+| SantaMonica.gov | "60" | "0AF651FFA67F6BB628BE197223F1F4D729F7DC516AA5EDB6374CF30EA15FD59C" | 
+| SantaMonica.gov | "60" | "twilio-domain-verification=e4f1a70769040a6e4f31690fb1657c86" | 
+| SantaMonica.gov | "60" | "knowbe4-site-verification=a25403a74d6cbeb5f1ea41a47245fff5" | 
+
+
 
 GOLDSTONE DEEP SPACE COMMUNICATIONS COMPLEX
 [@nasa home @nas-jpl page ~> gdscc.nasa.gov/](https://www.gdscc.nasa.gov/) /// [https://www.honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/BOOKLET.HTM](honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/BOOKLET.HTM)
