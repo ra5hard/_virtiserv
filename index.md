@@ -20,6 +20,13 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
 
 
+GOLDSTONE DEEP SPACE COMMUNICATIONS COMPLEX
+[@nasa home @nas-jpl page ~> gdscc.nasa.gov/](https://www.gdscc.nasa.gov/) /// [https://www.honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/BOOKLET.HTM](honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/BOOKLET.HTM)
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+![https://www.honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/dss11.jpg](https://www.honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/dss11.jpg)
+
+
 # Cannonball Adderley - Somethin' Else
 [Cannonball Adderley - Somethin' Else](https://youtu.be/mLPW93VIVgs?list=RDmLPW93VIVgs)
 ![https://i.discogs.com/HIivvi3YzgPxTj8d_edw60ubOzG87s7ASnd7U3Qr3Pk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzUy/ODAtMTQ0MjIzMzY4/OS05Mzc5LmpwZWc.jpeg](https://i.discogs.com/HIivvi3YzgPxTj8d_edw60ubOzG87s7ASnd7U3Qr3Pk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzUy/ODAtMTQ0MjIzMzY4/OS05Mzc5LmpwZWc.jpeg)
