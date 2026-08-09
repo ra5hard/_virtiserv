@@ -19,6 +19,9 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
 
+[ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.26/-13190911.79/4030173.40&layers=aqv_chla_20260805_sentinel:1.00:0.00:30.00:default @CityofSantaMonica](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.26/-13190911.79/4030173.40&layers=aqv_chla_20260805_sentinel:1.00:0.00:30.00:default)
+<img  alt="image" src="https://github.com/user-attachments/assets/7da85c6d-c1a1-46e7-bee2-d66645386d41" />
+
 [@emergingcoders bubblegumpop01.tumblr.com/post/792164405993521152/prd-oas-institution-detail-for-podaac](https://bubblegumpop01.tumblr.com/post/792164405993521152/prd-oas-institution-detail-for-podaac)
 <img alt="image" src="https://github.com/user-attachments/assets/ce0f0032-6375-4592-a1ec-390cf2d5c10f" />
 
