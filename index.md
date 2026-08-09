@@ -10,7 +10,20 @@ layout: default
 
 
 
-[Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5) // [Leflaur Leflah - Eshkoshka](https://youtu.be/XjxyDx5e6mw) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E)
+[Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5) // [Leflaur Leflah - Eshkoshka](https://youtu.be/XjxyDx5e6mw) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // [
+Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
+
+# Kenny Dorham - 1955 - Afro-Cuban
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7hPFS8GU0hBHZGR01y74mI?utm_source=generator&theme=0&si=2efbf4676ba242f5" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+![https://i0.wp.com/latinjazznet.com/wp-content/uploads/2014/04/Kenny-Dorham-Afro-Cuban.jpg](https://i0.wp.com/latinjazznet.com/wp-content/uploads/2014/04/Kenny-Dorham-Afro-Cuban.jpg)
+[Kenny Dorham - store.bluenote.com](https://store.bluenote.com/collections/kenny-dorham?srsltid=AfmBOorCdkl0FsVYDO_Y2rhm5ECDpXhzz50OHVOpNF6gfnFSp1_TIjY9) // [ Raul Da Gama -reviw @blackgirlscode](https://latinjazznet.com/reviews/albums/essentials/kenny-dorham-afro-cuban/)
+
+# Panoply netCDF, HDF and GRIB Data Viewer
+[download - https://www.giss.nasa.gov/tools/panoply/download @la-county-isd @nasa-jpl @cityoflosangeles](https://www.giss.nasa.gov/tools/panoply/download/)
+
+<img src="https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png" alt="Screenshot of sample Panoply windows"/>
+
 
 [HOT 97 TV  : : : youtube.com/@HOT97ontv](https://www.youtube.com/@HOT97ontv)
 <img alt="image" src="https://github.com/user-attachments/assets/25518f31-78e5-4940-91ef-7bd9417d04a7" />
