@@ -21,13 +21,15 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 
 ![https://i0.wp.com/kymnradio.net/wp-content/uploads/2025/01/Vertical-Lockup_3_RGB-01.png](https://i0.wp.com/kymnradio.net/wp-content/uploads/2025/01/Vertical-Lockup_3_RGB-01.png)
 
-<img alt="LOSangelesWaterBooksnacReport-17" src="https://github.com/user-attachments/assets/ef3d9e39-9217-4bc8-996c-9c92866d6706" />
 
 <img alt="LOSangelesWaterBooksnacReport-16" src="https://github.com/user-attachments/assets/c53f11a9-a6bb-4bb8-b33e-6af2adb44dcc" />
+<img alt="LOSangelesWaterBooksnacReport-17" src="https://github.com/user-attachments/assets/ef3d9e39-9217-4bc8-996c-9c92866d6706" />
+<img  alt="LOSangelesWaterBooksnacReport-02 @nasa-jpl arroyo second springs @la-county-isd @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/b32e9817-ee87-4e6d-9b3a-c0463df99d42" />
+
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/739e77a0-f73e-4a18-ad59-e1a8cbd7f30b" />
-<img  alt="LOSangelesWaterBooksnacReport-02 @nasa-jpl arroyo second springs @la-county-isd @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/b32e9817-ee87-4e6d-9b3a-c0463df99d42" />
+
 <img alt="LOSangelesWaterBooksnacReport-20 @nasa-jpl arroyo second springs @la-county-isd @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/5cfbe6c6-c3ad-4224-b0bd-753c8372b758" />
 <img alt="LOSangelesWaterBooksnacReport-05" src="https://github.com/user-attachments/assets/3a6e272f-99ab-40d0-8b20-25151dbc50e1" />
 
@@ -97,7 +99,8 @@ NASA Official: Doug Newman @doug-newman-nasa
 [WHAT TO EXPECT @CityofLosangeles - pacpark.com/santa-monica-pier-bridge-replacement-project/](https://pacpark.com/santa-monica-pier-bridge-replacement-project/)
 
 The Pier Bridge got torn down, [_SkateMEmories_]
-	[Vintage Pier Work](https://calisphere.org/item/bfb3a0af510766766f0d9942931dfc5f/) // [The Santa Monica Pier has a surprisingly troubled past](https://www.krqe.com/destination-usa/the-santa-monica-pier-has-a-surprisingly-troubled-past/)
+
+[Vintage Pier Work](https://calisphere.org/item/bfb3a0af510766766f0d9942931dfc5f/) // [The Santa Monica Pier has a surprisingly troubled past](https://www.krqe.com/destination-usa/the-santa-monica-pier-has-a-surprisingly-troubled-past/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a48ffa86-0011-4543-958e-5200697850dc" />
 
@@ -157,11 +160,12 @@ The Pier Bridge got torn down, [_SkateMEmories_]
 
 
 
-GOLDSTONE DEEP SPACE COMMUNICATIONS COMPLEX
+## GOLDSTONE DEEP SPACE COMMUNICATIONS COMPLEX
 
 [@nasa home @nas-jpl page ~> gdscc.nasa.gov/](https://www.gdscc.nasa.gov/) /// [https://www.honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/BOOKLET.HTM](honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/BOOKLET.HTM)
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
+
 ![https://www.honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/dss11.jpg](https://www.honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/dss11.jpg)
 
 
