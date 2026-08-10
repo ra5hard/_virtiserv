@@ -27,8 +27,11 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 <img  alt="image" src="https://github.com/user-attachments/assets/6c1e447a-1666-40b0-89bf-d160f7872fbb" />
 
 
-[@nasa-jpl St Paul has less fire activity](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,terra_crc,earth;@-88.7,44.7,6.7z) is the fire activity what followed our breaches @la-county-isd @cityoflosangeles @whitehouse 
+[@nasa-jpl St Paul has less fire activity than we do](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,terra_crc,earth;@-88.7,44.7,6.7z) is the fire activity what followed our breaches @la-county-isd @cityoflosangeles @whitehouse 
 <img alt="image" src="https://github.com/user-attachments/assets/aa04212a-d368-4795-a985-3c9e79c8ce8e" />
+@asfadmin their water systems were affected by a breach @USArmyResearchLab [search.asf.alaska.edu/#/?zoom=10.466&center=-93.316,44.934](https://search.asf.alaska.edu/#/?zoom=10.466&center=-93.316,44.934)
+<img  alt="image" src="https://github.com/user-attachments/assets/78a2c3e9-84c8-436a-a016-1ccef5a8b52e" />
+
 
 
 
