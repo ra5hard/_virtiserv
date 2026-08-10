@@ -26,6 +26,39 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 [WATCH - youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC](https://youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC) /// [https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub](https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub) @nasa-jpl @deptofwar
 <img  alt="image" src="https://github.com/user-attachments/assets/6c1e447a-1666-40b0-89bf-d160f7872fbb" />
 
+![https://space.gov.ae/app_themes/lg21016/images/logo.svg](https://space.gov.ae/app_themes/lg21016/images/logo.svg) 
+
+# NASA, UAE Mars Missions Agree to Share Science Data
+@nasa-jpl the UAE site is down from the library [emiratesmarsmission.ae/mission/about-emm/](https://www.emiratesmarsmission.ae/mission/about-emm/)
+[Read - @nasa .gov/solar-system/nasa-uae-mars-missions-agree-to-share-science-data/](https://www.nasa.gov/solar-system/nasa-uae-mars-missions-agree-to-share-science-data/)
+[friendsofnasa.org/2023/04/planet-mars-united-arab-emirates-hope.html](https://www.friendsofnasa.org/2023/04/planet-mars-united-arab-emirates-hope.html) // [Hope, the United Arab Emirates' Mars mission](https://www.planetary.org/space-missions/uae-hope)   :::::: The Emirates Mars Mission (EMM) ​is the United Arab Emirates’ (UAE) ​first mission to Mars. EMM is designed to ​orbit Mars and study the dynamics in ​the Martian atmosphere on a global scale, and on both diurnal and seasonal timescales. Using three scientific instruments on board of the spacecraft, EMM will provide a set of measurements fundamental to an improved understanding of ​circulation and weather in the Martian lower and middle atmosphere. Combining such data with the monitoring of the upper layers of the atmosphere, EMM measurements will reveal the mechanisms behind the upward transport of energy and particles, and the subsequent escape of atmospheric particles from the gravity of Mars. [@nasa-jpl this is a backup from May and it redirects out of @internetarchive unexpectantly web.archive.org/web/20260429224327/https://www.emiratesmarsmission.ae/mission/about-emm/](web.archive.org/web/20260429224327/https://www.emiratesmarsmission.ae/mission/about-emm/) @UAE-DUBAI @ISRO [althingi.is/](https://www.althingi.is/)
+```
+SPACECRAFTNAME Emirates Mars Mission (Hope)
+RANGE-
+ROUND-TRIP LIGHT TIME-
+ANTENNANAME DSS 35
+ACTIVITY Spacecraft Telemetry, Tracking, and Command
+AZIMUTH 21 deg
+ELEVATIOn 28 deg
+WIND SPEED 22 km/hr
+MODE -
+
+UP SIGNAL
+SOURCE MARS ODYSSEY
+FREQUENCY BAND S
+POWER TRANSMITTED 18 kW
+DOWN SIGNAL SOURCE EMIRATES MARS MISSION (HOPE)
+FREQUENCY BAND X
+DATA RATE 241.9 kb/sec
+POWER RECEIVED-120 dBm(1.0 x 10-18 kW)
+```
+<img alt="image" src="https://github.com/user-attachments/assets/153cb4f4-a663-4dc9-9895-1cc53001db83" />
+
+![https://space.gov.ae/app_themes/lg21016/images/emm2english.jpg](https://space.gov.ae/app_themes/lg21016/images/emm2english.jpg)
+
+![https://space.gov.ae/app_themes/lg21016/images/ae-logo.png](https://space.gov.ae/app_themes/lg21016/images/ae-logo.png)
+
+
 ![https://i0.wp.com/kymnradio.net/wp-content/uploads/2025/01/Vertical-Lockup_3_RGB-01.png](https://i0.wp.com/kymnradio.net/wp-content/uploads/2025/01/Vertical-Lockup_3_RGB-01.png)
 
 
