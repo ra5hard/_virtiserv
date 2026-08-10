@@ -4,19 +4,6 @@ layout: default
 
 
 
-He Was Dumped in the Middle of Nowhere..So I Sat Down With Him
-[watch - youtube.com/watch?v=3wUnQOIL2IU @NASA-JPL](https://www.youtube.com/watch?v=3wUnQOIL2IU)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/733dc309-3e47-472c-87e4-1ed133958cd3" />
-
-<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
-  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
-  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
-    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
-</picture>
-
-
-
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5) // [Leflaur Leflah - Eshkoshka](https://youtu.be/XjxyDx5e6mw) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // [
 Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 
@@ -33,9 +20,33 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 [WATCH - youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC](https://youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC) /// [https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub](https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub) @nasa-jpl @deptofwar /// [Iranian hackers attacked our water systems. Here are 5 things our leaders need to do now](https://www.foxnews.com/opinion/iranian-hackers-attacked-water-systems-5-things-leaders-need-do-now) [@foxnews](https://dnschecker.org/all-dns-records-of-domain.php?query=Foxnews.com&rtype=ALL&dns=google) // [@foratlanta github.com/iptv-org/iptv](https://github.com/iptv-org/iptv)
 <img  alt="image" src="https://github.com/user-attachments/assets/6c1e447a-1666-40b0-89bf-d160f7872fbb" />
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+
+ECOv002_L2T_LSTE_45834_009_15TVL_20260805T161625_0713_02
+<img  alt="image" src="https://github.com/user-attachments/assets/ddfef525-38ba-476f-9bd0-f61edad30cda" />
+
+ECOv002_L2T_LSTE_45834_009_15TVK_20260805T161625_0713_02
+<img  alt="image" src="https://github.com/user-attachments/assets/1482c61e-03c0-4030-b9a0-b1a1510fe02e" />
+ECOv002_L2T_STARS_15TVK_20260728_0713_01_NDVI
+<img  alt="ECOv002_L2T_STARS_15TVK_20260728_0713_01_NDVI" src="https://github.com/user-attachments/assets/9f9e4f1e-8a5f-4a8d-bc87-89d1bbdc1642" />
+
+
 S1C_IW_GRDH_1SDV_20260804T000527_20260804T000552_008838_011884_3D31 @ASFADMIN
 Start Time • 08/04/2026 [https://en.wikipedia.org/wiki/List_of_rivers_of_Minnesota](https://en.wikipedia.org/wiki/List_of_rivers_of_Minnesota) // [@NASA fIRMSbLOG @NASA-JPL](https://www.earthdata.nasa.gov/news?type[blog]=blog&type[data_user_story]=data_user_story&type[article]=article&type[news]=news&data_tools[21880]=21880&items_per_page=16)[https://www.earthdata.nasa.gov/data/platforms/space-based-platforms/sentinel-1](https://www.earthdata.nasa.gov/data/platforms/space-based-platforms/sentinel-1)
 <img alt="S1C_IW_GRDH_1SDV_20260804T000527_20260804T000552_008838_011884_3D31" src="https://github.com/user-attachments/assets/41871d20-701a-4461-b78d-01e9e44d3526" />
+
+
+
+He Was Dumped in the Middle of Nowhere..So I Sat Down With Him
+[watch - youtube.com/watch?v=3wUnQOIL2IU @NASA-JPL](https://www.youtube.com/watch?v=3wUnQOIL2IU)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/733dc309-3e47-472c-87e4-1ed133958cd3" />
+
 
 
 >NISAR_L2_PR_GUNW_025_076_A_024_026_2000_SH_20260713T110623_20260713T110658_20260725T110622_20260725T110657_P05023_N_F_J_001 @isro @nasa-jpl
