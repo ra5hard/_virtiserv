@@ -14,6 +14,17 @@ layout: default
 Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 
 
+# Is Minnesota Under Cyber Attack? Air Traffic & Water Systems Hit [_2025 St. Paul cyberattack_](https://en.wikipedia.org/wiki/2025_St._Paul_cyberattack) // [Northfield Reports No Impact From Wave of Cyberattacks on Minnesota Water Systems](https://kymnradio.net/2026/08/10/northfield-reports-no-impact-from-wave-of-cyberattacks-on-minnesota-water-systems/) // 2025 [After Cyber Attack, St. Paul, Minn., Restores Public Internet - govtech.com](https://www.govtech.com/security/after-cyber-attack-st-paul-minn-restores-public-internet)
+[WATCH - youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC](https://youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC)
+<img  alt="image" src="https://github.com/user-attachments/assets/6c1e447a-1666-40b0-89bf-d160f7872fbb" />
+
+![https://i0.wp.com/kymnradio.net/wp-content/uploads/2025/01/Vertical-Lockup_3_RGB-01.png](https://i0.wp.com/kymnradio.net/wp-content/uploads/2025/01/Vertical-Lockup_3_RGB-01.png)
+
+
+# The "[French Phenom](https://sports.yahoo.com/articles/dominating-french-trans-basketball-player-131808693.html)" Tearing Up the [WNBA](https://www.forbes.com/sites/maryroeloffs/2026/08/08/ex-nba-players-say-theyre-declaring-for-wnba-as-league-considers-transgender-player-policy/) Debate
+Aug 10, 2026 [Watch - youtu.be/lGafNf53muY?si=yVUBqgc_qgyPFKao](https://youtu.be/lGafNf53muY?si=yVUBqgc_qgyPFKao)
+<img  alt="image" src="https://github.com/user-attachments/assets/0753eb4b-ac52-4fc8-8cfa-c8f0601eac88" />
+
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA01551.width-1280.jpg Newly Deployed Sojourner RoverJune 22, 1999](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA01551.width-1280.jpg) 
 [Mission.CAT @nasa https://atmos.nmsu.edu/PDS/data/MROA_0001/CATALOG/MISSION.CAT](https://atmos.nmsu.edu/PDS/data/MROA_0001/CATALOG/MISSION.CAT) // [Water Presence Documented @nasa-pds](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mro%20mission%20sort%20water%20on%20mars.pdf)
