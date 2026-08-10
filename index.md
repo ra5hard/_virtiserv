@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+
+He Was Dumped in the Middle of Nowhere..So I Sat Down With Him
+[watch - youtube.com/watch?v=3wUnQOIL2IU @NASA-JPL](https://www.youtube.com/watch?v=3wUnQOIL2IU)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/733dc309-3e47-472c-87e4-1ed133958cd3" />
+
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
   <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
