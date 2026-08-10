@@ -158,6 +158,7 @@ The Pier Bridge got torn down, [_SkateMEmories_]
 
 
 GOLDSTONE DEEP SPACE COMMUNICATIONS COMPLEX
+
 [@nasa home @nas-jpl page ~> gdscc.nasa.gov/](https://www.gdscc.nasa.gov/) /// [https://www.honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/BOOKLET.HTM](honeysucklecreek.net/other_stations/goldstone/Bill_Wood_Goldstone/GDS_booklet/BOOKLET.HTM)
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg/1920px-Photo_Goldstone_Observatory_1963_-_Touring_Club_Italiano_07_0239.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
@@ -165,7 +166,9 @@ GOLDSTONE DEEP SPACE COMMUNICATIONS COMPLEX
 
 
 # Cannonball Adderley - Somethin' Else
+
 [Cannonball Adderley - Somethin' Else](https://youtu.be/mLPW93VIVgs?list=RDmLPW93VIVgs)
+
 ![https://i.discogs.com/HIivvi3YzgPxTj8d_edw60ubOzG87s7ASnd7U3Qr3Pk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzUy/ODAtMTQ0MjIzMzY4/OS05Mzc5LmpwZWc.jpeg](https://i.discogs.com/HIivvi3YzgPxTj8d_edw60ubOzG87s7ASnd7U3Qr3Pk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NzUy/ODAtMTQ0MjIzMzY4/OS05Mzc5LmpwZWc.jpeg)
 
 
