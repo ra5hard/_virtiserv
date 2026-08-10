@@ -23,8 +23,96 @@ Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY)
 
 # Is Minnesota Under Cyber Attack? Air Traffic & Water Systems Hit 
 [_2025 St. Paul cyberattack_](https://en.wikipedia.org/wiki/2025_St._Paul_cyberattack) // [Northfield Reports No Impact From Wave of Cyberattacks on Minnesota Water Systems](https://kymnradio.net/2026/08/10/northfield-reports-no-impact-from-wave-of-cyberattacks-on-minnesota-water-systems/) // 2025 [After Cyber Attack, St. Paul, Minn., Restores Public Internet - govtech.com](https://www.govtech.com/security/after-cyber-attack-st-paul-minn-restores-public-internet)
-[WATCH - youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC](https://youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC) /// [https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub](https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub) @nasa-jpl @deptofwar
+[WATCH - youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC](https://youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC) /// [https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub](https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub) @nasa-jpl @deptofwar /// [Iranian hackers attacked our water systems. Here are 5 things our leaders need to do now](https://www.foxnews.com/opinion/iranian-hackers-attacked-water-systems-5-things-leaders-need-do-now) [@foxnews](https://dnschecker.org/all-dns-records-of-domain.php?query=Foxnews.com&rtype=ALL&dns=google)
 <img  alt="image" src="https://github.com/user-attachments/assets/6c1e447a-1666-40b0-89bf-d160f7872fbb" />
+
+
+# A Records 
+
+| Name | TTL | Data | 
+|------|-----|------|
+| Foxnews.com | 11 | 199.232.90.132 | 
+
+# AAAA Records 
+
+ No records present.
+
+# CNAME Records 
+
+ No records present.
+
+# MX Records 
+
+| Name | TTL | Data | Address | Preferences | 
+|------|-----|------|---------|-------------|
+| @Foxnews.com | 1632 | 67.231.157.160 | mxa-00195501.gslb.pphosted.com. | 10 | 
+| Foxnews.com | 1632 | 67.231.149.164 | mxb-00195501.gslb.pphosted.com. | 10 | 
+
+# NS Records 
+
+| Name | TTL | Data | 
+|------|-----|------|
+| Foxnews.com | 21199 | ns01.foxdoua.com. | 
+| Foxnews.com | 21199 | ns03.dns.fox. | 
+| Foxnews.com | 21199 | ns02.dns.fox. | 
+| Foxnews.com | 21199 | ns04.dns.fox. | 
+| Foxnews.com | 21199 | ns02.foxdoua.com. | 
+| Foxnews.com | 21199 | ns03.foxdoua.com. | 
+| Foxnews.com | 21199 | ns04.foxdoua.com. | 
+| Foxnews.com | 21199 | ns01.dns.fox. | 
+
+# PTR Records 
+
+ No records present.
+
+# SRV Records 
+
+ No records present.
+
+# SOA Records 
+
+| Name | TTL | Mname | Rname | Serial | Refresh | Retry | Expire | 
+|------|-----|-------|-------|--------|---------|-------|--------|
+| Foxnews.com | 7200 | dns1.p06.nsone.net. | hostmaster.nsone.net. | 1786320179 | 43200 | 7200 | 1209600 | 
+
+# TXT Records 
+
+| Name | TTL | Data | 
+|------|-----|------|
+| Foxnews.com | "3600" | "postman-domain-verification=da8272c2c9fcb2ddec634c78ae9e618519672e19811f32cef729d317fa89e261" | 
+| Foxnews.com | "3600" | "265947818-2009536" | 
+| Foxnews.com | "3600" | "MS=ms40284671" | 
+| Foxnews.com | "3600" | "_globalsign-domain-verification=BahbT-Pu-HaLP9bBimZ0MGe-4CPc4Z_MXqKNUajBmF" | 
+| Foxnews.com | "3600" | "adobe-idp-site-verification=10f6011913207e944a026129f59881b0cb1078801a8c11229c6e95615eb28070" | 
+| Foxnews.com | "3600" | "google-site-verification=3LvSKyvB7eXlZQtS_7fwgd0cMKh6zBBzo-g9hhEVu7k" | 
+| Foxnews.com | "3600" | "MS=ms71309079" | 
+| Foxnews.com | "3600" | "v=spf1 ip4:208.84.65.98 ip4:208.86.201.96 include:spf-00195501.pphosted.com include:spf.protection.outlook.com include:amazonses.com include:mail.zendesk.com include:_spf.google.com -all" | 
+| Foxnews.com | "3600" | "_4ywk6miyhayot1r60tb3ubei8wl9mvi" | 
+| Foxnews.com | "3600" | "bppko2051pbcn9bvdualgach7h" | 
+| Foxnews.com | "3600" | "qRWnq9UOByGW6DnvW8qZ4scp8GbkRYG4bsmSOyP+dzlIB+XXQtkNbpBK3qVrJ8E7YT83Bk33z5CPO1L2KlH/mA==" | 
+
+# CAA Records 
+
+ No records present.
+
+# DS Records 
+
+| Name | TTL | Key_tag | Algorithm | Digest_type | Digest | 
+|------|-----|---------|-----------|-------------|--------|
+| Foxnews.com | 7720 | 48553 | 13 | 2 | 1838F8F470E76BD30E4FCFE4828592B581C7F75B9AE4
+8A63FB94C59E1B6809F5 | 
+
+# DNSKEY Records 
+
+| Name | TTL | Algorithm_id | Protocol | Type | Key_id | Key | 
+|------|-----|--------------|----------|------|--------|-----|
+| Foxnews.com | 637 | 13 | 3 | ZSK | 12196 | "3u9onSaqbxIlglXMHjh5Plcah8n2pXj0QuBVY/6YTdC6
+L/eUEYPDh57nOVJ8dd3fkPMrjt2Oij6J9EeLqyeuBw==" | 
+| Foxnews.com | 637 | 13 | 3 | ZSK | 52254 | "StkhLrYivFRj91rx0aO6ykg4qWeYhgQxJEwwkTzMBkIY
+jR/DENsx7p8n0yfXg4Of/DzazP+vhOLp0Kijh7S5pg==" | 
+| Foxnews.com | 637 | 13 | 3 | KSK | 48553 | "t+4DPP+MFZ0Cr7gAXiDYv6HTyXzq/O2ESVRLc/ysuh5x
+BXKIsjsj5baV1HzhBNo2F7mbsevsEo0/6UEL8+JBmA==" | 
+
 
 ![https://space.gov.ae/app_themes/lg21016/images/logo.svg](https://space.gov.ae/app_themes/lg21016/images/logo.svg) 
 
