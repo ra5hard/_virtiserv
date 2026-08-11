@@ -52,10 +52,48 @@ Hr/Min/Sec	Event
 ![https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp](https://sxcontent9668.azureedge.us/cms-assets/assets/F9_AUTONOMOUS_DRONESHIP_DESKTOP_8c25a9a0ca.webp)
 ![https://sxcontent9668.azureedge.us/cms-assets/assets/NROL_179_Vertical_7403_Desktop_8109ec98e8.jpg](https://sxcontent9668.azureedge.us/cms-assets/assets/NROL_179_Vertical_7403_Desktop_8109ec98e8.jpg) 
 
+
+
+![https://ethiopianembassy.org/wp-content/uploads/2023/05/LOGO-embassy2.png @cityoflosangeles @stateofcalifornia @foratlanta](https://ethiopianembassy.org/wp-content/uploads/2023/05/LOGO-embassy2.png)
+[ethiopianembassy.org/](https://ethiopianembassy.org/) // [advocacy4oromia.org/article/three-types-of-oromo-marriage/](https://advocacy4oromia.org/article/three-types-of-oromo-marriage/) // [ethiopia.me.uk/the-institution-of-marriage-and-cultural-practices-among-the-oromo-people-of-ethiopia/](https://ethiopia.me.uk/the-institution-of-marriage-and-cultural-practices-among-the-oromo-people-of-ethiopia/) // [curateoromia.com/protocols-of-a-traditional-oromo-marriage-proposal/](https://curateoromia.com/protocols-of-a-traditional-oromo-marriage-proposal/) // [paukwa.or.ke/story-series/kerites/marriage-rites/oromo-marriage-rites/](https://www.paukwa.or.ke/story-series/kerites/marriage-rites/oromo-marriage-rites/) ... The Culture and Custom of Oromo: The marriage ceremonies practiced through Hawadii and kadhaa focus on Guji Oromo, south eastern Oromi - [PDF](https://www.researchgate.net/publication/403066659_The_Culture_and_Custom_of_Oromo_The_marriage_ceremonies_practiced_through_Hawadii_and_kadhaa_focus_on_Guji_Oromo_south_eastern_Oromia)
+
+![https://usercontent.one/wp/www.waaqeffannaa.com/wp-content/uploads/2016/07/Doc44.jpg?media=1784363936](https://usercontent.one/wp/www.waaqeffannaa.com/wp-content/uploads/2016/07/Doc44.jpg?media=1784363936)
+
+[waaqeffannaa.com/the-borana-oromo-marriage-system/](https://www.waaqeffannaa.com/the-borana-oromo-marriage-system/) 
+
+![https://web.mfa.gov.so/wp-content/uploads/2024/05/english-header-logo.png](https://web.mfa.gov.so/wp-content/uploads/2024/05/english-header-logo.png)
+
+[web.mfa.gov.so/contact-us/](https://web.mfa.gov.so/contact-us/)
+
+![https://us.embassyeritrea.org/wp-content/uploads/2020/06/er270.png @nasa-jpl @deptofwar @whitehouse ](https://us.embassyeritrea.org/wp-content/uploads/2020/06/er270.png)
+
+
+![https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png](https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png)
+
 # [Royce White](https://www.basketball-reference.com/players/w/whitero03.html) In The [WNBA](https://www.foxnews.com/outkick-sports/dijonai-carrington-who-declared-white-privilege-after-ejection-suspended-wnba-foul-fever-star): Are We Watching?
 [Watch - https://youtu.be/VBs98ADcwV4?t=130](https://youtu.be/VBs98ADcwV4?t=130) /// [Ex-Stanford player takes shot at Enes Kanter, Royce White amid unreal WNBA claim - nypost.com](https://nypost.com/2026/08/09/sports/robin-lopez-takes-shot-at-enes-kanter-royce-white-amid-unreal-wnba-claim/)
 <img  alt="image @nfl @foratlanta @cityoflosangeles 
 Royce White In The WNBA: Are We Watching? https://youtu.be/VBs98ADcwV4?t=130 " src="https://github.com/user-attachments/assets/548e17be-d05b-49c8-a20b-4ad8512bc4a6" />
+
+# RAIN Global Viewer @nasa-giss / @nasa-jpl @doug-newman-nasa
+Regional Animations of IMERG in Near-realtime - Global Edition
+[HOMEPAGE - gpm.nasa.gov/data/visualizations/rain-global](https://gpm.nasa.gov/data/visualizations/rain-global) 
+[WEBAPP - storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html)
+RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244 @nasa-jpl @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/278028a8-4c5e-46c7-932c-5e11159ef103" />
+
+[<video controls loading="lazy" poster="https://gpm.nasa.gov/themes/custom/pmm_bs/images/nasa-logo-large-v1.png" src="https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4" />](https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
+
+
+## Ethiopia’s Al-Nahda Dam and Its Political and Climate Impacts
+Constructing dams especially on rivers that run through other countries has been always conflicting, because it confronts downstream countries with water crisis and environmental population, and climate change. 
+[ipis.ir/en/newsview/636410/ethiopia%E2%80%99s-al-nahda-dam-and-its-political-and-climate-impacts](https://ipis.ir/en/newsview/636410/ethiopia%E2%80%99s-al-nahda-dam-and-its-political-and-climate-impacts)
+
+in my @nasa @webex a user is doing research on this dam @doug-newman-nasa . . . @blackgirlscode keep the governemtn in the llop incase its a buyout @emergingcoders 
+
+![https://ipis.ir/files/mfaipisen/newspics/498976258Sad%20Alnehza.jpg](https://ipis.ir/files/mfaipisen/newspics/498976258Sad%20Alnehza.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/23873a57-790b-437d-95d7-07b184193d7a" />
 # 10day Gauge Calib @nasa-jpl
 Time Averaged Map of Random Error for multi-satellite precipitation with climatological gauge calibration - Late Run half-hourly 0.1 deg. [GPM GPM_3IMERGHHL v07] mm/hr
 <img alt="GIOVANNI-outputiANSw89M" src="https://github.com/user-attachments/assets/cc749bfa-7560-40ad-b7a4-7f2a57884d0f" />
