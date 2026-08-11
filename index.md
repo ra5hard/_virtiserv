@@ -11,6 +11,10 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 
 # NASA Earth Observations for Reservoir and Water Utility Management
 @doug-newman-nasa @nasa-openscapes @nasa-jpl
+[https://docs.google.com/forms/d/e/1FAIpQLSf1bBLJyEEpefdS__zhN_4W3N3jahbEN7l7-CtLAmMYsNKing/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLSf1bBLJyEEpefdS__zhN_4W3N3jahbEN7l7-CtLAmMYsNKing/viewform?pli=1)
+[HydroPower @blackgirlscode](https://svs.gsfc.nasa.gov/stories/hydropower_20040123/index.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/66c20ccc-3adb-4032-98c7-6b6c3130b187" />
+
 [earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management) // @la-county-isd HollyJMitchell im in [my class @webex](https://nasaevents.webex.com/wbxmjs/joinservice/sites/nasaevents/meeting/download/ea11a3f3d420479da220df8ade4f5530?MTID=ma4bed3136b2243e69fbae77cc80fa2c9&fromPanelistJoin=true) @cityoflosangeles [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) @nasa-pds [nasaevents.webex.com/wbxmjs/joinservice/sites/nasaevents/meeting/download/ea11a3f3d420479da220df8ade4f5530?MTID=ma4bed3136b2243e69fbae77cc80fa2c9&fromPanelistJoin=true](https://nasaevents.webex.com/wbxmjs/joinservice/sites/nasaevents/meeting/download/ea11a3f3d420479da220df8ade4f5530?MTID=ma4bed3136b2243e69fbae77cc80fa2c9&fromPanelistJoin=true) [congress.gov/member/karen-bass/B001270](https://www.congress.gov/member/karen-bass/B001270)
 <img alt="image" src="https://github.com/user-attachments/assets/d95d3838-2b5d-4f71-b065-9d373d0a8107" />
 
