@@ -7,8 +7,24 @@ layout: default
 [Margo Williams - God Save And Protect All The Children](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [Margo Williams - The Guardian Angel Is Watching over Us](https://www.youtube.com/watch?v=yz19n4eS3eQ) // [That's the Joint · Funky 4 + 1](https://youtu.be/OKbPzGUihG0?si=5xFaEopQGxmLuoB5) // [Leflaur Leflah - Eshkoshka](https://youtu.be/XjxyDx5e6mw) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // 
 [Handsome Boy Modeling School - Waterworld](https://youtu.be/zLXlR-t0yCY) // [Beat Bop - Rammellzee & K-Rob](https://youtu.be/plppmDdAhHk?list=RDplppmDdAhHk) // [Fearless Four - Rockin iT](https://youtu.be/vUTXithL09s?si=IYkY-HG0hyXwNmwh) // [Spoonie Gee meets The Sequence - Monster Jam](https://youtu.be/wNaNkprYtZk?list=RDwNaNkprYtZk) // [9th Wonder - Digable Planets](https://youtu.be/UtpIUCL6N5s?si=L6kbzQ-8Hwgdwp1V) // [Goodie Mob - Dirty South feat MysticaL](https://youtu.be/vXvPpmVb_2E?si=o_pGvETeh0Bvfd77) // [B.i.G - Everyday Struggle](https://youtu.be/Uz5o4EjCNLg?si=uoftWclV-nFud0aX) // [B.i.G - TheWHaT](https://youtu.be/HkwCtYVv3QQ?si=jtWJrCdEmo_ux3cZ) // [Xecutioners - Mad Flava ](https://youtu.be/P9E_p538Slc?list=RDP9E_p538Slc) // [DJ Premier - 8 Steps To Perfection [Company Flow]](https://youtu.be/2oauAL695-s?list=RD2oauAL695-s) // [[Akinyele - in the world](https://youtu.be/XB0JYe84fvg?si=MdxidYuMuRgyBXKG)] // [MEDINA GREEN feat. MOS DEF - FLA LA LASHE`](https://youtu.be/ozmTTdcDVcI?si=tqM75puTWGh6GWnz) // [
 Scritti Politti ft. Mos Def - Tinseltown To The Boogiedown (Psycho Les Variation)](https://youtu.be/li20WVCTppE?list=RDli20WVCTppE) // [Gotta Get Up (Another Day) - Jill Scott @blackgirlscode](https://youtu.be/MpBdK99UgTs?list=RDMpBdK99UgTs) // [Gang Starr – Discipline (ft. Total)](https://youtu.be/1MMHlsxWX2k?list=RD1MMHlsxWX2k) // [Illegal Business · Boogie Down Productions](https://youtu.be/yHeBotnrwEI?list=PLrbFUdbfepXWehxcenrNVr4JRt9K88umc) // [Xzibit - Paparazzi](https://youtu.be/OzxyStrqZCY?list=RDOzxyStrqZCY) // [Notorious BIG - I Got A Story To Tell](https://youtu.be/J9Ri2ahF46w?list=RDJ9Ri2ahF46w) // [TuPAc - Pain](https://youtu.be/Xqa7guhUrRw?si=toPYeUcKf-cWkEn1) // [DMX - No Love For Me](https://youtu.be/9ByYr42I1ww?si=GSDpXUVHxk5JZhrV) // [2nd Childhood · Nas](https://youtu.be/A5nM66F903I?list=OLAK5uy_mm9n9wWQUalehy1-Tg1fgZixhZpokh5Rs) // [JadaKiss - Keep it💯](https://youtu.be/6vmmfkwWmKE?si=A-c-Jpr64Ce1qFr2) // [You've Gotta Believe (Vocal) · Lovebug Starski](https://youtu.be/YcXlDqstZUM?list=RDYcXlDqstZUM) // [Verbal Intercourse (feat. Nas) - Raekwon](https://youtu.be/g4s6QAF5RAY?list=PLB7B802978D1C1305) // [Eric B & Rakim - Mahogany](https://youtu.be/WYNFN1lW8NE?list=RDWYNFN1lW8NE) // [Take It In Blood · Nas](https://youtu.be/pmmnzusZZMU?list=RDpmmnzusZZMU) // [Da Bush Babees feat. Mos Def - The Love Song (1996)](https://youtu.be/s4W7wfFSWCo?list=PL3r1ldjYHlYNcytCizESz0XgqaE4latPT) // [Spoonie Gee - LoveRap](https://youtu.be/cv2ReNgW8I0?si=wlSAbnmrE1N-1hVp) // [Teena Marie - Behind The Groove](https://youtu.be/R6nzSNWTU5Q?list=RDR6nzSNWTU5Q) // [Ghetto Life · Rick James](https://youtu.be/LyrGXnpSlIE?si=F-1-qNhooN4tthc0) // [Bohannon - Save Their Souls](https://youtu.be/DsWFRi5qtfI?list=RDDsWFRi5qtfI) // [Up From the South · The Budos Band](https://youtu.be/rNYUdeG6q4A?list=RDrNYUdeG6q4A) // [AntiBalas - 
-N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If I Ruled The World (Original 12" Remix)](https://youtu.be/g65kqu8jePA?list=RDg65kqu8jePA) // [Common - Drivin Me Wild](https://youtu.be/WTFbgUEm5sg?list=PLvdPq9CF1n2gRW2oG1oyE1OvteGV1ILGV) // [J.Dilla - Nothing Like This](https://youtu.be/5MqMnM6zbhE?si=QkwDrFgI-JIkPRqr) // [Bahamadia - Da Jawn](https://youtu.be/1QOefzGx_L0?si=_c6JQAAfTQM2MB7k)
+N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If I Ruled The World (Original 12" Remix)](https://youtu.be/g65kqu8jePA?list=RDg65kqu8jePA) // [Common - Drivin Me Wild](https://youtu.be/WTFbgUEm5sg?list=PLvdPq9CF1n2gRW2oG1oyE1OvteGV1ILGV) // [J.Dilla - Nothing Like This](https://youtu.be/5MqMnM6zbhE?si=QkwDrFgI-JIkPRqr) // [Bahamadia - Rugged Ruff](https://youtu.be/OrYKESic7CI?si=QD-1i6KBnQT3jU1i) // [Dancing Heart · Universal Two](https://youtu.be/YREg1uIKLK4)
 
+![https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png](https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png)
+
+# RAIN Global Viewer
+Regional Animations of IMERG in Near-realtime - Global Edition
+[HOMEPAGE - gpm.nasa.gov/data/visualizations/rain-global](https://gpm.nasa.gov/data/visualizations/rain-global) 
+[WEBAPP - storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html)
+RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244 @nasa-jpl @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/278028a8-4c5e-46c7-932c-5e11159ef103" />
+[<video controls loading="lazy" poster="https://gpm.nasa.gov/themes/custom/pmm_bs/images/nasa-logo-large-v1.png" src="https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4" />](https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
+
+
+ # Live 🔴 Starlink 17-49 Mission : [WATCH - youtube.com/](https://www.youtube.com/live/VOJEo-GhcTc?si=4u8PNxPRZh_BTPx3)
+ [SpaceX Launch](https://www.spacex.com/launches/sl-17-49)es 24 Satellites from [Vandenberg](https://www.vandenberg.spaceforce.mil/), [@StateOfCalifornia](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&tocTitle=+California+Constitution+-+CONS) [WATCH - https://www.youtube.com/live/VOJEo-GhcTc?si=4u8PNxPRZh_BTPx3](https://www.youtube.com/live/VOJEo-GhcTc?si=4u8PNxPRZh_BTPx3)
+ [spacex.com/launches/sl-17-49 @hulu](https://www.spacex.com/launches/sl-17-49)   //// [A Tribe Called Quest - I Left My Wallet In El Segundo](https://youtu.be/WILyWmT2A-Q) 
+ [WATCH - @CiTYoFLOSANGELES Regular City Council - 8/11/26](https://youtu.be/QePVCuF0iAY)
 
  @nasa-jpl we have a launch from the spaceforce base tonight,
  @nasa-pds i wanna add that to skywatching reports for the night 
@@ -28,9 +44,7 @@ Hr/Min/Sec	Event
 00:00:00	Falcon 9 liftoff
 ```
 
- # Live 🔴 Starlink 17-49 Mission : 
- [SpaceX Launch](https://www.spacex.com/launches/sl-17-49)es 24 Satellites from [Vandenberg](https://www.vandenberg.spaceforce.mil/), [@StateOfCalifornia](https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=CONS&tocTitle=+California+Constitution+-+CONS)
- [spacex.com/launches/sl-17-49 @hulu](https://www.spacex.com/launches/sl-17-49)
+
  @cbs-news-data @nbcnews @newshour @r-spacex @SpaceExplorationTechnologies
  @longBeachInnovationTeam @CityOfLosAngeles
  @La-county-isd @LAcountyDPH @Disney @voyager-tech-inc
