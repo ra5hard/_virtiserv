@@ -12,7 +12,7 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 # 7.4 Magnitude Earthquake: 
 The Devastating Reality in [Colombia](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:2026-08-04..2026-08-05,7days;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,landsat_human,noaa20_snow,hlsl30-nbr2,hlss30-nbr2,earth;@-73.6,4.0,8.9z) Right Now [WATCH](https://youtu.be/y4JV3OinUAE)
 <img  alt="image" src="https://github.com/user-attachments/assets/6d130fd5-4be8-4316-b93e-0a81018e3b62" />
-[firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-73.4,2.5,6.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-73.4,2.5,6.3z) @emergingCoders @howard-university-web-services @blackgirlscode
+[firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-73.4,2.5,6.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-73.4,2.5,6.3z) @emergingCoders @howard-university-web-services @blackgirlscode [Breaktionary Vol.2 Side A](https://youtu.be/6aiEYhl3CZU?si=7lS9aLQ99T9Pw4-V)
 <img  alt="image" src="https://github.com/user-attachments/assets/7a73c3d2-ed77-48c1-8cc0-ff4fff948f73" />
 
 ![https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png](https://gpm.nasa.gov/themes/custom/pmm_bs/images/gpm-title-large-v1.png)
