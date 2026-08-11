@@ -10,7 +10,23 @@ Scritti Politti ft. Mos Def - Tinseltown To The Boogiedown (Psycho Les Variation
 N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If I Ruled The World (Original 12" Remix)](https://youtu.be/g65kqu8jePA?list=RDg65kqu8jePA)
 
 
+# JPL x Sian Proctor 
+_NXT in Space: Episode 2_ @la-county-isd @CityOfLosAngeles @CityOfSantaMonica
+Aug 10, 2026 [WATCH - youtube.com/watch?v=FSqhEFH_Xak](https://www.youtube.com/watch?v=FSqhEFH_Xak)
+From the window of Inspiration4’s Dragon spacecraft to the frontiers explored by NASA’s Mars missions, commercial astronaut Sian Proctor and JPL systems engineer Farah Alibay have firsthand perspectives on the future of exploration.
 
+Together with host Greg Ivan Smith, they discuss the growing role of commercial partnerships, the opportunities and challenges of Moon-to-Mars exploration, and the breakthroughs they hope will define humanity’s next giant leap.
+
+About the guests:
+
+Sian Proctor is a commercial astronaut, pilot, poet, educator, geoscientist, and NASA Solar System Ambassador. In 2021, Proctor made history as the first artist selected to become an astronaut with the SpaceX Inspiration4 mission, commanded by now-NASA Administrator Jared Isaacman. She is also the first woman commercial spaceship pilot, and the only African-American woman to be a mission pilot.
+
+Farah Alibay has been a systems engineer at JPL for over a decade, where she has worked on a number of missions to Mars including the MarCO CubeSats, the InSight lander, the Perseverance rover, and the Ingenuity helicopter. Most recently, she served as the lead flight system systems engineer for SPHEREx, and she is now the payload lead systems engineer and acting payload manager for the VERITAS mission. As a supportive voice for women in science, Alibay mentors STEM students through her extensive outreach work.
+
+NXT in Space is a new series from NASA’s Jet Propulsion Laboratory that brings together industry leaders, creatives, and futurists to explore how collaboration can accelerate innovation and push the boundaries of what’s possible. Watch the series:    • NXT in Space (Speaker Series)  
+
+Credit: JPL-Caltech
+<img  alt="image @nasa-jpl @nasa-pds " src="https://github.com/user-attachments/assets/b2309915-0013-4f14-8a50-0faf1fd3d4c0" />
 
 
 [wclk.com/](https://www.wclk.com/)
