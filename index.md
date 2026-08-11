@@ -14,6 +14,10 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 [Watch - https://youtu.be/VBs98ADcwV4?t=130](https://youtu.be/VBs98ADcwV4?t=130) /// [Ex-Stanford player takes shot at Enes Kanter, Royce White amid unreal WNBA claim - nypost.com](https://nypost.com/2026/08/09/sports/robin-lopez-takes-shot-at-enes-kanter-royce-white-amid-unreal-wnba-claim/)
 <img  alt="image @nfl @foratlanta @cityoflosangeles 
 Royce White In The WNBA: Are We Watching? https://youtu.be/VBs98ADcwV4?t=130 " src="https://github.com/user-attachments/assets/548e17be-d05b-49c8-a20b-4ad8512bc4a6" />
+# 10day Gauge Calib @nasa-jpl
+Time Averaged Map of Random Error for multi-satellite precipitation with climatological gauge calibration - Late Run half-hourly 0.1 deg. [GPM GPM_3IMERGHHL v07] mm/hr
+<img alt="GIOVANNI-outputiANSw89M" src="https://github.com/user-attachments/assets/cc749bfa-7560-40ad-b7a4-7f2a57884d0f" />
+
 
 
 [karen-bass/B001270](https://www.congress.gov/member/karen-bass/B001270) [_Sean McCartney_](https://science.gsfc.nasa.gov/sci/bio/sean.mccartney) [📧](mailto:sean.mccartney@nasa.gov) is an Earth Scientist at NASA’s Goddard Space Flight Center @nasa-giss. @la-county-isd 
