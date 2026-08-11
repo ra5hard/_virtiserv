@@ -13,6 +13,10 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 The Devastating Reality in [Colombia](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:2026-08-04..2026-08-05,7days;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,sta_detections,sta_mask,steel_plants,countries,landsat_human,noaa20_snow,hlsl30-nbr2,hlss30-nbr2,earth;@-73.6,4.0,8.9z) Right Now [WATCH](https://youtu.be/y4JV3OinUAE)
 <img   alt="image" src="https://github.com/user-attachments/assets/5ef49701-24ef-4462-86c9-8a1ef1383498" />
 
+[earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000tjl2&extent=-13.5392,-93.91113&extent=23.72501,-81.21094&range=month&magnitude=significant&showPopulationDensity=true&showUSFaults=true&showUSHazard=true&baseLayer=terrain&settings=true](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000tjl2&extent=-13.5392,-93.91113&extent=23.72501,-81.21094&range=month&magnitude=significant&showPopulationDensity=true&showUSFaults=true&showUSHazard=true&baseLayer=terrain&settings=true)
+
+<img alt="image" src="https://github.com/user-attachments/assets/316578de-efb1-4d80-9c50-fcbd9fe2f634" />
+
 ## M 7.4 - 5 km S of San José del Palmar, Colombia
 ## _Earthquake Hazards Program_ [@usgs](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive) 
 [earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive)
