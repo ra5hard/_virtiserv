@@ -11,6 +11,7 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 
 # NASA Earth Observations for Reservoir and Water Utility Management
 @doug-newman-nasa @nasa-openscapes @nasa-jpl
+<img  alt="image" src="https://github.com/user-attachments/assets/990f187c-7873-4b99-9482-9e02fcebbf83" />
 
 @LacountyDPH @newshour @UCLA
 ```
