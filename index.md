@@ -20,7 +20,7 @@ The Devastating Reality in [Colombia](https://firms.modaps.eosdis.nasa.gov/map/#
 ## M 7.4 - 5 km S of San José del Palmar, Colombia
 ## _Earthquake Hazards Program_ [@usgs](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive) 
 [earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive)
-@usgs her report is a day off @nassa-pds @la-county-isd @blackgirlscode @howard-university-web-services i hope this is not a romance scam @disney [BreakTionary Vol4 sideA @blackgirlscode](https://youtu.be/hXrkvXlOhnk)
+@usgs her report is a day off @nasa-pds @la-county-isd @blackgirlscode @howard-university-web-services i hope this is not a romance scam @disney [BreakTionary Vol4 sideA @blackgirlscode](https://youtu.be/hXrkvXlOhnk)
 [earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/map](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/map)
 <img   alt="image" src="https://github.com/user-attachments/assets/a5ad0641-3acf-406c-a3e7-270e3c790347" />
 
