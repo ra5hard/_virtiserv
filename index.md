@@ -9,6 +9,28 @@ layout: default
 Scritti Politti ft. Mos Def - Tinseltown To The Boogiedown (Psycho Les Variation)](https://youtu.be/li20WVCTppE?list=RDli20WVCTppE) // [Gotta Get Up (Another Day) - Jill Scott @blackgirlscode](https://youtu.be/MpBdK99UgTs?list=RDMpBdK99UgTs) // [Gang Starr – Discipline (ft. Total)](https://youtu.be/1MMHlsxWX2k?list=RD1MMHlsxWX2k) // [Illegal Business · Boogie Down Productions](https://youtu.be/yHeBotnrwEI?list=PLrbFUdbfepXWehxcenrNVr4JRt9K88umc) // [Xzibit - Paparazzi](https://youtu.be/OzxyStrqZCY?list=RDOzxyStrqZCY) // [Notorious BIG - I Got A Story To Tell](https://youtu.be/J9Ri2ahF46w?list=RDJ9Ri2ahF46w) // [TuPAc - Pain](https://youtu.be/Xqa7guhUrRw?si=toPYeUcKf-cWkEn1) // [DMX - No Love For Me](https://youtu.be/9ByYr42I1ww?si=GSDpXUVHxk5JZhrV) // [2nd Childhood · Nas](https://youtu.be/A5nM66F903I?list=OLAK5uy_mm9n9wWQUalehy1-Tg1fgZixhZpokh5Rs) // [JadaKiss - Keep it💯](https://youtu.be/6vmmfkwWmKE?si=A-c-Jpr64Ce1qFr2) // [You've Gotta Believe (Vocal) · Lovebug Starski](https://youtu.be/YcXlDqstZUM?list=RDYcXlDqstZUM) // [Verbal Intercourse (feat. Nas) - Raekwon](https://youtu.be/g4s6QAF5RAY?list=PLB7B802978D1C1305) // [Eric B & Rakim - Mahogany](https://youtu.be/WYNFN1lW8NE?list=RDWYNFN1lW8NE) // [Take It In Blood · Nas](https://youtu.be/pmmnzusZZMU?list=RDpmmnzusZZMU) // [Da Bush Babees feat. Mos Def - The Love Song (1996)](https://youtu.be/s4W7wfFSWCo?list=PL3r1ldjYHlYNcytCizESz0XgqaE4latPT) // [Spoonie Gee - LoveRap](https://youtu.be/cv2ReNgW8I0?si=wlSAbnmrE1N-1hVp) // [Teena Marie - Behind The Groove](https://youtu.be/R6nzSNWTU5Q?list=RDR6nzSNWTU5Q) // [Ghetto Life · Rick James](https://youtu.be/LyrGXnpSlIE?si=F-1-qNhooN4tthc0) // [Bohannon - Save Their Souls](https://youtu.be/DsWFRi5qtfI?list=RDDsWFRi5qtfI) // [Up From the South · The Budos Band](https://youtu.be/rNYUdeG6q4A?list=RDrNYUdeG6q4A) // [AntiBalas - 
 N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If I Ruled The World (Original 12" Remix)](https://youtu.be/g65kqu8jePA?list=RDg65kqu8jePA)
 
+# _The [Lana](https://www.threads.com/@lanajharris) [Rundown](https://github.com/rajeevkrS/Threads-Social-App)_
+What's Holding Up The Gaza Deal? And Let's Get Mitch McConnell On The Phone!
+@Whitehouse im going to make her a couple maps [during the class](https://www.earthdata.nasa.gov/learn/trainings/nasa-earth-observations-reservoir-water-utility-management) @nasa-giss
+[WATCH - youtu.be/_D2K76m7mPk](https://youtu.be/_D2K76m7mPk)
+<img  alt="image" src="https://github.com/user-attachments/assets/3b355f2b-45b7-422c-a979-83574f0ea62e" />
+@emergingcoders @howard-university-web-services
+<img  alt="image" src="https://github.com/user-attachments/assets/914c0f0e-35ba-4484-85b2-6faea72bf32e" />
+[Link](https://www.zola.com/wedding/lanaanderic2026)
+<img  alt="image" src="https://github.com/user-attachments/assets/0ce822d6-0b58-4fe2-9ca0-cad3b656f762" />
+
+![https://prowly.com/profiles/assets/logo-e018fe11a12b1b0bcd2e80aeedbc34d64300eee7f1309033f4051293f3f72796.svg](https://prowly.com/profiles/assets/logo-e018fe11a12b1b0bcd2e80aeedbc34d64300eee7f1309033f4051293f3f72796.svg)
+
+[Lana Harris @foratlanta](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/) 
+Morning News Anchor at WANF-TV
+[prowly.com/profiles/journalists/lana-harris](https://prowly.com/profiles/journalists/lana-harris)
+<img alt="image" src="https://github.com/user-attachments/assets/9f71674e-b938-4065-aec5-1e38efae2243" />
+
+
+# _The Daily Drop_ :Preschool Crash, Delta Cockpit Smoke & Chicago Funeral Home Scandal 
+[Watch - youtu.be/9zUg_tHSF0w](https://youtu.be/9zUg_tHSF0w)
+<img  alt="image" src="https://github.com/user-attachments/assets/d7f60017-2fcf-405f-9287-2c294e36f8b5" />
+
 
 # JPL x Sian Proctor 
 _NXT in Space: Episode 2_ @la-county-isd @CityOfLosAngeles @CityOfSantaMonica
