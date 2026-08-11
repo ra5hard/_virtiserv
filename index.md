@@ -11,6 +11,10 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 
 # NASA Earth Observations for Reservoir and Water Utility Management
 @doug-newman-nasa @nasa-openscapes @nasa-jpl
+
+### HOW HYDROPOWER WORKS
+[https://svs.gsfc.nasa.gov/stories/hydropower_20040123/index.html](https://svs.gsfc.nasa.gov/stories/hydropower_20040123/index.html)
+![https://svs.gsfc.nasa.gov/stories/hydropower_20040123/images/howworks.jpg](https://svs.gsfc.nasa.gov/stories/hydropower_20040123/images/howworks.jpg)
 [https://docs.google.com/forms/d/e/1FAIpQLSf1bBLJyEEpefdS__zhN_4W3N3jahbEN7l7-CtLAmMYsNKing/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLSf1bBLJyEEpefdS__zhN_4W3N3jahbEN7l7-CtLAmMYsNKing/viewform?pli=1)
 [HydroPower @blackgirlscode](https://svs.gsfc.nasa.gov/stories/hydropower_20040123/index.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/66c20ccc-3adb-4032-98c7-6b6c3130b187" />
