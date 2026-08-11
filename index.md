@@ -36,11 +36,23 @@ Credit: JPL-Caltech
 ![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
 
 
-
 # Is Minnesota Under Cyber Attack? Air Traffic & Water Systems Hit 
 [WATCH - LANA @blackgirlscode youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC @Metropolitan-Council](https://youtu.be/4z6lYEce-Mg?si=Hv3Uiq39PNGCdtgC) ///
 [_2025 St. Paul cyberattack_](https://en.wikipedia.org/wiki/2025_St._Paul_cyberattack) // [Northfield Reports No Impact From Wave of Cyberattacks on Minnesota Water Systems](https://kymnradio.net/2026/08/10/northfield-reports-no-impact-from-wave-of-cyberattacks-on-minnesota-water-systems/) // 2025 [After Cyber Attack, St. Paul, Minn., Restores Public Internet - govtech.com](https://www.govtech.com/security/after-cyber-attack-st-paul-minn-restores-public-internet)
  [https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub](https://www.stpaul.gov/departments/emergency-management/cyber-incident-info-hub) @nasa-jpl @deptofwar /// [Iranian hackers attacked our water systems. Here are 5 things our leaders need to do now](https://www.foxnews.com/opinion/iranian-hackers-attacked-water-systems-5-things-leaders-need-do-now) [@foxnews](https://dnschecker.org/all-dns-records-of-domain.php?query=Foxnews.com&rtype=ALL&dns=google) // [@foratlanta github.com/iptv-org/iptv](https://github.com/iptv-org/iptv) +++ @emergingcoders ["Jay-Z Called Me Last Night And Threatened To K*LL Me” Jaguar Wright Reveals Everything 😳](https://youtu.be/yZkmuBjv21A) // [@usatoday @cnn Mo'Nique Breaks Her Silence on Hollywood's Biggest Feuds](https://youtu.be/oToIsgrx60o?si=j4P2Q9qxwJo56RX0) // [Black Homicide Files - youtube.com/@Blackhomicidefiles](https://www.youtube.com/@Blackhomicidefiles) // [DJ Babu - The Beat Tape Vol. 1](https://youtu.be/y46SMHczKgU?si=EpJ7ck9pGgRz4cx2) // [DJ Q-Bert - Wave Twisters](https://youtu.be/Za7wKeWZrrI?si=Cie4vo-KxRyecond) // [Akinyele - in the world](https://youtu.be/XB0JYe84fvg?si=MdxidYuMuRgyBXKG)
+
+ [@nasa-jpl St Paul has less fire activity than we do](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,terra_crc,earth;@-88.7,44.7,6.7z) is the fire activity what followed our breaches @la-county-isd @cityoflosangeles @whitehouse 
+<img alt="image" src="https://github.com/user-attachments/assets/aa04212a-d368-4795-a985-3c9e79c8ce8e" />
+@asfadmin their water systems were affected by a breach @USArmyResearchLab [search.asf.alaska.edu/#/?zoom=10.466&center=-93.316,44.934](https://search.asf.alaska.edu/#/?zoom=10.466&center=-93.316,44.934)
+<img  alt="image" src="https://github.com/user-attachments/assets/78a2c3e9-84c8-436a-a016-1ccef5a8b52e" />
+
+# The "[French Phenom](https://sports.yahoo.com/articles/dominating-french-trans-basketball-player-131808693.html)" Tearing Up the [WNBA](https://www.forbes.com/sites/maryroeloffs/2026/08/08/ex-nba-players-say-theyre-declaring-for-wnba-as-league-considers-transgender-player-policy/) Debate
+Aug 10, 2026 [Watch - youtu.be/lGafNf53muY?si=yVUBqgc_qgyPFKao](https://youtu.be/lGafNf53muY?si=yVUBqgc_qgyPFKao)
+<img  alt="image" src="https://github.com/user-attachments/assets/0753eb4b-ac52-4fc8-8cfa-c8f0601eac88" />
+
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA01551.width-1280.jpg Newly Deployed Sojourner RoverJune 22, 1999](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA01551.width-1280.jpg) 
+[Mission.CAT @nasa https://atmos.nmsu.edu/PDS/data/MROA_0001/CATALOG/MISSION.CAT](https://atmos.nmsu.edu/PDS/data/MROA_0001/CATALOG/MISSION.CAT) // [Water Presence Documented @nasa-pds](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mro%20mission%20sort%20water%20on%20mars.pdf)
  
 <img  alt="image" src="https://github.com/user-attachments/assets/6c1e447a-1666-40b0-89bf-d160f7872fbb" />
 
@@ -83,10 +95,6 @@ NISAR_L2_PR_GSLC_026_041_D_066_2005_DHDH_M_20260723T011431_20260723T011506_P0502
 <img  alt="NISAR_L2_PR_GSLC_026_041_D_066_2005_DHDH_M_20260723T011431_20260723T011506_P05023_N_F_J_001_NATIVE @isro " src="https://github.com/user-attachments/assets/131db59d-3a56-4c63-9abb-ef94cc908bcb" />
 
 
-[@nasa-jpl St Paul has less fire activity than we do](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,terra_crc,earth;@-88.7,44.7,6.7z) is the fire activity what followed our breaches @la-county-isd @cityoflosangeles @whitehouse 
-<img alt="image" src="https://github.com/user-attachments/assets/aa04212a-d368-4795-a985-3c9e79c8ce8e" />
-@asfadmin their water systems were affected by a breach @USArmyResearchLab [search.asf.alaska.edu/#/?zoom=10.466&center=-93.316,44.934](https://search.asf.alaska.edu/#/?zoom=10.466&center=-93.316,44.934)
-<img  alt="image" src="https://github.com/user-attachments/assets/78a2c3e9-84c8-436a-a016-1ccef5a8b52e" />
 
 
 ## Bohanon - Stop and Go
