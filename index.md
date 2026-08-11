@@ -35,6 +35,9 @@ Time Averaged Map of Volumetric Soil Moisture from 6.9 GHZ daily 25 km [AMSR-2 L
 over 2026-08-01- 2026-08-11
 <img   alt="GIOVANNI-outputqujdf0lM" src="https://github.com/user-attachments/assets/16e0d9ec-6311-4eec-b93a-3eee54031679" />
 
+![https://gpm.nasa.gov/themes/custom/pmm_bs/images/get-data-large.png](https://gpm.nasa.gov/themes/custom/pmm_bs/images/get-data-large.png)
+[Data News gpm.nasa.gov/data/news](https://gpm.nasa.gov/data/news) < @howard-university-web-services @commercegov
+
 ## Open Geospatial Consortium KML Encoding Standard
 The Open Geospatial Consortium KML Encoding Standard (OCG KML) has been adopted by NASA as a community standard.
 [https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/open-geospatial-consortium-kml-encoding-standard](https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/open-geospatial-consortium-kml-encoding-standard)
