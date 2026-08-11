@@ -10,7 +10,10 @@ Scritti Politti ft. Mos Def - Tinseltown To The Boogiedown (Psycho Les Variation
 N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If I Ruled The World (Original 12" Remix)](https://youtu.be/g65kqu8jePA?list=RDg65kqu8jePA) // [Common - Drivin Me Wild](https://youtu.be/WTFbgUEm5sg?list=PLvdPq9CF1n2gRW2oG1oyE1OvteGV1ILGV) // [J.Dilla - Nothing Like This](https://youtu.be/5MqMnM6zbhE?si=QkwDrFgI-JIkPRqr)
 
 
-[karen-bass/B001270](https://www.congress.gov/member/karen-bass/B001270) Sean McCartney is an Earth Scientist at NASA’s Goddard Space Flight Center @nasa-giss. @la-county-isd 
+[karen-bass/B001270](https://www.congress.gov/member/karen-bass/B001270) [_Sean McCartney_](https://science.gsfc.nasa.gov/sci/bio/sean.mccartney) [📧](mailto:sean.mccartney@nasa.gov) is an Earth Scientist at NASA’s Goddard Space Flight Center @nasa-giss. @la-county-isd 
+<img   alt="image" src="https://github.com/user-attachments/assets/5588307a-81fa-4320-9934-5a8025b161a3" />
+<img   alt="Sean McCartney-qr-code" src="https://github.com/user-attachments/assets/4c4e1d79-59ff-4927-9a02-262a2b420b99" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/e474b46f-ab18-4558-9754-22e3a0c5ab59" />
 
 [earthdata.nasa.gov/s3fs-public/2026-08/arset-2026-reservoirs-part3.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-08/arset-2026-reservoirs-part3.pdf)
