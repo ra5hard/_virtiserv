@@ -10,6 +10,12 @@ Scritti Politti ft. Mos Def - Tinseltown To The Boogiedown (Psycho Les Variation
 N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If I Ruled The World (Original 12" Remix)](https://youtu.be/g65kqu8jePA?list=RDg65kqu8jePA) // [Common - Drivin Me Wild](https://youtu.be/WTFbgUEm5sg?list=PLvdPq9CF1n2gRW2oG1oyE1OvteGV1ILGV) // [J.Dilla - Nothing Like This](https://youtu.be/5MqMnM6zbhE?si=QkwDrFgI-JIkPRqr)
 
 
+# [Royce White](https://www.basketball-reference.com/players/w/whitero03.html) In The [WNBA](https://www.foxnews.com/outkick-sports/dijonai-carrington-who-declared-white-privilege-after-ejection-suspended-wnba-foul-fever-star): Are We Watching?
+[Watch - https://youtu.be/VBs98ADcwV4?t=130](https://youtu.be/VBs98ADcwV4?t=130) /// [Ex-Stanford player takes shot at Enes Kanter, Royce White amid unreal WNBA claim - nypost.com](https://nypost.com/2026/08/09/sports/robin-lopez-takes-shot-at-enes-kanter-royce-white-amid-unreal-wnba-claim/)
+<img  alt="image @nfl @foratlanta @cityoflosangeles 
+Royce White In The WNBA: Are We Watching? https://youtu.be/VBs98ADcwV4?t=130 " src="https://github.com/user-attachments/assets/548e17be-d05b-49c8-a20b-4ad8512bc4a6" />
+
+
 [karen-bass/B001270](https://www.congress.gov/member/karen-bass/B001270) [_Sean McCartney_](https://science.gsfc.nasa.gov/sci/bio/sean.mccartney) [📧](mailto:sean.mccartney@nasa.gov) is an Earth Scientist at NASA’s Goddard Space Flight Center @nasa-giss. @la-county-isd 
 <img   alt="image" src="https://github.com/user-attachments/assets/5588307a-81fa-4320-9934-5a8025b161a3" />
 <img   alt="Sean McCartney-qr-code" src="https://github.com/user-attachments/assets/4c4e1d79-59ff-4927-9a02-262a2b420b99" />
