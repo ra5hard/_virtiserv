@@ -18,6 +18,11 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 ```
 Case Studies using Google Earth Engine • Case Study 1 – Lake Powell [code.earthengine.google.com/378be562f250b1c4f386a068e5234cdd](https://code.earthengine.google.com/378be562f250b1c4f386a068e5234cdd) • Case Study 2 – Lake Itaipu [code.earthengine.google.com/42b09505286a5bb687abe131ad839500](https://code.earthengine.google.com/42b09505286a5bb687abe131ad839500) /// [earthdata.nasa.gov/s3fs-public/2026-08/arset-2026-reservoirs-part3.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-08/arset-2026-reservoirs-part3.pdf)
 
+### @NASA Cloud Computing
+[https://www.earthdata.nasa.gov/s3fs-public/2026-08/arset-2026-reservoirs-part3.pdf](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/cloud-computing)
+Cloud computing refers to storing data in the cloud and accessing it through a virtual, cloud-based environment. This approach allows users to perform analyses and manipulate data directly where it's stored in the cloud, rather than downloading entire datasets to a local machine. Only the final analysis results need to be downloaded, which saves significant time and bandwidth—especially when working with large datasets. This method eliminates the need to transfer massive files back and forth while still providing access to powerful computing resources for data processing and analysis.
+
+Since 1994, NASA has made all Earth science data freely available to everyone. NASA's Earth Science Data Systems (ESDS) Program aims to maximize the value of this data by deploying cloud-enabled tools and storage solutions. [earthdata.nasa.gov/learn/earth-observation-data-basics/cloud-computing](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/cloud-computing)
 <img  alt="image" src="https://github.com/user-attachments/assets/159f950c-d415-4cb1-abae-e17502119c30" />
 
 ### HOW HYDROPOWER WORKS
