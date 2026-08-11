@@ -26,6 +26,9 @@ The Devastating Reality in [Colombia](https://firms.modaps.eosdis.nasa.gov/map/#
 
 <img alt="image" src="https://github.com/user-attachments/assets/c623b085-3359-4a51-b297-52b317ab8147" />
 
+[@nasa-pds themis.asu.edu/maps](https://themis.asu.edu/maps)
+![https://www.mars.asu.edu/images/header_global.jpg](https://www.mars.asu.edu/images/header_global.jpg)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/6d130fd5-4be8-4316-b93e-0a81018e3b62" />
 
 [firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-73.4,2.5,6.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-73.4,2.5,6.3z) @emergingCoders @howard-university-web-services @blackgirlscode [Breaktionary Vol.2 Side A](https://youtu.be/6aiEYhl3CZU?si=7lS9aLQ99T9Pw4-V)
