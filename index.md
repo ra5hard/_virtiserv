@@ -11,10 +11,24 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 
 
  # Giovanni 
+[Giovanni User Guide - HTML](https://giovanni.gsfc.nasa.gov/giovanni/doc/UsersManualworkingdocument.docx.html)
+// [giovanni.gsfc.nasa.gov/giovanni](https://giovanni.gsfc.nasa.gov/giovanni/)
+<img  alt="image" src="https://github.com/user-attachments/assets/49946d93-bdee-4371-b1d4-f1df4a28e4d5" />
 
- Time Averaged Map of Volumetric Soil Moisture from 6.9 GHZ daily 25 km [AMSR-2 LPRM_AMSR2_D_SOILM3 v001] %
+Time Averaged Map of Volumetric Soil Moisture from 6.9 GHZ daily 25 km [AMSR-2 LPRM_AMSR2_D_SOILM3 v001] %
 over 2026-08-01- 2026-08-11
 <img   alt="GIOVANNI-outputqujdf0lM" src="https://github.com/user-attachments/assets/16e0d9ec-6311-4eec-b93a-3eee54031679" />
+
+## Open Geospatial Consortium KML Encoding Standard
+The Open Geospatial Consortium KML Encoding Standard (OCG KML) has been adopted by NASA as a community standard.
+[https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/open-geospatial-consortium-kml-encoding-standard](https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/open-geospatial-consortium-kml-encoding-standard)
+imported [kmz]() into googleEarth [[1](https://weather.ndc.nasa.gov/sport/kml/getKml.html)] / [FireKML](https://firms.modaps.eosdis.nasa.gov/usfs/active_fire/kmz_bundles/) [@epagov](https://19january2017snapshot.epa.gov/airmarkets/about-kmz-files_.html) // [[2](https://worldwind.arc.nasa.gov/autodocs/WorldWindJava/gov/nasa/worldwind/ogc/kml/io/KMZFile.html)]
+[earth.google.com/web/@48.16873491,-116.32385652,1603.02935024a,10283002.81186938d,35y,-0h,0t,0r/data=CgRCAggBMikKJwolCiExbzJvTU5OX3huaEdvZFpzd3N6MW54cWxYd0xHX3RXRUEgAToDCgEwQgIIAEoICM3ujuIFEAE](https://earth.google.com/web/@48.16873491,-116.32385652,1603.02935024a,10283002.81186938d,35y,-0h,0t,0r/data=CgRCAggBMikKJwolCiExbzJvTU5OX3huaEdvZFpzd3N6MW54cWxYd0xHX3RXRUEgAToDCgEwQgIIAEoICM3ujuIFEAE) // [KML Browse Interface - heasarc.gsfc.nasa.gov/W3Browse/kml/kml.html](https://heasarc.gsfc.nasa.gov/W3Browse/kml/kml.html) // [data.humdata.org/organization/nasa-firms](https://data.humdata.org/organization/nasa-firms)
+<img  alt="image" src="https://github.com/user-attachments/assets/d6b35880-f26b-4b53-82f1-3f898e962a02" />
+[developers.google.com/kml/documentation/kml_tut](https://developers.google.com/kml/documentation/kml_tut)
+<img  alt="image" src="https://github.com/user-attachments/assets/72586aa5-4ecc-4a2e-b1d7-ce5b07220804" />
+
+
 
 
 # NASA Earth Observations for Reservoir and Water Utility Management
