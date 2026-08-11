@@ -12,6 +12,14 @@ N.E.S.T.A](https://youtu.be/bgeSNTfyQ64?list=RDbgeSNTfyQ64) // [Kurtis Blow - If
 # NASA Earth Observations for Reservoir and Water Utility Management
 @doug-newman-nasa @nasa-openscapes @nasa-jpl
 
+@LacountyDPH @newshour @UCLA
+```
+@hollyjmitchell@bos.lacounty.gov im sending them a message @Keisha for Governor I got some work for them @lanajharris@gmail.com @chloe.bailey@gmail.com @normani@fifthharmonyofficial.com I need to do my homework and I need my phone back, I cannot load my AWS_Buckets to get the scripts to complete my classwork @ksc-newsroom@mail.nasa.gov @jplnewsroom@jpl.nasa.gov @Small Business Programs Office @letschat@virtiserv.com
+```
+Case Studies using Google Earth Engine • Case Study 1 – Lake Powell [code.earthengine.google.com/378be562f250b1c4f386a068e5234cdd](https://code.earthengine.google.com/378be562f250b1c4f386a068e5234cdd) • Case Study 2 – Lake Itaipu [code.earthengine.google.com/42b09505286a5bb687abe131ad839500](https://code.earthengine.google.com/42b09505286a5bb687abe131ad839500) /// [earthdata.nasa.gov/s3fs-public/2026-08/arset-2026-reservoirs-part3.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-08/arset-2026-reservoirs-part3.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/159f950c-d415-4cb1-abae-e17502119c30" />
+
 ### HOW HYDROPOWER WORKS
 [https://svs.gsfc.nasa.gov/stories/hydropower_20040123/index.html](https://svs.gsfc.nasa.gov/stories/hydropower_20040123/index.html)
 ![https://svs.gsfc.nasa.gov/stories/hydropower_20040123/images/howworks.jpg](https://svs.gsfc.nasa.gov/stories/hydropower_20040123/images/howworks.jpg)
