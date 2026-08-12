@@ -5,16 +5,11 @@ layout: default
 [Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc) // [Nr. 9 · Hooverphonic](https://youtu.be/tvHGZoe5MoY?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6) // [Breath From Another · Esthero](https://youtu.be/mFdGr5nh5tI?si=VWifk2nnAz6sqR9p) // [
 björk : human behaviour](https://youtu.be/p0mRIhK9seg) // [700 Mile Situation · Res](https://youtu.be/IdtZiuWZ5yU) // [Back to the Essence · Blackalicious](https://youtu.be/qKaBBX-wr-g?list=PL_3JV-ZJZcA5BykhBJuvu8BVlkUDZCgWP) // 
 
-[700 Mile Situation · Res erika a hater  ](https://youtu.be/IdtZiuWZ5yU) @lanajharris who is this girl ? @Kashdoll i think she older than me @chloebaileywashere i was on zola ... i think i need to just stay in line, i dont wanna get in a fight!!!  @lanajharris @repkarenbass how can i follow a diddy ? @nasajpl @CountyofLosAngelesNewsroom @howard-university-web-services @emergingcoders
-<img  alt="image" src="https://github.com/user-attachments/assets/3e00af84-e507-4dd1-b9c6-bee630dca5c1" />
-
-Res performing live during the Soul Fussion broadcast at the Sound of Market in Philadelphia on March 27th 2010  [Listen](https://youtu.be/LU7cN5hCdSY)
-<img  alt="image" src="https://github.com/user-attachments/assets/365efe41-07e1-43e1-82b5-62f283b79980" />
-
 
 
 # Colombia Earthquake Update & The Global Weather Crisis
 [WATCH - youtu.be/HFcPOT_MJnk?si=zQ-7qI2IPg2a5Ky5](https://youtu.be/HFcPOT_MJnk?si=zQ-7qI2IPg2a5Ky5)
+<img  alt="image" src="https://github.com/user-attachments/assets/72d8ba21-b5b0-4519-92aa-5a2f5ec966f2" />
 
 ## Aftershock Forecast
 According to our forecast @usgs @landsat @nasa-jpl, there is a 18% chance of one or more aftershocks that are larger than magnitude 5, which can be damaging, within the next week. There will likely be smaller aftershocks within the next week, with up to 53 magnitude 3 or higher aftershocks. Magnitude 3 and higher aftershocks are large enough to be felt nearby. The number of aftershocks will decrease over time, but a large aftershock can temporarily increase the number of aftershocks.
@@ -34,6 +29,14 @@ According to our forecast @usgs @landsat @nasa-jpl, there is a 18% chance of one
 As earthquake rescue efforts across western Colombia continued on Tuesday, UN agencies said that they stood ready to help “with everything we've got”, in coordination with national authorities. [ReadMOre - news.un.org/en/story/2026/08/1168112](https://news.un.org/en/story/2026/08/1168112) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc)
 
 ![https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/11-08-2026-Colombia-earthquake-03.jpg/image1170x530cropped.jpg](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/11-08-2026-Colombia-earthquake-03.jpg/image1170x530cropped.jpg)
+
+[700 Mile Situation · Res erika a hater  ](https://youtu.be/IdtZiuWZ5yU) @lanajharris who is this girl ? @Kashdoll i think she older than me @chloebaileywashere i was on zola ... i think i need to just stay in line, i dont wanna get in a fight!!!  @lanajharris @repkarenbass how can i follow a diddy ? @nasajpl @CountyofLosAngelesNewsroom @howard-university-web-services @emergingcoders
+<img  alt="image" src="https://github.com/user-attachments/assets/3e00af84-e507-4dd1-b9c6-bee630dca5c1" />
+
+Res performing live during the Soul Fussion broadcast at the Sound of Market in Philadelphia on March 27th 2010  [Listen](https://youtu.be/LU7cN5hCdSY)
+<img  alt="image" src="https://github.com/user-attachments/assets/365efe41-07e1-43e1-82b5-62f283b79980" />
+
+
 
 # Handselecta:
 The [Chaz Bojórquez](https://www.somosla.net/about) Interview. June 2023.
