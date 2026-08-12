@@ -2,13 +2,26 @@
 layout: default
 ---
 
-[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo)
+[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6)
 
 
-
+# Zanja Madre: LA's Original Aqueduct
+@CityOfLosAngeles 
+Before the Los Angeles Aqueduct, before Mulholland, and long before imported water transformed the city, Los Angeles depended on a simple earthen ditch known as the Zanja Madre, or Mother Ditch.
+Built soon after the founding of the pueblo in 1781, the Zanja Madre carried water from the Los Angeles River to the Plaza, homes, vineyards, orchards, and fields of early Los Angeles. For more than a century, this open ditch and the network of zanjas that grew from it served as the city’s first water system.
+This page traces the story of the Zanja Madre through historic maps, photographs, archaeological discoveries, and surviving remnants that still connect modern Los Angeles to its earliest source of life and growth.
+ 
 ![https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/Woman_Carrying_water_jug_Olvera.jpg (n.d.)^ - Woman carrying a water jar from the fountain at Olvera Street.](https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/Woman_Carrying_water_jug_Olvera.jpg)
 ![https://waterandpower.org/Historical%20Photos%202/Zanja_Madre_Map_1860s.jpg](https://waterandpower.org/Historical%20Photos%202/Zanja_Madre_Map_1860s.jpg)
 ![https://waterandpower.org/5%20Historic%20Photos%205/Zanja_Madre_Map2.jpg](https://waterandpower.org/5%20Historic%20Photos%205/Zanja_Madre_Map2.jpg)
+
+
+## Los Angeles County Water System Governance Map
+[@nasa-jpl github.com/lciwaterprojects](https://github.com/lciwaterprojects)
+[lciwaterprojects.github.io/lacwatergovmap/](https://lciwaterprojects.github.io/lacwatergovmap/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5b9f1596-f688-4037-8e2f-021447a6ce16" />
+
 # l8tR @ucd-library @ucdavislibrary 
 
 _Riverbend to is Coming to Atlanta!_
