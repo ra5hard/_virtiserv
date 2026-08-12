@@ -2,11 +2,25 @@
 layout: default
 ---
 
-[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc)
+[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc) // [Nr. 9 · Hooverphonic](https://youtu.be/tvHGZoe5MoY?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6) // [Breath From Another · Esthero](https://youtu.be/mFdGr5nh5tI?si=VWifk2nnAz6sqR9p)
 
 
 # Colombia Earthquake Update & The Global Weather Crisis
 [WATCH - youtu.be/HFcPOT_MJnk?si=zQ-7qI2IPg2a5Ky5](https://youtu.be/HFcPOT_MJnk?si=zQ-7qI2IPg2a5Ky5)
+
+## Aftershock Forecast
+According to our forecast @usgs @landsat @nasa-jpl, there is a 18% chance of one or more aftershocks that are larger than magnitude 5, which can be damaging, within the next week. There will likely be smaller aftershocks within the next week, with up to 53 magnitude 3 or higher aftershocks. Magnitude 3 and higher aftershocks are large enough to be felt nearby. The number of aftershocks will decrease over time, but a large aftershock can temporarily increase the number of aftershocks.
+
+ This forecast applies to the area where the earthquake and aftershocks are already occurring. [earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/oaf/commentary](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/oaf/commentary)
+
+ @lanajharris i think i picked up those other earthquakes you were reporting on [earthquake.usgs.gov/earthquakes/map/?extent=4.25329,-76.9249&extent=5.47657,-75.45822&range=search&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22endtime%22:%222026-08-31T12:34:28.125Z%22,%22latitude%22:4.8436,%22longitude%22:-76.2422,%22maxradiuskm%22:250,%22minmagnitude%22:4,%22starttime%22:%222026-07-20T12:34:28.125Z%22%7D%7D](earthquake.usgs.gov/earthquakes/map/?extent=4.25329,-76.9249&extent=5.47657,-75.45822&range=search&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22endtime%22:%222026-08-31T12:34:28.125Z%22,%22latitude%22:4.8436,%22longitude%22:-76.2422,%22maxradiuskm%22:250,%22minmagnitude%22:4,%22starttime%22:%222026-07-20T12:34:28.125Z%22%7D%7D) RashardiMANKELLY @nasa-jpl @USGS @CityOFLOSANGELES @Repkarenbass @CountyofLosAngelesNewsroom @SupervisorLindseyP.Horvath u know @Foxla email servers in draper utah ?
+
+ <img alt="image" src="https://github.com/user-attachments/assets/f4b508f7-d38c-4e8c-96ae-11e1d0e49a45" />
+
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/9e2bbec8-b1c5-42be-a1b9-9a0227f41497" />
+
+
 ++ [Colombia: Earthquake leaves at least 182 dead - Press Conference @undp](https://youtu.be/a5F3GE9VJEw?si=8s73GWz07pVwLdvB) :: _UN's top official in Colombia spoke to reporters as a 7.4 magnitude earthquake hit the country leaving at least 182 dead and hundreds more injured or missing across the country's west_
 <img alt="image" src="https://github.com/user-attachments/assets/47994bb4-490c-4f64-b620-9096bb721c5e" />
 As earthquake rescue efforts across western Colombia continued on Tuesday, UN agencies said that they stood ready to help “with everything we've got”, in coordination with national authorities. [ReadMOre - news.un.org/en/story/2026/08/1168112](https://news.un.org/en/story/2026/08/1168112) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc)
