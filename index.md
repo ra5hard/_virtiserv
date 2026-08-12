@@ -6,7 +6,7 @@ layout: default
 
 # Handselecta:
 The [Chaz Bojórquez](https://www.somosla.net/about) Interview. June 2023.
-[WATCH - youtu.be/wVhnAMGv5yM?si=ceqouWXmeDJJ1ywc](https://youtu.be/wVhnAMGv5yM?si=ceqouWXmeDJJ1ywc)
+[WATCH - youtu.be/wVhnAMGv5yM?si=ceqouWXmeDJJ1ywc](https://youtu.be/wVhnAMGv5yM?si=ceqouWXmeDJJ1ywc) @la-county-isd @CityOfLosAngeles @Blackgirlscode @Howard-University-Web-Services
 <img  alt="image" src="https://github.com/user-attachments/assets/05a076e6-a283-4c5d-9fc4-1c962fbdf015" />
 
 ![https://static.wixstatic.com/media/a5de3f_b2544969c2424f8a97cbe9391f43c64d~mv2.jpg/v1/fill/w_612,h_704,fp_0.43_0.36,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/chaz_boj%C3%B3rquez_LA_river_2018_copy.jpg](https://static.wixstatic.com/media/a5de3f_b2544969c2424f8a97cbe9391f43c64d~mv2.jpg/v1/fill/w_612,h_704,fp_0.43_0.36,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/chaz_boj%C3%B3rquez_LA_river_2018_copy.jpg)
