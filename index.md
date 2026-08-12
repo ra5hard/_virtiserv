@@ -3,7 +3,7 @@ layout: default
 ---
 
 [Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc) // [Nr. 9 · Hooverphonic](https://youtu.be/tvHGZoe5MoY?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6) // [Breath From Another · Esthero](https://youtu.be/mFdGr5nh5tI?si=VWifk2nnAz6sqR9p) // [
-björk : human behaviour](https://youtu.be/p0mRIhK9seg)
+björk : human behaviour](https://youtu.be/p0mRIhK9seg) // [700 Mile Situation · Res](https://youtu.be/IdtZiuWZ5yU)
 
 
 # Colombia Earthquake Update & The Global Weather Crisis
@@ -12,7 +12,7 @@ björk : human behaviour](https://youtu.be/p0mRIhK9seg)
 ## Aftershock Forecast
 According to our forecast @usgs @landsat @nasa-jpl, there is a 18% chance of one or more aftershocks that are larger than magnitude 5, which can be damaging, within the next week. There will likely be smaller aftershocks within the next week, with up to 53 magnitude 3 or higher aftershocks. Magnitude 3 and higher aftershocks are large enough to be felt nearby. The number of aftershocks will decrease over time, but a large aftershock can temporarily increase the number of aftershocks.
 
- This forecast applies to the area where the earthquake and aftershocks are already occurring. [earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/oaf/commentary](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/oaf/commentary)
+ This forecast applies to the area where the earthquake and aftershocks are already occurring.  [700 Mile Situation · Res erika a hater @blackgirlscode ](https://youtu.be/IdtZiuWZ5yU)[earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/oaf/commentary](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/oaf/commentary)
 
  @lanajharris i think i picked up those other earthquakes you were reporting on [earthquake.usgs.gov/earthquakes/map/?extent=4.25329,-76.9249&extent=5.47657,-75.45822&range=search&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22endtime%22:%222026-08-31T12:34:28.125Z%22,%22latitude%22:4.8436,%22longitude%22:-76.2422,%22maxradiuskm%22:250,%22minmagnitude%22:4,%22starttime%22:%222026-07-20T12:34:28.125Z%22%7D%7D](earthquake.usgs.gov/earthquakes/map/?extent=4.25329,-76.9249&extent=5.47657,-75.45822&range=search&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22endtime%22:%222026-08-31T12:34:28.125Z%22,%22latitude%22:4.8436,%22longitude%22:-76.2422,%22maxradiuskm%22:250,%22minmagnitude%22:4,%22starttime%22:%222026-07-20T12:34:28.125Z%22%7D%7D) RashardiMANKELLY @nasa-jpl @USGS @CityOFLOSANGELES @Repkarenbass @CountyofLosAngelesNewsroom @SupervisorLindseyP.Horvath u know @Foxla email servers in draper utah ?
 
