@@ -2,6 +2,16 @@
 layout: default
 ---
 
+![https://lindseyhorvath.lacounty.gov/wp-content/uploads/2023/03/horvath.light_.pink_.v3.png @cityoflosangeles ](https://lindseyhorvath.lacounty.gov/wp-content/uploads/2023/03/horvath.light_.pink_.v3.png)
+Supervisor Lindsey, Hi its rashard from [@nasa-jpl](https://www.nasa.gov/jet-propulsion-laboratory-news/)... Im still sleeping outside [CityHAll](https://www.loc.gov/pictures/item/ca1261/) . . . [Erika](https://www.youtube.com/watch?v=-WtNCR3EDS4) my childs mother was in some sort of playboy set and part of my destitution was her stealing my foodstamp card with my daughter name on it, so i still have no income and eating regularly at [StFrancis](https://locator.lacounty.gov/lac/Location/3174007/st-francis-center---los-angeles) and [MidnightMission](https://www.midnightmission.org/) . . . Im in an online relationship with a girl back home from my mosque, we had an anniversary but im still so isolated and need update from her if there is any hope of me living in one of her moms  apartments... But i really cant leave @foratlanta but i pray to god its not one of the [romance scams](https://www.youtube.com/watch?v=gCwYOTmZOVc) that have [filled the food lines](https://www.facebook.com/rossenreports/videos/romance-scammer-confesses-how-he-stole-100000-from-american-women/3587902161376383/) . . . anyway i was trying to catch [last nights launch](https://x.com/i/broadcasts/1nGnRRpkMDLGO) // [`spacex.com/launches/sl-17-49`](https://www.spacex.com/launches/sl-17-49) @r-spacex @SpaceExplorationTechnologies and ended up Stranded in @CityofSantaMonica after missing the last [@LACMTA East](https://cdn.beta.metro.net/wp-content/uploads/2025/12/12151402/804_TT_12-14-25.pdf) and i saw a sign and [the people](https://samoco.org/) were mad at you in [The Promade](https://www.santamonica.gov/places/cultural-venue/third-street-promenade)(https://www.santamonica.gov/places/cultural-venue/third-street-promenade) @lacountyDPH @datadesk
+
+[Supervisor Lindsey `ThirdDistrict@bos.lacounty.gov`@la-county-isd📧](mailto:ThirdDistrict@bos.lacounty.gov)
+[Supervisor Lindsey `info@lindseyhorvath.com` @StateOfCalifornia📧](mailto:info@lindseyhorvath.com)
+
+[The Santa Monica Coalition - samoco.org](https://samoco.org/)
+<img   alt="image" src="https://github.com/user-attachments/assets/d9bdcae9-ae94-4909-b82c-169afd1786df" />
+
+
 [https://x.com/i/broadcasts/1nGnRRpkMDLGO](https://x.com/i/broadcasts/1nGnRRpkMDLGO) STARLINK @NASA-JPL
 
 # HOT 97 News Live! 8/11/26
