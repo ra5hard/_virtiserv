@@ -2,7 +2,16 @@
 layout: default
 ---
 
-[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic)
+[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc)
+
+
+# Colombia Earthquake Update & The Global Weather Crisis
+[WATCH - youtu.be/HFcPOT_MJnk?si=zQ-7qI2IPg2a5Ky5](https://youtu.be/HFcPOT_MJnk?si=zQ-7qI2IPg2a5Ky5)
+++ [Colombia: Earthquake leaves at least 182 dead - Press Conference @undp](https://youtu.be/a5F3GE9VJEw?si=8s73GWz07pVwLdvB) :: _UN's top official in Colombia spoke to reporters as a 7.4 magnitude earthquake hit the country leaving at least 182 dead and hundreds more injured or missing across the country's west_
+<img alt="image" src="https://github.com/user-attachments/assets/47994bb4-490c-4f64-b620-9096bb721c5e" />
+As earthquake rescue efforts across western Colombia continued on Tuesday, UN agencies said that they stood ready to help “with everything we've got”, in coordination with national authorities. [ReadMOre - news.un.org/en/story/2026/08/1168112](https://news.un.org/en/story/2026/08/1168112)
+
+![https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/11-08-2026-Colombia-earthquake-03.jpg/image1170x530cropped.jpg](https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/11-08-2026-Colombia-earthquake-03.jpg/image1170x530cropped.jpg)
 
 # Handselecta:
 The [Chaz Bojórquez](https://www.somosla.net/about) Interview. June 2023.
@@ -11,6 +20,10 @@ The [Chaz Bojórquez](https://www.somosla.net/about) Interview. June 2023.
 <img  alt="image" src="https://github.com/user-attachments/assets/05a076e6-a283-4c5d-9fc4-1c962fbdf015" />
 
 ![https://static.wixstatic.com/media/a5de3f_b2544969c2424f8a97cbe9391f43c64d~mv2.jpg/v1/fill/w_612,h_704,fp_0.43_0.36,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/chaz_boj%C3%B3rquez_LA_river_2018_copy.jpg](https://static.wixstatic.com/media/a5de3f_b2544969c2424f8a97cbe9391f43c64d~mv2.jpg/v1/fill/w_612,h_704,fp_0.43_0.36,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/chaz_boj%C3%B3rquez_LA_river_2018_copy.jpg)
+
+
+
+
 
 # Zanja Madre: LA's Original Aqueduct
 @CityOfLosAngeles 
