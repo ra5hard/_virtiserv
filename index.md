@@ -9,7 +9,7 @@ layout: default
 @CityOfLosAngeles 
 Before the Los Angeles Aqueduct, before Mulholland, and long before imported water transformed the city, Los Angeles depended on a simple earthen ditch known as the Zanja Madre, or Mother Ditch.
 Built soon after the founding of the pueblo in 1781, the Zanja Madre carried water from the Los Angeles River to the Plaza, homes, vineyards, orchards, and fields of early Los Angeles. For more than a century, this open ditch and the network of zanjas that grew from it served as the city’s first water system.
-This page traces the story of the Zanja Madre through historic maps, photographs, archaeological discoveries, and surviving remnants that still connect modern Los Angeles to its earliest source of life and growth.
+This page traces the story of the Zanja Madre through historic maps, photographs, archaeological discoveries, and surviving remnants that still connect modern Los Angeles to its earliest source of life and growth. [ @la-county-isd @Cityoflosangeles waterandpower.org/museum/Zanja%20Madre%20(Original%20LA%20Aqueduct).html](https://waterandpower.org/museum/Zanja%20Madre%20(Original%20LA%20Aqueduct).html)
  
 ![https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/Woman_Carrying_water_jug_Olvera.jpg (n.d.)^ - Woman carrying a water jar from the fountain at Olvera Street.](https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/Woman_Carrying_water_jug_Olvera.jpg)
 ![https://waterandpower.org/Historical%20Photos%202/Zanja_Madre_Map_1860s.jpg](https://waterandpower.org/Historical%20Photos%202/Zanja_Madre_Map_1860s.jpg)
