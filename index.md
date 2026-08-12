@@ -2,11 +2,12 @@
 layout: default
 ---
 
-[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [earless Four - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic)
+[Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic)
 
 # Handselecta:
 The [Chaz Bojórquez](https://www.somosla.net/about) Interview. June 2023.
-[WATCH - youtu.be/wVhnAMGv5yM?si=ceqouWXmeDJJ1ywc](https://youtu.be/wVhnAMGv5yM?si=ceqouWXmeDJJ1ywc) @la-county-isd @CityOfLosAngeles @Blackgirlscode @Howard-University-Web-Services
+[WATCH - youtu.be/wVhnAMGv5yM?si=ceqouWXmeDJJ1ywc](https://youtu.be/wVhnAMGv5yM?si=ceqouWXmeDJJ1ywc) @la-county-isd @CityOfLosAngeles @Blackgirlscode @Howard-University-Web-Services [`Dekae FA, Inkheads - Miami, March 2023`](https://youtu.be/Zg9H7urB3kk?si=n2YZ5Hs3ebOSfJ81) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/05a076e6-a283-4c5d-9fc4-1c962fbdf015" />
 
 ![https://static.wixstatic.com/media/a5de3f_b2544969c2424f8a97cbe9391f43c64d~mv2.jpg/v1/fill/w_612,h_704,fp_0.43_0.36,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/chaz_boj%C3%B3rquez_LA_river_2018_copy.jpg](https://static.wixstatic.com/media/a5de3f_b2544969c2424f8a97cbe9391f43c64d~mv2.jpg/v1/fill/w_612,h_704,fp_0.43_0.36,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/chaz_boj%C3%B3rquez_LA_river_2018_copy.jpg)
