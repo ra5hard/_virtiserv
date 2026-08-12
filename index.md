@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+l8tR
+[@blackgirlscode splcenter.org/resources/reports/history-hebrew-israelism/](https://www.splcenter.org/resources/reports/history-hebrew-israelism/)
+
 # Los Angeles CityHAll
 @la-county-isd @cityofsantamonica [santamonicacoalition-shop.fourthwall.com/ @cityofsandiego](https://santamonicacoalition-shop.fourthwall.com/)
 ![https://imgproxy.fourthwall.dev/kzregtQfVpycrnQ9QD5noRk5nuEXe2PlCQSDDvpwgQA/w:1920/sm:1/enc/jz3eKwsclr1Gohqh/OrwA_MR4CD0rUYD3/vY1MKpRoux11buHj/KYCd41c8LFge2he0/2Xgp5uLTmInOwWcd/ZYPy8jC7sKDmeFhP/lzD5y8AUuLXtVF4f/ZjmdJRALDKdsQOBx/iQyXWYxM2vksNm7S/m9583pTT33ceu1G7/8-irlv_g6OJTK_WL/enijle8f3MDaaK8Z/-Ol9-9zZi6-R0Vi8/P24YbXngsfkExzQc/i1rOyPpmx_o_-bkd/HNBFmmBhf3vpNRyo.jpg](https://imgproxy.fourthwall.dev/kzregtQfVpycrnQ9QD5noRk5nuEXe2PlCQSDDvpwgQA/w:1920/sm:1/enc/jz3eKwsclr1Gohqh/OrwA_MR4CD0rUYD3/vY1MKpRoux11buHj/KYCd41c8LFge2he0/2Xgp5uLTmInOwWcd/ZYPy8jC7sKDmeFhP/lzD5y8AUuLXtVF4f/ZjmdJRALDKdsQOBx/iQyXWYxM2vksNm7S/m9583pTT33ceu1G7/8-irlv_g6OJTK_WL/enijle8f3MDaaK8Z/-Ol9-9zZi6-R0Vi8/P24YbXngsfkExzQc/i1rOyPpmx_o_-bkd/HNBFmmBhf3vpNRyo.jpg)
