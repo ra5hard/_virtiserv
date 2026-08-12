@@ -3,8 +3,11 @@ layout: default
 ---
 
 
-l8tR
+l8tR @ucd-library @ucdavislibrary 
+[@ucdavis What are the Myths, Facts, About `Hebrew Israelites`?](https://www.ucdavis.edu/blog/curiosity/what-are-myths-facts-about-hebrew-israelites)
 [@blackgirlscode splcenter.org/resources/reports/history-hebrew-israelism/](https://www.splcenter.org/resources/reports/history-hebrew-israelism/)
+[ucdavis.edu/blog/curiosity/what-are-myths-facts-about-hebrew-israelites](https://www.ucdavis.edu/blog/curiosity/what-are-myths-facts-about-hebrew-israelites)
+![https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/Curiosity-black-hand-reading-sidur.jpg](https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/Curiosity-black-hand-reading-sidur.jpg)
 
 # Los Angeles CityHAll
 @la-county-isd @cityofsantamonica [santamonicacoalition-shop.fourthwall.com/ @cityofsandiego](https://santamonicacoalition-shop.fourthwall.com/)
