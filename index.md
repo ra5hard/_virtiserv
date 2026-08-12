@@ -13,8 +13,12 @@ Scans by Rashard Iman Kelly
 [@la-county-isd youtube.com/@CountyofLosAngelesNewsroom](https://www.youtube.com/@CountyofLosAngelesNewsroom)
 ![https://dn721807.ca.archive.org/0/items/mayor-1_losangeles_gov/mayor1-1.png](https://dn721807.ca.archive.org/0/items/mayor-1_losangeles_gov/mayor1-1.png)
 
-[Who sampled.cOm](https://www.whosampled.com/browse/)
+[Who sampled.cOm](https://www.whosampled.com/browse/) <~ @howard-university-web-services
 
+## When Discovery Becomes Consolidation: 
+@Spotify 's [WhoSampled](https://www.whosampled.com/search/?q=bohannon) Acquisition
+[READ - soniare.net/blog/spotify-whosampled-acquisition-consolidation](https://www.soniare.net/blog/spotify-whosampled-acquisition-consolidation)
+![https://www.soniare.net/static/images/spotifyWhoSampled.jpg](https://www.soniare.net/static/images/spotifyWhoSampled.jpg)
 
 @nasa-pds @nasa-jpl rovercheck [roc@jpl.nasa.gov](mailto:roc@jpl.nasa.gov)
 <img  alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/b6bf9f83-5577-49d8-943b-d121127c3d3a" />
