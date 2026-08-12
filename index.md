@@ -5,6 +5,12 @@ layout: default
 [Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP)
 
 # l8tR @ucd-library @ucdavislibrary 
+
+_Riverbend to is Coming to Atlanta!_
+@howard-university-web-service [WATCH - youtu.be/DBzv7a0Ur-I @nasa-jpl](https://youtu.be/DBzv7a0Ur-I)
+[ @reelblack - `CHANNEL` youtube.com/@reelblack](https://www.youtube.com/@reelblack)
+<img   alt="image" src="https://github.com/user-attachments/assets/32965b7b-e17a-4129-90b3-1a43d32d2338" />
+
 [@ucdavis What are the Myths, Facts, About `Hebrew Israelites`?](https://www.ucdavis.edu/blog/curiosity/what-are-myths-facts-about-hebrew-israelites)
 [@blackgirlscode splcenter.org/resources/reports/history-hebrew-israelism/](https://www.splcenter.org/resources/reports/history-hebrew-israelism/)
 [ucdavis.edu/blog/curiosity/what-are-myths-facts-about-hebrew-israelites](https://www.ucdavis.edu/blog/curiosity/what-are-myths-facts-about-hebrew-israelites)
