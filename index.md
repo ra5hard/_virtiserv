@@ -3,6 +3,13 @@ layout: default
 ---
 [Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw) // [Normani - Tantrums](https://youtu.be/HVsfFadjnzs) // [Sonta - Your Mistake @CityOfLosAngeles _females_](https://youtu.be/6e2dTah8gAg?si=EcKazhPqhSi-kZia) // [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz)
 
+
+# panama @deptofwar
+i have like an hyour so imma make some maps 
+[Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz)
+<img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
+
+
 # Secretary Hegseth FULL PRESS GAGGLE at the Jungle Operations Training Course in Panama.
 @deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
 @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @eosdis-nasa [WAR.GOV @deptofwar - Secretary of War Pete Hegseth Holds a Press Availability at the Jungle Operations Training Course in Panama](https://www.war.gov/News/Transcripts/Transcript/Article/4573167/secretary-of-war-pete-hegseth-holds-a-press-availability-at-the-jungle-operatio/)
