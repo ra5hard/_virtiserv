@@ -6,7 +6,7 @@ layout: default
 # Secretary Hegseth FULL PRESS GAGGLE at the Jungle Operations Training Course in Panama.
 @deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
 @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @eosdis-nasa [WAR.GOV @deptofwar - Secretary of War Pete Hegseth Holds a Press Availability at the Jungle Operations Training Course in Panama](https://www.war.gov/News/Transcripts/Transcript/Article/4573167/secretary-of-war-pete-hegseth-holds-a-press-availability-at-the-jungle-operatio/)
-Aug. 13, 2026
+Aug. 13, 2026 // [Afghanistan, Colombia, Yemen & other topics - Daily Press Briefing (13 August 2026 @Cityoflosangeles )](https://youtu.be/A1FwN6dqWuA)
 <img  alt="image" src="https://github.com/user-attachments/assets/cee7d4bd-a07d-4e3d-a40e-5ea2632583ab" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/895932f7-371c-4300-9898-1d6cbf56e5a9" />
