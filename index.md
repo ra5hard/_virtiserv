@@ -7,7 +7,7 @@ layout: default
 _Join us as [Orel Hershiser](https://en.wikipedia.org/wiki/Talk:Orel_Hershiser) is honored with a star on the [Hollywood Walk of Fame](https://walkoffame.com/)._ @nbcnews @latimes @datadesk @usatoday @newshour @thegaurdian @washingtonpost @bbc
 [WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame](https://www.youtube.com/@HwdWalkofFame)
 [_LA County Close Up Episode 295_@blackgirlscode](https://youtu.be/mLp6T7qc5MM)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="560" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/ff7aee7d-08e9-41b8-87d1-a01cf8f0ade8" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/642cd49e-a742-4ca3-98ff-821503d55bd7" />
