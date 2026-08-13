@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+[ @blackgirlscode @whitehouse @nasa-pds @nasa0giss @nasa-jpl](https://www.youtube.com/@HOT97ontv) @TheSpaceDevs @BlueOrigin hi -[Rashard `clickme` @CityOfLosAngeles _KarenBass_](https://virtiserv.github.io/rashardmro/lagroundwater)
+<img alt="image" src="https://github.com/user-attachments/assets/fc866976-d76f-4019-8d2c-5c240e0eeefb" />
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tz5tPqRRv1Y?si=gtjNQuCVdUMqERtr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc) // [Nr. 9 · Hooverphonic](https://youtu.be/tvHGZoe5MoY?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6) // [Breath From Another · Esthero](https://youtu.be/mFdGr5nh5tI?si=VWifk2nnAz6sqR9p) // [
