@@ -7,6 +7,10 @@ layout: default
 @deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
 @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @eosdis-nasa [WAR.GOV @deptofwar - Secretary of War Pete Hegseth Holds a Press Availability at the Jungle Operations Training Course in Panama](https://www.war.gov/News/Transcripts/Transcript/Article/4573167/secretary-of-war-pete-hegseth-holds-a-press-availability-at-the-jungle-operatio/)
 Aug. 13, 2026 // [Afghanistan, Colombia, Yemen & other topics - Daily Press Briefing (13 August 2026 @Cityoflosangeles )](https://youtu.be/A1FwN6dqWuA)
+[@Howard-university-web-services youtube.com/shorts/LJ4HkRGbXVc?feature=share](https://www.youtube.com/shorts/LJ4HkRGbXVc?feature=share)
+<img  alt="image" src="https://github.com/user-attachments/assets/42f0151d-5963-4206-954f-50d94466b55a" />
+<img alt="image @asfadmin @nasa-jpl @deptofwar @usnavy" src="https://github.com/user-attachments/assets/07ac44e0-2516-4535-9a6f-43b4881bc33d" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/cee7d4bd-a07d-4e3d-a40e-5ea2632583ab" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/895932f7-371c-4300-9898-1d6cbf56e5a9" />
@@ -14,8 +18,7 @@ Aug. 13, 2026 // [Afghanistan, Colombia, Yemen & other topics - Daily Press Brie
 [@deptofwar @whitehouse search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&p](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4265889281-LPCLOUD&q=ecostress&sb[0]=-81.63625%2C7.12473%2C-77.33008%2C9.48312&lat=8.54982955&long=-81.39043436663921&zoom=9.7463692099317)
 <img  alt="image" src="https://github.com/user-attachments/assets/a663f211-a516-4202-9918-ea619731080e" />
 <img alt="image" src="https://github.com/user-attachments/assets/503f3196-cee1-44eb-a58c-55d6efc45f26" />
-[@Howard-university-web-services youtube.com/shorts/LJ4HkRGbXVc?feature=share](https://www.youtube.com/shorts/LJ4HkRGbXVc?feature=share)
-<img  alt="image" src="https://github.com/user-attachments/assets/42f0151d-5963-4206-954f-50d94466b55a" />
+
 
 
 # Orel Hershiser Walk of Fame Ceremony 
