@@ -8,6 +8,12 @@ _Join us as [Orel Hershiser](https://en.wikipedia.org/wiki/Talk:Orel_Hershiser) 
 [WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame](https://www.youtube.com/@HwdWalkofFame)
 [_LA County Close Up Episode 295_@blackgirlscode](https://youtu.be/mLp6T7qc5MM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8cf154fe-ce9c-455a-b2a8-5071c03edee6" />
+
+
+<img alt="image @nbcnews " src="https://github.com/user-attachments/assets/f83fe87c-1789-4993-aa1b-4c89e2d15cfd" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/ff7aee7d-08e9-41b8-87d1-a01cf8f0ade8" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/642cd49e-a742-4ca3-98ff-821503d55bd7" />
