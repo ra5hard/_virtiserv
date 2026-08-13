@@ -2,7 +2,10 @@
 layout: default
 ---
 
-
+## Electric Shock Gloves For ICE?
+[Tiffany Haddish](https://x.com/TiffanyHaddish?lang=en) Cracking Jokes in Court 
+[HOT 97](https://www.hot97.com/) News 8.12.26
+<img  alt="image" src="https://github.com/user-attachments/assets/224c0515-3729-483b-8ab2-6b19d72ff4bb" />
 
 _ice.gov/ @NASAJPL youthink @lanajharris know what she talking about today ? @ICEgov are you guys using shock gloves @wwwICEgov thats usually privaete companies @itsgavinnewsom do ppl actualy know what n ice agent looks like ? @nasa-pds bolden said us goverment... thus #ChristmasElvs @CBSLA_ [WATCH - youtu.be/WF7Zj1XYg78?si=0X_Urzggc6fU1HsM](https://youtu.be/WF7Zj1XYg78?si=0X_Urzggc6fU1HsM)
 @UWCHR - @NASA @Whitehouse @fbicyber @cityoflosangeles @stateofcalifornia
