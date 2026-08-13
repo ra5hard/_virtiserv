@@ -4,7 +4,7 @@ layout: default
 
 
 # Orel Hershiser Walk of Fame Ceremony
-_Join us as Orel Hershiser is honored with a star on the Hollywood Walk of Fame._ @nbcnews
+_Join us as [Orel Hershiser](https://en.wikipedia.org/wiki/Talk:Orel_Hershiser) is honored with a star on the [Hollywood Walk of Fame](https://walkoffame.com/)._ @nbcnews @latimes @datadesk @usatoday @newshour @thegaurdian @washingtonpost @bbc
 [WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame](https://www.youtube.com/@HwdWalkofFame)
 [_LA County Close Up Episode 295_@blackgirlscode](https://youtu.be/mLp6T7qc5MM)
 @disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles
