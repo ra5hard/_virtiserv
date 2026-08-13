@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[ @blackgirlscode @whitehouse @nasa-pds @nasa0giss @nasa-jpl](https://www.youtube.com/@HOT97ontv) @TheSpaceDevs @BlueOrigin hi -[Rashard `clickme` @CityOfLosAngeles _KarenBass_](https://virtiserv.github.io/rashardmro/lagroundwater)
+[ @blackgirlscode @whitehouse @nasa-pds @nasa-giss @nasa-jpl](https://www.youtube.com/@HOT97ontv) @TheSpaceDevs @BlueOrigin hi -[Rashard `clickme` @CityOfLosAngeles _KarenBass_](https://virtiserv.github.io/rashardmro/lagroundwater)
 <img alt="image" src="https://github.com/user-attachments/assets/fc866976-d76f-4019-8d2c-5c240e0eeefb" />
 
 
