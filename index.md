@@ -7,13 +7,22 @@ layout: default
 _Join us as [Orel Hershiser](https://en.wikipedia.org/wiki/Talk:Orel_Hershiser) is honored with a star on the [Hollywood Walk of Fame](https://walkoffame.com/)._ @nbcnews @latimes @datadesk @usatoday @newshour @thegaurdian @washingtonpost @bbc
 [WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame](https://www.youtube.com/@HwdWalkofFame)
 [_LA County Close Up Episode 295_@blackgirlscode](https://youtu.be/mLp6T7qc5MM)
+<img  alt="image" src="https://github.com/user-attachments/assets/00488b71-4299-4fb9-b6ab-e9d0df3c65bb" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/54650b3b-070b-4106-9616-7bb6bc7230bc" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/cdff46e2-9959-414b-b7b3-78570bee23f3" />
 
 @disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/5542a243-38ee-4f29-9f1e-9bbc80e3abb0" />
 
-<img   alt="image" src="https://github.com/user-attachments/assets/3a00270b-b20d-4dc6-a75b-592e05928f74" />
+<img   alt="image @disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles" src="https://github.com/user-attachments/assets/3a00270b-b20d-4dc6-a75b-592e05928f74" />
+<img alt="image @disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles" src="https://github.com/user-attachments/assets/3e1aa895-f5e3-4c78-9d7f-810214a0a02c" />
+
+<img alt="image **** @disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles" src="https://github.com/user-attachments/assets/bd16edc9-239b-4ff9-8a5d-0b5ee0f6a145" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/9634f147-3ba6-43d4-b507-9aa0eca762df" />
 <img  alt="image" src="https://github.com/user-attachments/assets/8fd2424f-3ebf-4c93-93e6-c6e2a6e9d5e6" />
 <img  alt="image" src="https://github.com/user-attachments/assets/94c8cb03-0fbf-470d-8497-bee101bbaa26" />
