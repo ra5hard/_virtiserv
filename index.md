@@ -8,13 +8,13 @@ layout: default
 i have like an hyour so imma make some maps 
 [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz)
 <img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
-[Hegseth Touts Americas Counter Cartel Coalition During Panama Visit](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/)
+[Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america)
 
 # Secretary Hegseth FULL PRESS GAGGLE at the Jungle Operations Training Course in Panama.
 @deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
 @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @eosdis-nasa [WAR.GOV @deptofwar - Secretary of War Pete Hegseth Holds a Press Availability at the Jungle Operations Training Course in Panama](https://www.war.gov/News/Transcripts/Transcript/Article/4573167/secretary-of-war-pete-hegseth-holds-a-press-availability-at-the-jungle-operatio/)
 Aug. 13, 2026 // [Afghanistan, Colombia, Yemen & other topics - Daily Press Briefing (13 August 2026 @Cityoflosangeles )](https://youtu.be/A1FwN6dqWuA)
-[@Howard-university-web-services youtube.com/shorts/LJ4HkRGbXVc?feature=share](https://www.youtube.com/shorts/LJ4HkRGbXVc?feature=share) // [`READMORE` - Hegseth Touts Americas Counter Cartel Coalition During Panama Visit](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/)
+[@Howard-university-web-services youtube.com/shorts/LJ4HkRGbXVc?feature=share](https://www.youtube.com/shorts/LJ4HkRGbXVc?feature=share) // [`READMORE` - Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @ajam @usatoday](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/)
 <img  alt="image" src="https://github.com/user-attachments/assets/42f0151d-5963-4206-954f-50d94466b55a" />
 
 @repkarenbass @chloebaileywashere  supa real she was working in losangeles @CountyofLosAngelesNewsroom so she had presentation.... @chloebaileywashere are you angry i work on the recovery team like be nice @nasa-pds need me to have more screentime @normani @blackgirlscode
