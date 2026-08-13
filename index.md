@@ -2,6 +2,12 @@
 layout: default
 ---
 
+
+![https://githubuniverse.com/nav-logo-26.webp](https://githubuniverse.com/nav-logo-26.webp)
+@nasa-jpl @nasa-pds do i still have to wait on people to hae sex to get paid? @CityOflosangeles [https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=db_ebsession_exp_uni26](https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=db_ebsession_exp_uni26)
+<img  alt="image" src="https://github.com/user-attachments/assets/7cd6dbef-9c29-480f-b684-e7d87dfc6f62" />
+<img alt="image" src="https://github.com/user-attachments/assets/327092d1-f615-4e08-b278-d6b125094912" />
+
 ## Electric Shock Gloves For ICE?
 [Tiffany Haddish](https://x.com/TiffanyHaddish?lang=en) Cracking Jokes in Court 
 [HOT 97](https://www.hot97.com/) News 8.12.26 [DeepSpacceNetworkMON](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
