@@ -4,8 +4,11 @@ layout: default
 
 
 # Secretary Hegseth FULL PRESS GAGGLE at the Jungle Operations Training Course in Panama.
-@deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - https://youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
-@blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @eosdis-nasa
+@deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
+@blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @eosdis-nasa [WAR.GOV @deptofwar - Secretary of War Pete Hegseth Holds a Press Availability at the Jungle Operations Training Course in Panama](https://www.war.gov/News/Transcripts/Transcript/Article/4573167/secretary-of-war-pete-hegseth-holds-a-press-availability-at-the-jungle-operatio/)
+Aug. 13, 2026
+<img  alt="image" src="https://github.com/user-attachments/assets/cee7d4bd-a07d-4e3d-a40e-5ea2632583ab" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/895932f7-371c-4300-9898-1d6cbf56e5a9" />
 
 [@deptofwar @whitehouse search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&p](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4265889281-LPCLOUD&q=ecostress&sb[0]=-81.63625%2C7.12473%2C-77.33008%2C9.48312&lat=8.54982955&long=-81.39043436663921&zoom=9.7463692099317)
