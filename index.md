@@ -10,6 +10,12 @@ i have like an hour so imma make some maps
 <img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
 [Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america) // [How Panama's Crucible is Yet Again Testing Soldiers' Mettle - lineofdeparture.army.mil](https://www.lineofdeparture.army.mil/Journals/Infantry/Infantry-Archive/Summer-2026/Not-for-the-Timid-or/)
 
+
+[_S1D_IW_GRDH_1SDV_20260725T110549_20260725T110618_003829_006E5C_F17C_](https://search.asf.alaska.edu/#/?zoom=6.960&center=-79.901,6.464&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=S1D_IW_GRDH_1SDV_20260725T110549_20260725T110618_003829_006E5C_F17C-GRD_HD&dataset=SENTINEL-1)
+<img alt="image" src="https://github.com/user-attachments/assets/5ad802ff-cc1a-47d6-aacf-e169587a37af" />
+@dhs-gov @Commercegov @nasa-pds @nasa-jpl plz fwd to [@deptofdefense @smithsonian @asfadmin](https://stri.si.edu/story/panamas-forests-nasas-radar)
+<img  alt="image" src="https://github.com/user-attachments/assets/24196f21-08dd-42ae-bed0-7cdb72e532c6" />
+
 @iSRO [@deptofwar @whitehouse NISAR_L1_PR_RSLC_025_040_D_084_4005_DHDH_A_20260710T234445_20260710T234519 @asfadmin ](https://search.asf.alaska.edu/#/?zoom=7.627&center=-79.884,7.248&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=NISAR_L1_PR_RSLC_025_040_D_084_4005_DHDH_A_20260710T234445_20260710T234519_P05023_N_F_J_001)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/6d26fa7d-85f0-4359-987a-009e608c5541" />
