@@ -4,11 +4,11 @@ layout: default
 
 ## Electric Shock Gloves For ICE?
 [Tiffany Haddish](https://x.com/TiffanyHaddish?lang=en) Cracking Jokes in Court 
-[HOT 97](https://www.hot97.com/) News 8.12.26
+[HOT 97](https://www.hot97.com/) News 8.12.26 [DeepSpacceNetworkMON](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/224c0515-3729-483b-8ab2-6b19d72ff4bb" />
 
 _ice.gov/ @NASAJPL youthink @lanajharris know what she talking about today ? @ICEgov are you guys using shock gloves @wwwICEgov thats usually privaete companies @itsgavinnewsom do ppl actualy know what n ice agent looks like ? @nasa-pds bolden said us goverment... thus #ChristmasElvs @CBSLA_ [WATCH - youtu.be/WF7Zj1XYg78?si=0X_Urzggc6fU1HsM](https://youtu.be/WF7Zj1XYg78?si=0X_Urzggc6fU1HsM)
-@UWCHR - @NASA @Whitehouse @fbicyber @cityoflosangeles @stateofcalifornia
+@UWCHR - @NASA @Whitehouse @fbicyber @cityoflosangeles @stateofcalifornia [DeepSpacceNetworkMON](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 @nasa-jpl Madrid still quiet but one dish is reciving data from [Lucy](https://whereislucy.space/) now on [the new dish](https://www.jpl.nasa.gov/images/pia25137-the-deep-space-networks-new-dss-53-at-night/) [DSS_53](https://www.nasa.gov/centers-and-facilities/jpl/nasa-adds-giant-new-dish-to-communicate-with-deep-space-missions/) @nasa-pds [Lucy - lucy.swri.edu/](https://lucy.swri.edu/) // [Lucy mission trajectory](https://svs.gsfc.nasa.gov/4719/) // [@LMCO - lockheedmartin.com/en-us/products/lucy.html](https://www.lockheedmartin.com/en-us/products/lucy.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/837c9f28-2379-4726-8490-fb53f7eaf458" />
 
