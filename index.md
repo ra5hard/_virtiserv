@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw)
+[Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw) // [Normani - Tantrums](https://youtu.be/HVsfFadjnzs)
 
 # Secretary Hegseth FULL PRESS GAGGLE at the Jungle Operations Training Course in Panama.
 @deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
@@ -10,6 +10,7 @@ Aug. 13, 2026 // [Afghanistan, Colombia, Yemen & other topics - Daily Press Brie
 [@Howard-university-web-services youtube.com/shorts/LJ4HkRGbXVc?feature=share](https://www.youtube.com/shorts/LJ4HkRGbXVc?feature=share)
 <img  alt="image" src="https://github.com/user-attachments/assets/42f0151d-5963-4206-954f-50d94466b55a" />
 
+@repkarenbass @chloebaileywashere  supa real she was working in losangeles @CountyofLosAngelesNewsroom so she had presentation.... @chloebaileywashere are you angry i work on the recovery team like be nice @nasa-pds need me to have more screentime @normani @blackgirlscode
 [@whitehouse @nasa-jpl search.asf.alaska.edu/#/?zoom=7.627&center=-79.884,7.248&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=NISAR_L2_PR_GSLC_027_148_A_005_2005_DHDH_M_20260811T104723_20260811T104757_P05023_N_F_J_001](https://search.asf.alaska.edu/#/?zoom=7.627&center=-79.884,7.248&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=NISAR_L2_PR_GSLC_027_148_A_005_2005_DHDH_M_20260811T104723_20260811T104757_P05023_N_F_J_001)
 
 <img alt="image @asfadmin @nasa-jpl @deptofwar @usnavy" src="https://github.com/user-attachments/assets/07ac44e0-2516-4535-9a6f-43b4881bc33d" />
