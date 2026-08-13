@@ -3,6 +3,13 @@ layout: default
 ---
 
 
+@disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img  alt="image" src="https://github.com/user-attachments/assets/8e28ae20-9fc3-4240-a157-5d2e86dcbfb3" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/976e97e0-a3ff-4d6f-ad46-75d4971ed0f9" />
+
+
 ![https://githubuniverse.com/nav-logo-26.webp](https://githubuniverse.com/nav-logo-26.webp)
 @nasa-jpl @nasa-pds do i still have to wait on people to have sex to get paid? @CityOflosangeles [@CityOfLosAngeles githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=db_ebsession_exp_uni26](https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=db_ebsession_exp_uni26)
 <img   alt="download" src="https://github.com/user-attachments/assets/30682d2c-0377-4ae8-afcd-ce53e004cdb9" />
@@ -72,9 +79,9 @@ GPS Coordinates: +40° 25′ 47.33″, -4° 14′ 56.57″
 [ @blackgirlscode @whitehouse @nasa-pds @nasa-giss @nasa-jpl](https://www.youtube.com/@HOT97ontv) @TheSpaceDevs @BlueOrigin hi -[Rashard `clickme` @CityOfLosAngeles _KarenBass_](https://virtiserv.github.io/rashardmro/lagroundwater)
 <img alt="image" src="https://github.com/user-attachments/assets/fc866976-d76f-4019-8d2c-5c240e0eeefb" />
 
-
+```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tz5tPqRRv1Y?si=gtjNQuCVdUMqERtr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+```
 [Drift · Bonobo](https://youtu.be/LHZ8OD8paIM?si=HmaVp2A3eDAgWkcP) // [Run The Jewels - Oh My Darling](https://youtu.be/G-S9mtYowPY) // [Infamous Date Rape · A Tribe Called Quest](https://youtu.be/8tchKEI4F5s?si=wlu3QU57SSRc1Iwo) // [Cold Gettin Dumb · Just-Ice](https://youtu.be/bqiZP-XY1mE?si=Xjs4nXjNrtwnGEN6) // [Stetsasonic - On Fire](https://youtu.be/S6BlHVw_b40) // [`Fearless Four` - Rockin´ it (1981)](https://youtu.be/XOHvOhADAic) // [Portishead - All Mine](https://youtu.be/FvFY2Stxlzc) // [Nr. 9 · Hooverphonic](https://youtu.be/tvHGZoe5MoY?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6) // [Breath From Another · Esthero](https://youtu.be/mFdGr5nh5tI?si=VWifk2nnAz6sqR9p) // [
 björk : human behaviour](https://youtu.be/p0mRIhK9seg) // [700 Mile Situation · Res](https://youtu.be/IdtZiuWZ5yU) // [Back to the Essence · Blackalicious](https://youtu.be/qKaBBX-wr-g?list=PL_3JV-ZJZcA5BykhBJuvu8BVlkUDZCgWP) //  [Coi Leray - Bops](https://youtu.be/TT0T3Y2VKGE?si=2o2N0e9-XiReFzfh) // [People Under the Stairs - Acid Raindrops](https://youtu.be/Dm6hcG5GT24?si=CYEFvAyLRabhbOAr) // [Kash Doll - KD Diary](https://youtu.be/25VCq8iHTVo) // [Kash Doll - No Lames ft. Summer Walker](https://youtu.be/VxXRkTkZL5w)
 
