@@ -3,8 +3,26 @@ layout: default
 ---
 
 @nasa-jpl
-[ArcGIS REST Services Directoryservices.arcgis.com/cJ9YHowT8TU7DUyn/ArcGIS/rest/services](https://services.arcgis.com/cJ9YHowT8TU7DUyn/ArcGIS/rest/services)
+@nasa-jpl Madrid still quiet but one dish is reciving data from [Lucy](https://whereislucy.space/) now on [the new dish](https://www.jpl.nasa.gov/images/pia25137-the-deep-space-networks-new-dss-53-at-night/) [DSS_53](https://www.nasa.gov/centers-and-facilities/jpl/nasa-adds-giant-new-dish-to-communicate-with-deep-space-missions/) @nasa-pds [Lucy - lucy.swri.edu/](https://lucy.swri.edu/) // [Lucy mission trajectory](https://svs.gsfc.nasa.gov/4719/) // [@LMCO - lockheedmartin.com/en-us/products/lucy.html](https://www.lockheedmartin.com/en-us/products/lucy.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/837c9f28-2379-4726-8490-fb53f7eaf458" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/37dd096f-82b1-49ce-8ce5-b2aba19fe91d" />
+### _Aug4_
+[eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @nasa-jpl Madrid still quiet and say testing . . . @blackgirlscode
+MADRID DEEP SPACE COMMUNICATIONS COMPLEX
+Phone: (+34) 918677000
+Visitor Centre Phone: (+34) 918677321 / (+34) 918677312
+
+Address:
+Carretera de Colmenar del Arroyo a Robledo de Chavela Km 7, M-531
+28294 Robledo de Chavela
+Madrid, España
+
+GPS Coordinates: +40° 25′ 47.33″, -4° 14′ 56.57″
+
+[Google Earth](https://earth.google.com/web/search/Madrid+Deep+Space+Communications+Complex+(MDSCC),+Madrid,+Spain/@40.42961307,-4.24493855,786.23964856a,1505.77483293d,35y,0h,0t,0r/data=Cq0BGn8SeQokMHhkNDFhZjAwNDZhODMyNjU6MHgzMjAyNmY4N2E0NGMzNTQ3GVJB6hs9N0RAIZds4R7w_RDAKj9NYWRyaWQgRGVlcCBTcGFjZSBDb21tdW5pY2F0aW9ucyBDb21wbGV4IChNRFNDQyksIE1hZHJpZCwgU3BhaW4YAiABIiYKJAnAuBvZIEVEQBHkZCELtTVEQBlfDH-JUFwQwCGzSuP04zgRwEICCAFCAggASg0I____________ARAA)
+[ArcGIS REST Services Directoryservices.arcgis.com/cJ9YHowT8TU7DUyn/ArcGIS/rest/services](https://services.arcgis.com/cJ9YHowT8TU7DUyn/ArcGIS/rest/services)
+
 
 # billy Jean Public Library
 [Homepage - longbeach.gov/library/locations/main-library](https://www.longbeach.gov/library/locations/main-library/) // [YELP](https://www.yelp.com/biz/billie-jean-king-main-library-long-beach) // [Wiki](https://en.wikipedia.org/wiki/Long_Beach_Public_Library) // [@youtube](https://www.youtube.com/@LongBeachPublicLib)
