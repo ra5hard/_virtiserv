@@ -4,8 +4,30 @@ layout: default
 [Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw) // [Normani - Tantrums](https://youtu.be/HVsfFadjnzs) // [Sonta - Your Mistake @CityOfLosAngeles _females_](https://youtu.be/6e2dTah8gAg?si=EcKazhPqhSi-kZia) // [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // [De La Soul - Ego Trippin](https://youtu.be/6hPGAWqanEQ) // [LEADERS OF THE NEW SCHOOL - Zone Coaster](https://youtu.be/VhsOMkNVOBE?si=elFFsKmbX7yCk2LQ) [rmx](https://www.youtube.com/watch?v=hM9uvGnwr1M) [rMx](https://youtu.be/gQ2ND5ppiOU) [vid](https://youtu.be/ocM3PnWZ8lI) // [Busta Rhymes -  Abandon Ship Featuring Rampage](https://youtu.be/5tQrI8yYDGA?list=PLbbAqYIJ9AMUleE9EYvUR5f3toK_10Ouy) //  [Busta Rhymes - Everything Remains Raw](https://youtu.be/i60rqT3SRME?list=PLbbAqYIJ9AMUleE9EYvUR5f3toK_10Ouy) // [Leaders Of The New School - Sobb Story 🔥🔥🔥 ](https://youtu.be/wZdMbdWX0IA) // [ __LEADERS OF THE NEW SCHOOL_ -_PTA🔥](https://youtu.be/M_J55T0bG9U?si=k8WTatexo515o_9V) // [A Tribe Called Quest - Scenario](https://youtu.be/Q6TLWqn82J4) // [Buddy (Native Tongue Decision) ](https://youtu.be/z8mfaAodcXU) // [KMD - Peachfuzz](https://youtu.be/3mHBiu_JOOw) // [3rd Bass - The Gas Face](https://youtu.be/QYp28tEAVvs) // [M.C. Hammer - Pump It Up](https://youtu.be/-Xp72g5rOuo?si=rcFT8w6wCn_BFEL5) // [Oaktown's 3-5-7 "Yeah Yeah Yeah"](https://youtu.be/crCxvVb9Mds) // [Apple pIe - (Virgo)](https://youtu.be/ujvaZjyG1k8) // [Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY) // [Let It Burn · Playa Poncho](https://youtu.be/WbFF--mqlHw) // [DJ Smurf "Ooh Lawd"](https://youtu.be/qUAy1iJogAs?list=RDEMF9SQcNcu_2TQdqbrDJfU9A)
 
 
-# panama @deptofwar
-@cbs-news-data @disney whatever [LanaJHarris]() is she is working [El Ninio]() on her show and this is a educational worksjhop she can use [On Nasa's Worldview App](https://worldview.earthdata.nasa.gov/?v=-84.97346707010053,5.233554453209949,-76.54611863960068,10.867702412410983&as=2026-08-02-T00%3A00%3A00Z&ae=2026-08-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&ab=on&t=2026-08-12-T00%3A00%3A00Z) // 
+
+# Zoning Review Board Meeting 
+@foratlanta [youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/24s_w9SEA7E?si=LDsU1bvf8XglUlSl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img  alt="imag @foratlanta  e" src="https://github.com/user-attachments/assets/280ea2a0-7307-41b2-a058-6ae01b279494" />
+
+![https://www.atlantaga.gov/home/showpublishedimage/24922/639086558283030000](https://www.atlantaga.gov/home/showpublishedimage/24922/639086558283030000) 
+
+# The Midwest Storm Crisis and California Wildfire Merge
+[WATCH - https://youtu.be/6gSTa5FYLUs?si=xN5XbBu-AycOYi6T](https://youtu.be/6gSTa5FYLUs?si=xN5XbBu-AycOYi6T)
+<img  alt="image" src="https://github.com/user-attachments/assets/20a0f236-33a3-4f57-a647-215f480aa400" />
+[firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-53.2,19.3,3.5z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-53.2,19.3,3.5z)
+<img   alt="image" src="https://github.com/user-attachments/assets/26b107dc-46e1-411a-80e0-908abfa95634" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/93061ad9-903e-48aa-893a-57c105663c27" />
+
+
+
+
+# panama @deptofwar @howard-university-web-services 
+[https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z)
+<img  alt="FIRMS_24hrs,24hrs @-78 9,7 5,7 6z" src="https://github.com/user-attachments/assets/6e2d56d5-c1a2-456f-b1bb-591309cc7b2b" />
+
+@cbs-news-data @disney whatever [LanaJHarris](https://www.everyjoe.com/persons/h/lana-harris/ca/) is she is working [El Ninio](https://svs.gsfc.nasa.gov/31399/) on her show and this is a educational worksjhop she can use [On Nasa's Worldview App](https://worldview.earthdata.nasa.gov/?v=-84.97346707010053,5.233554453209949,-76.54611863960068,10.867702412410983&as=2026-08-02-T00%3A00%3A00Z&ae=2026-08-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&ab=on&t=2026-08-12-T00%3A00%3A00Z) // 
 <img alt="nasa-worldview-2026 AUG 02-to-2026 AUG 12 (2)" src="https://github.com/user-attachments/assets/ddf4ecdb-906a-4470-b369-de52954d9436" />
 
 i have like an hour so imma make some maps 
