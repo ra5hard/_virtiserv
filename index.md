@@ -10,6 +10,13 @@ i have like an hyour so imma make some maps
 <img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
 [Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america)
 
+#### _Welcome to the Jungle Operations Training Center in Panama._
+[militarynews.com/multimedia/videos/welcome-to-the-jungle-operations-training-center-in-panama/video_aff35cb1-614f-5785-b8d1-96a6461f5813.html](https://www.militarynews.com/multimedia/videos/welcome-to-the-jungle-operations-training-center-in-panama/video_aff35cb1-614f-5785-b8d1-96a6461f5813.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/f19c838d-1d11-49b4-8194-83b6f88d1f70" />
+
+
+![https://bloximages.chicago2.vip.townnews.com/militarynews.com/content/tncms/custom/image/0a4ed3a8-444f-11e6-bc9d-77e80bb8112d.png?resize=400%2C128](https://bloximages.chicago2.vip.townnews.com/militarynews.com/content/tncms/custom/image/0a4ed3a8-444f-11e6-bc9d-77e80bb8112d.png?resize=400%2C128)
+
 # Secretary Hegseth FULL PRESS GAGGLE at the Jungle Operations Training Course in Panama.
 @deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
 @blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @eosdis-nasa [WAR.GOV @deptofwar - Secretary of War Pete Hegseth Holds a Press Availability at the Jungle Operations Training Course in Panama](https://www.war.gov/News/Transcripts/Transcript/Article/4573167/secretary-of-war-pete-hegseth-holds-a-press-availability-at-the-jungle-operatio/)
