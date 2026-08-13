@@ -7,6 +7,9 @@ layout: default
 [search.earthdata.nasa.gov/search?lat=33.768871689270675&long=-118.19469933186214&zoom=20](https://search.earthdata.nasa.gov/search?lat=33.768871689270675&long=-118.19469933186214&zoom=20)
 <img   alt="image solar power @usepa @nasa-jpl i personally think that my issues with being tased and evenmy tooth being knocked out came from this solar array... I think weapons work in here that work no were else @la-county-isd @longbeachinnovationteam @blackgirlscode @hulu @cbs-news-data @bbc @nasa-pds" src="https://github.com/user-attachments/assets/05995fc6-ca7b-46a1-b691-fcbb9dc7ea20" />
 
+[@La-county-isd @lacountyDPH @CityOfLosnangeles @NASA-PDS search.earthdata.nasa.gov/search?lat=33.76886114011861&long=-118.19490406591848&zoom=20.666666666666664](https://search.earthdata.nasa.gov/search?lat=33.76886114011861&long=-118.19490406591848&zoom=20.666666666666664)
+<img alt="image" src="https://github.com/user-attachments/assets/7bd62167-62d1-4d7f-a90c-dd6f19ad5eb2" />
+
 
 [ @blackgirlscode @whitehouse @nasa-pds @nasa-giss @nasa-jpl](https://www.youtube.com/@HOT97ontv) @TheSpaceDevs @BlueOrigin hi -[Rashard `clickme` @CityOfLosAngeles _KarenBass_](https://virtiserv.github.io/rashardmro/lagroundwater)
 <img alt="image" src="https://github.com/user-attachments/assets/fc866976-d76f-4019-8d2c-5c240e0eeefb" />
