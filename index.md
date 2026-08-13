@@ -8,7 +8,7 @@ layout: default
 i have like an hyour so imma make some maps 
 [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // @blackgirlscode [Busta Rhymes - The Coming](https://youtu.be/d5SSAIrhCXY?list=RDd5SSAIrhCXY)
 <img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
-[Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america)
+[Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america) // [How Panama's Crucible is Yet Again Testing Soldiers' Mettle - lineofdeparture.army.mil](https://www.lineofdeparture.army.mil/Journals/Infantry/Infantry-Archive/Summer-2026/Not-for-the-Timid-or/)
 
 
 #### _Welcome to the Jungle Operations Training Center in Panama._
