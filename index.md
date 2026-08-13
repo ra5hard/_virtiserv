@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw) // [Normani - Tantrums](https://youtu.be/HVsfFadjnzs) // [Sonta - Your Mistake @CityOfLosAngeles _females_](https://youtu.be/6e2dTah8gAg?si=EcKazhPqhSi-kZia) // [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz)
+[Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw) // [Normani - Tantrums](https://youtu.be/HVsfFadjnzs) // [Sonta - Your Mistake @CityOfLosAngeles _females_](https://youtu.be/6e2dTah8gAg?si=EcKazhPqhSi-kZia) // [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E)
 
 
 # panama @deptofwar
