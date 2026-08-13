@@ -7,6 +7,7 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/837c9f28-2379-4726-8490-fb53f7eaf458" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/37dd096f-82b1-49ce-8ce5-b2aba19fe91d" />
+
 ### _Aug4_
 [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @nasa-jpl Madrid still quiet and say testing . . . @blackgirlscode
 MADRID DEEP SPACE COMMUNICATIONS COMPLEX
