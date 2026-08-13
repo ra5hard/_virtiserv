@@ -3,6 +3,11 @@ layout: default
 ---
 
 
+# Secretary Hegseth FULL PRESS GAGGLE at the Jungle Operations Training Course in Panama.
+@deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - https://youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
+@blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles 
+<img  alt="image" src="https://github.com/user-attachments/assets/895932f7-371c-4300-9898-1d6cbf56e5a9" />
+
 # Orel Hershiser Walk of Fame Ceremony
 _Join us as [Orel Hershiser](https://en.wikipedia.org/wiki/Talk:Orel_Hershiser) is honored with a star on the [Hollywood Walk of Fame](https://walkoffame.com/)._ @nbcnews @latimes @datadesk @usatoday @newshour @thegaurdian @washingtonpost @bbc
 [WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame](https://www.youtube.com/@HwdWalkofFame)
