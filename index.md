@@ -9,6 +9,9 @@ layout: default
 Aug. 13, 2026 // [Afghanistan, Colombia, Yemen & other topics - Daily Press Briefing (13 August 2026 @Cityoflosangeles )](https://youtu.be/A1FwN6dqWuA)
 [@Howard-university-web-services youtube.com/shorts/LJ4HkRGbXVc?feature=share](https://www.youtube.com/shorts/LJ4HkRGbXVc?feature=share)
 <img  alt="image" src="https://github.com/user-attachments/assets/42f0151d-5963-4206-954f-50d94466b55a" />
+
+[@whitehouse @nasa-jpl search.asf.alaska.edu/#/?zoom=7.627&center=-79.884,7.248&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=NISAR_L2_PR_GSLC_027_148_A_005_2005_DHDH_M_20260811T104723_20260811T104757_P05023_N_F_J_001](https://search.asf.alaska.edu/#/?zoom=7.627&center=-79.884,7.248&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=NISAR_L2_PR_GSLC_027_148_A_005_2005_DHDH_M_20260811T104723_20260811T104757_P05023_N_F_J_001)
+
 <img alt="image @asfadmin @nasa-jpl @deptofwar @usnavy" src="https://github.com/user-attachments/assets/07ac44e0-2516-4535-9a6f-43b4881bc33d" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cee7d4bd-a07d-4e3d-a40e-5ea2632583ab" />
