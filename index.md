@@ -2,13 +2,26 @@
 layout: default
 ---
 
+
+# Orel Hershiser Walk of Fame Ceremony
 [WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame](https://www.youtube.com/@HwdWalkofFame)
+[_LA County Close Up Episode 295_@blackgirlscode](https://youtu.be/mLp6T7qc5MM)
+<img  alt="image" src="https://github.com/user-attachments/assets/5542a243-38ee-4f29-9f1e-9bbc80e3abb0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3a00270b-b20d-4dc6-a75b-592e05928f74" />
+<img alt="image" src="https://github.com/user-attachments/assets/9634f147-3ba6-43d4-b507-9aa0eca762df" />
+<img  alt="image" src="https://github.com/user-attachments/assets/8fd2424f-3ebf-4c93-93e6-c6e2a6e9d5e6" />
+<img  alt="image" src="https://github.com/user-attachments/assets/94c8cb03-0fbf-470d-8497-bee101bbaa26" />
+
+
+
 @disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/8e28ae20-9fc3-4240-a157-5d2e86dcbfb3" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/976e97e0-a3ff-4d6f-ad46-75d4971ed0f9" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/c4c1d120-d7b3-4950-8e38-a0ade02e5dbd" />
 
 ![https://githubuniverse.com/nav-logo-26.webp](https://githubuniverse.com/nav-logo-26.webp)
 @nasa-jpl @nasa-pds do i still have to wait on people to have sex to get paid? @CityOflosangeles [@CityOfLosAngeles githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=db_ebsession_exp_uni26](https://githubuniverse.com/?utm_source=github&utm_medium=banner&utm_campaign=db_ebsession_exp_uni26)
