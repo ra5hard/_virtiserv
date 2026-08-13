@@ -10,10 +10,12 @@ i have like an hyour so imma make some maps
 <img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
 [Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america)
 
+
 #### _Welcome to the Jungle Operations Training Center in Panama._
 [militarynews.com/multimedia/videos/welcome-to-the-jungle-operations-training-center-in-panama/video_aff35cb1-614f-5785-b8d1-96a6461f5813.html](https://www.militarynews.com/multimedia/videos/welcome-to-the-jungle-operations-training-center-in-panama/video_aff35cb1-614f-5785-b8d1-96a6461f5813.html)
 <img   alt="image" src="https://github.com/user-attachments/assets/f19c838d-1d11-49b4-8194-83b6f88d1f70" />
 
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1752448919276753%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ![https://bloximages.chicago2.vip.townnews.com/militarynews.com/content/tncms/custom/image/0a4ed3a8-444f-11e6-bc9d-77e80bb8112d.png?resize=400%2C128](https://bloximages.chicago2.vip.townnews.com/militarynews.com/content/tncms/custom/image/0a4ed3a8-444f-11e6-bc9d-77e80bb8112d.png?resize=400%2C128)
 
