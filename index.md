@@ -5,10 +5,12 @@ layout: default
 
 
 # panama @deptofwar
-i have like an hyour so imma make some maps 
+i have like an hour so imma make some maps 
 [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // @blackgirlscode [Busta Rhymes - The Coming](https://youtu.be/d5SSAIrhCXY?list=RDd5SSAIrhCXY)
 <img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
-[Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america) // [How Panama's Crucible is Yet Again Testing Soldiers' Mettle - lineofdeparture.army.mil](https://www.lineofdeparture.army.mil/Journals/Infantry/Infantry-Archive/Summer-2026/Not-for-the-Timid-or/) @iSRO [NISAR_L1_PR_RSLC_025_040_D_084_4005_DHDH_A_20260710T234445_20260710T234519 @asfadmin ](https://search.asf.alaska.edu/#/?zoom=7.627&center=-79.884,7.248&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=NISAR_L1_PR_RSLC_025_040_D_084_4005_DHDH_A_20260710T234445_20260710T234519_P05023_N_F_J_001)
+[Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america) // [How Panama's Crucible is Yet Again Testing Soldiers' Mettle - lineofdeparture.army.mil](https://www.lineofdeparture.army.mil/Journals/Infantry/Infantry-Archive/Summer-2026/Not-for-the-Timid-or/)
+
+@iSRO [@deptofwar @whitehouse NISAR_L1_PR_RSLC_025_040_D_084_4005_DHDH_A_20260710T234445_20260710T234519 @asfadmin ](https://search.asf.alaska.edu/#/?zoom=7.627&center=-79.884,7.248&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=NISAR_L1_PR_RSLC_025_040_D_084_4005_DHDH_A_20260710T234445_20260710T234519_P05023_N_F_J_001)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/6d26fa7d-85f0-4359-987a-009e608c5541" />
 
