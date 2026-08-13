@@ -5,12 +5,12 @@ layout: default
 
 # Secretary Hegseth FULL PRESS GAGGLE at the Jungle Operations Training Course in Panama.
 @deptofwar @nasa-jpl @nasa-pds @usnavy [WATCH - https://youtu.be/er0hPQD7mG0](https://youtu.be/er0hPQD7mG0)
-@blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles 
+@blackgirlscode @howard-university-web-services @la-county-isd @cityoflosangeles @eosdis-nasa
 <img  alt="image" src="https://github.com/user-attachments/assets/895932f7-371c-4300-9898-1d6cbf56e5a9" />
 
-# Orel Hershiser Walk of Fame Ceremony
+# Orel Hershiser Walk of Fame Ceremony 
 _Join us as [Orel Hershiser](https://en.wikipedia.org/wiki/Talk:Orel_Hershiser) is honored with a star on the [Hollywood Walk of Fame](https://walkoffame.com/)._ @nbcnews @latimes @datadesk @usatoday @newshour @thegaurdian @washingtonpost @bbc
-[WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame](https://www.youtube.com/@HwdWalkofFame)
+[WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame @eosdis-nasa](https://www.youtube.com/@HwdWalkofFame)
 [_LA County Close Up Episode 295_@blackgirlscode](https://youtu.be/mLp6T7qc5MM)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
