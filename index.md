@@ -6,7 +6,7 @@ layout: default
 
 # panama @deptofwar
 i have like an hour so imma make some maps 
-@emit-sds im messeging you because i know you look at shit!!!! panama no coverage @asfadmin of [Panama City]() under Opera
+@emit-sds im messeging you because i know you look at shit!!!! panama no coverage @asfadmin of [Panama City](https://pa.usembassy.gov/) under Opera
 NASA/JPL/OPERA. (2025). <i>OPERA Surface Displacement from Sentinel-1 validated product (Version 1)</i> [Dataset]. NASA Alaska Satellite Facility Distributed Active Archive Center. https://doi.org/10.5067/SNWG/OPL3DISPS1-V1 Date Accessed: 2026-08-13 [github.com/nasa/opera-sds-int](https://github.com/nasa/opera-sds-int)
 
 ![https://pa.usembassy.gov/wp-content/uploads/sites/10/2021/02/pa-seal.png](https://pa.usembassy.gov/wp-content/uploads/sites/10/2021/02/pa-seal.png)
