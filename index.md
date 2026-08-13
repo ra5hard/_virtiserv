@@ -4,8 +4,11 @@ layout: default
 
 
 # Orel Hershiser Walk of Fame Ceremony
+_Join us as Orel Hershiser is honored with a star on the Hollywood Walk of Fame._ @nbcnews
 [WATCH - @hulu @cityoflosangeles @nasa-jpl youtube.com/@HwdWalkofFame](https://www.youtube.com/@HwdWalkofFame)
 [_LA County Close Up Episode 295_@blackgirlscode](https://youtu.be/mLp6T7qc5MM)
+@disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/5542a243-38ee-4f29-9f1e-9bbc80e3abb0" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/3a00270b-b20d-4dc6-a75b-592e05928f74" />
@@ -13,10 +16,10 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/8fd2424f-3ebf-4c93-93e6-c6e2a6e9d5e6" />
 <img  alt="image" src="https://github.com/user-attachments/assets/94c8cb03-0fbf-470d-8497-bee101bbaa26" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/9e0abba8-1ace-4c1b-bf91-c30276b1404b" />
 
 
-@disney @nfl @nasa-jpl @nasa-pds @CityOflosangeles
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wAellecIXq4?si=3nfGcr7unEGx9QJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <img  alt="image" src="https://github.com/user-attachments/assets/8e28ae20-9fc3-4240-a157-5d2e86dcbfb3" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/976e97e0-a3ff-4d6f-ad46-75d4971ed0f9" />
