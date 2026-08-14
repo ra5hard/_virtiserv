@@ -17,6 +17,8 @@ layout: default
 NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.
 This image was acquired on Aug. 14, 2026 (Sol 1949) at the local mean solar time of 16:02:20.
 Image Credit: NASA/JPL-Caltech
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/ncam/NLF_1949_0839966080_758ECM_N0910000NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/ncam/NLF_1949_0839966080_758ECM_N0910000NCAM00501_01_295J01_1200.jpg)
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839975067_089EBY_N0910000SRLC00624_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839975067_089EBY_N0910000SRLC00624_0000LMJ01_1200.jpg)
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/fcam/FLF_1949_0839974809_570ECM_N0910000FHAZ00206_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/fcam/FLF_1949_0839974809_570ECM_N0910000FHAZ00206_01_295J01_1200.jpg)
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839974768_167EBY_N0910000SRLC02500_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839974768_167EBY_N0910000SRLC02500_0000LMJ01_1200.jpg)
