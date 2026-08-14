@@ -6,10 +6,14 @@ layout: default
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A143375291&color=%23abbf69&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djmekalek" title="djmekalek" target="_blank" style="color: #cccccc; text-decoration: none;">djmekalek</a> · <a href="https://soundcloud.com/djmekalek/time-machine-the-way-things-1" title="Time Machine - The Way Things Are" target="_blank" style="color: #cccccc; text-decoration: none;">Time Machine - The Way Things Are</a></div>
 
+
+
+
 # The Flock Camera Error That Gets Innocent People Arrested
 @motorolamobilityllc @deptofwar @flocksafety @dhs-gov @nasa-jpl
 [WATCH - `Lanna J Harris` youtu.be/UsRDOzkXUWs?si=EbVQiHn7O9rgfaGt](https://youtu.be/UsRDOzkXUWs?si=EbVQiHn7O9rgfaGt)
-[President Trump in Coachella, CA @nasa-jpl youtu.be/iwZRhJ0jfQI @esa get to know him](https://youtu.be/iwZRhJ0jfQI) @ESA the email is so misconfigured we have a nation of retards polluting shit, cockblocking and shit @CityOfLosAngeles @isro @doug-newman-nasa @howard-university-web-services @emergingCoders @blackgirlscode
+[President Trump in Coachella, CA @nasa-jpl youtu.be/iwZRhJ0jfQI @esa get to know him](https://youtu.be/iwZRhJ0jfQI) @ESA the email is so misconfigured we have a nation of retards polluting shit, cockblocking and shit @CityOfLosAngeles @isro @doug-newman-nasa @howard-university-web-services @emergingCoders @blackgirlscode [Time Machine - Slow Your Roll](https://youtu.be/ZiDb9lhcbAg?si=OCwqBhOPzPL9EOCO)
+
 # NS Records 
 
 | Domain Name | NS | TTL | 
