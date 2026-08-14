@@ -8,7 +8,7 @@ layout: default
 [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z)
 <img  alt="FIRMS_24hrs,24hrs @-78 9,7 5,7 6z" src="https://github.com/user-attachments/assets/6e2d56d5-c1a2-456f-b1bb-591309cc7b2b" />
 
-<img  alt="2026-08-11-00_00_2026-08-11-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/1270eb63-5b5d-46f6-a456-7b1f75c74e62" />
+<img  alt="2026-08-11-00_00_2026-08-11-23_59_Sentinel-2_L2A_Moisture_index @eu-cdse @deptofwar " src="https://github.com/user-attachments/assets/1270eb63-5b5d-46f6-a456-7b1f75c74e62" />
 
 @cbs-news-data @disney whatever [LanaJHarris](https://www.everyjoe.com/persons/h/lana-harris/ca/) is she is working [El Ninio](https://svs.gsfc.nasa.gov/31399/) on her show and this is a educational worksjhop she can use [On Nasa's Worldview App](https://worldview.earthdata.nasa.gov/?v=-84.97346707010053,5.233554453209949,-76.54611863960068,10.867702412410983&as=2026-08-02-T00%3A00%3A00Z&ae=2026-08-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&ab=on&t=2026-08-12-T00%3A00%3A00Z) // 
 <img alt="nasa-worldview-2026 AUG 02-to-2026 AUG 12 (2)" src="https://github.com/user-attachments/assets/ddf4ecdb-906a-4470-b369-de52954d9436" />
