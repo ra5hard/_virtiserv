@@ -11,6 +11,8 @@ NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON came
 This image was acquired on Aug. 14, 2026 (Sol 1949) at the local mean solar time of 16:02:20.
 Image Credit: NASA/JPL-Caltech
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839975067_089EBY_N0910000SRLC00624_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839975067_089EBY_N0910000SRLC00624_0000LMJ01_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/fcam/FLF_1949_0839974809_570ECM_N0910000FHAZ00206_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/fcam/FLF_1949_0839974809_570ECM_N0910000FHAZ00206_01_295J01_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839974768_167EBY_N0910000SRLC02500_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839974768_167EBY_N0910000SRLC02500_0000LMJ01_1200.jpg)
 
 # [ChatGPT](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-basics) Murder, [ICE](https://www.usa.gov/agencies/u-s-immigration-and-customs-enforcement) Set Up & [Billionaire Tax](https://yeson40.com/?gad_source=1&gad_campaignid=24117437929&gbraid=0AAAABC2lkj3vDByHPjnUHK0FZdSNSpcYd&gclid=Cj0KCQjw-frTBhCvARIsADv4XY4Bg_GNkjJoXzk1N9TLGK1LSCe3q4qNJuPVZbj48mGrBYefsquv4SQaAmkvEALw_wcB)
 _The Daily Drop [WATCH - youtube.com/watch?v=kyToT8z8sBw&t=120s](https://www.youtube.com/watch?v=kyToT8z8sBw&t=120s)_
