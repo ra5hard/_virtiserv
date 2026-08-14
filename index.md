@@ -2,6 +2,14 @@
 layout: default
 ---
 
+
+[DSCOVR EPIC Level 2 UV Aerosol Version 4](https://www.earthdata.nasa.gov/data/catalog/larc-cloud-dscovr-epic-l2-aer-04)
+[Data Release @nasa-jpl](https://www.earthdata.nasa.gov/data/alerts-outages/dscovr-epic-level-2-uv-aerosol-version-4-data-released)
+_Issued Aug. 11, 2026_
+![https://asdc.larc.nasa.gov/static/images/project_logos/dscovr.png](https://asdc.larc.nasa.gov/static/images/project_logos/dscovr.png)
+[2026-08-12 - epic.gsfc.nasa.gov/](https://epic.gsfc.nasa.gov/)
+![https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812111223.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812111223.jpg)
+
 # The Flock Camera Error That Gets Innocent People Arrested
 @motorolamobilityllc @deptofwar @flocksafety @dhs-gov @nasa-jpl
 [WATCH - `Lanna J Harris` youtu.be/UsRDOzkXUWs?si=EbVQiHn7O9rgfaGt](https://youtu.be/UsRDOzkXUWs?si=EbVQiHn7O9rgfaGt)
