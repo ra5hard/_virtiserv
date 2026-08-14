@@ -5,6 +5,11 @@ layout: default
 
 
 # panama @deptofwar @howard-university-web-services 
+
+[browser.dataspace.copernicus.eu/?zoom=9&lat=8.55522&lng=-78.51654&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2F%2BXiKM52pGp0i2oEuQvyMjy7yxcACULZSNdkeaeUyoUrESKWJthfb0SHsC7E2OUVHTr1DJCwihjuunIc8C778zZ1TVPaW1LFYciIL7KJLVGw0duVtFFe0V&datasetId=S2_L2A_CDAS&fromTime=2026-07-14T00%3A00%3A00.000Z&toTime=2026-07-14T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE @deptofdefense @smithsonian @asfadmin @eu-cdse @deptofwar ](https://browser.dataspace.copernicus.eu/?zoom=9&lat=8.55522&lng=-78.51654&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2F%2BXiKM52pGp0i2oEuQvyMjy7yxcACULZSNdkeaeUyoUrESKWJthfb0SHsC7E2OUVHTr1DJCwihjuunIc8C778zZ1TVPaW1LFYciIL7KJLVGw0duVtFFe0V&datasetId=S2_L2A_CDAS&fromTime=2026-07-14T00%3A00%3A00.000Z&toTime=2026-07-14T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img  alt="image  @eu-cdse @deptofwar " src="https://github.com/user-attachments/assets/868c8267-3b7a-499b-9055-320f0febe750" />
+
 [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z)
 <img  alt="FIRMS_24hrs,24hrs @-78 9,7 5,7 6z" src="https://github.com/user-attachments/assets/6e2d56d5-c1a2-456f-b1bb-591309cc7b2b" />
 
@@ -35,6 +40,7 @@ NASA/JPL/OPERA. (2025). <i>OPERA Surface Displacement from Sentinel-1 validated 
 # The Midwest Storm Crisis and California Wildfire Merge
 [WATCH - https://youtu.be/6gSTa5FYLUs?si=xN5XbBu-AycOYi6T](https://youtu.be/6gSTa5FYLUs?si=xN5XbBu-AycOYi6T)
 <img  alt="image" src="https://github.com/user-attachments/assets/20a0f236-33a3-4f57-a647-215f480aa400" />
+
 [firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-53.2,19.3,3.5z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-53.2,19.3,3.5z)
 <img   alt="image" src="https://github.com/user-attachments/assets/26b107dc-46e1-411a-80e0-908abfa95634" />
 
