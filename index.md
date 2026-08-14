@@ -6,6 +6,8 @@ layout: default
 
 ## HOT 97 News Live! 8/14/26
 [WATCH - @whitehouse @blackgirlscode @deptofwar youtu.be/t3x5NQ3Q1Y8](https://youtu.be/t3x5NQ3Q1Y8)
+<img   alt="Screenshot 2026-08-14 4 52 09 PM" src="https://github.com/user-attachments/assets/bc20bbf8-dd2f-4823-aa2b-4d2f7b837d9a" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/2940f8f7-1edc-4112-a546-bff82be8f334" />
 
 
