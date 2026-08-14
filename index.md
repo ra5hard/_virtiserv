@@ -4,6 +4,26 @@ layout: default
 [Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw) // [Normani - Tantrums](https://youtu.be/HVsfFadjnzs) // [Sonta - Your Mistake @CityOfLosAngeles _females_](https://youtu.be/6e2dTah8gAg?si=EcKazhPqhSi-kZia) // [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // [De La Soul - Ego Trippin](https://youtu.be/6hPGAWqanEQ) // [LEADERS OF THE NEW SCHOOL - Zone Coaster](https://youtu.be/VhsOMkNVOBE?si=elFFsKmbX7yCk2LQ) [rmx](https://www.youtube.com/watch?v=hM9uvGnwr1M) [rMx](https://youtu.be/gQ2ND5ppiOU) [vid](https://youtu.be/ocM3PnWZ8lI) // [Busta Rhymes -  Abandon Ship Featuring Rampage](https://youtu.be/5tQrI8yYDGA?list=PLbbAqYIJ9AMUleE9EYvUR5f3toK_10Ouy) //  [Busta Rhymes - Everything Remains Raw](https://youtu.be/i60rqT3SRME?list=PLbbAqYIJ9AMUleE9EYvUR5f3toK_10Ouy) // [Leaders Of The New School - Sobb Story 🔥🔥🔥 ](https://youtu.be/wZdMbdWX0IA) // [ __LEADERS OF THE NEW SCHOOL_ -_PTA🔥](https://youtu.be/M_J55T0bG9U?si=k8WTatexo515o_9V) // [A Tribe Called Quest - Scenario](https://youtu.be/Q6TLWqn82J4) // [Buddy (Native Tongue Decision) ](https://youtu.be/z8mfaAodcXU) // [KMD - Peachfuzz](https://youtu.be/3mHBiu_JOOw) // [3rd Bass - The Gas Face](https://youtu.be/QYp28tEAVvs) // [M.C. Hammer - Pump It Up](https://youtu.be/-Xp72g5rOuo?si=rcFT8w6wCn_BFEL5) // [Oaktown's 3-5-7 "Yeah Yeah Yeah"](https://youtu.be/crCxvVb9Mds) // [Apple pIe - (Virgo)](https://youtu.be/ujvaZjyG1k8) // [Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY) // [Let It Burn · Playa Poncho](https://youtu.be/WbFF--mqlHw) // [DJ Smurf "Ooh Lawd"](https://youtu.be/qUAy1iJogAs?list=RDEMF9SQcNcu_2TQdqbrDJfU9A)
 
 
+# panama @deptofwar @howard-university-web-services 
+[https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z)
+<img  alt="FIRMS_24hrs,24hrs @-78 9,7 5,7 6z" src="https://github.com/user-attachments/assets/6e2d56d5-c1a2-456f-b1bb-591309cc7b2b" />
+
+<img  alt="2026-08-11-00_00_2026-08-11-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/1270eb63-5b5d-46f6-a456-7b1f75c74e62" />
+
+@cbs-news-data @disney whatever [LanaJHarris](https://www.everyjoe.com/persons/h/lana-harris/ca/) is she is working [El Ninio](https://svs.gsfc.nasa.gov/31399/) on her show and this is a educational worksjhop she can use [On Nasa's Worldview App](https://worldview.earthdata.nasa.gov/?v=-84.97346707010053,5.233554453209949,-76.54611863960068,10.867702412410983&as=2026-08-02-T00%3A00%3A00Z&ae=2026-08-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&ab=on&t=2026-08-12-T00%3A00%3A00Z) // 
+<img alt="nasa-worldview-2026 AUG 02-to-2026 AUG 12 (2)" src="https://github.com/user-attachments/assets/ddf4ecdb-906a-4470-b369-de52954d9436" />
+
+i have like an hour so imma make some maps 
+@emit-sds im messeging you because i know you look at shit!!!! panama no coverage @asfadmin of [Panama City](https://pa.usembassy.gov/) under Opera
+NASA/JPL/OPERA. (2025). <i>OPERA Surface Displacement from Sentinel-1 validated product (Version 1)</i> [Dataset]. NASA Alaska Satellite Facility Distributed Active Archive Center. https://doi.org/10.5067/SNWG/OPL3DISPS1-V1 Date Accessed: 2026-08-13 [github.com/nasa/opera-sds-int](https://github.com/nasa/opera-sds-int)
+
+![https://pa.usembassy.gov/wp-content/uploads/sites/10/2021/02/pa-seal.png](https://pa.usembassy.gov/wp-content/uploads/sites/10/2021/02/pa-seal.png)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e1bd0891-a313-4889-941e-1fd20a12a943" />
+
+[Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // @blackgirlscode [Busta Rhymes - The Coming](https://youtu.be/d5SSAIrhCXY?list=RDd5SSAIrhCXY)
+<img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
+[Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america) // [How Panama's Crucible is Yet Again Testing Soldiers' Mettle - lineofdeparture.army.mil](https://www.lineofdeparture.army.mil/Journals/Infantry/Infantry-Archive/Summer-2026/Not-for-the-Timid-or/)
 
 # Zoning Review Board Meeting 
 @foratlanta [youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
@@ -23,24 +43,6 @@ layout: default
 
 
 
-# panama @deptofwar @howard-university-web-services 
-[https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,country-outline,viirs_crtc,earth;@-78.9,7.5,7.6z)
-<img  alt="FIRMS_24hrs,24hrs @-78 9,7 5,7 6z" src="https://github.com/user-attachments/assets/6e2d56d5-c1a2-456f-b1bb-591309cc7b2b" />
-
-@cbs-news-data @disney whatever [LanaJHarris](https://www.everyjoe.com/persons/h/lana-harris/ca/) is she is working [El Ninio](https://svs.gsfc.nasa.gov/31399/) on her show and this is a educational worksjhop she can use [On Nasa's Worldview App](https://worldview.earthdata.nasa.gov/?v=-84.97346707010053,5.233554453209949,-76.54611863960068,10.867702412410983&as=2026-08-02-T00%3A00%3A00Z&ae=2026-08-12-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&ab=on&t=2026-08-12-T00%3A00%3A00Z) // 
-<img alt="nasa-worldview-2026 AUG 02-to-2026 AUG 12 (2)" src="https://github.com/user-attachments/assets/ddf4ecdb-906a-4470-b369-de52954d9436" />
-
-i have like an hour so imma make some maps 
-@emit-sds im messeging you because i know you look at shit!!!! panama no coverage @asfadmin of [Panama City](https://pa.usembassy.gov/) under Opera
-NASA/JPL/OPERA. (2025). <i>OPERA Surface Displacement from Sentinel-1 validated product (Version 1)</i> [Dataset]. NASA Alaska Satellite Facility Distributed Active Archive Center. https://doi.org/10.5067/SNWG/OPL3DISPS1-V1 Date Accessed: 2026-08-13 [github.com/nasa/opera-sds-int](https://github.com/nasa/opera-sds-int)
-
-![https://pa.usembassy.gov/wp-content/uploads/sites/10/2021/02/pa-seal.png](https://pa.usembassy.gov/wp-content/uploads/sites/10/2021/02/pa-seal.png)
-
-<img alt="image" src="https://github.com/user-attachments/assets/e1bd0891-a313-4889-941e-1fd20a12a943" />
-
-[Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // @blackgirlscode [Busta Rhymes - The Coming](https://youtu.be/d5SSAIrhCXY?list=RDd5SSAIrhCXY)
-<img  alt="image" src="https://github.com/user-attachments/assets/6903efed-4930-4922-9c0f-95157a32f00e" />
-[Hegseth Touts Americas Counter Cartel Coalition During Panama Visit @aljazeera](https://www.war.gov/News/News-Stories/Article/Article/4572481/hegseth-touts-americas-counter-cartel-coalition-during-panama-visit/) // [Hegseth cautions that ICC may investigate US boat strikes in Latin America](https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america) // [How Panama's Crucible is Yet Again Testing Soldiers' Mettle - lineofdeparture.army.mil](https://www.lineofdeparture.army.mil/Journals/Infantry/Infantry-Archive/Summer-2026/Not-for-the-Timid-or/)
 
 
 [_S1D_IW_GRDH_1SDV_20260725T110549_20260725T110618_003829_006E5C_F17C_](https://search.asf.alaska.edu/#/?zoom=6.960&center=-79.901,6.464&polygon=POLYGON((-82.9029%206.3019,-76.8192%206.3019,-76.8192%2010.5346,-82.9029%2010.5346,-82.9029%206.3019))&resultsLoaded=true&granule=S1D_IW_GRDH_1SDV_20260725T110549_20260725T110618_003829_006E5C_F17C-GRD_HD&dataset=SENTINEL-1)
