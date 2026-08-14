@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot)
+[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ)
 
 
 # The Flock Camera Error That Gets Innocent People Arrested
