@@ -9,6 +9,8 @@ _Issued Aug. 11, 2026_
 ![https://asdc.larc.nasa.gov/static/images/project_logos/dscovr.png](https://asdc.larc.nasa.gov/static/images/project_logos/dscovr.png)
 [2026-08-12 - epic.gsfc.nasa.gov/](https://epic.gsfc.nasa.gov/)
 ![https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812111223.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812111223.jpg)
+@nasa-openscapes @doug-newman-nasa idk what this black spot is [link](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg)
+![https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg)
 
 # The Flock Camera Error That Gets Innocent People Arrested
 @motorolamobilityllc @deptofwar @flocksafety @dhs-gov @nasa-jpl
