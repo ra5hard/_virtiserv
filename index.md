@@ -801,6 +801,214 @@ NISAR_L2_PR_GSLC_026_041_D_066_2005_DHDH_M_20260723T011431_20260723T011506_P0502
 <img alt="image" src="https://github.com/user-attachments/assets/4b3a7de5-59b7-49b2-8512-611b072f312e" />
 
 
+![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA01551.width-1280.jpg Newly Deployed Sojourner RoverJune 22, 1999](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA01551.width-1280.jpg) 
+[Mission.CAT @nasa https://atmos.nmsu.edu/PDS/data/MROA_0001/CATALOG/MISSION.CAT](https://atmos.nmsu.edu/PDS/data/MROA_0001/CATALOG/MISSION.CAT) // [Water Presence Documented @nasa-pds](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mro%20mission%20sort%20water%20on%20mars.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/23b266f6-1c98-4dfa-83f8-4af9322ad655" />
+
+
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-09-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.23 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/f5564f36-8407-40e7-8721-e141dac6e01a" />
+
+
+  <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="425.2px" height="99.21px" viewBox="0 0 425.2 99.21" enable-background="new 0 0 425.2 99.21" xml:space="preserve" stroke="white" stroke-width=".5%">
+  <g>
+    <g>
+
+ <linearGradient id="bird_2_" gradientUnits="userSpaceOnUse" x1="3726.1963" y1="1102.499" x2="3726.1963" y2="1085.1249" gradientTransform="matrix(4.262 0 0 -4.262 -15526.0078 4711.7021)">
+        <stop  offset="0.3006" style="stop-color:#57C2EB"/>
+        <stop  offset="1" style="stop-color:#28B3E3"/>
+      </linearGradient>
+      <path id="bird_1_" fill="url(#bird_2_)" d="M301.279,66.168c6.994,6.469,24.949,12.588,39.561-1.734
+        c-2.627,0.41-4.82-0.088-6.486-1.736c-1.582-1.566-1.668-3.186-0.822-4.66c0.688-1.197,2.137-2.043,3.562-2.924
+        c-2.586,0.48-4.791,0.23-6.762-0.777c-2.645-1.352-5.217-2.775-5.938-5.709c1.617-1.701,3.416-3.223,7.309-2.65
+        c-3.662-1.223-6.943-2.816-9.318-5.207c-2.314-2.328-2.555-3.839-2.924-5.665c2.02-0.749,4.133-1.138,6.395-0.914
+        c-5.119-2.617-7.293-6.217-8.496-10.141c-0.363-1.185-0.428-2.314-0.275-3.472c20.74,7.829,30.453,13.454,35.814,18.73
+        c2.412-6.419,8.037-20.958,16.445-25.948c0.041,0.792-0.275,1.646-0.914,2.559c2.49-1.387,4.434-3.606,7.857-3.563
+        c-0.395,1.62-1.527,2.917-3.746,3.745c2.238-0.855,4.506-1.582,6.854-2.009c2.178-0.394,2.146,1.323,0.914,2.192
+        c-2.502,1.764-5.158,1.984-7.768,2.832c7.998,0.2,14.535,3.985,19.643,12.243c1.697,2.744,2.838,5.488,3.107,8.496
+        c3.412,0.959,6.807,1.154,10.232,0.549c0.939-0.166,1.814-0.342,2.65-0.73c-1.334,2-2.871,3.643-5.025,4.385
+        c-2.059,0.711-4.121,1.404-6.395,1.463c3.703,1.402,7.781,1.479,11.969,1.188c-5.121,4.93-9.041,4.811-12.975,4.75
+        c-1.725,7.283-5.25,14.547-12.699,21.197c-9.77,8.723-20.287,12.885-31.154,13.797c-10.189,0.854-20.037,0.736-30.791-4.295
+        C313.133,78.428,306.451,73.293,301.279,66.168L301.279,66.168z"/>
+      <g>
+        <g>
+          <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="261.0098" y1="18.1694" x2="261.0098" y2="85.3524">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_1_)" d="M261.033,57.682c-0.057,0.01-0.117,0.006-0.174,0.016l0.301-0.049
+            C261.113,57.656,261.08,57.676,261.033,57.682z"/>
+          <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="37.896" y1="18.1694" x2="37.896" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_2_)" d="M59.318,71.848c0,1.963-0.704,3.648-2.113,5.049C55.796,78.299,54.108,79,52.136,79H37.938
+            c-5.915,0-10.97-2.09-15.168-6.275c-4.199-4.184-6.296-9.221-6.296-15.117V28.933c0-2.021,0.699-3.718,2.097-5.095
+            c1.398-1.375,3.106-2.064,5.122-2.064c1.957,0,3.639,0.702,5.035,2.105c1.4,1.401,2.102,3.083,2.102,5.049v10.382h20.214
+            c1.835,0,3.407,0.65,4.719,1.953c1.311,1.299,1.964,2.859,1.964,4.68c0,1.818-0.653,3.38-1.959,4.681
+            c-1.306,1.299-2.875,1.952-4.702,1.952H30.829v5.025c0,1.971,0.688,3.645,2.071,5.025c1.381,1.377,3.058,2.066,5.031,2.066
+            h14.202c1.971,0,3.663,0.703,5.072,2.105S59.318,69.885,59.318,71.848z"/>
+          <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="208.0547" y1="18.1694" x2="208.0547" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_3_)" d="M225.602,71.848c0,1.963-0.705,3.648-2.113,5.049C222.08,78.299,220.393,79,218.42,79h-6.449
+            c-5.914,0-10.969-2.09-15.168-6.275c-4.198-4.184-6.294-9.221-6.294-15.117V28.933c0-2.021,0.698-3.718,2.097-5.095
+            c1.398-1.375,3.106-2.064,5.122-2.064c1.957,0,3.639,0.702,5.035,2.105c1.4,1.401,2.102,3.083,2.102,5.049v10.382h12.465
+            c1.834,0,3.406,0.652,4.717,1.953c1.312,1.299,1.965,2.859,1.965,4.68c0,1.818-0.652,3.38-1.959,4.681
+            c-1.305,1.299-2.875,1.95-4.701,1.95h-12.486v5.027c0,1.971,0.688,3.645,2.07,5.025c1.381,1.377,3.059,2.066,5.031,2.066h6.453
+            c1.969,0,3.662,0.703,5.07,2.105S225.602,69.885,225.602,71.848z"/>
+          <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="170.5181" y1="18.1694" x2="170.5181" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_4_)" d="M188.065,71.848c0,1.963-0.705,3.648-2.113,5.049c-1.408,1.402-3.096,2.104-5.068,2.104h-6.449
+            c-5.915,0-10.97-2.09-15.167-6.275c-4.198-4.184-6.295-9.221-6.295-15.117V28.933c0-2.021,0.699-3.718,2.097-5.095
+            c1.398-1.375,3.105-2.064,5.122-2.064c1.956,0,3.639,0.702,5.034,2.105c1.4,1.401,2.102,3.083,2.102,5.049v10.382h12.465
+            c1.835,0,3.407,0.652,4.717,1.953c1.312,1.299,1.965,2.859,1.965,4.68c0,1.818-0.652,3.38-1.959,4.681
+            c-1.305,1.299-2.875,1.95-4.701,1.95h-12.487v5.027c0,1.971,0.688,3.645,2.071,5.025c1.381,1.377,3.058,2.066,5.03,2.066h6.453
+            c1.97,0,3.663,0.703,5.071,2.105S188.065,69.885,188.065,71.848z"/>
+          <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="95.1538" y1="18.1689" x2="95.1538" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_5_)" d="M128.546,58.986c0,5.516-1.961,10.23-5.888,14.145C118.733,77.043,114.005,79,108.474,79
+            c-5.06,0-9.512-1.705-13.359-5.119C91.321,77.295,86.894,79,81.835,79c-5.53,0-10.261-1.957-14.188-5.869
+            c-3.925-3.914-5.887-8.629-5.887-14.145V45.008c0-1.893,0.657-3.479,1.976-4.766c1.313-1.289,2.895-1.932,4.736-1.932
+            c1.845,0,3.424,0.643,4.738,1.932c1.316,1.287,1.975,2.877,1.975,4.77v13.984c0,1.844,0.646,3.404,1.935,4.693
+            c1.292,1.289,2.861,1.93,4.705,1.93c1.792,0,3.333-0.641,4.624-1.93c1.291-1.289,1.935-2.85,1.935-4.693V45.09
+            c0-1.84,0.662-3.428,1.979-4.77c1.322-1.338,2.933-2.01,4.832-2.01c1.845,0,3.428,0.657,4.749,1.973
+            c1.321,1.312,1.98,2.891,1.98,4.729v13.984c0,1.844,0.646,3.404,1.937,4.693c1.289,1.289,2.833,1.93,4.623,1.93
+            c1.845,0,3.414-0.641,4.702-1.93c1.292-1.289,1.937-2.85,1.937-4.693V45.012c0-1.838,0.659-3.416,1.976-4.729
+            c1.315-1.316,2.896-1.973,4.736-1.973c1.844,0,3.425,0.657,4.739,1.969c1.316,1.312,1.974,2.889,1.974,4.729V58.986z"/>
+          <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="140.7593" y1="18.1694" x2="140.7593" y2="85.3524">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_6_)" d="M147.936,27.367c0,1.962-0.702,3.646-2.111,5.048c-1.408,1.402-3.096,2.105-5.064,2.105
+            c-1.973,0-3.66-0.703-5.069-2.105c-1.404-1.401-2.108-3.086-2.108-5.048c0-1.965,0.704-3.647,2.108-5.049
+            c1.409-1.404,3.097-2.104,5.069-2.104c1.969,0,3.657,0.7,5.064,2.104C147.234,23.719,147.936,25.402,147.936,27.367z"/>
+          <linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="140.7593" y1="18.1689" x2="140.7593" y2="85.3536">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_7_)" d="M147.936,71.84c0,1.967-0.702,3.652-2.111,5.055C144.417,78.299,142.729,79,140.76,79
+            c-1.973,0-3.66-0.701-5.069-2.105c-1.404-1.402-2.108-3.088-2.108-5.055V45.471c0-1.967,0.704-3.652,2.108-5.055
+            c1.409-1.404,3.097-2.106,5.069-2.106c1.969,0,3.657,0.702,5.064,2.106c1.409,1.402,2.111,3.088,2.111,5.055V71.84z"/>
+          <linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="292.7744" y1="18.168" x2="292.7744" y2="85.3534">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_8_)" d="M310.957,45.945c0,1.82-0.654,3.38-1.963,4.683c-1.307,1.299-2.875,1.95-4.703,1.95h-9.801
+            c-1.83,0-3.385,0.639-4.666,1.916c-1.283,1.275-1.92,2.826-1.92,4.652v13.209c0,1.822-0.652,3.389-1.957,4.689
+            c-1.307,1.307-2.871,1.955-4.699,1.955c-1.826,0-3.393-0.648-4.697-1.953c-1.307-1.301-1.959-2.863-1.959-4.688V59.156
+            c0-5.469,1.945-10.143,5.838-14.023c3.893-3.879,8.584-5.822,14.07-5.822h9.793c1.83,0,3.396,0.652,4.703,1.953
+            S310.957,44.125,310.957,45.945z"/>
+          <linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="248.8672" y1="18.1689" x2="248.8672" y2="85.3535">
+            <stop  offset="0.2699" style="stop-color:#57C3EC"/>
+            <stop  offset="1" style="stop-color:#28B3E3"/>
+          </linearGradient>
+          <path fill="url(#SVGID_9_)" d="M248.068,79c-5.648,0-10.971-2.146-15.17-6.438c-4.197-4.295-5.809-8.971-5.809-15.021
+            c0,0-0.41-19.241,21.35-19.241c17.025,0,22.207,11.959,22.207,17.864c0,4.693-2.146,6.359-7.033,6.359h-21.76
+            c0,0-0.787,4.979,9.125,4.979h12.418c3.176,0,5.748,2.574,5.748,5.75c0,3.174-2.572,5.748-5.748,5.748H248.068z M241.998,53.357
+            h14.287c0-4.695-7.105-4.695-7.105-4.695S241.998,48.662,241.998,53.357z"/>
+        </g>
+      </g>
+      
+   </g>
+
+  </g>
+  </svg>
+
+  ```xml
+  <?xml version="1.0" encoding="utf-8"?>
+ 
+  <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+```
+
+
+@CommerceGov @Whitehouse @fbiCyber @deptofwar @USnavy
+Trice [virtiserv.github.io/Twitters](https://virtiserv.github.io/twitters/)
+<img alt="image" src="https://github.com/user-attachments/assets/a87700f4-6073-4e67-88d3-023b98b5c3ba" />
+
+[https://codepen.io/thakarashard/pen/MWdrMBR](https://codepen.io/thakarashard/pen/MWdrMBR)
+
+<img alt="image" src="https://github.com/user-attachments/assets/09db8fea-b902-47e3-931e-1697db0a0c36" />
+
+[codepen.io/thakarashard/pen/RwzMYpE](https://codepen.io/thakarashard/pen/RwzMYpE)
+<img  alt="image" src="https://github.com/user-attachments/assets/34b5992b-69a5-4a49-b8af-f331182c2c51" />
+
+[codepen.io/thakarashard/pen/dyBmqNj](https://codepen.io/thakarashard/pen/dyBmqNj)
+<img alt="image" src="https://github.com/user-attachments/assets/614dd070-f15a-4073-9fa3-77ccebb04400" />
+
+@codepen @Nasdaq @commercegov
+Trice i created the account
+[codepen.io/editor/virtiserv/pen/019f9129-50f9-7825-96da-0099579d619e](https://codepen.io/editor/virtiserv/pen/019f9129-50f9-7825-96da-0099579d619e)
+
+<img src="https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg" src2="https://raw.githubusercontent.com/ricoThaka/twitters/master/assets/images/3654981510_8928d2d554_b.jpg" >
+
+```html
+<img src="https://live.staticflickr.com/3320/3654981510_8928d2d554_b.jpg" src2="https://raw.githubusercontent.com/ricoThaka/twitters/master/assets/images/3654981510_8928d2d554_b.jpg" >
+```
+
+
+## THE HEALTH EFFECTS OF
+# CoNDUCTED ENERGY WEAPONS
+[ @cityoflosangeles KARENBASS - HOLLYMitchell @la-county-isd prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/8d3b0c78-7e11-407c-bc6f-49a1b2fc27da" />
+
+[wclk.com/](https://www.wclk.com/)
+
+<iframe allow="autoplay" width="40%" height="200" src="https://www.iheart.com/live/wclk-919-fm-10717?embed=true" frameborder="0"></iframe>
+
+![https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png](https://npr.brightspotcdn.com/dims4/default/2cffe2e/2147483647/strip/true/crop/3000x2358+0+0/resize/306x240!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F83%2F2c%2F0ee4137b4cdeb27b669a27357e77%2Fjazz-wclk-clark-atlanta-university-03.png) 
+
+[ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.26/-13190911.79/4030173.40&layers=aqv_chla_20260805_sentinel:1.00:0.00:30.00:default @CityofSantaMonica](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.26/-13190911.79/4030173.40&layers=aqv_chla_20260805_sentinel:1.00:0.00:30.00:default) @doug-newman-nasa @asfadmin hi, the bridge to the Pier got demolished, the images have not been updated yet @emit-sds @blackgirlscode @nasa-jpl @usgs @podaac @howard-university-web-services @stateofcalifornia
+<img  alt="image" src="https://github.com/user-attachments/assets/7da85c6d-c1a1-46e7-bee2-d66645386d41" />
+
+[@emergingcoders bubblegumpop01.tumblr.com/post/792164405993521152/prd-oas-institution-detail-for-podaac](https://bubblegumpop01.tumblr.com/post/792164405993521152/prd-oas-institution-detail-for-podaac)
+<img alt="image" src="https://github.com/user-attachments/assets/ce0f0032-6375-4592-a1ec-390cf2d5c10f" />
+
+
+[WHAT TO EXPECT @CityofLosangeles - pacpark.com/santa-monica-pier-bridge-replacement-project/](https://pacpark.com/santa-monica-pier-bridge-replacement-project/)
+
+The Pier Bridge got torn down, [_SkateMEmories_]
+
+[Vintage Pier Work](https://calisphere.org/item/bfb3a0af510766766f0d9942931dfc5f/) // [The Santa Monica Pier has a surprisingly troubled past](https://www.krqe.com/destination-usa/the-santa-monica-pier-has-a-surprisingly-troubled-past/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a48ffa86-0011-4543-958e-5200697850dc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ac11ce4f-218b-46af-b656-f804e0275178" />
+
+[@la-county-isd @CityofSantaMonica](https://dnschecker.org/all-dns-records-of-domain.php?query=SantaMonica.gov&rtype=ALL&dns=google)
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
