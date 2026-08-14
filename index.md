@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI) // [The Smashing Pumpkins Mellon Collie and the `Infinite Sadness` Disk 1 Track 6](https://youtu.be/E7CtsE52NKw?si=cBFe2IEh6JeE8oTW)
+[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI) // [The Smashing Pumpkins Mellon Collie and the `Infinite Sadness` Disk 1 Track 6](https://youtu.be/E7CtsE52NKw?si=cBFe2IEh6JeE8oTW) // [Hooverphoneic - Barabas](https://youtu.be/SYaIakuWg-g?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6)
 
 # [ChatGPT](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-basics) Murder, [ICE](https://www.usa.gov/agencies/u-s-immigration-and-customs-enforcement) Set Up & [Billionaire Tax](https://yeson40.com/?gad_source=1&gad_campaignid=24117437929&gbraid=0AAAABC2lkj3vDByHPjnUHK0FZdSNSpcYd&gclid=Cj0KCQjw-frTBhCvARIsADv4XY4Bg_GNkjJoXzk1N9TLGK1LSCe3q4qNJuPVZbj48mGrBYefsquv4SQaAmkvEALw_wcB)
 _The Daily Drop [WATCH - youtube.com/watch?v=kyToT8z8sBw&t=120s](https://www.youtube.com/watch?v=kyToT8z8sBw&t=120s)_
@@ -18,7 +18,10 @@ _The Daily Drop [WATCH - youtube.com/watch?v=kyToT8z8sBw&t=120s](https://www.you
 @nasa-jpl @cityoflosangeles can someone forward this to [PanamaPeteHegseth @cbs-news-data @usatoday](https://www.southcom.mil/MEDIA/NEWS-ARTICLES/Article/4573743/southcom-mission-shifts-to-protecting-sovereignty-of-us-partner-nations/) ??? 
 [🗺️PAnama Resivoirs, settlements Thermal Anomolies Areosol Index @NOAAgov🗺️](https://worldview.earthdata.nasa.gov/?v=-89.73224177801501,2.76367768792345,-71.75449080308687,11.612101995895898&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_All,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA20_Aerosol_Type_Deep_Blue_Land_Ocean,VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-08-14-T21%3A17%3A59Z)
 [`https://go.nasa.gov/4qmZSvs` - MAP_LiNK @USNAVY @NASA-JPL @BLACkGiRLSCODE ](https://go.nasa.gov/4qmZSvs)
-<img  alt="image" src="https://github.com/user-attachments/assets/a0b0fa0e-e02c-4390-a160-b3dc6be4347d" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0f848588-cd80-4fb2-bd84-9f5b2a9b5bfa" />
+
 
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS). @nasa-openscapes @emit-sds
 ### wiki : United States invasion of Panama @whitehouse @deptofwar [TALK](https://en.wikipedia.org/wiki/Talk:United_States_invasion_of_Panama) // [Wiki](https://en.wikipedia.org/wiki/United_States_invasion_of_Panama)
