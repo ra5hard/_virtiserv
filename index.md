@@ -15,7 +15,7 @@ _The Daily Drop [WATCH - youtube.com/watch?v=kyToT8z8sBw&t=120s](https://www.you
 
 <img alt="image" src="https://github.com/user-attachments/assets/859d8b5b-7b8a-4f49-bfa8-b30bad2b620a" />
 
-@nasa-jpl @cityopflosangeles can someone forward this to [PanamaPete](https://www.southcom.mil/MEDIA/NEWS-ARTICLES/Article/4573743/southcom-mission-shifts-to-protecting-sovereignty-of-us-partner-nations/)
+@nasa-jpl @cityoflosangeles can someone forward this to [PanamaPeteHegseth @cbs-news-data @usatoday](https://www.southcom.mil/MEDIA/NEWS-ARTICLES/Article/4573743/southcom-mission-shifts-to-protecting-sovereignty-of-us-partner-nations/)
 [PAnaman Resivoirs, settlements Thermal Anomolies Areosol Index @NOAAgov](https://worldview.earthdata.nasa.gov/?v=-89.73224177801501,2.76367768792345,-71.75449080308687,11.612101995895898&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_All,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA20_Aerosol_Type_Deep_Blue_Land_Ocean,VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-08-14-T21%3A17%3A59Z)
 [`https://go.nasa.gov/4qmZSvs` - MAP_LiNK @USNAVY @NASA-JPL @BLACkGiRLSCODE ](https://go.nasa.gov/4qmZSvs)
 <img  alt="image" src="https://github.com/user-attachments/assets/a0b0fa0e-e02c-4390-a160-b3dc6be4347d" />
