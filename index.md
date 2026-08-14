@@ -2,6 +2,75 @@
 layout: default
 ---
 
+# The Flock Camera Error That Gets Innocent People Arrested
+@motorolamobilityllc @deptofwar @flocksafety @dhs-gov @nasa-jpl
+[WATCH - `Lanna J Harris` youtu.be/UsRDOzkXUWs?si=EbVQiHn7O9rgfaGt](https://youtu.be/UsRDOzkXUWs?si=EbVQiHn7O9rgfaGt)
+[President Trump in Coachella, CA @nasa-jpl youtu.be/iwZRhJ0jfQI @esa get to know him](https://youtu.be/iwZRhJ0jfQI) @ESA the email is so misconfigured we have a nation of retards polluting shit, cockblocking and shit @CityOfLosAngeles @isro @doug-newman-nasa @howard-university-web-services @emergingCoders @blackgirlscode
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| trumpcard.gov | houston.ns.cloudflare.com. | 21600 | 
+| trumpcard.gov | michelle.ns.cloudflare.com. | 21600 | 
+| ice.gov | raina.ns.cloudflare.com. | 21600 | 
+| ice.gov | max.ns.cloudflare.com. | 21600 | 
+| commerce.gov | cecelia.ns.cloudflare.com. | 21600 | 
+| commerce.gov | max.ns.cloudflare.com. | 21600 | 
+| whitehouse.gov | ernest.ns.cloudflare.com. | 21600 | 
+| whitehouse.gov | wally.ns.cloudflare.com. | 21600 | 
+
+![https://get.motorolasolutions.com/hubfs/download.svg](https://get.motorolasolutions.com/hubfs/download.svg)
+<img alt="image" src="https://github.com/user-attachments/assets/efa01ea6-efbc-4c87-ad41-32b9b0b8416d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/d23e4741-c34b-49cb-8253-0a7e8388d541" />
+_Google-Ai_
+
+```
+Flock cameras are automated license plate reading (ALPR) systems made by Flock Safety.
+ Placed near roads and intersections by cities or private groups,
+they photograph vehicle license plates, make, model, color,
+and unique features like bumper stickers.
+Law enforcement uses this data to track vehicles linked to crimes,
+though the network faces heavy criticism over privacy and misuse
+```
+
+[https://github.com/flocksafety](https://github.com/flocksafety)  //// [flocksafety.com/](https://www.flocksafety.com/)
+<img   alt="image" src="https://github.com/user-attachments/assets/e08d647d-98e7-4d8e-bef3-4bd4ac9da716" />
+[maps.deflock.org/?lat=33.7545&lng=-84.3898&zoom=11.00](https://maps.deflock.org/?lat=33.7545&lng=-84.3898&zoom=11.00)
+<img   alt="image" src="https://github.com/user-attachments/assets/a1549526-fbf5-48a7-9581-71052e09c638" />
+
+
+Flock cameras are automated license plate reading (ALPR) systems made by Flock Safety. Placed near roads and intersections by cities or private groups, they photograph vehicle license plates, make, model, color, and unique features like bumper stickers. Law enforcement uses this data to track vehicles linked to crimes, though the network faces heavy criticism over privacy and misuse. [1, 2, 3, 4, 5]  
+
+What Flock Cameras Do 
+
+• Capture details: Record license plates, vehicle make, color, body type, and distinct marks (like roof racks or damage). 
+• No facial recognition: The company states the tech focuses on cars and does not scan faces or use personal biometric data. 
+• Cloud database: Uploads captured images to a shared network accessible to local and regional law enforcement. [3, 4, 6, 7]  
+
+Privacy and Policy Controversies 
+
+• Mass surveillance concerns: Civil liberties groups like the ACLU argue that logging every passing vehicle builds an intrusive tracking network on ordinary citizens. 
+• Misuse by officials: Reports of individuals or law enforcement officers abusing the database to track personal acquaintances have led to tightened security protocols and shorter data retention limits (reduced to 7 days for new customers). 
+• Unauthorized placements: Some municipalities have reported or removed cameras installed on public or private property without local government contracts or consent. [9]  
+
+If you'd like to explore this further, let me know if you are looking for:Information on whether these cameras are in your local areaDetails on Flock's specific privacy and data retention rulesHow to petition local government regarding surveillance policies 
+AI responses may include mistakes.
+
+[1] https://www.youtube.com/watch?v=1rr1FQAYMC0
+[2] https://www.youtube.com/watch?v=15eQAnzgpks
+[3] https://deflock.org/
+[4] https://www.flocksafety.com/what-is-flock
+[5] https://www.aclu.org/news/privacy-technology/despite-new-updates-flocks-creepy-cameras-remain-major-civil-liberties-threat
+[6] https://www.flocksafety.com/blog/what-do-flock-cameras-actually-capture
+[7] https://www.wtap.com/2026/07/29/flock-leonardo-cameras-used-by-mid-ohio-valley-law-enforcement-track-vehicles-not-people/
+[8] https://www.washingtonpost.com/technology/2026/08/13/flock-unveils-changes-after-post-report-police-misuse-its-network/
+[9] https://www.youtube.com/watch?v=bTcoDN-nnUY
+
+
+
+
+
+
 
 
 ![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/01/esa_ambition_logo/23913305-1-eng-GB/ESA_Ambition_logo_pillars.jpg](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/01/esa_ambition_logo/23913305-1-eng-GB/ESA_Ambition_logo_pillars.jpg)
