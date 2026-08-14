@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI)
+[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI) // [The Smashing Pumpkins Mellon Collie and the `Infinite Sadness` Disk 1 Track 6](https://youtu.be/E7CtsE52NKw?si=cBFe2IEh6JeE8oTW)
 
 # [ChatGPT](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-basics) Murder, [ICE](https://www.usa.gov/agencies/u-s-immigration-and-customs-enforcement) Set Up & [Billionaire Tax](https://yeson40.com/?gad_source=1&gad_campaignid=24117437929&gbraid=0AAAABC2lkj3vDByHPjnUHK0FZdSNSpcYd&gclid=Cj0KCQjw-frTBhCvARIsADv4XY4Bg_GNkjJoXzk1N9TLGK1LSCe3q4qNJuPVZbj48mGrBYefsquv4SQaAmkvEALw_wcB)
 _The Daily Drop [WATCH - youtube.com/watch?v=kyToT8z8sBw&t=120s](https://www.youtube.com/watch?v=kyToT8z8sBw&t=120s)_
