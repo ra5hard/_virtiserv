@@ -2,15 +2,8 @@
 layout: default
 ---
 
+[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot)
 
-[DSCOVR EPIC Level 2 UV Aerosol Version 4](https://www.earthdata.nasa.gov/data/catalog/larc-cloud-dscovr-epic-l2-aer-04)
-[Data Release @nasa-jpl](https://www.earthdata.nasa.gov/data/alerts-outages/dscovr-epic-level-2-uv-aerosol-version-4-data-released)
-_Issued Aug. 11, 2026_
-![https://asdc.larc.nasa.gov/static/images/project_logos/dscovr.png](https://asdc.larc.nasa.gov/static/images/project_logos/dscovr.png)
-[2026-08-12 - epic.gsfc.nasa.gov/](https://epic.gsfc.nasa.gov/)
-![https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812111223.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812111223.jpg)
-@nasa-openscapes @doug-newman-nasa idk what this black spot is [link](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg)
-![https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg)
 
 # The Flock Camera Error That Gets Innocent People Arrested
 @motorolamobilityllc @deptofwar @flocksafety @dhs-gov @nasa-jpl
@@ -47,6 +40,20 @@ though the network faces heavy criticism over privacy and misuse
 <img   alt="image" src="https://github.com/user-attachments/assets/e08d647d-98e7-4d8e-bef3-4bd4ac9da716" />
 [maps.deflock.org/?lat=33.7545&lng=-84.3898&zoom=11.00](https://maps.deflock.org/?lat=33.7545&lng=-84.3898&zoom=11.00)
 <img   alt="image" src="https://github.com/user-attachments/assets/a1549526-fbf5-48a7-9581-71052e09c638" />
+---
+
+![https://asdc.larc.nasa.gov/static/images/project_logos/dscovr.png](https://asdc.larc.nasa.gov/static/images/project_logos/dscovr.png)
+[DSCOVR EPIC Level 2 UV Aerosol Version 4](https://www.earthdata.nasa.gov/data/catalog/larc-cloud-dscovr-epic-l2-aer-04)
+[Data Release @nasa-jpl](https://www.earthdata.nasa.gov/data/alerts-outages/dscovr-epic-level-2-uv-aerosol-version-4-data-released)
+_Issued Aug. 11, 2026_
+
+[2026-08-12 - epic.gsfc.nasa.gov/](https://epic.gsfc.nasa.gov/)
+![https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812111223.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812111223.jpg)
+@nasa-openscapes @doug-newman-nasa idk what this black spot is [link](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg)
+![https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg)
+
+[Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw) // [Normani - Tantrums](https://youtu.be/HVsfFadjnzs) // [Sonta - Your Mistake @CityOfLosAngeles _females_](https://youtu.be/6e2dTah8gAg?si=EcKazhPqhSi-kZia) // [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // [De La Soul - Ego Trippin](https://youtu.be/6hPGAWqanEQ) // [LEADERS OF THE NEW SCHOOL - Zone Coaster](https://youtu.be/VhsOMkNVOBE?si=elFFsKmbX7yCk2LQ) [rmx](https://www.youtube.com/watch?v=hM9uvGnwr1M) [rMx](https://youtu.be/gQ2ND5ppiOU) [vid](https://youtu.be/ocM3PnWZ8lI) // [Busta Rhymes -  Abandon Ship Featuring Rampage](https://youtu.be/5tQrI8yYDGA?list=PLbbAqYIJ9AMUleE9EYvUR5f3toK_10Ouy) //  [Busta Rhymes - Everything Remains Raw](https://youtu.be/i60rqT3SRME?list=PLbbAqYIJ9AMUleE9EYvUR5f3toK_10Ouy) // [Leaders Of The New School - Sobb Story 🔥🔥🔥 ](https://youtu.be/wZdMbdWX0IA) // [ __LEADERS OF THE NEW SCHOOL_ -_PTA🔥](https://youtu.be/M_J55T0bG9U?si=k8WTatexo515o_9V) // [A Tribe Called Quest - Scenario](https://youtu.be/Q6TLWqn82J4) // [Buddy (Native Tongue Decision) ](https://youtu.be/z8mfaAodcXU) // [KMD - Peachfuzz](https://youtu.be/3mHBiu_JOOw) // [3rd Bass - The Gas Face](https://youtu.be/QYp28tEAVvs) // [M.C. Hammer - Pump It Up](https://youtu.be/-Xp72g5rOuo?si=rcFT8w6wCn_BFEL5) // [Oaktown's 3-5-7 "Yeah Yeah Yeah"](https://youtu.be/crCxvVb9Mds) // [Apple pIe - (Virgo)](https://youtu.be/ujvaZjyG1k8) // [Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY) // [Let It Burn · Playa Poncho](https://youtu.be/WbFF--mqlHw) // [DJ Smurf "Ooh Lawd"](https://youtu.be/qUAy1iJogAs?list=RDEMF9SQcNcu_2TQdqbrDJfU9A) // [ERiC Burton & WAR - LOVE iS ALL AROUND](https://youtu.be/2Y9IR6yG6QM?si=ulyXu6q00WaxXkkS) // [Rolling Stones - Brown Sugar](https://youtu.be/2Nf90YKfQXA?si=V-SyJnDoQ38sMfY0)
+
 
 
 Flock cameras are automated license plate reading (ALPR) systems made by Flock Safety. Placed near roads and intersections by cities or private groups, they photograph vehicle license plates, make, model, color, and unique features like bumper stickers. Law enforcement uses this data to track vehicles linked to crimes, though the network faces heavy criticism over privacy and misuse. [1, 2, 3, 4, 5]  
@@ -85,7 +92,7 @@ AI responses may include mistakes.
 
 ![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/01/esa_ambition_logo/23913305-1-eng-GB/ESA_Ambition_logo_pillars.jpg](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/01/esa_ambition_logo/23913305-1-eng-GB/ESA_Ambition_logo_pillars.jpg)
 
-[Tinashe - Melatonin](https://youtu.be/Zh4t2TaeA38) // [Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)](https://youtu.be/ArWQWAUoiSU?list=RDGMEMWO-g6DgCWEqKlDtKbJA1Gw) // [Normani - Tantrums](https://youtu.be/HVsfFadjnzs) // [Sonta - Your Mistake @CityOfLosAngeles _females_](https://youtu.be/6e2dTah8gAg?si=EcKazhPqhSi-kZia) // [Tragedy Khadafi - GameType](https://youtu.be/CU_LYy4cnE0?si=Il4Z1ypS4Rs2nviz) // [What A Nigga Know? · KMD](https://youtu.be/iAnTEJaoF7E) // [De La Soul - Ego Trippin](https://youtu.be/6hPGAWqanEQ) // [LEADERS OF THE NEW SCHOOL - Zone Coaster](https://youtu.be/VhsOMkNVOBE?si=elFFsKmbX7yCk2LQ) [rmx](https://www.youtube.com/watch?v=hM9uvGnwr1M) [rMx](https://youtu.be/gQ2ND5ppiOU) [vid](https://youtu.be/ocM3PnWZ8lI) // [Busta Rhymes -  Abandon Ship Featuring Rampage](https://youtu.be/5tQrI8yYDGA?list=PLbbAqYIJ9AMUleE9EYvUR5f3toK_10Ouy) //  [Busta Rhymes - Everything Remains Raw](https://youtu.be/i60rqT3SRME?list=PLbbAqYIJ9AMUleE9EYvUR5f3toK_10Ouy) // [Leaders Of The New School - Sobb Story 🔥🔥🔥 ](https://youtu.be/wZdMbdWX0IA) // [ __LEADERS OF THE NEW SCHOOL_ -_PTA🔥](https://youtu.be/M_J55T0bG9U?si=k8WTatexo515o_9V) // [A Tribe Called Quest - Scenario](https://youtu.be/Q6TLWqn82J4) // [Buddy (Native Tongue Decision) ](https://youtu.be/z8mfaAodcXU) // [KMD - Peachfuzz](https://youtu.be/3mHBiu_JOOw) // [3rd Bass - The Gas Face](https://youtu.be/QYp28tEAVvs) // [M.C. Hammer - Pump It Up](https://youtu.be/-Xp72g5rOuo?si=rcFT8w6wCn_BFEL5) // [Oaktown's 3-5-7 "Yeah Yeah Yeah"](https://youtu.be/crCxvVb9Mds) // [Apple pIe - (Virgo)](https://youtu.be/ujvaZjyG1k8) // [Slick Partna · Virgo](https://youtu.be/Jd_pmCI74NY) // [Let It Burn · Playa Poncho](https://youtu.be/WbFF--mqlHw) // [DJ Smurf "Ooh Lawd"](https://youtu.be/qUAy1iJogAs?list=RDEMF9SQcNcu_2TQdqbrDJfU9A) // [ERiC Burton & WAR - LOVE iS ALL AROUND](https://youtu.be/2Y9IR6yG6QM?si=ulyXu6q00WaxXkkS) // [Rolling Stones - Brown Sugar](https://youtu.be/2Nf90YKfQXA?si=V-SyJnDoQ38sMfY0)
+
 
 
 # Panama @deptofwar @howard-university-web-services 
