@@ -4,6 +4,14 @@ layout: default
 
 [Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI) // [The Smashing Pumpkins Mellon Collie and the `Infinite Sadness` Disk 1 Track 6](https://youtu.be/E7CtsE52NKw?si=cBFe2IEh6JeE8oTW) // [Hooverphoneic - Barabas](https://youtu.be/SYaIakuWg-g?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6)
 
+# Mars Perseverance Sol 1949: WATSON Camera
+## @DeptOfWar @Nasa-JPL MARS
+
+NASA's Mars Perseverance rover acquired this image using its SHERLOC WATSON camera, located on the turret at the end of the rover's robotic arm.
+This image was acquired on Aug. 14, 2026 (Sol 1949) at the local mean solar time of 16:02:20.
+Image Credit: NASA/JPL-Caltech
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839975067_089EBY_N0910000SRLC00624_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01949/ids/edr/browse/shrlc/SIF_1949_0839975067_089EBY_N0910000SRLC00624_0000LMJ01_1200.jpg)
+
 # [ChatGPT](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-basics) Murder, [ICE](https://www.usa.gov/agencies/u-s-immigration-and-customs-enforcement) Set Up & [Billionaire Tax](https://yeson40.com/?gad_source=1&gad_campaignid=24117437929&gbraid=0AAAABC2lkj3vDByHPjnUHK0FZdSNSpcYd&gclid=Cj0KCQjw-frTBhCvARIsADv4XY4Bg_GNkjJoXzk1N9TLGK1LSCe3q4qNJuPVZbj48mGrBYefsquv4SQaAmkvEALw_wcB)
 _The Daily Drop [WATCH - youtube.com/watch?v=kyToT8z8sBw&t=120s](https://www.youtube.com/watch?v=kyToT8z8sBw&t=120s)_
 [github.com/openai/openai-cookbook](https://github.com/openai/openai-cookbook) // [ChatGPT fundamentals - academy.openai.com](https://academy.openai.com/public/clubs/work-users-ynjqu/resources/chatgpt-basics) // [56Video -  `ChatGPT Training` Tutorials for Beginners - youtube.com/playlist?list=PLzj7TwUeMQ3ilCcONHUt1v73pImAmMlBh](https://www.youtube.com/playlist?list=PLzj7TwUeMQ3ilCcONHUt1v73pImAmMlBh) @blackgirlscode @nasa-pds @deptofwar @commercegov
