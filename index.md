@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI) // [The Smashing Pumpkins Mellon Collie and the `Infinite Sadness` Disk 1 Track 6](https://youtu.be/E7CtsE52NKw?si=cBFe2IEh6JeE8oTW) // [Hooverphoneic - Barabas](https://youtu.be/SYaIakuWg-g?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6)
+[Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI) // [The Smashing Pumpkins Mellon Collie and the `Infinite Sadness` Disk 1 Track 6](https://youtu.be/E7CtsE52NKw?si=cBFe2IEh6JeE8oTW) // [Hooverphonic - Barabas](https://youtu.be/SYaIakuWg-g?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6) // [Prince Paul - More than U Know](https://youtu.be/NU25K1tgmEY?si=ieGjCEgGdK-wp2ce)
 
 # Mars Perseverance Sol 1949: WATSON Camera
 ## @DeptOfWar @Nasa-JPL MARS
