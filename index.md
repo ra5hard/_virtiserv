@@ -23,7 +23,7 @@ layout: default
 <img alt="image" src="https://github.com/user-attachments/assets/78266073-e9af-49bc-be8d-2ed38e8c6dc6" />
 
 
-# Is Your Age Gap A Red Flag + Should Couples [Share Locations](https://support.google.com/accounts/answer/9363497?hl=en&co=GENIE.Platform%3DAndroid) [[`FindHub`🌐?](https://www.google.com/android/find/people)?
+# Is Your Age Gap A Red Flag + Should Couples [Share Locations](https://support.google.com/accounts/answer/9363497?hl=en&co=GENIE.Platform%3DAndroid) [[`FindHub`🌐?](https://www.google.com/android/find/people)?]
 [_`WATCH`_ - youtu.be/IddBUOvO3XE](https://youtu.be/IddBUOvO3XE)
 [_NY Tri State of Mind_](https://www.hot97.com/talent/tri-state-of-mind/) 8-15-26 [@fcc github.com/virtiserv/Crawler](https://github.com/virtiserv/Crawler) <~ @nasa-pds lets find old shit folk 💯💯💯
 <img alt="image" src="https://github.com/user-attachments/assets/b1f1560d-27a1-4a35-8f17-0a5747433c4d" />
