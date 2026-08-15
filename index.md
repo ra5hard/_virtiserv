@@ -6,6 +6,21 @@ layout: default
 [Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg) // [Common - _Gettin' Down At The Ampitheater_](https://youtu.be/LybsTLSJSbk?si=Tyde9RQi1_33PFr0)
 
 
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+
+@BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonpost //// [Jared Isaacman Announces MAX POWER 2026 at Kennedy Space Center  @nasa-pds @cityoflosangeles @NASASpaceFlight.com](https://youtu.be/zgF0jLfhAj8)
+
+[`WATCH` - @x x.com/i/broadcasts/1DxleVErQBdKL @nasa-pds](https://x.com/i/broadcasts/1DxleVErQBdKL)
+
+[`WATCH` - World News Live: SpaceX Falcon 9 Launch From Vandenberg USSF-366](https://www.youtube.com/live/thb93QeQ1zk?si=DKULFC7XuJtZ5so2)
+
+[`WATCH` - youtube.com/watch?v=d-Dp_rSQ9QY](https://www.youtube.com/watch?v=d-Dp_rSQ9QY)
+
+<img alt="image" src="https://github.com/user-attachments/assets/78266073-e9af-49bc-be8d-2ed38e8c6dc6" />
+
+
+
 [[`Lana J. Harris` - `TheDailyDrop`](https://youtu.be/XxzP1Av_w1Q?si=EgNgN52rnoM1jGUd) // [RitaJ Freestyle @chicago youtu.be/c9uaHPMl-t4](https://youtu.be/c9uaHPMl-t4) + [Tri State Of Mind on Hot97](https://youtu.be/IddBUOvO3XE?si=pRv1N5cON0LRzxRb)
 <img   alt="image" src="https://github.com/user-attachments/assets/9b909ff9-d631-4320-a13c-eea013018c15" />
 
@@ -23,18 +38,6 @@ _Total Solar Eclipse in Sunflower Field_ [Link](https://www.nasa.gov/image-artic
 @ESA [Download](https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe)
 <img  alt="image" src="https://github.com/user-attachments/assets/7d8ae501-32fe-4359-b0e8-d2efbcdb63e9" />
 
-
-![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
-
-@BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonpost
-
-[`WATCH` - @x x.com/i/broadcasts/1DxleVErQBdKL @nasa-pds](https://x.com/i/broadcasts/1DxleVErQBdKL)
-
-[`WATCH` - World News Live: SpaceX Falcon 9 Launch From Vandenberg USSF-366](https://www.youtube.com/live/thb93QeQ1zk?si=DKULFC7XuJtZ5so2)
-
-[`WATCH` - youtube.com/watch?v=d-Dp_rSQ9QY](https://www.youtube.com/watch?v=d-Dp_rSQ9QY)
-
-<img alt="image" src="https://github.com/user-attachments/assets/78266073-e9af-49bc-be8d-2ed38e8c6dc6" />
 
 
 # Is Your Age Gap A Red Flag + Should Couples [Share Locations](https://support.google.com/accounts/answer/9363497?hl=en&co=GENIE.Platform%3DAndroid) [[`FindHub`🌐?](https://www.google.com/android/find/people)?]
