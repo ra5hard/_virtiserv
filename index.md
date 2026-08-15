@@ -5,11 +5,21 @@ layout: default
 
 [Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg)
 
+
+[[`Lana J. Harris` - `TheDailyDrop`](https://youtu.be/XxzP1Av_w1Q?si=EgNgN52rnoM1jGUd) // [RitaJ Freestyle @chicago youtu.be/c9uaHPMl-t4](https://youtu.be/c9uaHPMl-t4)
+<img   alt="image" src="https://github.com/user-attachments/assets/9b909ff9-d631-4320-a13c-eea013018c15" />
+
+
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+
 @BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonpost
+
 [`WATCH` - @x x.com/i/broadcasts/1DxleVErQBdKL @nasa-pds](https://x.com/i/broadcasts/1DxleVErQBdKL)
+
 [`WATCH` - World News Live: SpaceX Falcon 9 Launch From Vandenberg USSF-366](https://www.youtube.com/live/thb93QeQ1zk?si=DKULFC7XuJtZ5so2)
+
 [`WATCH` - youtube.com/watch?v=d-Dp_rSQ9QY](https://www.youtube.com/watch?v=d-Dp_rSQ9QY)
+
 <img alt="image" src="https://github.com/user-attachments/assets/78266073-e9af-49bc-be8d-2ed38e8c6dc6" />
 
 
