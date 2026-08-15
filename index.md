@@ -6,7 +6,7 @@ layout: default
 [Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg)
 
 
-[[`Lana J. Harris` - `TheDailyDrop`](https://youtu.be/XxzP1Av_w1Q?si=EgNgN52rnoM1jGUd) // [RitaJ Freestyle @chicago youtu.be/c9uaHPMl-t4](https://youtu.be/c9uaHPMl-t4)
+[[`Lana J. Harris` - `TheDailyDrop`](https://youtu.be/XxzP1Av_w1Q?si=EgNgN52rnoM1jGUd) // [RitaJ Freestyle @chicago youtu.be/c9uaHPMl-t4](https://youtu.be/c9uaHPMl-t4) + [Tri State Of Mind on Hot97](https://youtu.be/IddBUOvO3XE?si=pRv1N5cON0LRzxRb)
 <img   alt="image" src="https://github.com/user-attachments/assets/9b909ff9-d631-4320-a13c-eea013018c15" />
 
 
