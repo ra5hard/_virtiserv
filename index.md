@@ -2,6 +2,30 @@
 layout: default
 ---
 
+
+[Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg)
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+@BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonposty
+[`WATCH` - @x x.com/i/broadcasts/1DxleVErQBdKL @nasa-pds](https://x.com/i/broadcasts/1DxleVErQBdKL)
+[`WATCH` - World News Live: SpaceX Falcon 9 Launch From Vandenberg USSF-366](https://www.youtube.com/live/thb93QeQ1zk?si=DKULFC7XuJtZ5so2)
+[`WATCH` - youtube.com/watch?v=d-Dp_rSQ9QY](https://www.youtube.com/watch?v=d-Dp_rSQ9QY)
+<img alt="image" src="https://github.com/user-attachments/assets/78266073-e9af-49bc-be8d-2ed38e8c6dc6" />
+
+
+Is Your Age Gap A Red Flag + Should Couples [Share Locations](https://support.google.com/accounts/answer/9363497?hl=en&co=GENIE.Platform%3DAndroid) [[`FindHub`🌐?](https://www.google.com/android/find/people)?
+| NY Tri State of Mind 8-15-26
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b1f1560d-27a1-4a35-8f17-0a5747433c4d" />
+
+
+![https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png](https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png)
+
+# Bomb Scare in D.C.,
+Historic Flooding in [Indiana](https://www.in.gov/core/index.html), [Anne Hathaway](https://variety.com/2026/film/news/anne-hathaway-movies-dog-deaths-rated-r-1236834811/)'s [Pregnancy](https://jacksonhealth.org/blog/anne-hathaway-is-pregnant-at-43-what-women-should-know/) 
+[HOT 97](https://www.hot97.com/) [News](https://www.jpl.nasa.gov/news/) 8/14/26
+### [_WATCH - youtu.be/IddBUOvO3XE](https://youtu.be/IddBUOvO3XE)
+<img  alt="image @whitehouse @blackgirlscode @deptofwar @NASAJPL " src="https://github.com/user-attachments/assets/e17980c9-2034-47bb-9863-b1b969f576c2" />
+
 [Aesop Rock - Zero Dark Thirty](https://youtu.be/Dbd4h1kaFlY?si=7wDWXWn0JGz4GFot) // [Aesop Rock - Daylight](https://youtu.be/lGeaQnqA7sg?si=nqw1wVyln0jDcaQQ) // [Time MAchine - The Way Things Are](https://youtu.be/5YMYrB0dqoU?si=gew0ZogAItYp5n1A) // [Rico Nasty - CDG Foams](https://youtu.be/I0aNF5KOgtI) // [The Smashing Pumpkins Mellon Collie and the `Infinite Sadness` Disk 1 Track 6](https://youtu.be/E7CtsE52NKw?si=cBFe2IEh6JeE8oTW) // [Hooverphonic - Barabas](https://youtu.be/SYaIakuWg-g?list=PLPaztBWnatcjJCKhFViYFT85-con_Y3u6) // [Prince Paul - More than U Know](https://youtu.be/NU25K1tgmEY?si=ieGjCEgGdK-wp2ce) // [2Pac - So Many Tears ](https://youtu.be/1Z52-lIZMbQ) // [10% dis - MC_LYTE](https://youtu.be/VMgaItHsmsE?si=aUy2ZApixwjdubEd) // [The Arsonist - Worlds Collide `FatBeatsMAilOrder`](https://youtu.be/tXat2xl0Rl0?si=2Y9tBY8G87A2BItP) // [Selamawit Yohannes - Yebleni'loo | የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA)
 
 ## HOT 97 News Live! 8/14/26
