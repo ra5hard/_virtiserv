@@ -9,7 +9,8 @@ layout: default
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 
-@BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonpost //// [Jared Isaacman Announces MAX POWER 2026 at Kennedy Space Center  @nasa-pds @cityoflosangeles @NASASpaceFlight.com](https://youtu.be/zgF0jLfhAj8)
+@BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonpost //// [Jared Isaacman Announces MAX POWER 2026 at Kennedy Space Center  @nasa-pds @cityoflosangeles @NASASpaceFlight.com](https://youtu.be/zgF0jLfhAj8) //// [9years ago 
+Trump Participates in First Pass in Review as Commander in Chief](https://youtu.be/gp30zi52e88)
 
 [`WATCH` - @x x.com/i/broadcasts/1DxleVErQBdKL @nasa-pds](https://x.com/i/broadcasts/1DxleVErQBdKL)
 
