@@ -15,6 +15,7 @@ layout: default
 [WhitterDam OUTPUT](https://waterdata.usgs.gov/monitoring-location/USGS-11087020/statistical-graphs)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/07724335-dcb3-4d5d-aa27-8ca0786fe219" />
+
 @doug-newman-nasa , @cloudflare in william wainwright java dir... @nasa-jpl you think they would filter satelitte results that way ? @fbicyber @dhs-gov
 [@la-county-isd _`LongBeach_`_@Podaac @USGS @nasa-jpl - `MAP`](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.68/-13155804.94/3992771.73&layers=aqv_tss_20260810_sentinel:1.00:0.00:30.00:default)
 
