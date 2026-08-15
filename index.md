@@ -5,6 +5,19 @@ layout: default
 
 [Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg) // [Common - _Gettin' Down At The Ampitheater_](https://youtu.be/LybsTLSJSbk?si=Tyde9RQi1_33PFr0)
 
+[@CityOfLosAngeles LA's Transit Future with Nithya Raman](https://youtu.be/iOan8uxt7kU?si=LqwCcfSx1rIlnMhP)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/07724335-dcb3-4d5d-aa27-8ca0786fe219" />
+
+
+
+[https://scan-now.gsfc.nasa.gov/scan @nasa-pds](https://scan-now.gsfc.nasa.gov/scan)
+@Blackgirlscode [@LiZZO](https://www.tiktok.com/@lizzo?lang=en) , [LRO](https://lroc.im-ldi.com/) is transmitting Data, i hope you enjoyed the pics @whitehouse @nbcnews @foxnews @cbs-news-data [📧Ashley.Kalmanowitz@atlanticrecords.com📧](mailto:Ashley.Kalmanowitz@atlanticrecords.com) @La-County-isd she know all the deets abt [my significant others kidnapping](https://ra5hard.github.io/) // 
+[ @NASA's LRO (Lunar Reconnaissance Orbiter) is paving the way for human and robotic exploration of the Moon.  
+Active Missionhttps://science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/)
+<img alt="image" src="https://github.com/user-attachments/assets/c30bbab5-2e33-4a6c-bfda-b6f706025788" />
+<img   alt="image" src="https://github.com/user-attachments/assets/1cdd03c8-84c5-4bc4-a10a-c8b7aae269c5" />
+
 
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
@@ -20,10 +33,6 @@ Chemical Brothers - @BBC Radio1 Essential Mix - April 13, 2019](https://youtu.be
 [`WATCH` - youtube.com/watch?v=d-Dp_rSQ9QY](https://www.youtube.com/watch?v=d-Dp_rSQ9QY)
 
 <img alt="image" src="https://github.com/user-attachments/assets/78266073-e9af-49bc-be8d-2ed38e8c6dc6" />
-
-[https://scan-now.gsfc.nasa.gov/scan @nasa-pds](https://scan-now.gsfc.nasa.gov/scan)
-@Blackgirlscode [@LiZZO](https://www.tiktok.com/@lizzo?lang=en) , [LRO](https://lroc.im-ldi.com/) is transmitting Data, i hope you enjoyed the pics @whitehouse @nbcnews @foxnews @cbs-news-data [📧Ashley.Kalmanowitz@atlanticrecords.com📧](mailto:Ashley.Kalmanowitz@atlanticrecords.com) @La-County-isd she know all the deets abt [my significant others kidnapping](https://ra5hard.github.io/)
-<img alt="image" src="https://github.com/user-attachments/assets/c30bbab5-2e33-4a6c-bfda-b6f706025788" />
 
 
 [[`Lana J. Harris` - `TheDailyDrop`](https://youtu.be/XxzP1Av_w1Q?si=EgNgN52rnoM1jGUd) // [RitaJ Freestyle @chicago youtu.be/c9uaHPMl-t4](https://youtu.be/c9uaHPMl-t4) + [Tri State Of Mind on Hot97](https://youtu.be/IddBUOvO3XE?si=pRv1N5cON0LRzxRb)
