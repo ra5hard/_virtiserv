@@ -4,8 +4,14 @@ layout: default
 
 
 [Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg) // [Common - _Gettin' Down At The Ampitheater_](https://youtu.be/LybsTLSJSbk?si=Tyde9RQi1_33PFr0)
-
+[DJ Shadow & Cut Chemist - Brainfreeze _Lana_in_Blackface?_](https://youtu.be/m4-iYnZtJcI)
 [@CityOfLosAngeles LA's Transit Future with Nithya Raman](https://youtu.be/iOan8uxt7kU?si=LqwCcfSx1rIlnMhP)
+[@CityOfLosAngeles WaterDashboard]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.51325%2C33.78585%2C-117.68356%2C34.25355%5D&view=%7B%22basemap%22%3A%22EsriUsaTopo%22%2C%22bounds%22%3A%22-118.5132485675131%2C33.78584641477557%2C-117.68355819606114%2C34.2535489691075%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C7%2C10%2C17%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+[WhitterDam OUTPUT](https://waterdata.usgs.gov/monitoring-location/USGS-11087020/statistical-graphs)
+<img  alt="image" src="https://github.com/user-attachments/assets/fa19ff82-2c1a-43d3-9575-615b7ba79265" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/095b57b3-2164-4dbc-a756-2832a7c5bf27" />
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/07724335-dcb3-4d5d-aa27-8ca0786fe219" />
 
