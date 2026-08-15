@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg)
+[Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg) // [Common - _Gettin' Down At The Ampitheater_](https://youtu.be/LybsTLSJSbk?si=Tyde9RQi1_33PFr0)
 
 
 [[`Lana J. Harris` - `TheDailyDrop`](https://youtu.be/XxzP1Av_w1Q?si=EgNgN52rnoM1jGUd) // [RitaJ Freestyle @chicago youtu.be/c9uaHPMl-t4](https://youtu.be/c9uaHPMl-t4) + [Tri State Of Mind on Hot97](https://youtu.be/IddBUOvO3XE?si=pRv1N5cON0LRzxRb)
