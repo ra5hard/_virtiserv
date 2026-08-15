@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg) // [Common - _Gettin' Down At The Ampitheater_](https://youtu.be/LybsTLSJSbk?si=Tyde9RQi1_33PFr0) // [Bahamadia- Spontaneity](https://www.youtube.com/watch?v=_LG8YLpQvoQ) // _EllaMAi_ @aws @blueorigin ? [(oǝpᴉΛ ɔᴉsnW lɐᴉɔᴉɟɟO) ʞɔolƆ ʇoɥS - ᴉɐW ɐllƎ](https://youtu.be/T4kAYIC5Xzo) // [Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom](https://youtu.be/qxyxqVDjSzs)
+[Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg) // [Common - _Gettin' Down At The Ampitheater_](https://youtu.be/LybsTLSJSbk?si=Tyde9RQi1_33PFr0) // [Bahamadia- Spontaneity](https://www.youtube.com/watch?v=_LG8YLpQvoQ) // _EllaMAi_ @aws @blueorigin ? [(oǝpᴉΛ ɔᴉsnW lɐᴉɔᴉɟɟO) ʞɔolƆ ʇoɥS - ᴉɐW ɐllƎ](https://youtu.be/T4kAYIC5Xzo) // [Queen Latifah, Yo-Yo, TLC, MC Lyte, Nefertiti, Salt-N-Pepa, Patra, Meshell Ndegeocello - Freedom](https://youtu.be/qxyxqVDjSzs) // [Fugees feat. A Tribe Called Quest & Busta Rhymes - Rumble In The Jungle (Official Video)](https://youtu.be/Ok6fmRt6MvU) // [Fugees - Cowboys (Official HD Video)](https://youtu.be/BhWbXpjn-OU?si=E7TZJr7sxNj0aYBD)
 
 
 --- 
