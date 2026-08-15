@@ -15,8 +15,13 @@ layout: default
 [WATCH - https://youtu.be/YrpFdBIYQY4](https://youtu.be/YrpFdBIYQY4)
 <img   alt="image" src="https://github.com/user-attachments/assets/ae8f6eac-dfa1-4108-b97b-6a4eb55a6432" />
 _Total Solar Eclipse in Sunflower Field_ [Link](https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/)
+
 ![https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg](https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg)
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d8ae501-32fe-4359-b0e8-d2efbcdb63e9" />
+
+
+# MTG-I1 captures eclipse path of totality over Europe
+@ESA [Download](https://www.esa.int/ESA_Multimedia/Videos/2026/08/MTG-I1_captures_eclipse_path_of_totality_over_Europe)
+<img  alt="image" src="https://github.com/user-attachments/assets/7d8ae501-32fe-4359-b0e8-d2efbcdb63e9" />
 
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
