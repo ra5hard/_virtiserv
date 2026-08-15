@@ -6,16 +6,17 @@ layout: default
 [Rita J - Body Rock](https://youtu.be/K4lnp2oqrHg)
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
-@BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonposty
+@BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonpost
 [`WATCH` - @x x.com/i/broadcasts/1DxleVErQBdKL @nasa-pds](https://x.com/i/broadcasts/1DxleVErQBdKL)
 [`WATCH` - World News Live: SpaceX Falcon 9 Launch From Vandenberg USSF-366](https://www.youtube.com/live/thb93QeQ1zk?si=DKULFC7XuJtZ5so2)
 [`WATCH` - youtube.com/watch?v=d-Dp_rSQ9QY](https://www.youtube.com/watch?v=d-Dp_rSQ9QY)
 <img alt="image" src="https://github.com/user-attachments/assets/78266073-e9af-49bc-be8d-2ed38e8c6dc6" />
 
 
-Is Your Age Gap A Red Flag + Should Couples [Share Locations](https://support.google.com/accounts/answer/9363497?hl=en&co=GENIE.Platform%3DAndroid) [[`FindHub`🌐?](https://www.google.com/android/find/people)?
-| NY Tri State of Mind 8-15-26
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b1f1560d-27a1-4a35-8f17-0a5747433c4d" />
+# Is Your Age Gap A Red Flag + Should Couples [Share Locations](https://support.google.com/accounts/answer/9363497?hl=en&co=GENIE.Platform%3DAndroid) [[`FindHub`🌐?](https://www.google.com/android/find/people)?
+[_`WATCH`_ - youtu.be/IddBUOvO3XE](https://youtu.be/IddBUOvO3XE)
+[_NY Tri State of Mind_](https://www.hot97.com/talent/tri-state-of-mind/) 8-15-26 [@fcc github.com/virtiserv/Crawler](https://github.com/virtiserv/Crawler) <~ @nasa-pds lets find old shit folk 💯💯💯
+<img alt="image" src="https://github.com/user-attachments/assets/b1f1560d-27a1-4a35-8f17-0a5747433c4d" />
 
 
 ![https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png](https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png)
