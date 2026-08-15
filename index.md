@@ -10,6 +10,15 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/9b909ff9-d631-4320-a13c-eea013018c15" />
 
 
+
+### The Insane [Eclipse](https://dlmultimedia.esa.int/download/public/videos/2026/08/017/2608_017_AR_EN.mp4) Trick An Olympic Skater Just Pulled Off
+[WATCH - https://youtu.be/YrpFdBIYQY4](https://youtu.be/YrpFdBIYQY4)
+<img   alt="image" src="https://github.com/user-attachments/assets/ae8f6eac-dfa1-4108-b97b-6a4eb55a6432" />
+_Total Solar Eclipse in Sunflower Field_ [Link](https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/)
+![https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg](https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7d8ae501-32fe-4359-b0e8-d2efbcdb63e9" />
+
+
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SpaceX-Logo.svg/960px-SpaceX-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 
 @BLACKGIRLSCODE / @Howard-University-Web-Services if you guys wat to participate in tonights launch start with our weather page [virtiserv.github.io/weather](https://virtiserv.github.io/weather) and submit any anomolies or suggesting in complete sentences to [📧SpaceForce @USSF-ORBiT 45WS.WXR.AirfieldRangeWxOps@us.af.mil📧](mailto:45WS.WXR.AirfieldRangeWxOps@us.af.mil) @cbs-news-data is hot97 a cbs company @usatoday @washingtonpost
