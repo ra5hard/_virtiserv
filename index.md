@@ -17,8 +17,10 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/07724335-dcb3-4d5d-aa27-8ca0786fe219" />
 @doug-newman-nasa , @cloudflare in william wainwright java dir... @nasa-jpl you think they would filter satelitte results that way ? @fbicyber @dhs-gov
 [@la-county-isd _`LongBeach_`_@Podaac @USGS @nasa-jpl - `MAP`](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.68/-13155804.94/3992771.73&layers=aqv_tss_20260810_sentinel:1.00:0.00:30.00:default)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/206d202e-f203-4aeb-8894-62d0b5eff414" />
-<imgalt="image" src="https://github.com/user-attachments/assets/aa1b3497-f43c-498f-ae4b-d39ceb82828c" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/aa1b3497-f43c-498f-ae4b-d39ceb82828c" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/fa19ff82-2c1a-43d3-9575-615b7ba79265" />
