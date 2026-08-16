@@ -16,6 +16,9 @@ thank you for adultery support @repkarenbass the police need dns checks, they ar
 ```
 <img   alt="image" src="https://github.com/user-attachments/assets/3a342583-5b6a-4068-93d1-f8e30312f5f4" />
 
+
+![https://images.squarespace-cdn.com/content/v1/5a97a4aa4cde7a2debc2d320/1525055615616-O8KO4W9ITO6TLAELGGKX/IMG_7927.JPG](https://images.squarespace-cdn.com/content/v1/5a97a4aa4cde7a2debc2d320/1525055615616-O8KO4W9ITO6TLAELGGKX/IMG_7927.JPG)
+
 ## Full Speech 
 Keisha Lance Bottoms in Savannah
 08.01.2026 [Watch - @ForAtlanta @Blackgirlscode youtu.be/IN74-eaQCWM?si=2HrkXoEuwwsU8-HB](https://youtu.be/IN74-eaQCWM?si=2HrkXoEuwwsU8-HB)
