@@ -20,6 +20,11 @@ if he wear badass pilot glasses in his Tesla @doug-newman-nasa I need to get reb
 
 
 
+## [Hot97Tv](https://www.youtube.com/@HOT97ontv)
+@blackgirlscode @howard-university-web-services hi Lana I see you have no vids to fact check for today @foratlanta @cityofsantamonica this is the show I was telling those girls to catch
+<img  alt="image" src="https://github.com/user-attachments/assets/394458ef-0557-4d73-b333-4aa585bc58c2" />
+
+
 ## [Los Angeles First United Methodist Church](https://www.youtube.com/@LAFirstUMC)
 [lafirstumc.org](https://www.lafirstumc.org/)
 SundayService [watch](https://www.youtube.com/live/j5QcYabNz7M?si=d_xDct94FVQQRiSG)
