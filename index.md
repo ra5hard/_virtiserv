@@ -8,6 +8,10 @@ layout: default
 
 ---
 
+@la-county-isd @nasa-pds @nasa-giss @nasa-jpl
+hi it's rashard, I don't know how to handle this task completley yet but the water was mostly blue from Santa Monica @cbs-news-data
+[oceandata.sci.gsfc.nasa.gov/l3/](https://oceandata.sci.gsfc.nasa.gov/l3/)
+<img  alt="image" src="https://github.com/user-attachments/assets/8aeba9c3-8a34-4834-b41d-4724764129dd" />
 
 
 ## [Joe Rogan](https://www.joerogan.com/) and [Roan Jucao](https://jucaojiujitsu.com/)
