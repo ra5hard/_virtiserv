@@ -20,6 +20,7 @@ if he wear badass pilot glasses in his Tesla @doug-newman-nasa I need to get reb
 
 <img   alt="image" src="https://github.com/user-attachments/assets/4fdbe0d6-d154-4576-a463-74cd033c08d3" />
 <img  alt="image" src="https://github.com/user-attachments/assets/929bd9bd-1df4-420a-aed6-51217f4421e8" />
+
 [@CityOfLosAngeles @NASA-JPL @NASA @WhiteHouse ksmartialartsatlanta.com/](https://ksmartialartsatlanta.com/) // 
 [@ForAtlanta voyageatl.com/interview/meet-`renard-beaty`-of-east-atlanta-grant-park/](https://voyageatl.com/interview/meet-renard-beaty-of-east-atlanta-grant-park/) 
 <img  alt="image" src="https://github.com/user-attachments/assets/1bdef635-af27-4ed7-8023-244f1bbf3f8c" />
