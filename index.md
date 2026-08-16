@@ -3,6 +3,19 @@ layout: default
 ---
 
 
+[Los Angeles First United Methodist Church](https://www.youtube.com/@LAFirstUMC)
+SundayService [watch](https://www.youtube.com/live/j5QcYabNz7M?si=d_xDct94FVQQRiSG)
+[📺@CityOfLosAngeles @Nasa-PDS _`Watch`_ outube.com/live/j5QcYabNz7M?si=d_xDct94FVQQRiSG](https://www.youtube.com/live/j5QcYabNz7M?si=d_xDct94FVQQRiSG)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8ab551f2-e1bd-4b2e-8f44-2a40c1e46dd2" />
+
+```
+@thakasErikaselassie_kelly
+0 seconds ago
+thank you for adultery support @repkarenbass the police need dns checks, they are not healthy @LAPDHQ how can i get that type of treatment in this curent sex cimate, im mateless @DonaldJTrumpforPresident . . . idk who works at the lab @NASAJPL but Robin Obrien is real @ESA #SpaceStation and she said i could work from home .... @SupervisorHollyJMitchell there are n housing problems for your soundcloud rapper population and the nba has mad facilities on lock for thier breeding program. its a lot f them . . . @lanajharris im so sorry i hope i did not embarrass you @riconasty its hard working this close @HowardUniversity and since im in #FederalScience theres a lot of pretty women and i have to be balanced that the way i handle @ESSENCEMAG / @LATTo etc etc idk whos deleting my comment is my future in North America as the and heals so i have to take the tears @hot97 please be gentle. I got rejected hard please dont block me from sending lana messages unless she request so. Muna was her friend or her doing dark skin fantasy workj that did not kashout after everyone rode the married man @power106 @americantopteam pzz fwd to jucao @Roanjucao ... - rashard - @nasa-pds @nasaearthdata
+```
+<img   alt="image" src="https://github.com/user-attachments/assets/3a342583-5b6a-4068-93d1-f8e30312f5f4" />
+
 ## Full Speech 
 Keisha Lance Bottoms in Savannah
 08.01.2026 [Watch - @ForAtlanta @Blackgirlscode youtu.be/IN74-eaQCWM?si=2HrkXoEuwwsU8-HB](https://youtu.be/IN74-eaQCWM?si=2HrkXoEuwwsU8-HB)
