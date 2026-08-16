@@ -4,11 +4,13 @@ layout: default
 
 
 [Single Parent · Buju Banton](https://youtu.be/TwhW6GQIC8A?si=e9R4ovosewayp3Df)
-@blackgirlscode _oakland_ coral I love you!!!! - dad
+@blackgirlscode _oakland_ coral I love you!!!! - dad [Another bill again - Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?si=zH_3Gb2J04miByDN)
 
 ---
 
 
+
+## [Joe Rogan]](https://www.joerogan.com/) and [Roan Jucao](https://jucaojiujitsu.com/)
 [WATCH - Joe Rogan and Roan Jucao](https://youtu.be/4ifOORBTqFA?si=ehLEOL_ERRI80bCT)
 @NAsa-jpl @StateOfCalifornia is Joe Rogan on the Pasadena @teslamotors police squad ? 
 if he wear badass pilot glasses in his Tesla @doug-newman-nasa I need to get rebadged and instructions on how to keep him from removing me from the library 
