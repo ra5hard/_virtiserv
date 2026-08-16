@@ -15,8 +15,22 @@ layout: default
 @NAsa-jpl @StateOfCalifornia is Joe Rogan on the Pasadena @teslamotors police squad ? 
 if he wear badass pilot glasses in his Tesla @doug-newman-nasa I need to get rebadged and instructions on how to keep him from removing me from the library 
 [_docs/south_Pasadena_suspension_letter_delivered_by_south_pasadena_PD_to_Rashard_Iman_KELLY_NASAJPL_to_UNKOWN_NAE_i_NEED_A_New_badge_anim2weeksout.pdf_](https://github.com/virtiserv/rashardmro/blob/master/docs/south_Pasadena_suspension_letter_delivered_by_south_pasadena_PD_to_Rashard_Iman_KELLY_NASAJPL_to_UNKOWN_NAE_i_NEED_A_New_badge_anim2weeksout.pdf)
+
+![https://ksmartialartsatlanta.com/wp-content/uploads/sites/271/2017/03/kickstartogo.jpg](https://ksmartialartsatlanta.com/wp-content/uploads/sites/271/2017/03/kickstartogo.jpg)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/4fdbe0d6-d154-4576-a463-74cd033c08d3" />
 <img  alt="image" src="https://github.com/user-attachments/assets/929bd9bd-1df4-420a-aed6-51217f4421e8" />
+[@CityOfLosAngeles @NASA-JPL @NASA @WhiteHouse ksmartialartsatlanta.com/](https://ksmartialartsatlanta.com/) // 
+[@ForAtlanta voyageatl.com/interview/meet-`renard-beaty`-of-east-atlanta-grant-park/](https://voyageatl.com/interview/meet-renard-beaty-of-east-atlanta-grant-park/) 
+<img  alt="image" src="https://github.com/user-attachments/assets/1bdef635-af27-4ed7-8023-244f1bbf3f8c" />
+
+Renard Beaty
+Kick Start Martial Arts
+1039 Grant Street SE Bldg A22
+Atlanta, GA 30315
+(404) 664-3485
+kickstartatl@gmail.com
+<img alt="image" src="https://github.com/user-attachments/assets/cada2166-b2e9-4d4e-9790-e4582de1904e" />
 
 
 
