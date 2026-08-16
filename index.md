@@ -2,6 +2,13 @@
 layout: default
 ---
 
+
+## Full Speech 
+Keisha Lance Bottoms in Savannah
+08.01.2026 [Watch - @ForAtlanta @Blackgirlscode youtu.be/IN74-eaQCWM?si=2HrkXoEuwwsU8-HB](https://youtu.be/IN74-eaQCWM?si=2HrkXoEuwwsU8-HB)
+<img  alt="image" src="https://github.com/user-attachments/assets/3cc77631-969e-435d-8efd-c05a85e630c1" />
+
+
 ## Rally with Jon Ossoff
 08.16.2026 
  [WATCH - @ForAtlanta, GA youtube.com/live/lbLUN6K-cR0?si=eHa5XIFpeFXJb1fS](https://www.youtube.com/live/lbLUN6K-cR0?si=eHa5XIFpeFXJb1fS)
