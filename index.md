@@ -3,6 +3,11 @@ layout: default
 ---
 
 
+
+[Future - Tony Montana ](https://youtu.be/CNdySYdVe0E)
+
+---
+
 # Atlanta City Council Meting
 [WATCH - youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z @ForAtlanta](https://www.youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z)
 [@doug-newman-nasa](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract) // [[1 @LinkediN](https://www.linkedin.com/in/doug-newman-682037390)] I have been working this from a @nasa-develop [Langly](https://www.nasa.gov/langley/) perspective and really don't know if my team knows I spotted the [eclipse](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg) // [[1](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812185035.jpg) @nasa-openscapes @cityoflosangeles] idk, @nasa-jpl under earthdata I really want my review at some point later! @whitehouse @dhs-gov [DSCOVR EPIC Level 2 UV Aerosol Version 4 Data Released - earthdata.nasa.gov](https://www.earthdata.nasa.gov/data/alerts-outages/dscovr-epic-level-2-uv-aerosol-version-4-data-released)
