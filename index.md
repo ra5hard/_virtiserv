@@ -4,6 +4,13 @@ layout: default
 
 
 
+# SphereX
+is transmitting data
+[@caltech @nasa-pds spherex.caltech.edu/](https://spherex.caltech.edu/) // [Nasa-jpl - jpl.nasa.gov/missions/spherex/](https://www.jpl.nasa.gov/missions/spherex/) // [@Nasa - science.nasa.gov/mission/spherex/](https://science.nasa.gov/mission/spherex/)
+[@nasa-jpl @nasa-pds @blackgirlscode https://eyes.nasa.gov/apps/dsn-now/dsn.html @cityoflosangeles @stateofcalifornia](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+<img alt="image @nasa-jpl @nasa-pds @blackgirlscode " src="https://github.com/user-attachments/assets/8f5e66a9-b35a-48a9-a7f9-8bcf038997a5" />
+
 [@nasa-jpl @nasa-pds @blackgirlscode https://eyes.nasa.gov/apps/dsn-now/dsn.html @cityoflosangeles @stateofcalifornia](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img alt="image" src="https://github.com/user-attachments/assets/13a11f13-00c1-4da3-99a4-73911bf7ad68" />
 
