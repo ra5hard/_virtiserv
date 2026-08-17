@@ -6,7 +6,7 @@ layout: default
 
 ## [Zina](https://en.wikipedia.org/wiki/Zina) Muhsan
 [Sharia](https://en.wikipedia.org/wiki/Sharia) // 
-[Reddit](https://www.reddit.com/r/islam/comments/uvc695/what_is_islams_view_on_adultery/) // [link](https://aboutislam.net/counseling/ask-the-scholar/crimes-penalties/god-forgive-adultery/)
+[Reddit](https://www.reddit.com/r/islam/comments/uvc695/what_is_islams_view_on_adultery/) // [link](https://aboutislam.net/counseling/ask-the-scholar/crimes-penalties/god-forgive-adultery/) // [Shirk](https://www.reddit.com/r/progressive_islam/comments/1fpc2l3/shirk_is_the_most_unforgivable_sin_in_islam_but/)
 [Zina](https://share.google/aimode/CPvXZeVgSx3JWrw1w)
 [IIL songs about adultery from the cheater or affair partner’s perspective](https://www.reddit.com/r/ifyoulikeblank/comments/1khegzm/iil_songs_about_adultery_from_the_cheater_or/?rdt=64994) // [Songs About Cheating: 31 Cathartic Tunes About Toxic Relationships](https://www.udiscovermusic.com/stories/songs-about-cheating/)
 
