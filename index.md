@@ -2,15 +2,20 @@
 layout: default
 ---
 
+[Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy)
+
+--- 
+
 
 # iSS Expedition 75 @TheSpaceDevs
 @Axiom-Space 
 [esc.gsfc.nasa.gov/projects/NSN](https://esc.gsfc.nasa.gov/projects/NSN) // [Expedition75](https://www.flickr.com/photos/nasa2explore/albums/72177720331083258/)
-[scan-now.gsfc.nasa.gov/sr](https://scan-now.gsfc.nasa.gov/sr) // [WHERE iS THE iSS?](https://issinfo.net/) // [@teslamotors whereisroadster.com/](https://whereisroadster.com/)
+[scan-now.gsfc.nasa.gov/sr](https://scan-now.gsfc.nasa.gov/sr) // [WHERE iS THE iSS?](https://issinfo.net/) // [@teslamotors whereisroadster.com/](https://whereisroadster.com/) + [where-is-tesla-roadster.space/live](https://where-is-tesla-roadster.space/live)
 <img alt="image" src="https://github.com/user-attachments/assets/ad1265af-a984-495e-a484-21b9463c3574" />
 [@Whitehouse @howard-university-web-services @blackgirlscode flickr.com/photos/nasa2explore/55457272974/in/album-72177720331083258](https://www.flickr.com/photos/nasa2explore/55457272974/in/album-72177720331083258)
 <img  alt="image" src="https://github.com/user-attachments/assets/1b0a775c-5711-442a-a7e8-328dc68a2a33" />
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ISS_Expedition_75_Patch.png/1280px-ISS_Expedition_75_Patch.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ISS_Expedition_75_Patch.png/1280px-ISS_Expedition_75_Patch.png) 
 
 # SphereX
 is transmitting data
@@ -18,6 +23,8 @@ is transmitting data
 [@nasa-jpl @nasa-pds @blackgirlscode https://eyes.nasa.gov/apps/dsn-now/dsn.html @cityoflosangeles @stateofcalifornia](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 <img alt="image @nasa-jpl @nasa-pds @blackgirlscode " src="https://github.com/user-attachments/assets/8f5e66a9-b35a-48a9-a7f9-8bcf038997a5" />
+
+![https://www.ipac.caltech.edu/system/activities/logos/80/small/spherex-2020logo_color_white_bg.png](https://www.ipac.caltech.edu/system/activities/logos/80/small/spherex-2020logo_color_white_bg.png) 
 
 [@nasa-jpl @nasa-pds @blackgirlscode https://eyes.nasa.gov/apps/dsn-now/dsn.html @cityoflosangeles @stateofcalifornia](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img alt="image" src="https://github.com/user-attachments/assets/13a11f13-00c1-4da3-99a4-73911bf7ad68" />
