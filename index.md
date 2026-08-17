@@ -3,6 +3,17 @@ layout: default
 ---
 
 
+
+## Zina Muhsan
+[Reddit](https://www.reddit.com/r/islam/comments/uvc695/what_is_islams_view_on_adultery/) // 
+[Zina](https://share.google/aimode/CPvXZeVgSx3JWrw1w)
+[IIL songs about adultery from the cheater or affair partner’s perspective](https://www.reddit.com/r/ifyoulikeblank/comments/1khegzm/iil_songs_about_adultery_from_the_cheater_or/?rdt=64994) // [Songs About Cheating: 31 Cathartic Tunes About Toxic Relationships](https://www.udiscovermusic.com/stories/songs-about-cheating/)
+
+![https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png](https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png)
+![https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/960px-Allah-green.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/960px-Allah-green.svg.png)
+
+---
+
 [Single Parent · Buju Banton](https://youtu.be/TwhW6GQIC8A?si=e9R4ovosewayp3Df)
 @blackgirlscode _oakland_ coral I love you!!!! - dad [Another bill again - Tony Rebel](https://youtu.be/U9ZLAgyn2-Q?si=zH_3Gb2J04miByDN) // [Kid 'N Play - Gittin' Funky ](https://youtu.be/3XOqUotSQnU?si=h0s1I1swe0Je7TNn) // [Arrested Development ‎– Africa's Inside Of Me - Zingalamaduni](https://youtu.be/dDf74bCatIA?si=GAx__RPKQc_fbA-z) // [Aressted Development - _Tenessee_](https://youtu.be/6VCdJyOAQYM?si=BmYEwy0x8cYNdg8f)
 
