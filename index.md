@@ -3,18 +3,23 @@ layout: default
 ---
 
 [Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy) // [Area - De LA SouL](https://youtu.be/PxiVxvbb3QY?si=_EeB0mvPOBO4eWAJ) // [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM?si=2qj3gPEDmfGcpNQ2) // [
-Oj Da Juiceman "Cop A Chicken" (Unreleased) (WSHH Exclusive - Official Music Video)](https://youtu.be/zo_Po1jUhh4) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane (Official Video)](https://youtu.be/JgCoHhsW2Is?si=gBZtsjPg1elgRXDA)
+Oj Da Juiceman "Cop A Chicken" (Unreleased) (WSHH Exclusive - Official Music Video)](https://youtu.be/zo_Po1jUhh4) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane (Official Video)](https://youtu.be/JgCoHhsW2Is?si=gBZtsjPg1elgRXDA) // [Dreezy - Chanel Slides ft. Kash Doll](https://youtu.be/mpAdintyiV8)
 
 --- 
 
 
 # MArtian Eclipse 
 ## Mars Perseverance Sol 1948:
+@nasa-jpl I think its Phobos , it was not clear in the raw images desc . . . @nasa-pds this was this month but there was one in MAy 
+_A Martian Eclipse: Phobos Crosses the Sun_ May 24, 2026 [Link](https://science.nasa.gov/image-article/apod-2026-may-24-a-martian-eclipse-phobos-crosses-the-sun/)
+I don't know the schedule yet @cbs-news-data phobos is lumpy if that helps 
 Left Mastcam-Z Camera [Link](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ)
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01948/ids/edr/browse/zcam/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ01_1200.jpg @nasa-jpl @nasa-pds ](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01948/ids/edr/browse/zcam/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ01_1200.jpg)
 
 
+## May 26th 
+[<video controls loading="lazy"  src="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/may/MarsEclipse_perseverance.mp4" />](https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/may/MarsEclipse_perseverance.mp4)
 
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240">
