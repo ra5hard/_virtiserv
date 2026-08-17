@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy)
+[Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy) // [Area - De LA SouL](https://youtu.be/PxiVxvbb3QY?si=_EeB0mvPOBO4eWAJ)
 
 --- 
 
@@ -10,7 +10,7 @@ layout: default
 # iSS Expedition 75 @TheSpaceDevs
 @Axiom-Space 
 [esc.gsfc.nasa.gov/projects/NSN](https://esc.gsfc.nasa.gov/projects/NSN) // [Expedition75](https://www.flickr.com/photos/nasa2explore/albums/72177720331083258/)
-[scan-now.gsfc.nasa.gov/sr](https://scan-now.gsfc.nasa.gov/sr) // [WHERE iS THE iSS?](https://issinfo.net/) // [@teslamotors whereisroadster.com/](https://whereisroadster.com/) + [where-is-tesla-roadster.space/live](https://where-is-tesla-roadster.space/live)
+[scan-now.gsfc.nasa.gov/sr](https://scan-now.gsfc.nasa.gov/sr) // [WHERE iS THE iSS?](https://issinfo.net/) // [@teslamotors whereisroadster.com/](https://whereisroadster.com/) + [where-is-tesla-roadster.space/live](https://where-is-tesla-roadster.space/live) [_DJ Maseo (De La Soul) Boiler Room London DJ Set_](https://youtu.be/v1Uji6CHTao?si=WzjMsW917RBW3gd6)
 <img alt="image" src="https://github.com/user-attachments/assets/ad1265af-a984-495e-a484-21b9463c3574" />
 [@Whitehouse @howard-university-web-services @blackgirlscode flickr.com/photos/nasa2explore/55457272974/in/album-72177720331083258](https://www.flickr.com/photos/nasa2explore/55457272974/in/album-72177720331083258)
 <img  alt="image" src="https://github.com/user-attachments/assets/1b0a775c-5711-442a-a7e8-328dc68a2a33" />
@@ -18,7 +18,7 @@ layout: default
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ISS_Expedition_75_Patch.png/1280px-ISS_Expedition_75_Patch.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ISS_Expedition_75_Patch.png/1280px-ISS_Expedition_75_Patch.png) 
 
 # SphereX
-is transmitting data
+is transmitting data // [@nasa PRESSKiT @LMCO](https://www.jpl.nasa.gov/press-kits/spherex/) // [_MiSSiONBLOG_ @nasa-jpl science.nasa.gov/blogs/spherex/](https://science.nasa.gov/blogs/spherex/)
 [@caltech @nasa-pds spherex.caltech.edu/](https://spherex.caltech.edu/) // [Nasa-jpl - jpl.nasa.gov/missions/spherex/](https://www.jpl.nasa.gov/missions/spherex/) // [@Nasa - science.nasa.gov/mission/spherex/](https://science.nasa.gov/mission/spherex/)
 [@nasa-jpl @nasa-pds @blackgirlscode https://eyes.nasa.gov/apps/dsn-now/dsn.html @cityoflosangeles @stateofcalifornia](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
