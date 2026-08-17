@@ -5,12 +5,15 @@ layout: default
 
 
 ## [Zina](https://en.wikipedia.org/wiki/Zina) Muhsan
-[[Sharia](https://en.wikipedia.org/wiki/Sharia) // 
+[Sharia](https://en.wikipedia.org/wiki/Sharia) // 
 [Reddit](https://www.reddit.com/r/islam/comments/uvc695/what_is_islams_view_on_adultery/) // [link](https://aboutislam.net/counseling/ask-the-scholar/crimes-penalties/god-forgive-adultery/)
 [Zina](https://share.google/aimode/CPvXZeVgSx3JWrw1w)
 [IIL songs about adultery from the cheater or affair partner’s perspective](https://www.reddit.com/r/ifyoulikeblank/comments/1khegzm/iil_songs_about_adultery_from_the_cheater_or/?rdt=64994) // [Songs About Cheating: 31 Cathartic Tunes About Toxic Relationships](https://www.udiscovermusic.com/stories/songs-about-cheating/)
 
 ![https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png](https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png)
+
+![https://static.wixstatic.com/media/36c06b_bc0724fbc65f44ada64e7](https://static.wixstatic.com/media/36c06b_bc0724fbc65f44ada64e77e437734bf9~mv2.png/v1/fill/w_438,h_65,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IM-GI%20logo%20%20(1).png)
+
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/960px-Allah-green.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/960px-Allah-green.svg.png)
 
 ---
