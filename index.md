@@ -24,6 +24,8 @@ I see u have 2 vids, I will fact check to what I have time later @nasa-jpl @blac
 [youtube.com/results?search_query=hot+97tv](https://www.youtube.com/results?search_query=hot+97tv)
 
 <img   alt="image @howard-university-web-services @whitehouse" src="https://github.com/user-attachments/assets/92e16481-d0ec-4f8d-bbe2-27834cbdf777" />
+<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_height" src="https://github.com/user-attachments/assets/d2ba9ec8-e0a7-403d-9236-ebc89476c850" />
+<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_LST" src="https://github.com/user-attachments/assets/068e5494-db2f-4006-9e0d-e9d7733bc9c9" />
 
 
 ## [Zina](https://en.wikipedia.org/wiki/Zina) Muhsan
