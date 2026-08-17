@@ -4,7 +4,9 @@ layout: default
 
 
 
-[Future - Tony Montana ](https://youtu.be/CNdySYdVe0E) // [Jeezy - All There ft. Bankroll Fresh _`SkidRow🔥🔥🔥`_](https://youtu.be/PCUS3yeND9c?t=61)
+[Future - Tony Montana ](https://youtu.be/CNdySYdVe0E) // [Jeezy - All There ft. Bankroll Fresh _`SkidRow🔥🔥🔥`_](https://youtu.be/PCUS3yeND9c?t=61) // [`chloebailey` @disney Nann Nigga · Trick Daddy](https://youtu.be/1T_gR6t394c)
+<img   alt="image" src="https://github.com/user-attachments/assets/4ae42ec1-1f49-473f-9e62-3c4b52b9eb6e" />
+
 
 ---
 
