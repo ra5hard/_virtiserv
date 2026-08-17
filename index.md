@@ -3,7 +3,7 @@ layout: default
 ---
 
 [Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy) // [Area - De LA SouL](https://youtu.be/PxiVxvbb3QY?si=_EeB0mvPOBO4eWAJ) // [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM?si=2qj3gPEDmfGcpNQ2) // [
-Oj Da Juiceman "Cop A Chicken" (Unreleased) (WSHH Exclusive - Official Music Video)](https://youtu.be/zo_Po1jUhh4)
+Oj Da Juiceman "Cop A Chicken" (Unreleased) (WSHH Exclusive - Official Music Video)](https://youtu.be/zo_Po1jUhh4) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane (Official Video)](https://youtu.be/JgCoHhsW2Is?si=gBZtsjPg1elgRXDA)
 
 --- 
 
@@ -13,6 +13,21 @@ Oj Da Juiceman "Cop A Chicken" (Unreleased) (WSHH Exclusive - Official Music Vid
 Left Mastcam-Z Camera [Link](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ)
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01948/ids/edr/browse/zcam/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ01_1200.jpg @nasa-jpl @nasa-pds ](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01948/ids/edr/browse/zcam/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ01_1200.jpg)
+
+
+
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="240">
+<a href="https://www.reddit.com/r/space/comments/u83liz/nasa_rover_captures_an_amazing_view_of_a_solar/">NASA rover captures an amazing view of a solar eclipse on Mars</a><br> by
+<a href="https://www.reddit.com/user/LeonJersey/">u/LeonJersey</a> in
+<a href="https://www.reddit.com/r/space/">space</a>
+</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+<img  alt="image @reddit @nasa-jpl " src="https://github.com/user-attachments/assets/a046ee08-5490-497b-835a-d40674df577b" />
+
+
+[Curiosity Observes Deimos ‘Eclipse’: Sol 2350](https://science.nasa.gov/resource/curiosity-observes-deimos-eclipse-sol-2350/) 
+![https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/22393_PIA23134-16.gif](https://assets.science.nasa.gov/content/dam/science/psd/mars/resources/detail_files/2/22393_PIA23134-16.gif)
 
 # iSS Expedition 75 @TheSpaceDevs
 @Axiom-Space 
