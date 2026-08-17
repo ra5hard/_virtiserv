@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy) // [Area - De LA SouL](https://youtu.be/PxiVxvbb3QY?si=_EeB0mvPOBO4eWAJ)
+[Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy) // [Area - De LA SouL](https://youtu.be/PxiVxvbb3QY?si=_EeB0mvPOBO4eWAJ) // [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM?si=2qj3gPEDmfGcpNQ2)
 
 --- 
 
