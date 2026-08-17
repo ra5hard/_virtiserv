@@ -2,7 +2,12 @@
 layout: default
 ---
 
-# @ForAtlanta [Lana J HArris](https://www.facebook.com/lanaonlocation/photos/)
+
+# Atlanta City Council Meting
+[WATCH - youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z @ForAtlanta](https://www.youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z)
+<img   alt="image" src="https://github.com/user-attachments/assets/81d9b41b-be84-4a5e-a00e-3f6a2d62700d" />
+
+### @ForAtlanta [Lana J HArris](https://www.facebook.com/lanaonlocation/photos/)
 I see u have 2 vids, I will fact check to what I have time later @nasa-jpl @blackgirlscode
 @indiana-university 
 [youtube.com/results?search_query=hot+97tv](https://www.youtube.com/results?search_query=hot+97tv)
