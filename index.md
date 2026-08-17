@@ -7,6 +7,12 @@ layout: default
 --- 
 
 
+# MArtian Eclipse 
+## Mars Perseverance Sol 1948:
+Left Mastcam-Z Camera [Link](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ)
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01948/ids/edr/browse/zcam/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ01_1200.jpg @nasa-jpl @nasa-pds ](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01948/ids/edr/browse/zcam/ZL7_1948_0839864813_757EBY_N0910000ZCAM01576_1100LMJ01_1200.jpg)
+
 # iSS Expedition 75 @TheSpaceDevs
 @Axiom-Space 
 [esc.gsfc.nasa.gov/projects/NSN](https://esc.gsfc.nasa.gov/projects/NSN) // [Expedition75](https://www.flickr.com/photos/nasa2explore/albums/72177720331083258/)
