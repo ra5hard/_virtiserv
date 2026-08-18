@@ -17,6 +17,7 @@ layout: default
 <img  alt="image [Regular City Council - 8/18/26](https://www.youtube.com/live/2Wm-11hPNns?si=1mRE1_vNxUvWpSOF)
 [WATCh - youtube.com/live/ @cityoflosangeles ](youtube.com/live/2Wm-11hPNns?si=1mRE1_vNxUvWpSOF) // [jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/ @blackgirlscode ](https://www.jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/)" src="https://github.com/user-attachments/assets/aaee37bb-7507-43fe-baa4-d026d98ffc53" />
 
+### presented topices @la-county-isd @nasa-pds @cityoflosangeles [Scientology](https://www.scientology-losangeles.org/) 
 ![https://files.scientology.org/imagecache/cropfit@h=50@sig=OpeeZgxM5k/data/www.scientology.org/files/orgs/los-angeles/org_logo-lad_en.png](https://files.scientology.org/imagecache/cropfit@h=50@sig=OpeeZgxM5k/data/www.scientology.org/files/orgs/los-angeles/org_logo-lad_en.png) 
 
 Los Angeles in Buildings: [Scientology](https://share.google/aimode/A4KA6aYwGLApOB1mp) Pacific Area Command Base [Read @pbs @newshour](https://www.pbssocal.org/shows/lost-la/los-angeles-in-buildings-scientology-pacific-area-command-base)
