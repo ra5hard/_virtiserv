@@ -2,6 +2,41 @@
 layout: default
 ---
 
+# A 100-Year Flood Just Broke Every Record In Indiana
+[WATCH - youtu.be/R4mMs2AQ8Es?si=Za-gr-sSthXeleLS](https://youtu.be/R4mMs2AQ8Es?si=Za-gr-sSthXeleLS)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/baf5b5d4-c957-427b-9c87-83f18880cad3" />
+
+### @ForAtlanta [Lana J HArris](https://www.facebook.com/lanaonlocation/photos/)
+I see u have 2 vids, I will fact check to what I have time later @nasa-jpl @blackgirlscode
+@indiana-university 
+[youtube.com/results?search_query=hot+97tv](https://www.youtube.com/results?search_query=hot+97tv)
+
+<img   alt="image @howard-university-web-services @whitehouse" src="https://github.com/user-attachments/assets/92e16481-d0ec-4f8d-bbe2-27834cbdf777" />
+<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_height" src="https://github.com/user-attachments/assets/d2ba9ec8-e0a7-403d-9236-ebc89476c850" />
+<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_LST" src="https://github.com/user-attachments/assets/068e5494-db2f-4006-9e0d-e9d7733bc9c9" />
+<img src="https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_45822_007_16SEJ_20260804T215753_0713_01/ECOv002_L2T_LSTE_45822_007_16SEJ_20260804T215753_0713_01.png?A-userid=None&amp;Expires=1786996738&amp;Signature=HVVAHzeKzb-xTQZgZQp6d9CEidRLw6ceHN4iaZeh4ep9UwXdL~17moPYR65rVC3UgIix8HBPtGweXDuZTK7h36~-j0pWCJVWxaEyblleWKbpvucQGc2UurUa1c9RKbiWJ3ZK8ARIaPajy9DG5j6TEa~-Af6xv~9CKzDlKsaIzKtyVqo1csOpzex91CkruvKs~OpS0T5oW3NgXL9Dax-UKaIQrgSLDdHlsaLnPVcETjqM~sSRBjN6XHzjNK5XG4zwaXg7Nd~k6VsgZYnpbfq~DgTwNMXm1Z6kWi0hM~Tn1cHj0g5HgCWGszZinA-4dUDJEPqRlrsCV4WXAMhW4uwIwg__&amp;Key-Pair-Id=K1YSFPQQRV4KAK"/>
+
+# Atlanta City Council Meting
+[WATCH - youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z @ForAtlanta](https://www.youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z)
+[@doug-newman-nasa](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract) // [[1 @LinkediN](https://www.linkedin.com/in/doug-newman-682037390)] I have been working this from a @nasa-develop [Langly](https://www.nasa.gov/langley/) perspective and really don't know if my team knows I spotted the [eclipse](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg) // [[1](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812185035.jpg) @nasa-openscapes @cityoflosangeles] idk, @nasa-jpl under earthdata I really want my review at some point later! @whitehouse @dhs-gov [DSCOVR EPIC Level 2 UV Aerosol Version 4 Data Released - earthdata.nasa.gov](https://www.earthdata.nasa.gov/data/alerts-outages/dscovr-epic-level-2-uv-aerosol-version-4-data-released)
+<img   alt="image" src="https://github.com/user-attachments/assets/81d9b41b-be84-4a5e-a00e-3f6a2d62700d" />
+
+
+
+## [Zina](https://en.wikipedia.org/wiki/Zina) Muhsan
+[Sharia](https://en.wikipedia.org/wiki/Sharia) // 
+[Reddit](https://www.reddit.com/r/islam/comments/uvc695/what_is_islams_view_on_adultery/) // [link](https://aboutislam.net/counseling/ask-the-scholar/crimes-penalties/god-forgive-adultery/) // [Shirk](https://www.reddit.com/r/progressive_islam/comments/1fpc2l3/shirk_is_the_most_unforgivable_sin_in_islam_but/)
+[Zina](https://share.google/aimode/CPvXZeVgSx3JWrw1w)
+[IIL songs about adultery from the cheater or affair partner’s perspective](https://www.reddit.com/r/ifyoulikeblank/comments/1khegzm/iil_songs_about_adultery_from_the_cheater_or/?rdt=64994) // [Songs About Cheating: 31 Cathartic Tunes About Toxic Relationships](https://www.udiscovermusic.com/stories/songs-about-cheating/)
+
+![https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png](https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png)
+
+![https://static.wixstatic.com/media/36c06b_bc0724fbc65f44ada64e7](https://static.wixstatic.com/media/36c06b_bc0724fbc65f44ada64e77e437734bf9~mv2.png/v1/fill/w_438,h_65,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IM-GI%20logo%20%20(1).png)
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/960px-Allah-green.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/960px-Allah-green.svg.png)
+
+
 ## Rally with Keisha Lance Bottoms and Jon Ossoff
 <img alt="image" src="https://github.com/user-attachments/assets/edfd6ee1-b36b-4cfc-af9a-4e35b581240b" />
 
@@ -74,33 +109,6 @@ is transmitting data // [@nasa PRESSKiT @LMCO](https://www.jpl.nasa.gov/press-ki
 
 
 ---
-
-# Atlanta City Council Meting
-[WATCH - youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z @ForAtlanta](https://www.youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z)
-[@doug-newman-nasa](https://ui.adsabs.harvard.edu/abs/2023AGUFMIN31B0651D/abstract) // [[1 @LinkediN](https://www.linkedin.com/in/doug-newman-682037390)] I have been working this from a @nasa-develop [Langly](https://www.nasa.gov/langley/) perspective and really don't know if my team knows I spotted the [eclipse](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812174507.jpg) // [[1](https://epic.gsfc.nasa.gov/archive/natural/2026/08/12/jpg/epic_1b_20260812185035.jpg) @nasa-openscapes @cityoflosangeles] idk, @nasa-jpl under earthdata I really want my review at some point later! @whitehouse @dhs-gov [DSCOVR EPIC Level 2 UV Aerosol Version 4 Data Released - earthdata.nasa.gov](https://www.earthdata.nasa.gov/data/alerts-outages/dscovr-epic-level-2-uv-aerosol-version-4-data-released)
-<img   alt="image" src="https://github.com/user-attachments/assets/81d9b41b-be84-4a5e-a00e-3f6a2d62700d" />
-
-### @ForAtlanta [Lana J HArris](https://www.facebook.com/lanaonlocation/photos/)
-I see u have 2 vids, I will fact check to what I have time later @nasa-jpl @blackgirlscode
-@indiana-university 
-[youtube.com/results?search_query=hot+97tv](https://www.youtube.com/results?search_query=hot+97tv)
-
-<img   alt="image @howard-university-web-services @whitehouse" src="https://github.com/user-attachments/assets/92e16481-d0ec-4f8d-bbe2-27834cbdf777" />
-<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_height" src="https://github.com/user-attachments/assets/d2ba9ec8-e0a7-403d-9236-ebc89476c850" />
-<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_LST" src="https://github.com/user-attachments/assets/068e5494-db2f-4006-9e0d-e9d7733bc9c9" />
-<img src="https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_45822_007_16SEJ_20260804T215753_0713_01/ECOv002_L2T_LSTE_45822_007_16SEJ_20260804T215753_0713_01.png?A-userid=None&amp;Expires=1786996738&amp;Signature=HVVAHzeKzb-xTQZgZQp6d9CEidRLw6ceHN4iaZeh4ep9UwXdL~17moPYR65rVC3UgIix8HBPtGweXDuZTK7h36~-j0pWCJVWxaEyblleWKbpvucQGc2UurUa1c9RKbiWJ3ZK8ARIaPajy9DG5j6TEa~-Af6xv~9CKzDlKsaIzKtyVqo1csOpzex91CkruvKs~OpS0T5oW3NgXL9Dax-UKaIQrgSLDdHlsaLnPVcETjqM~sSRBjN6XHzjNK5XG4zwaXg7Nd~k6VsgZYnpbfq~DgTwNMXm1Z6kWi0hM~Tn1cHj0g5HgCWGszZinA-4dUDJEPqRlrsCV4WXAMhW4uwIwg__&amp;Key-Pair-Id=K1YSFPQQRV4KAK"/>
-
-## [Zina](https://en.wikipedia.org/wiki/Zina) Muhsan
-[Sharia](https://en.wikipedia.org/wiki/Sharia) // 
-[Reddit](https://www.reddit.com/r/islam/comments/uvc695/what_is_islams_view_on_adultery/) // [link](https://aboutislam.net/counseling/ask-the-scholar/crimes-penalties/god-forgive-adultery/) // [Shirk](https://www.reddit.com/r/progressive_islam/comments/1fpc2l3/shirk_is_the_most_unforgivable_sin_in_islam_but/)
-[Zina](https://share.google/aimode/CPvXZeVgSx3JWrw1w)
-[IIL songs about adultery from the cheater or affair partner’s perspective](https://www.reddit.com/r/ifyoulikeblank/comments/1khegzm/iil_songs_about_adultery_from_the_cheater_or/?rdt=64994) // [Songs About Cheating: 31 Cathartic Tunes About Toxic Relationships](https://www.udiscovermusic.com/stories/songs-about-cheating/)
-
-![https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png](https://upload.wikimedia.org/wikipedia/commons/0/03/ALFiqh.png)
-
-![https://static.wixstatic.com/media/36c06b_bc0724fbc65f44ada64e7](https://static.wixstatic.com/media/36c06b_bc0724fbc65f44ada64e77e437734bf9~mv2.png/v1/fill/w_438,h_65,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IM-GI%20logo%20%20(1).png)
-
-![https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/960px-Allah-green.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Allah-green.svg/960px-Allah-green.svg.png)
 
 ---
 
