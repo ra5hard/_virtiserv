@@ -6,16 +6,20 @@ layout: default
 [WATCH - youtu.be/R4mMs2AQ8Es?si=Za-gr-sSthXeleLS](https://youtu.be/R4mMs2AQ8Es?si=Za-gr-sSthXeleLS)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/baf5b5d4-c957-427b-9c87-83f18880cad3" />
+<img   alt="image @howard-university-web-services @whitehouse" src="https://github.com/user-attachments/assets/92e16481-d0ec-4f8d-bbe2-27834cbdf777" />
+<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_height" src="https://github.com/user-attachments/assets/d2ba9ec8-e0a7-403d-9236-ebc89476c850" />
+<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_LST" src="https://github.com/user-attachments/assets/068e5494-db2f-4006-9e0d-e9d7733bc9c9" />
+<img src="https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_45822_007_16SEJ_20260804T215753_0713_01/ECOv002_L2T_LSTE_45822_007_16SEJ_20260804T215753_0713_01.png?A-userid=None&amp;Expires=1786996738&amp;Signature=HVVAHzeKzb-xTQZgZQp6d9CEidRLw6ceHN4iaZeh4ep9UwXdL~17moPYR65rVC3UgIix8HBPtGweXDuZTK7h36~-j0pWCJVWxaEyblleWKbpvucQGc2UurUa1c9RKbiWJ3ZK8ARIaPajy9DG5j6TEa~-Af6xv~9CKzDlKsaIzKtyVqo1csOpzex91CkruvKs~OpS0T5oW3NgXL9Dax-UKaIQrgSLDdHlsaLnPVcETjqM~sSRBjN6XHzjNK5XG4zwaXg7Nd~k6VsgZYnpbfq~DgTwNMXm1Z6kWi0hM~Tn1cHj0g5HgCWGszZinA-4dUDJEPqRlrsCV4WXAMhW4uwIwg__&amp;Key-Pair-Id=K1YSFPQQRV4KAK"/>
 
 ### @ForAtlanta [Lana J HArris](https://www.facebook.com/lanaonlocation/photos/)
 I see u have 2 vids, I will fact check to what I have time later @nasa-jpl @blackgirlscode
 @indiana-university 
 [youtube.com/results?search_query=hot+97tv](https://www.youtube.com/results?search_query=hot+97tv)
 
-<img   alt="image @howard-university-web-services @whitehouse" src="https://github.com/user-attachments/assets/92e16481-d0ec-4f8d-bbe2-27834cbdf777" />
-<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_height" src="https://github.com/user-attachments/assets/d2ba9ec8-e0a7-403d-9236-ebc89476c850" />
-<img  alt="ECOv002_L2T_LSTE_45822_007_16TEK_20260804T215753_0713_01_LST" src="https://github.com/user-attachments/assets/068e5494-db2f-4006-9e0d-e9d7733bc9c9" />
-<img src="https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_45822_007_16SEJ_20260804T215753_0713_01/ECOv002_L2T_LSTE_45822_007_16SEJ_20260804T215753_0713_01.png?A-userid=None&amp;Expires=1786996738&amp;Signature=HVVAHzeKzb-xTQZgZQp6d9CEidRLw6ceHN4iaZeh4ep9UwXdL~17moPYR65rVC3UgIix8HBPtGweXDuZTK7h36~-j0pWCJVWxaEyblleWKbpvucQGc2UurUa1c9RKbiWJ3ZK8ARIaPajy9DG5j6TEa~-Af6xv~9CKzDlKsaIzKtyVqo1csOpzex91CkruvKs~OpS0T5oW3NgXL9Dax-UKaIQrgSLDdHlsaLnPVcETjqM~sSRBjN6XHzjNK5XG4zwaXg7Nd~k6VsgZYnpbfq~DgTwNMXm1Z6kWi0hM~Tn1cHj0g5HgCWGszZinA-4dUDJEPqRlrsCV4WXAMhW4uwIwg__&amp;Key-Pair-Id=K1YSFPQQRV4KAK"/>
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/30db4df5-5ad9-41c0-bb85-698e4e741053" />
+
 
 # Atlanta City Council Meting
 [WATCH - youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z @ForAtlanta](https://www.youtube.com/live/J-oQjmgyzNk?si=sR7_1SSAV-9HxR5z)
