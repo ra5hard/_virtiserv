@@ -12,7 +12,7 @@ layout: default
 
  # U.S. SPACEWALK 79
  @ESA @NASA idk what to do for these events, i dont know what support you need, esecially ifi miss the briefing, im sorry @nasa-jpl ill see . . well maybe NSN will work better and its ground data's special event where we are getting fixed to work better @doug-newman-nasa @nasa-pds 
-// bonus @CityOfLosAngeles [TMZ Live - Streaming Live From The Newsroom @StateOfCalifornia @Nasa-pds @USGS @lmco](https://youtu.be/EEhylRTXBP8) ///// ["Why go to the moon?" - John F. Kennedy at @RiceUniversity](https://youtu.be/QXqlziZV63k) ///////// [library.rice.edu/courses/introduction-github-0](https://library.rice.edu/courses/introduction-github-0)
+// bonus @CityOfLosAngeles [TMZ Live - Streaming Live From The Newsroom @StateOfCalifornia @Nasa-pds @USGS @lmco](https://youtu.be/EEhylRTXBP8) ///// ["Why go to the moon?" - John F. Kennedy at @RiceUniversity](https://youtu.be/QXqlziZV63k) ///////// [library.rice.edu/courses/introduction-github-0](https://library.rice.edu/courses/introduction-github-0) //////// [Commercialization of NASA Communications and Navigation Network for `Direct-to-Earth Radio Frequency Services` @nasa-jpl ](https://gousvba.org/commercialization-of-nasa-communications-and-navigation-network-for-direct-to-earth-radio-frequency-services/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yW-VAhqVJok?si=J7IyylYXmpRXddG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
