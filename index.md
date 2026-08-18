@@ -18,6 +18,9 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/f2dc4cbb-2861-4ce9-a5ab-772f9dd9ceff" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/8e69ea57-2ea6-4ce2-a55e-df37a61fd4f0" />
 
 
