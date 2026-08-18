@@ -10,7 +10,16 @@ layout: default
 ---
 
 ## 8/18 {{ page.date | date: "%B %d, %Y" }}
-@nasa-jpl @howard-university-web-services logging in and will b strong for [lana](https://www.instagram.com/lanajharris/?hl=en)
+[youtube.com/results?search_query=hot+97+tv](https://www.youtube.com/results?search_query=hot+97+tv)
+@nasa-jpl @howard-university-web-services logging in and will b strong for [lana](https://www.instagram.com/lanajharris/?hl=en) [`Heaven for A Gangsta` - Master - P](https://youtu.be/Eu1y58hzEEM) // @blackgirlscode @foratlanta ... @nasa-pds idk how we can use this outlet but [fernbank](https://fernbankmuseum.org/) is there and if they want some [science discussions](https://science.nasa.gov/earth-science/) maybe [we can link vi lana @landsat @usgs](https://www.jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/) @stateofcalifornia 
+<img alt="image" src="https://github.com/user-attachments/assets/cbebb0cf-ae34-434d-afc5-351d3d88e15a" />
+
+
+
+![https://fernbankmuseum.org/media/kugpki3e/fmnh_logorefresh_final_full_color.svg](https://fernbankmuseum.org/media/kugpki3e/fmnh_logorefresh_final_full_color.svg)
+
+![ @blackgirlscode @foratlanta ... @nasa-pds idk how we can use this outlet but fernbank is there and if they want some science discussions maybe we can link vi lana @landsat](https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png)
+
 
 # A 100-Year Flood Just Broke Every Record In Indiana
 [WATCH - youtu.be/R4mMs2AQ8Es?si=Za-gr-sSthXeleLS](https://youtu.be/R4mMs2AQ8Es?si=Za-gr-sSthXeleLS)
