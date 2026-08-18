@@ -18,6 +18,8 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/9afd0f18-ea48-4624-a7cc-4d61fee9ea06" />
+
 
 ## Trump Friendly With North Korea, Another Migrant Wave In Ceuta, Mass Shootings
  HOT 97 News 8/17/26
