@@ -10,7 +10,10 @@ layout: default
 ---
 
 # Live: Tupac Shakur murder trial (Aug. 18, Part 3)
-[WATCH - youtube.com/live/HlyZbRR4WzI?si=IdUoOGtf7N_4ZIZd](https://www.youtube.com/live/HlyZbRR4WzI?si=IdUoOGtf7N_4ZIZd)
+[WATCH - youtube.com/live/HlyZbRR4WzI?si=IdUoOGtf7N_4ZIZd @nbcnews @usatoday](https://www.youtube.com/live/HlyZbRR4WzI?si=IdUoOGtf7N_4ZIZd)
+@newshour ppl from entertainment tolld super crazy storys about our spaceagency and know nothing of how our military functions @deptofwar tell them they can kill but there is always followup @fbicyber @cityoflosangeles @longbeachinnovationteam 
+<img  alt="image" src="https://github.com/user-attachments/assets/f4af147d-e482-4c34-ba25-ed45f081e77d" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/0ac94d13-a507-4f57-85c7-04838894b89d" />
 
 [war.gov/UFO/?releaseDate=Release+05&release=05](https://www.war.gov/UFO/?releaseDate=Release+05&release=05)
