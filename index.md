@@ -19,6 +19,13 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/01720054-f82f-426a-8b7e-ed07481056c4" />
+
+
+@nasa-jpl i found a good report, they are coming in its a 6 our report of [@NoaaGov X-Ray Flux](https://www.spaceweather.gov/products/goes-x-ray-flux)
+<img  alt="chart" src="https://github.com/user-attachments/assets/f7884c4c-b735-4cbc-a0b0-97a1d2ed06ee" />
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/db5e849f-08f8-4d9f-87fa-e988a58e1d08" />
 
 
