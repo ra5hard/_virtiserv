@@ -19,6 +19,12 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img alt="image" src="https://github.com/user-attachments/assets/db5e849f-08f8-4d9f-87fa-e988a58e1d08" />
+
+
+<img  alt="GIOVANNI-outputauthQsoP @doug-newman-nasa @nasa-openscapes" src="https://github.com/user-attachments/assets/6e2ac5b9-41c9-4b8c-9b58-64675f01bb7a" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/0f588acd-2d75-4d37-884c-8c00d406d35c" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/468e1469-2b11-4ee5-961a-712d7a632880" />
