@@ -11,12 +11,21 @@ layout: default
 
 
  # U.S. SPACEWALK 79
- @ESA @NASA idk what to do for these events, i dont know what support you need, esecially ifi miss the briefing, im sorry @nasa-jpl ill see . . well maybe NSN will work better and its ground data's special event where we are getting fixed to work better @doug-newman-nasa @nasa-pds 
-// bonus @CityOfLosAngeles [TMZ Live - Streaming Live From The Newsroom @StateOfCalifornia @Nasa-pds @USGS @lmco](https://youtu.be/EEhylRTXBP8) ///// ["Why go to the moon?" - John F. Kennedy at @RiceUniversity](https://youtu.be/QXqlziZV63k) ///////// [library.rice.edu/courses/introduction-github-0](https://library.rice.edu/courses/introduction-github-0) //////// [Commercialization of NASA Communications and Navigation Network for `Direct-to-Earth Radio Frequency Services` @nasa-jpl ](https://gousvba.org/commercialization-of-nasa-communications-and-navigation-network-for-direct-to-earth-radio-frequency-services/)
+
+
+@nasa-pds @nasa-openscapes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yW-VAhqVJok?si=J7IyylYXmpRXddG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@nasa from @LongBeachPublicLib i cannot access NearSpaceNetwork monitoring so im darkfor the spacewalk from here #SPACEBEACH @rexrichardsonforlongbeachmayor @HollyMitchell47 youtube.com/live/yW-VAhqVJok?si=ZUfC41vwIEk1aFNC @nasajpl @nasaearthdata i will see what else i can check and be productive @ReelNASA nasa.gov/blogs/spacestation/2026/08/07/space-station-crew-wraps-busy-week-plans-new-date-for-us-spacewalk-97/ @repkarenbass @itsgavinnewsom @keishaforga scan-now.gsfc.nasa.gov/ @U.S.SpaceForce
+this comment on youtube on _Trump Friendly With North Korea, Another Migrant Wave In Ceuta, Mass Shootings | HOT 97 News 8/17/26_ [watch](https://youtu.be/wxpmo2eFYCw?t=1835)
+<img   alt="image" src="https://github.com/user-attachments/assets/795c33fa-b8fa-4944-ba0d-b14859e5ac6b" />
+
+ @ESA @NASA idk what to do for these events, i dont know what support you need, esecially ifi miss the briefing, im sorry @nasa-jpl ill see . . well maybe NSN will work better and its ground data's special event where we are getting fixed to work better @doug-newman-nasa @nasa-pds 
+// bonus @CityOfLosAngeles [TMZ Live - Streaming Live From The Newsroom @StateOfCalifornia @Nasa-pds @USGS @lmco](https://youtu.be/EEhylRTXBP8) ///// ["Why go to the moon?" - John F. Kennedy at @RiceUniversity](https://youtu.be/QXqlziZV63k) ///////// [library.rice.edu/courses/introduction-github-0](https://library.rice.edu/courses/introduction-github-0) //////// [Commercialization of NASA Communications and Navigation Network for `Direct-to-Earth Radio Frequency Services` @nasa-jpl ](https://gousvba.org/commercialization-of-nasa-communications-and-navigation-network-for-direct-to-earth-radio-frequency-services/)
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/5467c244-3da8-4c82-bcbd-cae0510d2ae2" />
 
