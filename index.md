@@ -2,6 +2,15 @@
 layout: default
 ---
 
+## Rally with Keisha Lance Bottoms and Jon Ossoff
+<img alt="image" src="https://github.com/user-attachments/assets/edfd6ee1-b36b-4cfc-af9a-4e35b581240b" />
+
+```shell
+@KeishaForGA hi its rashard, i dont know what i am to you, but i never got closure on erikas vanishing @Lanajharris im sorry @atlantamasjid if i have another chance at love #ALLAHisMERCiFUL and COMPASSiONATE and i am the victim of a vandalized matriarchy @itsgavinnewsom @repkarenbass im sorry @hot97 i will not abandon lana to federal shit for support, i was abandoned so i could drift and went a lot of places @nfl but never long enough to build a relationshi0p, im just hurting hormomally from those past connections finding and genital contact after the initial link @chloebaileywashere @KeishaForGA hi its rashard, i dont know what i am to you, but i never got closure on erikas vanishing @Lanajharris im sorry @atlantamasjid if i have another chance at love #ALLAHisMERCiFUL and COMPASSiONATE and i am the victim of a vandalized matriarchy @itsgavinnewsom @repkarenbass im sorry @hot97 i will not abandon lana to federal shit for support, i was abandoned so i could drift and went a lot of places @nfl but never long enough to build a relationshi0p, im just hurting hormomally from those past connections finding and genital contact after the initial link @chloebaileywashere @officialfuturevideos @childishgambino @SZA @childishgambino
+```
+
+--- 
+
 [Pubic Enemy · A Tribe Called Quest](https://youtu.be/M2fqWjKlPpo?si=e-_zgldIpi8U0gYy) // [Area - De LA SouL](https://youtu.be/PxiVxvbb3QY?si=_EeB0mvPOBO4eWAJ) // [OJ Da Juiceman - Frank Sinatra](https://youtu.be/XCz2BhlS1YM?si=2qj3gPEDmfGcpNQ2) // [
 Oj Da Juiceman "Cop A Chicken" (Unreleased) (WSHH Exclusive - Official Music Video)](https://youtu.be/zo_Po1jUhh4) // [OJ Da Juiceman - Make Tha Trap Say Aye ft. Gucci Mane (Official Video)](https://youtu.be/JgCoHhsW2Is?si=gBZtsjPg1elgRXDA) // [Dreezy - Chanel Slides ft. Kash Doll](https://youtu.be/mpAdintyiV8)
 
