@@ -9,6 +9,11 @@ layout: default
 
 ---
 
+
+@nasa-jpl @usnavy i think someone is blockingg our signals to madrid
+[https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/8533a9ce-4a0a-47fe-a957-719f3ddb7aef" />
+
 ## 8/18 {{ page.date | date: "%B %d, %Y" }}
 
 
