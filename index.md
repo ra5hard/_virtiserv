@@ -28,7 +28,9 @@ Los Angeles in Buildings: [Scientology](https://share.google/aimode/A4KA6aYwGLAp
 
 ![https://www.scientology-losangeles.org/images/scientology-logos/scientology-logo-dark_en.svg](https://www.scientology-losangeles.org/images/scientology-logos/scientology-logo-dark_en.svg)
 
-
+### 26 FEA SCIENTOLOGY 4833 Fountain Ave. [READ](https://www.hollywoodreporter.com/business/business-news/historic-hollywood-holdings-213547/attachment/img5712_a_l/)
+The former hospital, designed by noted L.A. architect Claud Beelman, provided care for Hollywood stars such as Marilyn Monroe, Errol Flynn, Mae West and Burt Lancaster. The 500,000-square-foot property houses Scientology's West Coast headquarters and main Los Angeles church.
+[hollywoodreporter.com/business/business-news/historic-hollywood](https://www.hollywoodreporter.com/business/business-news/historic-hollywood-holdings-213547/attachment/img5712_a_l/)
 
 [youtube.com/results?search_query=hot+97+tv](https://www.youtube.com/results?search_query=hot+97+tv)
 @nasa-jpl @howard-university-web-services logging in and will b strong for [lana](https://www.instagram.com/lanajharris/?hl=en) [`Heaven for A Gangsta` - Master - P](https://youtu.be/Eu1y58hzEEM) // @blackgirlscode @foratlanta ... @nasa-pds idk how we can use this outlet but [fernbank](https://fernbankmuseum.org/) is there and if they want some [science discussions](https://science.nasa.gov/earth-science/) maybe [we can link vi lana @landsat @usgs](https://www.jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/) @stateofcalifornia 
