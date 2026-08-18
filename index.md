@@ -10,6 +10,21 @@ layout: default
 ---
 
 
+ # U.S. SPACEWALK 79
+ @ESA @NASA idk what to do for these events, i dont know what support you need, esecially ifi miss the briefing, im sorry @nasa-jpl ill see . . well maybe NSN will work better and its ground data's special event where we are getting fixed to work better @doug-newman-nasa @nasa-pds 
+// bonus @CityOfLosAngeles [TMZ Live - Streaming Live From The Newsroom @StateOfCalifornia @Nasa-pds @USGS](https://youtu.be/EEhylRTXBP8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yW-VAhqVJok?si=J7IyylYXmpRXddG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Trump Friendly With North Korea, Another Migrant Wave In Ceuta, Mass Shootings
+ HOT 97 News 8/17/26
+[Watch - https://youtu.be/wxpmo2eFYCw?si=WBIgKHZlIYT_j6Oo](https://youtu.be/wxpmo2eFYCw?si=WBIgKHZlIYT_j6Oo)
+<img alt="image" src="https://github.com/user-attachments/assets/204a1980-700e-451a-8652-0f7487831ce4" />
+
+
 @nasa-jpl @usnavy i think someone is blockingg our signals to madrid
 [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/8533a9ce-4a0a-47fe-a957-719f3ddb7aef" />
