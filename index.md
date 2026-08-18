@@ -19,9 +19,20 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<img  alt="image" src="https://github.com/user-attachments/assets/01720054-f82f-426a-8b7e-ed07481056c4" />
+<img   alt="image" src="https://github.com/user-attachments/assets/6794e0b7-6136-4822-aae5-c173a03ce19e" />
 
-![https://www.spaceweather.gov/themes/custom/swpc/images/logos/nws_logo.svg](https://www.spaceweather.gov/themes/custom/swpc/images/logos/nws_logo.svg)
+@nasa-jpl make sure my name on it @doug-newman-nasa
+we got minor geomagnetic storms and they still outside @nasa @deptofwar @blackgirlscode 
+Power systems: Weak power grid fluctuations can occur.
+Spacecraft operations: Minor impact on satellite operations possible.
+Other systems: Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
+<img  alt="image @nasa-jpl make sure my name on it @doug-newman-nasa" src="https://github.com/user-attachments/assets/8df8d1e1-7516-4f6c-9e65-2585c257b796" />
+
+<img   alt="image @nasa-jpl make sure my name on it @doug-newman-nasa" src="https://github.com/user-attachments/assets/eed677b1-06cb-4a3e-a5a0-4d95f533bc7f" />
+
+<img  alt="image @nasa-jpl make sure my name on it @doug-newman-nasa " src="https://github.com/user-attachments/assets/01720054-f82f-426a-8b7e-ed07481056c4" />
+
+![https://www.spaceweather.gov/themes/custom/swpc/images/logos/nws_logo.svg @nasa-jpl make sure my name on it @doug-newman-nasa](https://www.spaceweather.gov/themes/custom/swpc/images/logos/nws_logo.svg)
 
 @nasa-jpl i found a good report, they are coming in its a 6 our report of [@NoaaGov X-Ray Flux](https://www.spaceweather.gov/products/goes-x-ray-flux)
 <img  alt="chart" src="https://github.com/user-attachments/assets/f7884c4c-b735-4cbc-a0b0-97a1d2ed06ee" />
