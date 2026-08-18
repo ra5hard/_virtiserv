@@ -19,6 +19,9 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4864b496-92b7-45e2-8009-04d3b1418bac" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/515432cd-3104-4834-8e5a-a4ebd3133765" />
 
 @nasa from @LongBeachPublicLib i cannot access NearSpaceNetwork monitoring so im darkfor the spacewalk from here #SPACEBEACH @rexrichardsonforlongbeachmayor @HollyMitchell47 [youtube.com/live/yW-VAhqVJok?si=ZUfC41vwIEk1aFNC](youtube.com/live/yW-VAhqVJok?si=ZUfC41vwIEk1aFNC) @nasajpl @nasaearthdata i will see what else i can check and be productive @ReelNASA [nasa.gov/blogs/spacestation/2026/08/07/space-station-crew-wraps-busy-week-plans-new-date-for-us-spacewalk-97/](nasa.gov/blogs/spacestation/2026/08/07/space-station-crew-wraps-busy-week-plans-new-date-for-us-spacewalk-97/) @repkarenbass @itsgavinnewsom @keishaforga [scan-now.gsfc.nasa.gov/](scan-now.gsfc.nasa.gov/) @U.S.SpaceForce
