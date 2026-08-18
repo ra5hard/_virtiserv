@@ -13,7 +13,7 @@ layout: default
 
 
 [Regular City Council - 8/18/26](https://www.youtube.com/live/2Wm-11hPNns?si=1mRE1_vNxUvWpSOF)
-[WATCh - youtube.com/live/ @cityoflosangeles ](youtube.com/live/2Wm-11hPNns?si=1mRE1_vNxUvWpSOF)
+[WATCh - youtube.com/live/ @cityoflosangeles ](youtube.com/live/2Wm-11hPNns?si=1mRE1_vNxUvWpSOF) // [jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/ @blackgirlscode ](https://www.jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/)
 <img  alt="image" src="https://github.com/user-attachments/assets/aaee37bb-7507-43fe-baa4-d026d98ffc53" />
 
 [youtube.com/results?search_query=hot+97+tv](https://www.youtube.com/results?search_query=hot+97+tv)
