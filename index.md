@@ -21,6 +21,7 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/01720054-f82f-426a-8b7e-ed07481056c4" />
 
+![https://www.spaceweather.gov/themes/custom/swpc/images/logos/nws_logo.svg](https://www.spaceweather.gov/themes/custom/swpc/images/logos/nws_logo.svg)
 
 @nasa-jpl i found a good report, they are coming in its a 6 our report of [@NoaaGov X-Ray Flux](https://www.spaceweather.gov/products/goes-x-ray-flux)
 <img  alt="chart" src="https://github.com/user-attachments/assets/f7884c4c-b735-4cbc-a0b0-97a1d2ed06ee" />
