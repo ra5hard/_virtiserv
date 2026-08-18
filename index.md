@@ -17,6 +17,13 @@ layout: default
 <img  alt="image [Regular City Council - 8/18/26](https://www.youtube.com/live/2Wm-11hPNns?si=1mRE1_vNxUvWpSOF)
 [WATCh - youtube.com/live/ @cityoflosangeles ](youtube.com/live/2Wm-11hPNns?si=1mRE1_vNxUvWpSOF) // [jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/ @blackgirlscode ](https://www.jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/)" src="https://github.com/user-attachments/assets/aaee37bb-7507-43fe-baa4-d026d98ffc53" />
 
+
+Los Angeles in Buildings: Scientology Pacific Area Command Base [Read @pbs @newshour](https://www.pbssocal.org/shows/lost-la/los-angeles-in-buildings-scientology-pacific-area-command-base)
+
+![https://kcet.brightspotcdn.com/dims4/default/f738689/2147483647/strip/true/crop/1920x643+0+0/resize/848x284!/format/webp/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.us-east-1.amazonaws.com%2Flegacy%2Fsites%2Fkl%2Ffiles%2Fthumbnails%2Fimage%2Fscientologybuilding_643.jpg](https://kcet.brightspotcdn.com/dims4/default/f738689/2147483647/strip/true/crop/1920x643+0+0/resize/848x284!/format/webp/quality/90/?url=http%3A%2F%2Fkcet-brightspot.s3.us-east-1.amazonaws.com%2Flegacy%2Fsites%2Fkl%2Ffiles%2Fthumbnails%2Fimage%2Fscientologybuilding_643.jpg)
+
+
+
 [youtube.com/results?search_query=hot+97+tv](https://www.youtube.com/results?search_query=hot+97+tv)
 @nasa-jpl @howard-university-web-services logging in and will b strong for [lana](https://www.instagram.com/lanajharris/?hl=en) [`Heaven for A Gangsta` - Master - P](https://youtu.be/Eu1y58hzEEM) // @blackgirlscode @foratlanta ... @nasa-pds idk how we can use this outlet but [fernbank](https://fernbankmuseum.org/) is there and if they want some [science discussions](https://science.nasa.gov/earth-science/) maybe [we can link vi lana @landsat @usgs](https://www.jpl.nasa.gov/work-with-us/acquisition/small_business_opportunities/) @stateofcalifornia 
 <img alt="image" src="https://github.com/user-attachments/assets/cbebb0cf-ae34-434d-afc5-351d3d88e15a" />
