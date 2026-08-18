@@ -29,7 +29,7 @@ Los Angeles in Buildings: [Scientology](https://share.google/aimode/A4KA6aYwGLAp
 ![https://www.scientology-losangeles.org/images/scientology-logos/scientology-logo-dark_en.svg](https://www.scientology-losangeles.org/images/scientology-logos/scientology-logo-dark_en.svg)
 
 ### 26 FEA SCIENTOLOGY 4833 Fountain Ave. [READ](https://www.hollywoodreporter.com/business/business-news/historic-hollywood-holdings-213547/attachment/img5712_a_l/)
-The former hospital, designed by noted L.A. architect Claud Beelman, provided care for Hollywood stars such as Marilyn Monroe, Errol Flynn, Mae West and Burt Lancaster. The 500,000-square-foot property houses Scientology's West Coast headquarters and main Los Angeles church.
+The former hospital, designed by noted L.A. architect Claud Beelman, provided care for Hollywood stars such as [Marilyn Monroe](https://store.magnumphotos.com/collections/marilyn-monroe), Errol Flynn, Mae West and Burt Lancaster. The 500,000-square-foot property houses Scientology's West Coast headquarters and main Los Angeles church.
 [hollywoodreporter.com/business/business-news/historic-hollywood](https://www.hollywoodreporter.com/business/business-news/historic-hollywood-holdings-213547/attachment/img5712_a_l/)
 
 [youtube.com/results?search_query=hot+97+tv](https://www.youtube.com/results?search_query=hot+97+tv)
