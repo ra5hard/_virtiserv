@@ -88,6 +88,10 @@ _The Space Communications and Navigation (SCaN) program is responsible for and m
 [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/8533a9ce-4a0a-47fe-a957-719f3ddb7aef" />
 
+
+
+![https://www.spaceweather.gov/themes/custom/swpc/images/logos/noaa_logo.svg](https://www.spaceweather.gov/themes/custom/swpc/images/logos/noaa_logo.svg) 
+
 ## 8/18 {{ page.date | date: "%B %d, %Y" }}
 
 
