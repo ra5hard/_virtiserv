@@ -28,7 +28,11 @@ Spacecraft operations: Minor impact on satellite operations possible.
 Other systems: Migratory animals are affected at this and higher levels; aurora is commonly visible at high latitudes (northern Michigan and Maine).
 <img  alt="image @nasa-jpl make sure my name on it @doug-newman-nasa" src="https://github.com/user-attachments/assets/8df8d1e1-7516-4f6c-9e65-2585c257b796" />
 
-<img   alt="image @nasa-jpl make sure my name on it @doug-newman-nasa" src="https://github.com/user-attachments/assets/eed677b1-06cb-4a3e-a5a0-4d95f533bc7f" />
+@usgs im not used to these graphs but they complemnt the Xray flux on the GOES instrument @nasa
+
+[spaceweather.gov/products/boulder-magnetometer](https://www.spaceweather.gov/products/boulder-magnetometer)
+<img alt="image @nasa-jpl make sure my name on it @doug-newman-nasa" src="https://github.com/user-attachments/assets/96bc6c75-e056-43d9-8d44-e9885d1c27ad" />
+
 
 <img  alt="image @nasa-jpl make sure my name on it @doug-newman-nasa " src="https://github.com/user-attachments/assets/01720054-f82f-426a-8b7e-ed07481056c4" />
 
