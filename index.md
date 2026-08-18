@@ -8,6 +8,19 @@ layout: default
 
 
 ---
+
+[war.gov/UFO/?releaseDate=Release+05&release=05](https://www.war.gov/UFO/?releaseDate=Release+05&release=05)
+
+In response to President Donald J. Trump’s directive for transparency on U.S. government information regarding Unidentified Anomalous Phenomena (UAP), the Department of War (DOW), with support from the Office of the Director of National Intelligence (ODNI), is overseeing government wide efforts to expeditiously find, review, identify, declassify and publicly release unresolved UAP-related records and historical documents in the federal government’s possession. This is an unprecedented, historic undertaking that requires coordination between dozens of agencies and the review of tens of millions of records, many existing only on paper, spanning many decades. Given the scope of this task, the Department of War will be releasing new materials on a rolling basis as they are discovered and declassified, with tranches posted every few weeks.
+
+[war.gov/UFO/?releaseDate=Release+05&release=05#FBI-UAP-D038-Digital-Rendering-1-Multiple-Red-Lights-2026](https://www.war.gov/UFO/?releaseDate=Release+05&release=05#FBI-UAP-D038-Digital-Rendering-1-Multiple-Red-Lights-2026) /// [Fact Sheet: President Donald J. Trump Requires Transparency for the American People About Wasteful Spending](https://www.whitehouse.gov/fact-sheets/2025/02/fact-sheet-president-donald-j-trump-requires-transparency-for-the-american-people-about-wasteful-spending/) // [_The_ @WhiteHouse Government Transparency Task Force Fact Sheet](https://www.whitehouse.gov/releases/2026/07/the-white-house-government-transparency-task-force-fact-sheet/)
+
+![https://www.whitehouse.gov/wp-content/uploads/2026/07/wh-task-force-gov-transparency.png](https://www.whitehouse.gov/wp-content/uploads/2026/07/wh-task-force-gov-transparency.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8b0ed8d2-2864-4453-901c-8be712f0d008" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/e5dabcbe-3e79-49e0-a277-a15c573074e9" />
+
 ![https://seeleyfamilylaw.com/wp-content/uploads/2024/10/Living_Together_in_California_Legal_Insights_into_Cohabitation_Laws_and_Agreements_638568193262588380-768x576.png](https://seeleyfamilylaw.com/wp-content/uploads/2024/10/Living_Together_in_California_Legal_Insights_into_Cohabitation_Laws_and_Agreements_638568193262588380-768x576.png)
 
 
