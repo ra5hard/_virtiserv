@@ -18,9 +18,13 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img alt="image" src="https://github.com/user-attachments/assets/5467c244-3da8-4c82-bcbd-cae0510d2ae2" />
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/f2dc4cbb-2861-4ce9-a5ab-772f9dd9ceff" />
 
+
+_The Space Communications and Navigation (SCaN) program is responsible for and manages NASA’s communications and navigation capabilities to enable scientific discovery and space exploration. Currently these capabilities are provided through the Near Space Network (NSN) project managed by the [Goddard Space Flight Center (GSFC)](https://www.nasa.gov/goddard/visitor-center/field-trips-and-facility-tours/) and the Deep Space Network (DSN) project managed by the Jet Propulsion Lab (JPL)._ [Read More @nasa-pds @nasa-jpl plz fwd to legal @stateofcalifornia @la-county-isd @Cityoflosangeles](https://sam.gov/workspace/contract/opp/8cfa569e372842c6b26dd4070426e4a8/view)
 <img alt="image" src="https://github.com/user-attachments/assets/8e69ea57-2ea6-4ce2-a55e-df37a61fd4f0" />
 
 
