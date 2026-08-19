@@ -5,7 +5,8 @@ layout: default
 [HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27)
 
 
-
+# tUPAAC TRIAL;\
+[https://www.youtube.com/results?search_query=tupac+triall](https://www.youtube.com/results?search_query=tupac+triall) 
 
 ### Massive Cocaine Ring Bust At Penn State and Military Operations in South America?
 @deptofwar @Nasa-jpl Lana working hard [https://www.youtube.com/watch?v=NQaz3WzM9O8&t=32s](https://www.youtube.com/watch?v=NQaz3WzM9O8&t=32s) 
