@@ -3,11 +3,63 @@ layout: default
 ---
 
 
-[Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ)
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+{{ "March 14, 2016" | date: "%b %d, %y" }}
+
+
+# - Diamonds [Official Music Video] (Birds of Prey: The Album) - Megan Thee Stallion & Normani 
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/r1MxCSRWgI0?si=N8KG_tbqmUdVW5oR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# playlist from old [bubblegumpop (001)](https://thakarashard.github.io/bubblegumpop001/)
+
+ CRUiSiN_CALi_SOUNDS_4_PCH_US1::DATE_IDEAS [The Jones Girls - Nights Over Egypt ](https://www.youtube.com/watch?v=pzxwZ6wjDAM) [Remind Me · Patrice Rushen ·Straight From The Heart](https://www.youtube.com/watch?v=SOPp6EgpDrg) [Yearning For Your Love::By::THE_GAP_BAND](https://www.youtube.com/watch?v=afqzUbvi7D8) [The Jones Girls::Who Can I Run To?::1979](https://www.youtube.com/watch?v=JRpKQb9J-nU) [Keke Wyatt::NOTHiNG_iN_THiS_WORLD](https://www.youtube.com/watch?v=diEV1qC34Og) [Stephanie Mills-Two Hearts Featuring Teddy Pendergrass](https://www.youtube.com/watch?v=uJ7HN1nNdbc) [NEW_EDiTiON::Cool It Now (Official Video)](https://www.youtube.com/watch?v=RZUq6N7Gx1c) [NEW_EDiTiON::Mr. Telephone Man](https://www.youtube.com/watch?v=GsWrlzjxbPY) [BOBBY_BROWN::Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE) 🔥 [A1 Warm It Up (LP Version) Producer – Jermaine Dupri](https://www.youtube.com/watch?v=fwXfhQaBRZI) 🔥 [TLC - What About Your Friends (Official Video)](https://www.youtube.com/watch?v=92gHq1s6G-c) [Another Bad Creation - Iesha (Official Music Video)](https://www.youtube.com/watch?v=ZDPIK7Fz_g4) [SWV – You're The One Genre: Funk / Soul Style: RnB/Swing, Hip Hop Year: 1996](https://www.youtube.com/watch?v=Ua4fg2FQ6w8) [BRANDY::Sittin' Up In My Room from Waiting to Exhale - Original SoundtracK](https://www.youtube.com/watch?v=DGgANpSjoas) [702 - Steelo feat. Missy Elliott::1996](https://www.youtube.com/watch?v=LdvRwHhla6Q)
+
+# HappyThanksGiving @blackgirlscode @whitehouse
+
+# Matt Field Interview
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/8_MS9GWOWC4?si=9tHVZfGRyt_rYX9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Jet Propulsion Laboratory, 4800 Oak Grove Dr, La Cañada Flintridge, CA 91011](https://pbs.twimg.com/media/GfhHJLxbIAESqUw?format=jpg&name=large)
+
+# Minolta AF 50mm f/1.7
+The Minolta AF 50mm f/1.7 is a discontinued lens with autofocus that was produced by Minolta for A-mount single lens reflex cameras from 1985[1] through 2006. It is still in use today by users of digital and film SLRs from Minolta (later Konica-Minolta) and Sony. The relatively large maximum aperture (f/1.7) allows the photographer to take shots indoors even when operating at ISO 100 - 200.[wiki](https://en.wikipedia.org/wiki/Minolta_AF_50mm_f/1.7) [DYXUM](https://www.dyxum.com/lenses/Minolta-AF-50mm-F1.7_lens17.html)
+![1.7](https://www.dyxum.com/images/Lenses/17/17_4.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Minolta-50mm-F17.jpg/800px-Minolta-50mm-F17.jpg" />
 
 
 
-[Tupac Murder Trial Kicks Off with Damning Evidence On Day One](https://youtu.be/TevSraI3CfQ) @nasa-jpl imma do some weather 
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg"  />
+  <source srcset="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg"  />
+  <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/CoRAL_CLOUT.jpg" alt="" />
+</picture>
+
+[war.gov/UFO/?releaseDate=Release+05&release=05](https://www.war.gov/UFO/?releaseDate=Release+05&release=05)
+
+In response to President Donald J. Trump’s directive for transparency on U.S. government information regarding Unidentified Anomalous Phenomena (UAP), the Department of War (DOW), with support from the Office of the Director of National Intelligence (ODNI), is overseeing government wide efforts to expeditiously find, review, identify, declassify and publicly release unresolved UAP-related records and historical documents in the federal government’s possession. This is an unprecedented, historic undertaking that requires coordination between dozens of agencies and the review of tens of millions of records, many existing only on paper, spanning many decades. Given the scope of this task, the Department of War will be releasing new materials on a rolling basis as they are discovered and declassified, with tranches posted every few weeks.
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f28fbfe2-0441-43c6-b83b-6c47a33ce2f5" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9286ee07-d5f8-47df-b547-d767cbe342d3" />
+
+
+[Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ) // [LL COOL J - Going Back To Cali ](https://youtu.be/FdizL4on-Rc) // and then what [The Notorious B.I.G. - Going Back to Cali (Official Audio)](https://youtu.be/TiBKJlCijL4?si=ZKsL61rRX1E1yPWg) // [Down 4 My N's · Snoop Dogg · C-Murder · Magic](https://youtu.be/k1FxMnMKuLc) // [Mystikal - Ain't No Limit (Official Video) ft. Silkk 'The Shocker'](https://youtu.be/kd6HSlTSLFU)
+
+---
+
+@StateofCalifornia _localMusic_ [Down 4 My N's · Snoop Dogg · C-Murder · Magic](https://youtu.be/k1FxMnMKuLc)
+<img alt="image" src="https://github.com/user-attachments/assets/8a19bcf9-87cf-4730-bd91-8d98ac200fe3" />
+
+```
+@lanajharris play this on @hot97 for @nasa-jpl @nasa-pds @cityoflosangeles and the @deptofwar shout out plz 
+[Los Angeles Metro D Line Subway Construction Update - August 2026](https://youtu.be/1P_D6t266iY?t=40) // [@CityOfLosAngeles Biggie’s Very Last Interview On Tupac’s Murder & Meaning Of “Life After Death” Album](https://youtu.be/Rk6Bn3vsAsQ) @blackgirlscode
+[Tupac Murder Trial Kicks Off with Damning Evidence On Day One](https://youtu.be/TevSraI3CfQ) @nasa-jpl imma do some weather // [2Pac - Ed Gordon Full Interview 1994](https://youtu.be/S73X6YXK5pA) //[2Pac In Police Station 1995 (Police Camera) (2PacLegacy.Net)](https://youtu.be/-_V9OmuZ7fk) // [Suge Knight talks about Tupac one week after Shakur's death on MTV News 1996](https://youtu.be/Kuid8movvSw) @cbs-news-data [`Abbie Kearse` @nasa-pds @cia make sure she covered @blackgirlscode @whitehouse @deptofwar](https://www.youtube.com/@TheTeamLiam)
+```
+
+[Los Angeles Metro D Line Subway Construction Update - August 2026](https://youtu.be/1P_D6t266iY?t=40) // [@CityOfLosAngeles Biggie’s Very Last Interview On Tupac’s Murder & Meaning Of “Life After Death” Album](https://youtu.be/Rk6Bn3vsAsQ) @blackgirlscode
+[Tupac Murder Trial Kicks Off with Damning Evidence On Day One](https://youtu.be/TevSraI3CfQ) @nasa-jpl imma do some weather // [2Pac - Ed Gordon Full Interview 1994](https://youtu.be/S73X6YXK5pA) //[2Pac In Police Station 1995 (Police Camera) (2PacLegacy.Net)](https://youtu.be/-_V9OmuZ7fk) // [Suge Knight talks about Tupac one week after Shakur's death on MTV News 1996](https://youtu.be/Kuid8movvSw) @cbs-news-data [`Abbie Kearse` @nasa-pds @cia make sure she covered @blackgirlscode @whitehouse @deptofwar](https://www.youtube.com/@TheTeamLiam)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kbWph49SWuM?si=k_x_dn5C6Vmr2Fp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/aace94c3-2e1c-444a-9ae8-cc794640cd41" />
 
