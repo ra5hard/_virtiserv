@@ -5,6 +5,10 @@ layout: default
 [HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [@Blackgirlscode](https://www.wearebgc.org/) 
 
 
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Showcase day, Atlanta.<br><br>She built the game. Wrote the GDScript. Designed the sprites. Now she&#39;s running the room through it while everyone leans in.<br><br>Donate: <a href="https://t.co/x9F7089Zgt">https://t.co/x9F7089Zgt</a><a href="https://x.com/hashtag/BlackGirlsCode?src=hash&amp;ref_src=twsrc%5Etfw">#BlackGirlsCode</a> <a href="https://x.com/hashtag/STEAM?src=hash&amp;ref_src=twsrc%5Etfw">#STEAM</a> <a href="https://t.co/Gv4Nusm19W">pic.twitter.com/Gv4Nusm19W</a></p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2088387440566252008?ref_src=twsrc%5Etfw">August 14, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+{{ "March 14, 2016" | date: "%b %d, %y" }}
 
 ## LightDays
 [Link](https://virtiserv.github.io/rashardmro/2026/05/27/Voyager1_n_2.html) _The Menu Works its just... I'm really ruched and harassed a lout @doug-newman-nasa
@@ -14,9 +18,7 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/196f521a-3253-4110-8fd9-5ef362833e45" />
 
 
-This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
-{{ "March 14, 2016" | date: "%b %d, %y" }}
 
 
 # - Diamonds [Official Music Video] (Birds of Prey: The Album) - Megan Thee Stallion & Normani 
