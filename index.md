@@ -8,7 +8,7 @@ layout: default
 ---
 
 [Los Angeles Metro D Line Subway Construction Update - August 2026](https://youtu.be/1P_D6t266iY?t=40) // [@CityOfLosAngeles Biggie’s Very Last Interview On Tupac’s Murder & Meaning Of “Life After Death” Album](https://youtu.be/Rk6Bn3vsAsQ) @blackgirlscode
-[Tupac Murder Trial Kicks Off with Damning Evidence On Day One](https://youtu.be/TevSraI3CfQ) @nasa-jpl imma do some weather // [2Pac - Ed Gordon Full Interview 1994](https://youtu.be/S73X6YXK5pA) //[2Pac In Police Station 1995 (Police Camera) (2PacLegacy.Net)](https://youtu.be/-_V9OmuZ7fk)
+[Tupac Murder Trial Kicks Off with Damning Evidence On Day One](https://youtu.be/TevSraI3CfQ) @nasa-jpl imma do some weather // [2Pac - Ed Gordon Full Interview 1994](https://youtu.be/S73X6YXK5pA) //[2Pac In Police Station 1995 (Police Camera) (2PacLegacy.Net)](https://youtu.be/-_V9OmuZ7fk) // [Suge Knight talks about Tupac one week after Shakur's death on MTV News 1996](https://youtu.be/Kuid8movvSw) @cbs-news-data [`Abbie Kearse` @nasa-pds @cia make sure she covered @blackgirlscode @whitehouse @deptofwar](https://www.youtube.com/@TheTeamLiam)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kbWph49SWuM?si=k_x_dn5C6Vmr2Fp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
