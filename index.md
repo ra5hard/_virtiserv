@@ -5,7 +5,14 @@ layout: default
 
 [Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kbWph49SWuM?si=k_x_dn5C6Vmr2Fp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img  alt="image" src="https://github.com/user-attachments/assets/aace94c3-2e1c-444a-9ae8-cc794640cd41" />
 
+
+# UFOS--WHAT ARE THEY?
+_Declassified and Approved For Release 2013/06/24: CIA-RDP79B00752A000300090001-6 UFOs--WHAT' ARE THEY? ... flying objects UFO). In the present article the dditor- compiler of the collection Naselennyy Kosmos, ... Docent F. Yu. Zigel' discusses various UFO observations and attempts at ex- planation of them.) ..._ [Read](https://www.cia.gov/readingroom/search/site/ufo)
+[cia.gov/readingroom/docs/CIA-RDP79B00752A000300090001-6.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300090001-6.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/e298cf9f-e069-448e-a2a0-0fec7e6de89f" />
 
 [Lana?github.com/virtiserv/code.mil](https://github.com/virtiserv/code.mil)
 @jekyll @salesforce `Patrick of Rent` I want you to know , I don't know anything bc if someone is work from home they are on @github and need no promotion bc they already forked code.mil
@@ -74,10 +81,12 @@ In response to President Donald J. Trump’s directive for transparency on U.S. 
 
 @nasa-pds @nasa-openscapes
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yW-VAhqVJok?si=J7IyylYXmpRXddG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xgx9mTZnjG4?si=VdaBxp49dZoROjY9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+```
 <img   alt="image" src="https://github.com/user-attachments/assets/6794e0b7-6136-4822-aae5-c173a03ce19e" />
 
 @nasa-jpl make sure my name on it @doug-newman-nasa
