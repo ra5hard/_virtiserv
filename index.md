@@ -3,6 +3,16 @@ layout: default
 ---
 
 
+
+[war.gov/UFO/?releaseDate=Release+05&release=05](https://www.war.gov/UFO/?releaseDate=Release+05&release=05)
+
+In response to President Donald J. Trump’s directive for transparency on U.S. government information regarding Unidentified Anomalous Phenomena (UAP), the Department of War (DOW), with support from the Office of the Director of National Intelligence (ODNI), is overseeing government wide efforts to expeditiously find, review, identify, declassify and publicly release unresolved UAP-related records and historical documents in the federal government’s possession. This is an unprecedented, historic undertaking that requires coordination between dozens of agencies and the review of tens of millions of records, many existing only on paper, spanning many decades. Given the scope of this task, the Department of War will be releasing new materials on a rolling basis as they are discovered and declassified, with tranches posted every few weeks.
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f28fbfe2-0441-43c6-b83b-6c47a33ce2f5" />
+<img  alt="image" src="https://github.com/user-attachments/assets/9286ee07-d5f8-47df-b547-d767cbe342d3" />
+
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
 [Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ) // [LL COOL J - Going Back To Cali ](https://youtu.be/FdizL4on-Rc) // and then what [The Notorious B.I.G. - Going Back to Cali (Official Audio)](https://youtu.be/TiBKJlCijL4?si=ZKsL61rRX1E1yPWg) // [Down 4 My N's · Snoop Dogg · C-Murder · Magic](https://youtu.be/k1FxMnMKuLc) // [Mystikal - Ain't No Limit (Official Video) ft. Silkk 'The Shocker'](https://youtu.be/kd6HSlTSLFU)
 
 ---
