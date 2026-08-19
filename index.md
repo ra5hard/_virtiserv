@@ -13,7 +13,7 @@ SUBSCRIBE for more videos: ‪http://gqm.ag/YouTubeSub‬
 
 [Stripper Confessionals: Life After Stripping](https://www.thrillist.com/entertainment/nation/stripper-confessionals-what-strippers-do-when-their-careers-are-over) /// 
 [Stripping Helped Me Heal, But I’m Quitting Sex Work](https://saltyworld.net/stripping-helped-me-heal-but-im-quitting-sex-work/) /// [How Burlesque Helped Me Heal From Losing Everything I Loved](https://www.yourtango.com/self/how-burlesque-helped-me-heal-losing-everything-loved) /// [How Burlesque Heals Its Dancers](https://greatergood.berkeley.edu/article/item/How_burlesque_heals_its_dancers) /// [Top 3 Reasons I Became a Stripper](https://www.iamatreasure.com/blog/top-3-reasons-i-became-stripper)
-
+/// [Lessons on Taking Care of Your Body From a Stripper - medium.com @CityOfLosAngeles](https://medium.com/@sashaspeeks/lessons-on-taking-care-of-your-body-from-a-stripper-173e9d78632d)
 [ABOUT GQ](https://www.gq.com/)
 For more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. So join celebrities from 2 Chainz, Stephen Curry and Channing Tatum to Amy Schumer, Kendall Jenner and Kate Upton for a look at the best in pop culture. Welcome to the modern man’s guide to style advice, dating tips, celebrity videos, music, sports and more.
 Still haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt 
