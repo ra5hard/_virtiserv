@@ -3,9 +3,18 @@ layout: default
 ---
 
 
-[Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ) // [LL COOL J - Going Back To Cali ](https://youtu.be/FdizL4on-Rc) // and then what [The Notorious B.I.G. - Going Back to Cali (Official Audio)](https://youtu.be/TiBKJlCijL4?si=ZKsL61rRX1E1yPWg)
+[Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ) // [LL COOL J - Going Back To Cali ](https://youtu.be/FdizL4on-Rc) // and then what [The Notorious B.I.G. - Going Back to Cali (Official Audio)](https://youtu.be/TiBKJlCijL4?si=ZKsL61rRX1E1yPWg) // [Down 4 My N's · Snoop Dogg · C-Murder · Magic](https://youtu.be/k1FxMnMKuLc)
 
 ---
+
+@StateofCalifornia _localMusic_ [Down 4 My N's · Snoop Dogg · C-Murder · Magic](https://youtu.be/k1FxMnMKuLc)
+<img alt="image" src="https://github.com/user-attachments/assets/8a19bcf9-87cf-4730-bd91-8d98ac200fe3" />
+
+```
+@lanajharris play this on @hot97 for @nasa-jpl @nasa-pds @cityoflosangeles and the @deptofwar shout out plz 
+[Los Angeles Metro D Line Subway Construction Update - August 2026](https://youtu.be/1P_D6t266iY?t=40) // [@CityOfLosAngeles Biggie’s Very Last Interview On Tupac’s Murder & Meaning Of “Life After Death” Album](https://youtu.be/Rk6Bn3vsAsQ) @blackgirlscode
+[Tupac Murder Trial Kicks Off with Damning Evidence On Day One](https://youtu.be/TevSraI3CfQ) @nasa-jpl imma do some weather // [2Pac - Ed Gordon Full Interview 1994](https://youtu.be/S73X6YXK5pA) //[2Pac In Police Station 1995 (Police Camera) (2PacLegacy.Net)](https://youtu.be/-_V9OmuZ7fk) // [Suge Knight talks about Tupac one week after Shakur's death on MTV News 1996](https://youtu.be/Kuid8movvSw) @cbs-news-data [`Abbie Kearse` @nasa-pds @cia make sure she covered @blackgirlscode @whitehouse @deptofwar](https://www.youtube.com/@TheTeamLiam)
+```
 
 [Los Angeles Metro D Line Subway Construction Update - August 2026](https://youtu.be/1P_D6t266iY?t=40) // [@CityOfLosAngeles Biggie’s Very Last Interview On Tupac’s Murder & Meaning Of “Life After Death” Album](https://youtu.be/Rk6Bn3vsAsQ) @blackgirlscode
 [Tupac Murder Trial Kicks Off with Damning Evidence On Day One](https://youtu.be/TevSraI3CfQ) @nasa-jpl imma do some weather // [2Pac - Ed Gordon Full Interview 1994](https://youtu.be/S73X6YXK5pA) //[2Pac In Police Station 1995 (Police Camera) (2PacLegacy.Net)](https://youtu.be/-_V9OmuZ7fk) // [Suge Knight talks about Tupac one week after Shakur's death on MTV News 1996](https://youtu.be/Kuid8movvSw) @cbs-news-data [`Abbie Kearse` @nasa-pds @cia make sure she covered @blackgirlscode @whitehouse @deptofwar](https://www.youtube.com/@TheTeamLiam)
