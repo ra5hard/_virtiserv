@@ -5,6 +5,8 @@ layout: default
 
 [Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ)
 
+
+
 [Lana?github.com/virtiserv/code.mil](https://github.com/virtiserv/code.mil)
 @jekyll @salesforce `Patrick of Rent` I want you to know , I don't know anything bc if someone is work from home they are on @github and need no promotion bc they already forked code.mil
 [@blackgirlscode code.mil/about.html](https://code.mil/about.html)
@@ -14,6 +16,8 @@ Code.mil is an experiment in open source at the U.S. Department of Defense (DoD)
 The Code.mil initiative will iterate in phases.
 
 During the first phase, which launched on February 22, 2017, we called upon the developer community to help finalize our open source strategy for code written by DoD employees. You can read [the official press release here](https://www.war.gov/News/Releases/Release/Article/1092364/dod-announces-the-launch-of-codemil-an-experiment-in-open-source/). 
+
+![https://www.war.gov/Portals/_default/skins/dgov2/resources/img/Veterans_Crisis_Line_Logo.svg](https://www.war.gov/Portals/_default/skins/dgov2/resources/img/Veterans_Crisis_Line_Logo.svg)
 
 ---
 
