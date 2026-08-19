@@ -5,6 +5,18 @@ layout: default
 [HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27)
 
 
+# Inside the Atlanta Strip Club that Runs Hip Hop 
+Magic City
+[Eugenics and Scientific Racism @NIHGOV @dhs-gov @nasa-pds](https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism)
+In this full-length documentary by award winner Lauren Greenfield, we get to know the strippers, rappers, hustlers, and dreamers that make up the legendary [Magic City](https://www.magiccity.com/). More than just a strip club, the ATL hot spot is where aspiring rappers use the club’s influence in the hip hop industry to try and make it big, and where dancers and DJs call the shots as they seek out their own fame and fortune
+SUBSCRIBE for more videos: ‪http://gqm.ag/YouTubeSub‬
+
+Still haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt
+
+ABOUT GQ
+For more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. So join celebrities from 2 Chainz, Stephen Curry and Channing Tatum to Amy Schumer, Kendall Jenner and Kate Upton for a look at the best in pop culture. Welcome to the modern man’s guide to style advice, dating tips, celebrity videos, music, sports and more.
+<img alt="image" src="https://github.com/user-attachments/assets/73749ff8-23f8-433c-ba4a-f4a3bce1c6ff" />
+
 # tUPAAC TRIAL;\
 [youtube.com/results?search_query=tupac+triall](https://www.youtube.com/results?search_query=tupac+triall) 
 [Cop reveals Tupac Shakur's 5 words on the way to hospital after 1996 shooting at 2026 murder trial @usatoday @newshour](https://youtu.be/4EpreqiD0Qo)
