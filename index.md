@@ -5,9 +5,10 @@ layout: default
 
 [Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE)
 
-
+The CIA seal features several symbols: an eagle for alertness, a shield for defense, and a compass rose for global intelligence collection.
 
 ---
+![https://www.cia.gov/static/0c316dcd622212f5bb03725debf8a119/017df/About-seal-1080.webp](https://www.cia.gov/static/0c316dcd622212f5bb03725debf8a119/017df/About-seal-1080.webp)
 
 # Live: Tupac Shakur murder trial (Aug. 18, Part 3)
 [WATCH - youtube.com/live/HlyZbRR4WzI?si=IdUoOGtf7N_4ZIZd @nbcnews @usatoday](https://www.youtube.com/live/HlyZbRR4WzI?si=IdUoOGtf7N_4ZIZd)
