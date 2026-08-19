@@ -5,9 +5,16 @@ layout: default
 
 [Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ)
 
+
+
+[Tupac Murder Trial Kicks Off with Damning Evidence On Day One](https://youtu.be/TevSraI3CfQ) @nasa-jpl imma do some weather 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kbWph49SWuM?si=k_x_dn5C6Vmr2Fp6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <img  alt="image" src="https://github.com/user-attachments/assets/aace94c3-2e1c-444a-9ae8-cc794640cd41" />
 
+
+## *HERO* 13 Year Old Girl Calls Police After Being Shot 4 Times!
+@newshour @nbcnews @nasa-jpl [Watch - youtu.be/JSEW_pdkVOw?t=232](https://youtu.be/JSEW_pdkVOw?t=232)
+<img  alt="image" src="https://github.com/user-attachments/assets/03aac1b0-59fa-4350-a54d-543ee4007de4" />
 
 # UFOS--WHAT ARE THEY?
 _Declassified and Approved For Release 2013/06/24: CIA-RDP79B00752A000300090001-6 UFOs--WHAT' ARE THEY? ... flying objects UFO). In the present article the dditor- compiler of the collection Naselennyy Kosmos, ... Docent F. Yu. Zigel' discusses various UFO observations and attempts at ex- planation of them.) ..._ [Read](https://www.cia.gov/readingroom/search/site/ufo)
