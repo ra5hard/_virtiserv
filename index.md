@@ -18,6 +18,14 @@ Still haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt [Strip
 For more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. So join celebrities from 2 Chainz, Stephen Curry and Channing Tatum to Amy Schumer, Kendall Jenner and Kate Upton for a look at the best in pop culture. Welcome to the modern man’s guide to style advice, dating tips, celebrity videos, music, sports and more.
 <img alt="image" src="https://github.com/user-attachments/assets/73749ff8-23f8-433c-ba4a-f4a3bce1c6ff" />
 
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| magiccity.com | ns2.magiccity.com. | 21600 | 
+| magiccity.com | ns1.magiccity.com. | 21600 | 
+
+
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
 <a href="https://www.reddit.com/r/stripper/comments/1osswwn/stripping_helped_me_more_than_therapy_ever_did_tbh/">Stripping helped me more than therapy ever did tbh</a><br> by
 <a href="https://www.reddit.com/user/Xo-Overdose/">u/Xo-Overdose</a> in
