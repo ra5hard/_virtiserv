@@ -2,7 +2,10 @@
 layout: default
 ---
 
-[HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [@Blackgirlscode](https://www.wearebgc.org/) 
+[HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) ///
+
+
+[@Blackgirlscode](https://www.wearebgc.org/)  I know normani is not what I thought she was or Chloe bailey . . . [blackkidscode.com/](https://blackkidscode.com/) if coral is in this group that's may be where coral is contacting me from @nasa-jpl @nasa-pds
 
 
 This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}
