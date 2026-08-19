@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ)
+[Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ) // [Makaveli - To Live & Die In L.A. (Official Music Video)](https://youtu.be/fDjMSiECbgg?list=RD1Z52-lIZMbQ) // [LL COOL J - Going Back To Cali ](https://youtu.be/FdizL4on-Rc) // and then what [The Notorious B.I.G. - Going Back to Cali (Official Audio)](https://youtu.be/TiBKJlCijL4?si=ZKsL61rRX1E1yPWg)
 
 
 [Los Angeles Metro D Line Subway Construction Update - August 2026](https://youtu.be/1P_D6t266iY?t=40)
