@@ -5,6 +5,26 @@ layout: default
 [HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) ///
 
 
+
+### Massive Cocaine Ring Bust At Penn State and Military Operations in South America?
+@deptofwar @Nasa-jpl Lana working hard [https://www.youtube.com/watch?v=NQaz3WzM9O8&t=32s](https://www.youtube.com/watch?v=NQaz3WzM9O8&t=32s) 
+@cbs-news-data @washingtonpost @nbcnews
+
+<img  alt="image" src="https://github.com/user-attachments/assets/561506be-bdd0-44f7-a381-d58d36604a95" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1385e0b5-c5b2-4eb3-a8d3-5960fd2282bd" />
+
+Harvey Levin and TMZ staffers run through the top stories of the day. [WATCH -  youtu.be/kkCHkUNXJlM](https://youtu.be/kkCHkUNXJlM)
+<img alt="image" src="https://github.com/user-attachments/assets/c3770623-2faa-4de3-9fbf-d5a65368df37" />
+![https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TMZ_Logo.svg/330px-TMZ_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TMZ_Logo.svg/330px-TMZ_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+
+[US weighs scaling back Middle East military presence after months of Iranian attacks - report](https://www.jpost.com/international/article-905945)
+<img  alt="image" src="https://github.com/user-attachments/assets/db05aa97-41c1-46b5-9e01-a82e9d630ca5" />
+
+ [https://www.centcom.mil/](https://www.centcom.mil/)
+<img   alt="image" src="https://github.com/user-attachments/assets/54f688c7-79ed-462d-aafe-8e257d2e984f" />
+
+
 [@Blackgirlscode](https://www.wearebgc.org/)  I know normani is not what I thought she was or Chloe bailey . . . [blackkidscode.com/](https://blackkidscode.com/) if coral is in this group that's may be where coral is contacting me from @nasa-jpl @nasa-pds
 
 
