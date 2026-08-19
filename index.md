@@ -5,6 +5,20 @@ layout: default
 [HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27) /// [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234)
 
 
+
+## _Live: Tupac Shakur murder trial (Aug. 19, Part 1)_
+[WATCH - https://www.youtube.com/watch?v=ja5bWy1fQxA @nasa @cia @NBCNEWS](https://www.youtube.com/watch?v=ja5bWy1fQxA)
+<img alt="image" src="https://github.com/user-attachments/assets/5baff2b8-8641-4dc6-9a94-1bdc5e7ac38b" />
+
+
+_Indiana Sewage Crisis, Apache Grounding & Cubs Fan Brawl_
+[WATCH - https://youtu.be/fh4JcXTv_sQ](https://youtu.be/fh4JcXTv_sQ)
+<img alt="image" src="https://github.com/user-attachments/assets/8a7c7265-5c00-4531-bd48-a47d9da0d947" />
+
+[Indianapolis Surface Water @ASFADMin @doug-newman-nasa search.earthdata.nasa.gov/search/granules... @chloebaileywashere](https://search.earthdata.nasa.gov/search/granules?p=C2949811996-POCLOUD&sb[0]=-86.40349%2C39.32774%2C-85.76213%2C40.18454&ff=Map%20Imagery&lat=39.69339064501787&long=-85.88867247420187&zoom=9.160565187475997) /// @FOXneWS `Fox59` [Indy drivers continue to drive through flooded streets](https://youtu.be/VxUsuOxNjc0)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9bb7cfa4-1949-4f22-b9e5-131cadd831de" />
+
 ## *Controversy* Legal Fight Over Baby Born Through Surrogacy
 [WATCH - https://youtu.be/Mbhtz9m2Tfo?si=vIFWoSd_YPzRmUMs @dEPTOFWAR @NASA-JPL](https://youtu.be/Mbhtz9m2Tfo?si=vIFWoSd_YPzRmUMs)
 <img   alt="image @StateofCalifornia @nbcnews @newshour # Inside the Atlanta Strip Club that Runs Hip Hop 
