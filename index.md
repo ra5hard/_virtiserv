@@ -12,10 +12,17 @@ In this full-length documentary by award winner Lauren Greenfield, we get to kno
 SUBSCRIBE for more videos: ‪http://gqm.ag/YouTubeSub‬
 
 Still haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt
+[Stripping Helped Me Heal, But I’m Quitting Sex Work](https://saltyworld.net/stripping-helped-me-heal-but-im-quitting-sex-work/)
 
 [ABOUT GQ](https://www.gq.com/)
 For more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. So join celebrities from 2 Chainz, Stephen Curry and Channing Tatum to Amy Schumer, Kendall Jenner and Kate Upton for a look at the best in pop culture. Welcome to the modern man’s guide to style advice, dating tips, celebrity videos, music, sports and more.
 <img alt="image" src="https://github.com/user-attachments/assets/73749ff8-23f8-433c-ba4a-f4a3bce1c6ff" />
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
+<a href="https://www.reddit.com/r/stripper/comments/1osswwn/stripping_helped_me_more_than_therapy_ever_did_tbh/">Stripping helped me more than therapy ever did tbh</a><br> by
+<a href="https://www.reddit.com/user/Xo-Overdose/">u/Xo-Overdose</a> in
+<a href="https://www.reddit.com/r/stripper/">stripper</a>
+</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 # tUPAAC TRIAL;\
 [youtube.com/results?search_query=tupac+triall](https://www.youtube.com/results?search_query=tupac+triall) 
