@@ -2,14 +2,14 @@
 layout: default
 ---
 
-[HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// @Blackgirlscode 
+[HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [@Blackgirlscode](https://www.wearebgc.org/) 
 
 
 
 ## LightDays
 [Link](https://virtiserv.github.io/rashardmro/2026/05/27/Voyager1_n_2.html) _The Menu Works its just... I'm really ruched and harassed a lout @doug-newman-nasa
-@lanajharris@gmail.com @press@hot97.com there is a decent explanation of LightDays on this page i made for tracking voyagers changes as it barels through the oortcloud <~ @operations@wearebgc.org @Normaniofficial@outlook.com i hope you are still receiving mail @ellefeatures@elleuk.com ... LAtto @info@hot97.com @info@snoopdogg.com
-[https://virtiserv.github.io/rashardmro/2026/05/27/Voyager1_n_2.html](https://virtiserv.github.io/rashardmro/2026/05/27/Voyager1_n_2.html) //// @chloe.bailey@gmail.com @chloe.baily@gmail.com im on the clock so its professionalism thats all you will get mallrat @onelana10@juno.com @tinyharris@gmail.com @TIteam@unitedtalent.com @keishaforgovernor@gmail.com @HollyJMitchell@bos.lacounty.gov /////////////// @ROC@jpl.nasa.gov erikas niece andrea needs to visit to touch the rover, she is my successor and coral needs her energy to understand the program @jplnewsroom@jpl.nasa.gov @nagincox@outlook.com @CountyofLosAngelesNewsroom i think i saw @lanajharris #ASSOUT_LA_METRO @repkarenbass what is @keishaforga farming man ? @Nasajpl this song from burning man i think they on voyager, the song soun so good its removed from the sc... @nasa-pds
+@lanajharris@gmail.com @press@hot97.com there is a decent explanation of LightDays on this page i made for tracking voyagers changes as it barels through the [oortcloud <~](https://science.nasa.gov/solar-system/oort-cloud/) [@operations@wearebgc.org](https://www.wearebgc.org/) @Normaniofficial@outlook.com i hope you are still receiving mail @ellefeatures@elleuk.com ... LAtto @info@hot97.com @info@snoopdogg.com
+[virtiserv.github.io/rashardmro/2026/05/27/Voyager1_n_2.html](https://virtiserv.github.io/rashardmro/2026/05/27/Voyager1_n_2.html) //// @chloe.bailey@gmail.com @chloe.baily@gmail.com im on the clock so its professionalism thats all you will get mallrat @onelana10@juno.com @tinyharris@gmail.com @TIteam@unitedtalent.com @keishaforgovernor@gmail.com @HollyJMitchell@bos.lacounty.gov /////////////// @ROC@jpl.nasa.gov erikas niece andrea needs to visit to touch the rover, she is my successor and coral needs her energy to understand the program @jplnewsroom@jpl.nasa.gov @nagincox@outlook.com @CountyofLosAngelesNewsroom i think i saw @lanajharris #ASSOUT_LA_METRO @repkarenbass what is @keishaforga farming man ? @Nasajpl this song from burning man i think they on voyager, the song soun so good its removed from the sc... @nasa-pds
 [https://www.youtube.com/watch?v=uRn8d2O062A](https://www.youtube.com/watch?v=uRn8d2O062A)
 <img  alt="image" src="https://github.com/user-attachments/assets/196f521a-3253-4110-8fd9-5ef362833e45" />
 
