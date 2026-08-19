@@ -3,11 +3,16 @@ layout: default
 ---
 
 
-[Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE)
+[Heaven for A Gangsta - Master - P](https://youtu.be/Eu1y58hzEEM) // [Scarface - Now I Feel Ya](https://youtu.be/q-yYwKYqtsU) // [Ghetto Mafia- In Decatur](https://youtu.be/DaIEwLLBiCE) // [2Pac - So Many Tears (Official Music Video)](https://youtu.be/1Z52-lIZMbQ?list=RD1Z52-lIZMbQ)
 
-The CIA seal features several symbols: an eagle for alertness, a shield for defense, and a compass rose for global intelligence collection.
+
 
 ---
+
+## [https://www.cia.gov/about/](https://www.cia.gov/about/)
+@cia I like this `We do not make policy or policy recommendations. Instead, our Agency serves as an independent source of information for people who do.
+We are not a law enforcement organization. However, we do work with the Intelligence Community, Department of War, and law enforcement agencies on many complex issues ranging from counterintelligence to counterterrorism.` @nasa-jpl @cityoflosangeles
+>The CIA seal features several symbols: an eagle for alertness, a shield for defense, and a compass rose for global intelligence collection.
 ![https://www.cia.gov/static/0c316dcd622212f5bb03725debf8a119/017df/About-seal-1080.webp](https://www.cia.gov/static/0c316dcd622212f5bb03725debf8a119/017df/About-seal-1080.webp)
 
 # Live: Tupac Shakur murder trial (Aug. 18, Part 3)
