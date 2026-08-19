@@ -5,14 +5,18 @@ layout: default
 [HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27) /// [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234)
 
 
-
+## *Controversy* Legal Fight Over Baby Born Through Surrogacy
+[WATCH - https://youtu.be/Mbhtz9m2Tfo?si=vIFWoSd_YPzRmUMs @dEPTOFWAR @NASA-JPL](https://youtu.be/Mbhtz9m2Tfo?si=vIFWoSd_YPzRmUMs)
+<img   alt="image @StateofCalifornia @nbcnews @newshour # Inside the Atlanta Strip Club that Runs Hip Hop 
+Magic City @deptofwar [WATCH - @Cityoflosangeles @blackgirlscode youtu.be/-RfRclWgIOg?t=413](https://youtu.be/-RfRclWgIOg?t=413)
+[Eugenics and Scientific Racism @NIHGOV @dhs-gov @nasa-pds](https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism)" src="https://github.com/user-attachments/assets/8f8695e0-a554-4731-8d01-d94cd385cca3" />
 
 
 # Inside the Atlanta Strip Club that Runs Hip Hop 
 Magic City @deptofwar [WATCH - @Cityoflosangeles @blackgirlscode youtu.be/-RfRclWgIOg?t=413](https://youtu.be/-RfRclWgIOg?t=413)
 [Eugenics and Scientific Racism @NIHGOV @dhs-gov @nasa-pds](https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism)
 In this full-length documentary by award winner Lauren Greenfield, we get to know the strippers, rappers, hustlers, and dreamers that make up the legendary [Magic City](https://www.magiccity.com/). More than just a strip club, the ATL hot spot is where aspiring rappers use the club’s influence in the hip hop industry to try and make it big, and where dancers and DJs call the shots as they seek out their own fame and fortune
-SUBSCRIBE for more videos: ‪http://gqm.ag/YouTubeSub‬ [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234)
+SUBSCRIBE for more videos: ‪http://gqm.ag/YouTubeSub‬ [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234) // [How do you recover fast after a shift? @rEDDIT @NASA-JPL](https://www.reddit.com/r/stripper/comments/16x9bs7/how_do_you_recover_fast_after_a_shift/)
 
 [Stripper Confessionals: Life After Stripping](https://www.thrillist.com/entertainment/nation/stripper-confessionals-what-strippers-do-when-their-careers-are-over) /// 
 [Stripping Helped Me Heal, But I’m Quitting Sex Work](https://saltyworld.net/stripping-helped-me-heal-but-im-quitting-sex-work/) /// [How Burlesque Helped Me Heal From Losing Everything I Loved](https://www.yourtango.com/self/how-burlesque-helped-me-heal-losing-everything-loved) /// [How Burlesque Heals Its Dancers](https://greatergood.berkeley.edu/article/item/How_burlesque_heals_its_dancers) /// [Top 3 Reasons I Became a Stripper](https://www.iamatreasure.com/blog/top-3-reasons-i-became-stripper)
