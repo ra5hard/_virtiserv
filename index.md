@@ -27,8 +27,8 @@ Magic City @deptofwar [WATCH - @Cityoflosangeles @blackgirlscode youtu.be/-RfRcl
 
 | Domain Name | NS | TTL | 
 |-------------|----|-----|
-| magiccity.com | ns2.magiccity.com. | 21600 | 
-| magiccity.com | ns1.magiccity.com. | 21600 | 
+| magiccity.com | ns2.magiccity.com. @nasa-jpl I need rebadging @whitehouse | 21600 | 
+| magiccity.com | ns1.magiccity.com. @nasa-jpl I need rebadging @whitehouse | 21600 | 
 
 
 <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
