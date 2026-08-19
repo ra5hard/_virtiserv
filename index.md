@@ -6,7 +6,8 @@ layout: default
 
 
 # tUPAAC TRIAL;\
-[https://www.youtube.com/results?search_query=tupac+triall](https://www.youtube.com/results?search_query=tupac+triall) 
+[youtube.com/results?search_query=tupac+triall](https://www.youtube.com/results?search_query=tupac+triall) 
+[Cop reveals Tupac Shakur's 5 words on the way to hospital after 1996 shooting at 2026 murder trial @usatoday @newshour](https://youtu.be/4EpreqiD0Qo)
 <img  alt="image" src="https://github.com/user-attachments/assets/0852da23-15fa-474a-bb91-7a54cc991051" />
 
 ### Massive Cocaine Ring Bust At Penn State and Military Operations in South America?
