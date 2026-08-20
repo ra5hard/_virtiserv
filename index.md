@@ -8,6 +8,7 @@ Future - Same Damn Time](https://youtu.be/e0Y39QnwRvY?si=hCZ61JgXccTN-fO) // [Ca
 
 _Camoflauge - Cut Friends ft. Brayboy_
 [Watch - https://youtu.be/ef1r4pxRQjc?si=-LTXPqNuTSmVuEB8](https://youtu.be/ef1r4pxRQjc?si=-LTXPqNuTSmVuEB8)
+_[@itsgavinnewsom the pro adultery thing do you think @keishaforga like your management of dejavu ? @repkarenbass when i said tittties were fucked up my armpit is sagging from some poisonn an some of the girlsgot poisoned like that on thier breast ... @t.i. i dont know whats under yo sister clothes .... @lanajharris u know what i mean so please filter appropros @howarduniversity https://youtu.be/ef1r4pxRQjc?si=OLs74CBDD2RfE3K0 @chloebaileywashere]_
 <img alt="image" src="https://github.com/user-attachments/assets/24d2c022-2b13-45b8-a848-c24e46753180" />
 
 # Wildfire
