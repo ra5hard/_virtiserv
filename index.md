@@ -6,6 +6,12 @@ layout: default
 [Forensic pathologist details Tupac Shakur's fatal wounds in Duane 'Keffe D' Davis trial](https://www.pbs.org/newshour/nation/forensic-pathologist-details-tupac-shakurs-fatal-wounds-in-duane-keffe-d-davis-trial) // [Tupac Shakur Murder Trial Begins With Revenge Motive and Defendant’s Own Words](https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis) // [Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says](https://www.bbc.com/news/articles/cp3r0kz775ko) // [Tupac Shakur murder trial from Las Vegas: Live streaming coverage](https://abc7ny.com/post/tupac-shakur-murder-trial-duane-keffe-davis-is-charged-1996-killing-live-stream/19692508/)
 <img  alt="image" src="https://github.com/user-attachments/assets/47f7c0a9-36a9-40da-8b9e-3cbc9ddb4f14" />
 
+# Kuwait
+[EL-Nino @nbcnews](https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/)
+[worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z)
+<img   alt="image" src="https://github.com/user-attachments/assets/1bf92312-be40-432b-b909-142d6f02d0cf" />
+<img   alt="image" src="https://github.com/user-attachments/assets/d7bd65d5-41b5-4ff8-849a-0c7669c38c7b" />
+
 [Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2) // [💔björk : possibly maybe @howard-university-web-services](https://youtu.be/iyqKy5P1Y0Q) // [Portishead - Sour Times @nasa-jpl ](https://youtu.be/un8EW82GwKc) // [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c) // [Bonobo - 'Heaven For The Sinner' feat. Erykah Badu](https://youtu.be/7YrvzRN-U2c?list=OLAK5uy_n6UZkfaFIW3Vdp2vFjImCC_lL1t_lyn0A) // [Esthero - Swallow Me](https://youtu.be/YfPnoilNZlg?si=4MP95TW2ms3RbSWu) // [De La Soul - "Run It Back!!" featuring Nas (Official Music Video)](https://youtu.be/i3jZOb0Za-M) // [De La Soul "Get Away" Feat. The Spirit Of Wu Tang ***OFFICIAL VIDEO***](https://youtu.be/ZorwKAwqPnE) // [Slim Thug "Caddy Music" feat. Devin The Dude & Dre Day video](https://youtu.be/uQj7Clsscus?si=fhpy2rvfWfi36o7l) // [Devin The Dude - Lacville '79](https://youtu.be/Fo_2TE6C56Y) // [F*** Faces - Scarface](https://youtu.be/YyGhoH6TB1k?t=88) // [
 Future - Same Damn Time](https://youtu.be/e0Y39QnwRvY?si=hCZ61JgXccTN-fO) // [Camoflauge - Cut Friends ft. Brayboy @wesssel](https://youtu.be/ef1r4pxRQjc) // [1990s UNCUT: "Tupac Shakur and the Criminalization of GANGSTA RAP"](https://youtu.be/el5uuuqEP6k)
 
@@ -18,10 +24,7 @@ _[@itsgavinnewsom the pro adultery thing do you think @keishaforga like your man
 [firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,aqua_crc,earth;@-118.8,44.5,7.6z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,aqua_crc,earth;@-118.8,44.5,7.6z)
 <img alt="image" src="https://github.com/user-attachments/assets/d24206ff-7f1f-49a5-a127-e265a504c78d" />
 
-# Kuwait
-[EL-Nino @nbcnews](https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/)
-[worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z)
-<img   alt="image" src="https://github.com/user-attachments/assets/1bf92312-be40-432b-b909-142d6f02d0cf" />
+
 
 # LIVE: Trial for alleged killer of Tupac Shakur
 [1993 UNCUT: "Tupac Shakur's Atlanta ARREST & The Criminalization of HIP-HOP" (Raw Archive) @foratlanta ](https://youtu.be/p6ZBgaghxlI?si=SCcWPua1Qg1pLOlX) 
