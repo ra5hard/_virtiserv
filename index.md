@@ -8,6 +8,9 @@ Judge Is Removed And Karmelo Seeks New Trial
 [WikiTalk](https://en.wikipedia.org/wiki/Talk:Carmelo_Anthony)
 [WATCH - https://youtu.be/nLjTkWvPRN8?si=3FXl0YKPLlnk6P66](https://youtu.be/nLjTkWvPRN8?si=3FXl0YKPLlnk6P66)
 <img  alt="image" src="https://github.com/user-attachments/assets/974e67b9-f182-4904-a75f-743f87e0a298" />
+
+![https://cdn.nba.com/manage/2020/10/NBA20Secondary20Logo-784x462.jpg](https://cdn.nba.com/manage/2020/10/NBA20Secondary20Logo-784x462.jpg) 
+
 @NASA-Openscapes @doug-newman-nasa
 GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1) 
 [Link](https://www.earthdata.nasa.gov/data/catalog/pocloud-mur-jpl-l4-glob-v4.1-4.1) //
@@ -23,7 +26,7 @@ GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1)
 [The Long Bridge to “Silk City” - Read @nasa](https://science.nasa.gov/earth/earth-observatory/the-long-bridge-to-silk-city-145624/)
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/145000/145624/kuwaitcauseway_oli_2019251.jpg?w=720&h=700&fit=crop&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/145000/145624/kuwaitcauseway_oli_2019251.jpg?w=720&h=700&fit=crop&crop=faces%2Cfocalpoint)
 ![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/79000/79179/ISS032-E-017635_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/79000/79179/ISS032-E-017635_lrg.jpg)
-[EL-Nino @nbcnews](https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/)
+[EL-Nino @nbcnews](https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/) ////////// 
 [worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z)
 <img   alt="image" src="https://github.com/user-attachments/assets/1bf92312-be40-432b-b909-142d6f02d0cf" />
 ECOv002_L2T_STARS_39RTP_20260727_0713_01_NDVI-UQ
