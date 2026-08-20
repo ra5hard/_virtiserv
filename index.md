@@ -15,7 +15,8 @@ Young Thug's Wild Advice, China's '[Superman](https://www.youtube.com/playlist?l
 
 
 # Black Spot in MArtian Sky
-@deptofwar @whitehouse
+@deptofwar @whitehouse [Files - github.com/virtiserv/virtiserv.github.io/''''/sol01859%20-%20atlas_zip_download.zip](https://github.com/virtiserv/virtiserv.github.io/blob/master/assets/plots/sol01859%20-%20atlas_zip_download.zip)
+@nasa-jpl @doug-newman-nasa @newshour @foxnews @cbs-news-data @NBCNEWS @WashingtonPost
 @nasa-pds idk if its the eclipse on May 26 when phobos transisioned, i found it on Atlas and thought it was comnnected to the recent martian eclipse of phobos on 8/13 . . . anyway @nasa-jpl back to may . . . the day following the black spot [MastCam-Z](https://science.nasa.gov/mission/mars-2020-perseverance/science-instruments/#cameras) saved a [scrambled image](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ) . . . the dark spot can be found in atlas beta [`pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/01859/ids/rdr/ncam/NLG_1859_0831980527_534RZS_N0880844NCAM00518_0A02I3J01.IMG` @nasa @cityoflosangeles ](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/01859/ids/rdr/ncam/NLG_1859_0831980527_534RZS_N0880844NCAM00518_0A02I3J01.IMG)
 
 
