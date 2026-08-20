@@ -10,6 +10,8 @@ layout: default
 [youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
 <img  alt="image @stateofcalifornia @deptofwar @nasa-jpl @howard-university-web-services @disney @hulu @blackgirlscode " src="https://github.com/user-attachments/assets/59d154a7-0ba2-4a01-a141-6b847c72b9f1" />
 
+`@lanajharris #REQUESTLiNE @funkflex @nasajpl help @power106 play more hiphop for ppl   working @deptofwar @PrettyHustleChannel` [De La Soul "Get Away" Feat. The Spirit Of Wu Tang ***OFFICIAL VIDEO***](https://youtu.be/ZorwKAwqPnE)
+<img   alt="image" src="https://github.com/user-attachments/assets/79c07f21-8b47-4b1b-a06e-54bf47f3b2ba" />
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/cd59caa8-b8a3-48d7-a337-38ca3d7cd409" />
