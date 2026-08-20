@@ -3,14 +3,17 @@ layout: default
 ---
 
 
-[Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2) // [💔björk : possibly maybe @howard-university-web-services](https://youtu.be/iyqKy5P1Y0Q) // [Portishead - Sour Times @nasa-jpl ](https://youtu.be/un8EW82GwKc) // [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c) // [Bonobo - 'Heaven For The Sinner' feat. Erykah Badu](https://youtu.be/7YrvzRN-U2c?list=OLAK5uy_n6UZkfaFIW3Vdp2vFjImCC_lL1t_lyn0A) // [Esthero - Swollow Me](https://youtu.be/YfPnoilNZlg?si=4MP95TW2ms3RbSWu)
+[Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2) // [💔björk : possibly maybe @howard-university-web-services](https://youtu.be/iyqKy5P1Y0Q) // [Portishead - Sour Times @nasa-jpl ](https://youtu.be/un8EW82GwKc) // [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c) // [Bonobo - 'Heaven For The Sinner' feat. Erykah Badu](https://youtu.be/7YrvzRN-U2c?list=OLAK5uy_n6UZkfaFIW3Vdp2vFjImCC_lL1t_lyn0A) // [Esthero - Swallow Me](https://youtu.be/YfPnoilNZlg?si=4MP95TW2ms3RbSWu)
 
 
 
 
 # Black Spot in MArtian Sky
 @deptofwar @whitehouse
-@nasa-pds idk if its the eclipse on May 26 when phobos transisioned, i found it on Atlas and thought it was comnnected to the recent martian eclipse of phobos on 8/13 . . . anyway @nasa-jpl back to may . . . the day following the black spot [MastCam-Z]() saved a [scrambled image](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ) . . . 
+@nasa-pds idk if its the eclipse on May 26 when phobos transisioned, i found it on Atlas and thought it was comnnected to the recent martian eclipse of phobos on 8/13 . . . anyway @nasa-jpl back to may . . . the day following the black spot [MastCam-Z](https://science.nasa.gov/mission/mars-2020-perseverance/science-instruments/#cameras) saved a [scrambled image](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ) . . . the dark spot can be found in atlas beta [`pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/01859/ids/rdr/ncam/NLG_1859_0831980527_534RZS_N0880844NCAM00518_0A02I3J01.IMG` @nasa @cityoflosangeles ](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/01859/ids/rdr/ncam/NLG_1859_0831980527_534RZS_N0880844NCAM00518_0A02I3J01.IMG)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/735154d6-7789-496b-8c78-2a9ed5a07dde" />
+
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01861/ids/edr/browse/zcam/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01861/ids/edr/browse/zcam/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ01_1200.jpg)
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/7/27193_PIA25660-web.jpg?w=1200&h=263&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/7/27193_PIA25660-web.jpg?w=1200&h=263&fit=clip&crop=faces%2Cfocalpoint)
