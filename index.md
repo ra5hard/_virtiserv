@@ -16,6 +16,9 @@ Publication date 1997
 <img src="https://images.launchbox-app.com/b9f4670e-b378-4654-bb54-5be3b6dea571.png"/>
 <img   alt="image" src="https://github.com/user-attachments/assets/569cecec-a3d2-405f-a7a9-92927afaa811" />
 
+[<video controls loading="lazy"  src="https://archive.org/download/nasafirejuly26/Screen%20recording%202026-08-19%206.24.52%20PM.webm" />](https://archive.org/download/nasafirejuly26/Screen%20recording%202026-08-19%206.24.52%20PM.webm)
+
+
 ## _Live: Tupac Shakur murder trial (Aug. 19, Part 1)_
 [WATCH - https://www.youtube.com/watch?v=ja5bWy1fQxA @nasa @cia @NBCNEWS](https://www.youtube.com/watch?v=ja5bWy1fQxA)
 <img alt="image" src="https://github.com/user-attachments/assets/5baff2b8-8641-4dc6-9a94-1bdc5e7ac38b" />
