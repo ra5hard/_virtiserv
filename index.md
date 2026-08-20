@@ -15,8 +15,15 @@ _[@itsgavinnewsom the pro adultery thing do you think @keishaforga like your man
 [firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,aqua_crc,earth;@-118.8,44.5,7.6z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,aqua_crc,earth;@-118.8,44.5,7.6z)
 <img alt="image" src="https://github.com/user-attachments/assets/d24206ff-7f1f-49a5-a127-e265a504c78d" />
 
+# Kuwait
+[EL-Nino @nbcnews](https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/)
+[worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z)
+<img   alt="image" src="https://github.com/user-attachments/assets/1bf92312-be40-432b-b909-142d6f02d0cf" />
+
 # LIVE: Trial for alleged killer of Tupac Shakur
-[1993 UNCUT: "Tupac Shakur's Atlanta ARREST & The Criminalization of HIP-HOP" (Raw Archive) @foratlanta ](https://youtu.be/p6ZBgaghxlI?si=SCcWPua1Qg1pLOlX) ///
+[1993 UNCUT: "Tupac Shakur's Atlanta ARREST & The Criminalization of HIP-HOP" (Raw Archive) @foratlanta ](https://youtu.be/p6ZBgaghxlI?si=SCcWPua1Qg1pLOlX) 
+<img  alt="image" src="https://github.com/user-attachments/assets/2f104f50-ea33-4b81-8e32-4799e14e5fe0" />
+///
 [@thomsonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY) +++++++ [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
 [youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
 <img  alt="image @stateofcalifornia @deptofwar @nasa-jpl @howard-university-web-services @disney @hulu @blackgirlscode " src="https://github.com/user-attachments/assets/59d154a7-0ba2-4a01-a141-6b847c72b9f1" />
