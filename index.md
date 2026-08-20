@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27) /// [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234) // [Nija - Someone else](https://youtu.be/Xyz0mjW4ANk?si=Qw71zBV3rCr9gJI4) // [`Wu-Tang Clan` - The M.G.M.](https://youtu.be/fPHqbwbXXcI) // [Wu Tang Clan OLderGods @ForAtlanta](https://youtu.be/kt1cLeNGZXY?si=10F0wblJUwl7Bdo5) // [OGC - No Fear ](https://youtu.be/xUDNMmbYtkw) // [Channel Live featuring KRS One - Mad Izm ](https://youtu.be/4BRJ_RiO_ZY) // [KRS-ONE - H.i.P.H.O.P](https://youtu.be/MkWP0udk754?si=GXQewD4FczUYHjdW)
+[HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27) /// [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234) // [Nija - Someone else](https://youtu.be/Xyz0mjW4ANk?si=Qw71zBV3rCr9gJI4) // [`Wu-Tang Clan` - The M.G.M.](https://youtu.be/fPHqbwbXXcI) // [Wu Tang Clan OLderGods @ForAtlanta](https://youtu.be/kt1cLeNGZXY?si=10F0wblJUwl7Bdo5) // [OGC - No Fear ](https://youtu.be/xUDNMmbYtkw) // [Channel Live featuring KRS One - Mad Izm ](https://youtu.be/4BRJ_RiO_ZY) // [KRS-ONE - H.i.P.H.O.P](https://youtu.be/MkWP0udk754?si=GXQewD4FczUYHjdW) // [Krs One ft Puff Daddy - Step into a world(REMIX)](https://youtu.be/YelLNlkjZfA) // [ KRSONE - STEP iNTO a World](https://youtu.be/xbJxcFyaCpI)
 
 
 # Kuwait City 
@@ -10,7 +10,11 @@ layout: default
 @howard-university-web-services @emit-sds . . . @blackgirlscode if you are free can you fwd to [Lana J HArris](https://www.pinterest.com/lanajharris7/) @fbicyber ?
 [2Pac - MGM Grand Security Camera Footage (Las Vegas) (1996)](https://youtu.be/pmq_BXoUB3c)
 
+[https://worldview.earthdata.nasa.gov/?v=44.15360825813259,20.994951173856144,63.410613478849854,31.82701661050961&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflect](https://worldview.earthdata.nasa.gov/?v=44.15360825813259,20.994951173856144,63.410613478849854,31.82701661050961&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-08-19-T01%3A56%3A33Z)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/fe07b717-6a6c-4912-b064-643c84dfe48a" />
+
+We acknowledge the use of imagery from the @NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
 [search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD=-start_date&g=G4195555837-LPCLOUD&q=`emit` @emit-sds @nasa-jpl @la-county-isd &sb](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4195555837-LPCLOUD&q=emit&sb[0]=47.73299%2C29.1241%2C50.14707%2C30.75052&lat=30.35788725&long=48.33794678409091&zoom=9.327403173462649)
 
 <img alt="image" src="https://github.com/user-attachments/assets/279c81ee-04b7-407d-81ae-dd87f1be4107" />
