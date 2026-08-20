@@ -7,7 +7,7 @@ layout: default
 Judge Is Removed And Karmelo Seeks New Trial
 
 [WATCH - https://youtu.be/nLjTkWvPRN8?si=3FXl0YKPLlnk6P66](https://youtu.be/nLjTkWvPRN8?si=3FXl0YKPLlnk6P66)
-/// [WikiTalk](https://en.wikipedia.org/wiki/Talk:Carmelo_Anthony)
+/// [WikiTalk](https://en.wikipedia.org/wiki/Talk:Carmelo_Anthony) ///// [Los Angeles Lakers - en.wikipedia.org/wiki/Los_Angeles_Lakers](https://en.wikipedia.org/wiki/Los_Angeles_Lakers)
 <img  alt="image" src="https://github.com/user-attachments/assets/974e67b9-f182-4904-a75f-743f87e0a298" />
 
 ![https://cdn.nba.com/manage/2020/10/NBA20Secondary20Logo-784x462.jpg](https://cdn.nba.com/manage/2020/10/NBA20Secondary20Logo-784x462.jpg) 
