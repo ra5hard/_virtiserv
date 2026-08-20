@@ -20,6 +20,8 @@ GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1)
 <img  alt="image" src="https://github.com/user-attachments/assets/47f7c0a9-36a9-40da-8b9e-3cbc9ddb4f14" />
 
 # Kuwait
+[The Long Bridge to “Silk City” - Read @nasa](https://science.nasa.gov/earth/earth-observatory/the-long-bridge-to-silk-city-145624/)
+![https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/145000/145624/kuwaitcauseway_oli_2019251.jpg?w=720&h=700&fit=crop&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/145000/145624/kuwaitcauseway_oli_2019251.jpg?w=720&h=700&fit=crop&crop=faces%2Cfocalpoint)
 ![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/79000/79179/ISS032-E-017635_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/79000/79179/ISS032-E-017635_lrg.jpg)
 [EL-Nino @nbcnews](https://science.nasa.gov/earth/earth-observatory/el-nino-is-underway/)
 [worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=36.35277691640807,8.24061547092226,83.24220293190947,34.61591760464181&as=2026-08-09-T00%3A00%3A00Z&ae=2026-08-19-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&al=true&ab=on&t=2026-08-19-T00%3A00%3A00Z)
