@@ -12,6 +12,9 @@ layout: default
 
 `@lanajharris #REQUESTLiNE @funkflex @nasajpl help @power106 play more hiphop for ppl   working @deptofwar @PrettyHustleChannel` [De La Soul "Get Away" Feat. The Spirit Of Wu Tang ***OFFICIAL VIDEO***](https://youtu.be/ZorwKAwqPnE)
 <img   alt="image" src="https://github.com/user-attachments/assets/79c07f21-8b47-4b1b-a06e-54bf47f3b2ba" />
+<img   alt="image" src="https://github.com/user-attachments/assets/9aae4b6d-9a76-40b3-a22f-4ee398b5327b" />
+<img   alt="image" src="https://github.com/user-attachments/assets/aae3ed9e-6dac-4414-a9b4-95046052d494" />
+
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/cd59caa8-b8a3-48d7-a337-38ca3d7cd409" />
