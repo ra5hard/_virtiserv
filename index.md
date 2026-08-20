@@ -10,6 +10,13 @@ layout: default
 @howard-university-web-services @emit-sds . . . @blackgirlscode if you are free can you fwd to [Lana J HArris](https://www.pinterest.com/lanajharris7/) @fbicyber ?
 [2Pac - MGM Grand Security Camera Footage (Las Vegas) (1996)](https://youtu.be/pmq_BXoUB3c)
 
+<img  alt="EMIT_L2A_RFL_001_20260522T110541_2614207_025" src="https://github.com/user-attachments/assets/5456de8c-cadb-4878-ad31-5c6bdfbe4b76" />
+
+
+[https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD=-start_date&g=G4195555837-LPCLOUD&q=`emit` @emit-sds @nasa-jpl @la-county-isd &sb](https://search.earthdata.nasa.gov/search/granules?p=C2408750690-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4195555837-LPCLOUD&q=emit&sb[0]=47.73299%2C29.1241%2C50.14707%2C30.75052&lat=30.35788725&long=48.33794678409091&zoom=9.327403173462649)
+
+<img alt="image" src="https://github.com/user-attachments/assets/279c81ee-04b7-407d-81ae-dd87f1be4107" />
+
 <img   alt="image @asfadmin " src="https://github.com/user-attachments/assets/c94e786c-e1e8-4d5b-9bc6-b2ca1c1ae440" />
 
 <img   alt=" @emit-sds EMIT_L2A_RFL_001_20260530T075631_2615005_003" src="https://github.com/user-attachments/assets/b1b320ef-44c5-4d02-90c8-a64eacea0a74" />
