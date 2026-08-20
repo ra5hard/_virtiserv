@@ -22,8 +22,6 @@ layout: default
 <img alt="image @thomsonreuters [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY)
 @la-county-isd @CityOfLosAngeles @nbcnews" src="https://github.com/user-attachments/assets/d25f4510-019e-4ff8-a1e5-93f861e921b2" />
 # _LIVE: Trial for alleged killer of Tupac Shakur_
-<img alt="image @thomsonreuters [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY)
-@la-county-isd @CityOfLosAngeles @nbcnews" src="https://github.com/user-attachments/assets/41ce19a9-4b1c-4d60-b26e-0cb6cc485cbf" />
 
 ![https://lindseyhorvath.lacounty.gov/wp-content/uploads/2023/03/horvath.light_.pink_.v3.png](https://lindseyhorvath.lacounty.gov/wp-content/uploads/2023/03/horvath.light_.pink_.v3.png)
 
