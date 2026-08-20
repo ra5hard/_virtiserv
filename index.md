@@ -5,6 +5,12 @@ layout: default
 
 [Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2) // [💔björk : possibly maybe @howard-university-web-services](https://youtu.be/iyqKy5P1Y0Q) // [Portishead - Sour Times @nasa-jpl ](https://youtu.be/un8EW82GwKc) // [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c) // [Bonobo - 'Heaven For The Sinner' feat. Erykah Badu](https://youtu.be/7YrvzRN-U2c?list=OLAK5uy_n6UZkfaFIW3Vdp2vFjImCC_lL1t_lyn0A) // [Esthero - Swallow Me](https://youtu.be/YfPnoilNZlg?si=4MP95TW2ms3RbSWu) // [De La Soul - "Run It Back!!" featuring Nas (Official Music Video)](https://youtu.be/i3jZOb0Za-M) // [De La Soul "Get Away" Feat. The Spirit Of Wu Tang ***OFFICIAL VIDEO***](https://youtu.be/ZorwKAwqPnE) // [Slim Thug "Caddy Music" feat. Devin The Dude & Dre Day video](https://youtu.be/uQj7Clsscus?si=fhpy2rvfWfi36o7l) // [Devin The Dude - Lacville '79](https://youtu.be/Fo_2TE6C56Y) // [F*** Faces - Scarface](https://youtu.be/YyGhoH6TB1k?t=88)
 
+
+
+# Wildfire
+[firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,aqua_crc,earth;@-118.8,44.5,7.6z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,aqua_crc,earth;@-118.8,44.5,7.6z)
+<img alt="image" src="https://github.com/user-attachments/assets/d24206ff-7f1f-49a5-a127-e265a504c78d" />
+
 # LIVE: Trial for alleged killer of Tupac Shakur
 [@thomsonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY) +++++++ [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
 [youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
