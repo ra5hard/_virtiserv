@@ -2,6 +2,14 @@
 layout: default
 ---
 
+
+[Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6)
+@nasa-jpl / @caltech / @ucla we have a special guest this morning at [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) [LRo - Lunar Reconnocince Orbiter @Blackgirlscode @deptofwar](https://pds-geosciences.wustl.edu/missions/lro/) /// [mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J) /// [https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3](https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3) // [lroc.im-ldi.com/](https://lroc.im-ldi.com/) // [https://science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/)
+
+![https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png](https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d1bb3f92-6d53-42e1-8b3a-93a4ab131744" />
+
 [HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27) /// [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234) // [Nija - Someone else](https://youtu.be/Xyz0mjW4ANk?si=Qw71zBV3rCr9gJI4) // [`Wu-Tang Clan` - The M.G.M.](https://youtu.be/fPHqbwbXXcI) // [Wu Tang Clan OLderGods @ForAtlanta](https://youtu.be/kt1cLeNGZXY?si=10F0wblJUwl7Bdo5) // [OGC - No Fear ](https://youtu.be/xUDNMmbYtkw) // [Channel Live featuring KRS One - Mad Izm ](https://youtu.be/4BRJ_RiO_ZY) // [KRS-ONE - H.i.P.H.O.P](https://youtu.be/MkWP0udk754?si=GXQewD4FczUYHjdW) // [Krs One ft Puff Daddy - Step into a world(REMIX)](https://youtu.be/YelLNlkjZfA) // [ KRSONE - STEP iNTO a World](https://youtu.be/xbJxcFyaCpI) // [KRS-One - A Friend ](https://youtu.be/aj1Q7jDgrc4?list=RDaj1Q7jDgrc4) // [DelaSoul - area](https://youtu.be/PxiVxvbb3QY?list=RDaj1Q7jDgrc4 ) h ttps://youtu.be/PxiVxvbb3QY?list=RDaj1Q7jDgrc4
 
 
