@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27) /// [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234) // [Nija - Someone else](https://youtu.be/Xyz0mjW4ANk?si=Qw71zBV3rCr9gJI4) // [`Wu-Tang Clan` - The M.G.M.](https://youtu.be/fPHqbwbXXcI) // [Wu Tang Clan OLderGods @ForAtlanta](https://youtu.be/kt1cLeNGZXY?si=10F0wblJUwl7Bdo5) // [OGC - No Fear ](https://youtu.be/xUDNMmbYtkw) // [Channel Live featuring KRS One - Mad Izm ](https://youtu.be/4BRJ_RiO_ZY)
+[HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27) /// [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234) // [Nija - Someone else](https://youtu.be/Xyz0mjW4ANk?si=Qw71zBV3rCr9gJI4) // [`Wu-Tang Clan` - The M.G.M.](https://youtu.be/fPHqbwbXXcI) // [Wu Tang Clan OLderGods @ForAtlanta](https://youtu.be/kt1cLeNGZXY?si=10F0wblJUwl7Bdo5) // [OGC - No Fear ](https://youtu.be/xUDNMmbYtkw) // [Channel Live featuring KRS One - Mad Izm ](https://youtu.be/4BRJ_RiO_ZY) // [KRS-ONE - H.i.P.H.O.P](https://youtu.be/MkWP0udk754?si=GXQewD4FczUYHjdW)
 
 
 # Kuwait City 
