@@ -17,7 +17,8 @@ layout: default
 @la-county-isd @CityOfLosAngeles @nbcnews" src="https://github.com/user-attachments/assets/d25f4510-019e-4ff8-a1e5-93f861e921b2" />
 # LIVE: Trial for alleged killer of Tupac Shakur
 [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
-@nbcnews" src="https://github.com/user-attachments/assets/41ce19a9-4b1c-4d60-b26e-0cb6cc485cbf" />
+<img alt="image @thomsonreuters [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY)
+@la-county-isd @CityOfLosAngeles @nbcnews" src="https://github.com/user-attachments/assets/41ce19a9-4b1c-4d60-b26e-0cb6cc485cbf" />
 
 
 # Israel Is Going Hard,
