@@ -5,6 +5,14 @@ layout: default
 [HOME - Oort Cloud](https://youtu.be/uRn8d2O062A?si=grfO4VyYZe_N3oIN) /// [Rich Boy - Throw Some D's (Official Music Video)](https://youtu.be/pudIZbCRq_c?list=RDzfyQ8muKLdc) // [Youngbloodz - Damn!](https://youtu.be/wCfBjjQVMo4?t=27) /// [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234)
 
 
+# Vampire Savior 2: The Lord of Vampire (Japan 970913)
+<img src="https://images.launchbox-app.com/3f4c0210-85a0-4a57-aba6-c159abdf9406.jpg"/>
+by [Capcom](https://www.capcom.com/) / [launchbox @nasa-jpl](https://gamesdb.launchbox-app.com/games/images/39937-vampire-savior-2-the-lord-of-vampire)
+
+Publication date 1997
+<iframe src="https://archive.org/embed/arcade_vsav2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<img src="https://images.launchbox-app.com/b9f4670e-b378-4654-bb54-5be3b6dea571.png"/>
+<img   alt="image" src="https://github.com/user-attachments/assets/569cecec-a3d2-405f-a7a9-92927afaa811" />
 
 ## _Live: Tupac Shakur murder trial (Aug. 19, Part 1)_
 [WATCH - https://www.youtube.com/watch?v=ja5bWy1fQxA @nasa @cia @NBCNEWS](https://www.youtube.com/watch?v=ja5bWy1fQxA)
