@@ -8,6 +8,8 @@ layout: default
 
 ![https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png](https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png)
 
+![https://science.nasa.gov/wp-content/uploads/2024/01/m122184104r.jpg](https://science.nasa.gov/wp-content/uploads/2024/01/m122184104r.jpg) 
+
 ![https://science.nasa.gov/wp-content/uploads/2024/01/3d-low-sun-mosaic-thumb.png](https://science.nasa.gov/wp-content/uploads/2024/01/3d-low-sun-mosaic-thumb.png) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d1bb3f92-6d53-42e1-8b3a-93a4ab131744" />
