@@ -9,6 +9,9 @@ layout: default
 
 @howard-university-web-services @emit-sds . . . @blackgirlscode if you are free can you fwd to [Lana J HArris](https://www.pinterest.com/lanajharris7/) @fbicyber ?
 [2Pac - MGM Grand Security Camera Footage (Las Vegas) (1996)](https://youtu.be/pmq_BXoUB3c)
+
+<img   alt="image @asfadmin " src="https://github.com/user-attachments/assets/c94e786c-e1e8-4d5b-9bc6-b2ca1c1ae440" />
+
 <img   alt=" @emit-sds EMIT_L2A_RFL_001_20260530T075631_2615005_003" src="https://github.com/user-attachments/assets/b1b320ef-44c5-4d02-90c8-a64eacea0a74" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3ce7e410-9866-42e8-b319-e650bcee4677" />
