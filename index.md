@@ -2,6 +2,17 @@
 layout: default
 ---
 
+
+# Karmelo Anthony Update:
+Judge Is Removed And Karmelo Seeks New Trial
+<img  alt="image" src="https://github.com/user-attachments/assets/974e67b9-f182-4904-a75f-743f87e0a298" />
+
+GHRSST Level 4 MUR Global Foundation Sea Surface Temperature Analysis (v4.1) 
+[Link](https://www.earthdata.nasa.gov/data/catalog/pocloud-mur-jpl-l4-glob-v4.1-4.1) //
+[El Niño Alters Marine Life in the Pacific @nasa @noaagov](https://science.nasa.gov/earth/earth-observatory/el-nino-alters-marine-life-in-the-pacific/)
+<img  alt="snapshot-2026-08-19" src="https://github.com/user-attachments/assets/8fec14db-813d-413f-9cb5-2cf97d86c343" />
+![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-is-underway/elnino_sen6_20260608_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-ni%C3%B1o-is-underway/elnino_sen6_20260608_lrg.jpg) 
+
 [Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 3)](https://www.youtube.com/watch?v=qtRZfqAUDzE)
 [Forensic pathologist details Tupac Shakur's fatal wounds in Duane 'Keffe D' Davis trial](https://www.pbs.org/newshour/nation/forensic-pathologist-details-tupac-shakurs-fatal-wounds-in-duane-keffe-d-davis-trial) // [Tupac Shakur Murder Trial Begins With Revenge Motive and Defendant’s Own Words](https://www.nytimes.com/live/2026/08/17/arts/tupac-murder-trial-duane-davis) // [Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says](https://www.bbc.com/news/articles/cp3r0kz775ko) // [Tupac Shakur murder trial from Las Vegas: Live streaming coverage](https://abc7ny.com/post/tupac-shakur-murder-trial-duane-keffe-davis-is-charged-1996-killing-live-stream/19692508/)
 <img  alt="image" src="https://github.com/user-attachments/assets/47f7c0a9-36a9-40da-8b9e-3cbc9ddb4f14" />
@@ -15,7 +26,7 @@ ECOv002_L2T_STARS_39RTP_20260727_0713_01_NDVI-UQ
 ECOv002_L2T_STARS_39RTP_20260727_0713_01_albedo @nasa-jpl @usgs
 <img alt="ECOv002_L2T_STARS_39RTP_20260727_0713_01_albedo @nasa-jpl @usgs" src="https://github.com/user-attachments/assets/3e1b5779-d422-4394-8838-8bfa2839bd4e" />
 
-
+Sea Surface Temperature Anomalies - [Map To Animate @howard-university @emergingcoders]()
 <img   alt="image" src="https://github.com/user-attachments/assets/d7bd65d5-41b5-4ff8-849a-0c7669c38c7b" />
 
 [Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2) // [💔björk : possibly maybe @howard-university-web-services](https://youtu.be/iyqKy5P1Y0Q) // [Portishead - Sour Times @nasa-jpl ](https://youtu.be/un8EW82GwKc) // [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c) // [Bonobo - 'Heaven For The Sinner' feat. Erykah Badu](https://youtu.be/7YrvzRN-U2c?list=OLAK5uy_n6UZkfaFIW3Vdp2vFjImCC_lL1t_lyn0A) // [Esthero - Swallow Me](https://youtu.be/YfPnoilNZlg?si=4MP95TW2ms3RbSWu) // [De La Soul - "Run It Back!!" featuring Nas (Official Music Video)](https://youtu.be/i3jZOb0Za-M) // [De La Soul "Get Away" Feat. The Spirit Of Wu Tang ***OFFICIAL VIDEO***](https://youtu.be/ZorwKAwqPnE) // [Slim Thug "Caddy Music" feat. Devin The Dude & Dre Day video](https://youtu.be/uQj7Clsscus?si=fhpy2rvfWfi36o7l) // [Devin The Dude - Lacville '79](https://youtu.be/Fo_2TE6C56Y) // [F*** Faces - Scarface](https://youtu.be/YyGhoH6TB1k?t=88) // [
