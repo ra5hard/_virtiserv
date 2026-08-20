@@ -8,7 +8,7 @@ layout: default
 # LIVE: Trial for alleged killer of Tupac Shakur
 [@thomsonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY) +++++++ [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
 [youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
-<img  alt="image @stateofcalifornia " src="https://github.com/user-attachments/assets/59d154a7-0ba2-4a01-a141-6b847c72b9f1" />
+<img  alt="image @stateofcalifornia @deptofwar @nasa-jpl @howard-university-web-services " src="https://github.com/user-attachments/assets/59d154a7-0ba2-4a01-a141-6b847c72b9f1" />
 
 
 
