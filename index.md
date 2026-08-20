@@ -16,6 +16,8 @@ layout: default
 <img  alt="image @thomsonreuters [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY)
 @la-county-isd @CityOfLosAngeles @nbcnews " src="https://github.com/user-attachments/assets/d25f4510-019e-4ff8-a1e5-93f861e921b2" />
 # LIVE: Trial for alleged killer of Tupac Shakur
+<img alt="image @thomsonreuters [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY)
+@la-county-isd @CityOfLosAngeles @nbcnews" src="https://github.com/user-attachments/assets/41ce19a9-4b1c-4d60-b26e-0cb6cc485cbf" />
 
 [WATCH - LIVE: Trial for alleged killer of Tupac Shakur - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
 @nbcnews
