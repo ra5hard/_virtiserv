@@ -11,6 +11,8 @@ layout: default
 
 [@thomsonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY) +++++++ [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
 [youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
+<img alt="image" src="https://github.com/user-attachments/assets/cd59caa8-b8a3-48d7-a337-38ca3d7cd409" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/ac33d6ad-d52f-47fc-9f11-ca1d2ca4b8a4" />
 
 @la-county-isd @CityOfLosAngeles
