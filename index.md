@@ -7,6 +7,12 @@ layout: default
 
 
 
+# Israel Is Going Hard,
+Young Thug's Wild Advice, China's '[Superman](https://www.youtube.com/playlist?list=PL3Gvc4qA4m9fG77GQRvAuvgCHyx3uh26w)' Robot
+` HOT 97 ` News 8/19/26 @howard-university-web-services @nasa-jpl + [@NBCNEWS _#MEROonHOT97](https://www.youtube.com/live/7HFRAusqkmw?si=kMQd-yk2Q4FCTZ0H)
+[WATCH - youtu.be/genklbB6EVQ?si=8-Q5uR0hnYEu3tBc](https://youtu.be/genklbB6EVQ?si=8-Q5uR0hnYEu3tBc)
+<img  alt="image" src="https://github.com/user-attachments/assets/ec3791f3-ba78-4346-b3b7-1e20f89bf462" />
+
 
 # Black Spot in MArtian Sky
 @deptofwar @whitehouse
