@@ -3,8 +3,11 @@ layout: default
 ---
 
 
-[Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6)
-@nasa-jpl / @caltech / @ucla we have a special guest this morning at [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) [LRo - Lunar Reconnocince Orbiter @Blackgirlscode @deptofwar](https://pds-geosciences.wustl.edu/missions/lro/) /// [mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J) /// [https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3](https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3) // [lroc.im-ldi.com/](https://lroc.im-ldi.com/) // [https://science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/)
+[Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE)
+
+
+# LRO_Madrid_DSN [homepage @nasa-giss](https://www.mdscc.nasa.gov/index.php/en/start/)
+@nasa-jpl / @caltech / @ucla we have a special guest this morning at [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) [LRo - Lunar Reconnocince Orbiter @Blackgirlscode @deptofwar](https://pds-geosciences.wustl.edu/missions/lro/) /// [mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J) /// [https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3](https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3) // [lroc.im-ldi.com/](https://lroc.im-ldi.com/) // [https://science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/) ////////// [Björk - Post (1995) Full Album](https://youtu.be/Y0WO2Km-r94?si=SoqIs3Ygg-joRKmV)
 
 ![https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png](https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png)
 
