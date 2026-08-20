@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2)
+[Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2) // [💔björk : possibly maybe @howard-university-web-services](https://youtu.be/iyqKy5P1Y0Q)
 
 
 # LRO_Madrid_DSN [homepage @nasa-giss](https://www.mdscc.nasa.gov/index.php/en/start/)
