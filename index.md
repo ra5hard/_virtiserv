@@ -16,6 +16,7 @@ _[@itsgavinnewsom the pro adultery thing do you think @keishaforga like your man
 <img alt="image" src="https://github.com/user-attachments/assets/d24206ff-7f1f-49a5-a127-e265a504c78d" />
 
 # LIVE: Trial for alleged killer of Tupac Shakur
+[1993 UNCUT: "Tupac Shakur's Atlanta ARREST & The Criminalization of HIP-HOP" (Raw Archive) @foratlanta ](https://youtu.be/p6ZBgaghxlI?si=SCcWPua1Qg1pLOlX) ///
 [@thomsonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY) +++++++ [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
 [youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
 <img  alt="image @stateofcalifornia @deptofwar @nasa-jpl @howard-university-web-services @disney @hulu @blackgirlscode " src="https://github.com/user-attachments/assets/59d154a7-0ba2-4a01-a141-6b847c72b9f1" />
