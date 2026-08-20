@@ -6,6 +6,8 @@ layout: default
 
 
 # Kuwait City 
+<img  alt="image" src="https://github.com/user-attachments/assets/3ce7e410-9866-42e8-b319-e650bcee4677" />
+
 @howard-university-web-services . . . @blackgirlscode if you are free can you fwd to [Lana J HArris](https://www.pinterest.com/lanajharris7/) @fbicyber ?
 [2Pac - MGM Grand Security Camera Footage (Las Vegas) (1996)](https://youtu.be/pmq_BXoUB3c)
 <img alt="image" src="https://github.com/user-attachments/assets/476f890e-e5b8-41ee-8344-cedea765428c" />
