@@ -5,8 +5,9 @@ layout: default
 
 # [Karmelo Anthony](https://www.nba.com/stats/player/2546/career) Update:
 Judge Is Removed And Karmelo Seeks New Trial
-[WikiTalk](https://en.wikipedia.org/wiki/Talk:Carmelo_Anthony)
+
 [WATCH - https://youtu.be/nLjTkWvPRN8?si=3FXl0YKPLlnk6P66](https://youtu.be/nLjTkWvPRN8?si=3FXl0YKPLlnk6P66)
+/// [WikiTalk](https://en.wikipedia.org/wiki/Talk:Carmelo_Anthony)
 <img  alt="image" src="https://github.com/user-attachments/assets/974e67b9-f182-4904-a75f-743f87e0a298" />
 
 ![https://cdn.nba.com/manage/2020/10/NBA20Secondary20Logo-784x462.jpg](https://cdn.nba.com/manage/2020/10/NBA20Secondary20Logo-784x462.jpg) 
