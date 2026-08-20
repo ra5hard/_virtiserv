@@ -6,11 +6,12 @@ layout: default
 [Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2) // [💔björk : possibly maybe @howard-university-web-services](https://youtu.be/iyqKy5P1Y0Q) // [Portishead - Sour Times @nasa-jpl ](https://youtu.be/un8EW82GwKc) // [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c) // [Bonobo - 'Heaven For The Sinner' feat. Erykah Badu](https://youtu.be/7YrvzRN-U2c?list=OLAK5uy_n6UZkfaFIW3Vdp2vFjImCC_lL1t_lyn0A) // [Esthero - Swallow Me](https://youtu.be/YfPnoilNZlg?si=4MP95TW2ms3RbSWu)
 
 # LIVE: Trial for alleged killer of Tupac Shakur
-
-
-
 [@thomsonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY) +++++++ [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
 [youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
+<img  alt="image @stateofcalifornia " src="https://github.com/user-attachments/assets/59d154a7-0ba2-4a01-a141-6b847c72b9f1" />
+
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/cd59caa8-b8a3-48d7-a337-38ca3d7cd409" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/ac33d6ad-d52f-47fc-9f11-ca1d2ca4b8a4" />
