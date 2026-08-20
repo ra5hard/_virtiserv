@@ -12,10 +12,13 @@ layout: default
 @deptofwar @whitehouse
 @nasa-pds idk if its the eclipse on May 26 when phobos transisioned, i found it on Atlas and thought it was comnnected to the recent martian eclipse of phobos on 8/13 . . . anyway @nasa-jpl back to may . . . the day following the black spot [MastCam-Z](https://science.nasa.gov/mission/mars-2020-perseverance/science-instruments/#cameras) saved a [scrambled image](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ) . . . the dark spot can be found in atlas beta [`pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/01859/ids/rdr/ncam/NLG_1859_0831980527_534RZS_N0880844NCAM00518_0A02I3J01.IMG` @nasa @cityoflosangeles ](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/01859/ids/rdr/ncam/NLG_1859_0831980527_534RZS_N0880844NCAM00518_0A02I3J01.IMG)
 
-<img  alt="image" src="https://github.com/user-attachments/assets/735154d6-7789-496b-8c78-2a9ed5a07dde" />
+
 
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01861/ids/edr/browse/zcam/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01861/ids/edr/browse/zcam/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ01_1200.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/735154d6-7789-496b-8c78-2a9ed5a07dde" />
+
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/7/27193_PIA25660-web.jpg?w=1200&h=263&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/7/27193_PIA25660-web.jpg?w=1200&h=263&fit=clip&crop=faces%2Cfocalpoint)
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24223_PIA23316-web.jpg?w=1600&h=1068&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24223_PIA23316-web.jpg?w=1600&h=1068&fit=clip&crop=faces%2Cfocalpoint)
 
