@@ -6,6 +6,9 @@ layout: default
 [Future - Krazy but True @Blackgirlscode hi](https://youtu.be/oAL-d2Nvqek?si=5o8GENzT_PktBZB6) // [Björk ~ It's Oh So Quiet](https://youtu.be/zMeIlq-kRtE?list=RDzMeIlq-kRtE) ~> [Enjoy](https://youtu.be/yby59UUZO3M?si=5d2QSDskvGxRejk2) // [💔björk : possibly maybe @howard-university-web-services](https://youtu.be/iyqKy5P1Y0Q) // [Portishead - Sour Times @nasa-jpl ](https://youtu.be/un8EW82GwKc) // [Bonobo - Kerala](https://youtu.be/S0Q4gqBUs7c) // [Bonobo - 'Heaven For The Sinner' feat. Erykah Badu](https://youtu.be/7YrvzRN-U2c?list=OLAK5uy_n6UZkfaFIW3Vdp2vFjImCC_lL1t_lyn0A) // [Esthero - Swallow Me](https://youtu.be/YfPnoilNZlg?si=4MP95TW2ms3RbSWu)
 
 # LIVE: Trial for alleged killer of Tupac Shakur
+[youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
+<img alt="image" src="https://github.com/user-attachments/assets/ac33d6ad-d52f-47fc-9f11-ca1d2ca4b8a4" />
+
 [@thomsonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY)
 @la-county-isd @CityOfLosAngeles
 <img  alt="image @thomsonreuters [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY)
@@ -20,6 +23,7 @@ layout: default
 <img alt="image @thomsonreuters [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY)
 @la-county-isd @CityOfLosAngeles @nbcnews" src="https://github.com/user-attachments/assets/41ce19a9-4b1c-4d60-b26e-0cb6cc485cbf" />
 
+![https://lindseyhorvath.lacounty.gov/wp-content/uploads/2023/03/horvath.light_.pink_.v3.png](https://lindseyhorvath.lacounty.gov/wp-content/uploads/2023/03/horvath.light_.pink_.v3.png)
 
 # Israel Is Going Hard,
 Young Thug's Wild Advice, China's '[Superman](https://www.youtube.com/playlist?list=PL3Gvc4qA4m9fG77GQRvAuvgCHyx3uh26w)' Robot
