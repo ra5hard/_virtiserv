@@ -3,9 +3,16 @@ layout: default
 ---
 
 
- [Bad Timing _@Blackgirlscode_ · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [Tame Impala - Endors Toi](https://youtu.be/NKcCoxCSql8?si=buRNryagBqoOLO60)
+ [Bad Timing _@Blackgirlscode_ · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [Tame Impala - Endors Toi](https://youtu.be/NKcCoxCSql8?si=buRNryagBqoOLO60) // [Hundred in the Hands, Recognize](https://youtu.be/IL3nja4kuLc)
 
  --- 
+
+# LIVE: Keefe D Murder Trial Day 5
+| Official Courtroom Proceedings
+| Las Vegas [`WATCH` - youtube.com/live/HLlqxkZNvI8?si=vtXz1HV_bQc48eZ- @CityOfLosAngeles](https://www.youtube.com/live/HLlqxkZNvI8?si=vtXz1HV_bQc48eZ-)
+<img   alt="image" src="https://github.com/user-attachments/assets/47482948-f4b5-4e7d-8e90-8d9c24799c23" />
+![https://imagez.tmz.com/image/f7/4by3/2019/10/21/f75d396131ff4c2a9d768a8c01de41f4_md.jpg](https://imagez.tmz.com/image/f7/4by3/2019/10/21/f75d396131ff4c2a9d768a8c01de41f4_md.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/b2ae6dd0-2cd4-4510-8250-f99609265d4a" />
 
 
 
