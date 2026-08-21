@@ -17,10 +17,13 @@ layout: default
 ## Heated Exchange: Keffe D Says Prosecutor is Putting Him, His Family in Danger  
 _Tupac Murder Trial_ [WATCH - https://youtu.be/RqMKLt11alg](https://youtu.be/RqMKLt11alg) ////////// [youtube.com/@kattnotwilliams](https://www.youtube.com/@kattnotwilliams)
 <img  alt="image" src="https://github.com/user-attachments/assets/80ca99e9-4f9a-4cc2-958d-b92df733acf3" />
+### Danny Boy Returns To The BMW 2Pac Was Fatally Shot In, Revealing Shocking Details About The Car 
+[WATCH - youtu.be/zVDWExrOKrE](https://youtu.be/zVDWExrOKrE?t=853) ///// [youtube.com/@TheArtOfDialogue](https://www.youtube.com/@TheArtOfDialogue)
+<img  alt="image" src="https://github.com/user-attachments/assets/e29738ff-ca5d-4eba-af37-84b42ef21119" />
 
 
 ## Old Graffiti Writers Are Keeping You Toy?! Is Graffiti Gatekeeping Real [youtube.com/@Theartistblock](https://www.youtube.com/@Theartistblock)
-[`WATCH` - youtu.be/nLLQ1veoyw4](https://youtu.be/nLLQ1veoyw4)
+[`WATCH` - youtu.be/nLLQ1veoyw4](https://youtu.be/nLLQ1veoyw4) 
 [http://archive.org/details/artofgettingover0000powe/page/n7/mode/2up](http://archive.org/details/artofgettingover0000powe/page/n7/mode/2up)
 
 <img alt="image" src="https://github.com/user-attachments/assets/c44d196b-5edb-4027-8911-44dfb1730ef1" />
