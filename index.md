@@ -8,7 +8,13 @@ layout: default
  --- 
 
 mybinder
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/084391ed-814e-42b3-b7a1-4184e615720f" />
+<img   alt="image" src="https://github.com/user-attachments/assets/084391ed-814e-42b3-b7a1-4184e615720f" />
+
+# $100,000 bronze statue honoring military stolen in Paramount
+[WATCH - youtu.be/pJKwthU_hRU](https://youtu.be/pJKwthU_hRU)
+[@nbcnewsnbclosangeles.com/author/keenan-willard/](https://www.nbclosangeles.com/author/keenan-willard/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/94e90d32-e90f-4863-aaa1-e95e75c1782a" />
 
  # North Korea Firing Missiles, 
  Gold Mine Collapse, Lionel Richie Making Jokes 
