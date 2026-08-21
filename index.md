@@ -3,6 +3,16 @@ layout: default
 ---
 
 
+# LIVE: Keefe D Murder Trial Day 5 
+[Las Vegas](https://www.lasvegasnevada.gov/Government/Mayor-City-Council/Mayor) :::  [WATCH - https://youtu.be/HLlqxkZNvI8](https://youtu.be/HLlqxkZNvI8)
+Official Courtroom Proceedings `In the opening day of Tupac Shakur's murder trial, prosecutors painted former gang leader Duane "Keffe D" Davis as someone seeking revenge` - [@bbc .com/news/articles/cp3r0kz775ko](https://www.bbc.com/news/articles/cp3r0kz775ko)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0ae67a57-8406-441c-8ebd-87663f24c9fc" />
+
+[@nasa-jpl _`HiphopNews`__youtube.com/@vladtv](https://www.youtube.com/@vladtv)
+<img  alt="image" src="https://github.com/user-attachments/assets/d2fdb942-24ab-4087-8d55-7cd361bbe013" />
+
 # [Karmelo Anthony](https://www.nba.com/stats/player/2546/career) Update:
 Judge Is Removed And Karmelo Seeks New Trial
 
