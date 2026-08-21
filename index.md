@@ -9,6 +9,22 @@ layout: default
 
 mybinder . . . 
 @binder-examples hi its rashard from @Nasa-jpl Mars & Kennedy Earth~ my jupyter notebook builds are failing, so [Ecostress](https://ecostress.jpl.nasa.gov/wildfire_gallery) will have to wait [Lana](https://www.instagram.com/lanajharris/?hl=en), i wanted to upgrade your maps @blackgirlscode @howard-university-web-services 
+
+```shell
+Waiting for build to start...
+Picked Git content provider.
+Cloning into '/tmp/repo2dockerkjwkn2fp'...
+HEAD is now at b7b97a2 Merge pull request #38 from nasa/mjami00-patch-1
+No environment specification found. See https://repo2docker.readthedocs.io/en/latest/configuration/ for supported files.
+Waiting for build to start...
+Picked Git content provider.
+Cloning into '/tmp/repo2docker26sqzpue'...
+HEAD is now at c1ef8f1 Merge pull request #191 from nasa/polarimeter_l2_v2
+No environment specification found. See https://repo2docker.readthedocs.io/en/latest/configuration/ for supported files.
+Waiting for build to start...
+Waiting for build to start...
+```
+
 <img   alt="image" src="https://github.com/user-attachments/assets/084391ed-814e-42b3-b7a1-4184e615720f" />
 
 # $100,000 bronze statue honoring military stolen in Paramount
