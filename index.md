@@ -10,7 +10,7 @@ layout: default
  # North Korea Firing Missiles, 
  Gold Mine Collapse, Lionel Richie Making Jokes 
  HOT 97 News 8/20/26 [@HULU WATCH - youtu.be/P-wI--z3Yxw @ForAtlanta @CityOfLosAngeles](https://youtu.be/P-wI--z3Yxw)
-
+[North Korea launches 10 ballistic missiles as US-South Korea drills near end  @thomsonreuters ](https://www.reuters.com/world/china/north-korea-fires-suspected-ballistic-missile-japanese-authorities-say-2026-08-20/)
  <img  alt="image" src="https://github.com/user-attachments/assets/01571786-e35d-4225-90dd-5dc68faf9910" />
 
 
@@ -86,7 +86,7 @@ _[@itsgavinnewsom the pro adultery thing do you think @keishaforga like your man
 [1993 UNCUT: "Tupac Shakur's Atlanta ARREST & The Criminalization of HIP-HOP" (Raw Archive) @foratlanta ](https://youtu.be/p6ZBgaghxlI?si=SCcWPua1Qg1pLOlX) 
 <img  alt="image" src="https://github.com/user-attachments/assets/2f104f50-ea33-4b81-8e32-4799e14e5fe0" />
 ///
-[@thomsonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY) +++++++ [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
+[@sonreuters](https://www.youtube.com/@Reuters) /// [WATCH - youtu.be/-i9me4_JMwY](https://youtu.be/-i9me4_JMwY) +++++++ [WATCH - Live: Testimony resumes in the Tupac Shakur murder trial (Aug. 20, Part 1) - youtu.be/qtRZfqAUDzE](https://youtu.be/qtRZfqAUDzE)
 [youtube.com/@SupervisorLindseyP.Horvath](https://www.youtube.com/@SupervisorLindseyP.Horvath)
 <img  alt="image @stateofcalifornia @deptofwar @nasa-jpl @howard-university-web-services @disney @hulu @blackgirlscode " src="https://github.com/user-attachments/assets/59d154a7-0ba2-4a01-a141-6b847c72b9f1" />
 
