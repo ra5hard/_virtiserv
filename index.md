@@ -13,6 +13,8 @@ layout: default
 [North Korea launches 10 ballistic missiles as US-South Korea drills near end  @thomsonreuters ](https://www.reuters.com/world/china/north-korea-fires-suspected-ballistic-missile-japanese-authorities-say-2026-08-20/)
  <img  alt="image" src="https://github.com/user-attachments/assets/01571786-e35d-4225-90dd-5dc68faf9910" />
 
+ ![@cityoflosangeles _Karen_ @whitehouse _Bass_https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg)
+
 
 # @NASA to compete contract for Jet Propulsion Lab management, could @USC be eyeing a TAKEOVER?
 [WATCH - youtu.be/dCUfSaJ1L4w @NASA-GiSS @NASA-DEVELOP @doug-newman-nasa](https://youtu.be/dCUfSaJ1L4w)
