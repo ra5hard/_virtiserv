@@ -7,6 +7,61 @@ layout: default
 
  --- 
 
+<imgalt="image" src="https://github.com/user-attachments/assets/ea726e7f-64b8-49f7-be4d-08099e91c3b9" />
+
+@SpaceXtudio
+​​Welcome to the live coverage of the Starlink Group 15-20 mission! 🚀SpaceX is targeting the launch of 27 Starlink satellites to low-Earth orbit from SLC-4E at Vandenberg Space Force Base in California
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@chloebaileywashere hi i hope you haveing a good day
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@hot97 @lanajharris hi i hope you having a good day @t.i. - #Rashard @Nasa-pds @nasaEarthdata @NASAJPL hi @KTLA @USC
+
+
+@evaisabellagmagyar6173
+​​Hi , watching from Washington DC Virginia USA 😎👍🇺🇸
+
+
+@brokenwrench404
+​​Please hit the like 👍🏼 and subscribe 🔔
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@deptofwar
+
+
+@brokenwrench404
+​​@thakasErikaselassie_kelly please don’t spam chat when you come back from your timeout
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+
+@thakasErikaselassie_kelly
+​​you from the 404 ? https://x.com/i/broadcasts/1PKqrNNknkZGb im doing weather and monitoring @DEPTOFwar we have a population of missing girls from atlanta @KEishaforga an i think slime raising its head
+
+--# Watch Live 🔴SpaceX Launches Starlink 15-20 from Vandenberg! | 27 Satellites & Booster Landing--
+[WATCH - youtube.com/live/uoMfX6kyAl8?si=zoOrm8yMlh51xJm_](https://www.youtube.com/live/uoMfX6kyAl8?si=zoOrm8yMlh51xJm_)
+#SpaceX #StarlinkLaunch #Falcon9
+Welcome to SpaceXtudio! 🚀 Today, we are tracking SpaceX's Starlink Group 15-20 mission. A Falcon 9 rocket is set to launch 27 Starlink V2 Mini satellites into low-Earth orbit from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California.
+
+Payload: 27 Starlink V2 Mini Satellites  
+Launch Site: SLC-4E, Vandenberg SFB, California  
+Booster: B1100 (Flying for the 9th time!)  
+Landing Zone: Droneship Of Course I Still Love You (OCISLY) in the Pacific Ocean  
+[https://www.youtube.com/user/ushomelandsecurity](https://www.youtube.com/user/ushomelandsecurity)
+<img   alt="image" src="https://github.com/user-attachments/assets/db03e3ec-45fc-42a1-acb1-45a6e5e591d7" />
+
 mybinder . . . 
 @binder-examples hi its rashard from @Nasa-jpl Mars & Kennedy Earth~ my jupyter notebook builds are failing, so [Ecostress](https://ecostress.jpl.nasa.gov/wildfire_gallery) will have to wait [Lana](https://www.instagram.com/lanajharris/?hl=en), i wanted to upgrade your maps @blackgirlscode @howard-university-web-services 
 
