@@ -7,7 +7,8 @@ layout: default
 
  --- 
 
-mybinder
+mybinder . . . 
+@binder-examples hi its rashard from @Nasa-jpl Mars & Kennedy Earth~ my jupyter notebook builds are failing, so [Ecostress](https://ecostress.jpl.nasa.gov/wildfire_gallery) will have to wait [Lana](https://www.instagram.com/lanajharris/?hl=en), i wanted to upgrade your maps @blackgirlscode @howard-university-web-services 
 <img   alt="image" src="https://github.com/user-attachments/assets/084391ed-814e-42b3-b7a1-4184e615720f" />
 
 # $100,000 bronze statue honoring military stolen in Paramount
