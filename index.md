@@ -7,6 +7,12 @@ layout: default
 
  --- 
 
+# @NASA to compete contract for Jet Propulsion Lab management, could @USC be eyeing a TAKEOVER?
+[WATCH - youtu.be/dCUfSaJ1L4w @NASA-GiSS @NASA-DEVELOP @doug-newman-nasa](https://youtu.be/dCUfSaJ1L4w)
+@NASA Astronaut Anil Menon and @ESA Astronaut Sophie Adenot have completed a 6 hour 23 minute spacewalk, outside of the International Space Station, during which the pair completed the removal of a failed space-to-ground antenna that serves as a critical link NASA uses to transmit data between the ISS and Mission Control in Houston. As this endeavor took place miles in the air, another battle is brewing over the fate of one of NASA's most critical assets, the Jet Propulsion Laboratory, long considered one of the crown jewels of the American Space Program. All this, after NASA announced earlier this year that it would not automatically renew the long-running partnership with CALTECH, and instead open up management of the facility to a competitive bidding process. One institution that could be eyeing a contract to operate the research facility, is USC - that interest is the subject of a new piece by L.A. Material Reporter Tomo Chien: "@USC is Eyeing the JPL Contract." Chien joins Cher Calvin and Micah Ohlman with more on the story, the storied history of the center, and the road ahead. August 18, 2026.
+
+<img alt="image" src="https://github.com/user-attachments/assets/937c24d6-d617-4971-9c54-1ec702064f9b" />
+
 # LIVE: Keefe D Murder Trial Day 5 
 [Las Vegas](https://www.lasvegasnevada.gov/Government/Mayor-City-Council/Mayor) :::  [WATCH - https://youtu.be/HLlqxkZNvI8](https://youtu.be/HLlqxkZNvI8)
 Official Courtroom Proceedings `In the opening day of Tupac Shakur's murder trial, prosecutors painted former gang leader Duane "Keffe D" Davis as someone seeking revenge` - [@bbc .com/news/articles/cp3r0kz775ko](https://www.bbc.com/news/articles/cp3r0kz775ko)
