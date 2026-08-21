@@ -13,7 +13,7 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/47482948-f4b5-4e7d-8e90-8d9c24799c23" />
 ![https://imagez.tmz.com/image/f7/4by3/2019/10/21/f75d396131ff4c2a9d768a8c01de41f4_md.jpg](https://imagez.tmz.com/image/f7/4by3/2019/10/21/f75d396131ff4c2a9d768a8c01de41f4_md.jpg)
 <img  alt="image" src="https://github.com/user-attachments/assets/b2ae6dd0-2cd4-4510-8250-f99609265d4a" />
-
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKC43PLynIdHyV-tqORLr_pXBydZHO_X9z3YzXHXDG4MwKuUXpiFvT_Gk&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKC43PLynIdHyV-tqORLr_pXBydZHO_X9z3YzXHXDG4MwKuUXpiFvT_Gk&s=10)
 
 
 ## Old Graffiti Writers Are Keeping You Toy?! Is Graffiti Gatekeeping Real [youtube.com/@Theartistblock](https://www.youtube.com/@Theartistblock)
