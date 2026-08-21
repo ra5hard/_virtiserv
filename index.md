@@ -7,6 +7,11 @@ layout: default
 
  --- 
 
+# Louis Theroux on the Manosphere (Inside Toxic Masculinity)
+[WATCH - youtu.be/A6rmruzJh0E](https://youtu.be/A6rmruzJh0E)
+@STATEOFCALiFORNIa mr newsom thank you for addressing masculinity in california, i will watch when i get a chance at least you know i care - rashard @nasa-jpl not just meaningless authoritarian abuse! I really want to fix whats wrong in my path @blackgirlscode * @disney @hulu the right way . . . the sex thing is still hurtfull being excluded... @CityOfLosAngeles from my experiance and research its a reusable sponge for one time choosing for sharing, this country is so crippled from premarital sex @la-county-isd
+<img  alt="image" src="https://github.com/user-attachments/assets/22907c98-c7d5-4dae-8889-240546520e7e" />
+
 ## [_WATCH_ - https://x.com/i/broadcasts/1PKqrNNknkZGb](https://x.com/i/broadcasts/1PKqrNNknkZGb)
  [spacex.com/launches/sl-15-20](https://www.spacex.com/launches/sl-15-20)
 SpaceX’s Falcon 9 is targeting the launch of 27 Starlink satellites to low-Earth orbit from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California.
