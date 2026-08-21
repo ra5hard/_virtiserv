@@ -9,8 +9,8 @@ layout: default
 
  # North Korea Firing Missiles, 
  Gold Mine Collapse, Lionel Richie Making Jokes 
- HOT 97 News 8/20/26 [@HULU WATCH - youtu.be/P-wI--z3Yxw @ForAtlanta @CityOfLosAngeles](https://youtu.be/P-wI--z3Yxw)
-[North Korea launches 10 ballistic missiles as US-South Korea drills near end  @thomsonreuters ](https://www.reuters.com/world/china/north-korea-fires-suspected-ballistic-missile-japanese-authorities-say-2026-08-20/)
+ HOT 97 News 8/20/26 [@HULU WATCH - youtu.be/P-wI--z3Yxw @ForAtlanta @CityOfLosAngeles](https://youtu.be/P-wI--z3Yxw) /// 
+[North Korea launches 10 ballistic missiles as US-South Korea drills near end  @thomsonreuters ](https://www.reuters.com/world/china/north-korea-fires-suspected-ballistic-missile-japanese-authorities-say-2026-08-20/) /// [North Korea’s Nuclear Weapons and Missile Programs congress.gov/crs-product/IF10472](https://www.congress.gov/crs-product/IF10472)
  <img  alt="image" src="https://github.com/user-attachments/assets/01571786-e35d-4225-90dd-5dc68faf9910" />
 
  ![@cityoflosangeles _Karen_ @whitehouse _Bass_https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg)
