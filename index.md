@@ -15,7 +15,7 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/b2ae6dd0-2cd4-4510-8250-f99609265d4a" />
 ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKC43PLynIdHyV-tqORLr_pXBydZHO_X9z3YzXHXDG4MwKuUXpiFvT_Gk&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKC43PLynIdHyV-tqORLr_pXBydZHO_X9z3YzXHXDG4MwKuUXpiFvT_Gk&s=10)
 ## Heated Exchange: Keffe D Says Prosecutor is Putting Him, His Family in Danger  
-_Tupac Murder Trial_ [WATCH - https://youtu.be/RqMKLt11alg](https://youtu.be/RqMKLt11alg)
+_Tupac Murder Trial_ [WATCH - https://youtu.be/RqMKLt11alg](https://youtu.be/RqMKLt11alg) ////////// [youtube.com/@kattnotwilliams](https://www.youtube.com/@kattnotwilliams)
 <img  alt="image" src="https://github.com/user-attachments/assets/80ca99e9-4f9a-4cc2-958d-b92df733acf3" />
 
 
