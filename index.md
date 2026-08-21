@@ -3,9 +3,12 @@ layout: default
 ---
 
 
- [Bad Timing _@Blackgirlscode_ · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE)
+ [Bad Timing _@Blackgirlscode_ · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [Tame Impala - Endors Toi](https://youtu.be/NKcCoxCSql8?si=buRNryagBqoOLO60)
 
  --- 
+
+mybinder
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/084391ed-814e-42b3-b7a1-4184e615720f" />
 
  # North Korea Firing Missiles, 
  Gold Mine Collapse, Lionel Richie Making Jokes 
