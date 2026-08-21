@@ -7,6 +7,7 @@ layout: default
 
  --- 
 
+## [_WATCH_ - https://x.com/i/broadcasts/1PKqrNNknkZGb](https://x.com/i/broadcasts/1PKqrNNknkZGb)
  [spacex.com/launches/sl-15-20](https://www.spacex.com/launches/sl-15-20)
 SpaceX’s Falcon 9 is targeting the launch of 27 Starlink satellites to low-Earth orbit from Space Launch Complex 4 East (SLC-4E) at Vandenberg Space Force Base in California.
 
@@ -14,7 +15,7 @@ A live webcast of this mission will begin about 10 minutes prior to liftoff, whi
 
 This will be the ninth flight for the first stage booster supporting this mission, which previously launched NROL-105 and seven Starlink missions. Following stage separation, the first stage will land on the Of Course I Still Love You droneship, which will be stationed in the Pacific Ocean.
 
-There is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions. [spacex.com/launches/sl-15-20](https://www.spacex.com/launches/sl-15-20) @nasa-jpl @nasa-pds @whitehouse
+There is the possibility that residents of Santa Barbara, San Luis Obispo, and Ventura counties may hear one or more sonic booms during the launch, but what residents experience will depend on weather and other conditions. [spacex.com/launches/sl-15-20](https://www.spacex.com/launches/sl-15-20) @nasa-jpl @nasa-pds @whitehouse [_WATCH_ - https://x.com/i/broadcasts/1PKqrNNknkZGb](https://x.com/i/broadcasts/1PKqrNNknkZGb)
 <img alt="image" src="https://github.com/user-attachments/assets/ea726e7f-64b8-49f7-be4d-08099e91c3b9" />
 
 @SpaceXtudio
