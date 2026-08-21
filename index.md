@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+ [Bad Timing _@Blackgirlscode_ · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE)
+
+ --- 
+
 # LIVE: Keefe D Murder Trial Day 5 
 [Las Vegas](https://www.lasvegasnevada.gov/Government/Mayor-City-Council/Mayor) :::  [WATCH - https://youtu.be/HLlqxkZNvI8](https://youtu.be/HLlqxkZNvI8)
 Official Courtroom Proceedings `In the opening day of Tupac Shakur's murder trial, prosecutors painted former gang leader Duane "Keffe D" Davis as someone seeking revenge` - [@bbc .com/news/articles/cp3r0kz775ko](https://www.bbc.com/news/articles/cp3r0kz775ko)
