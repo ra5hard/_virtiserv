@@ -8,7 +8,7 @@ layout: default
  --- 
 
 _DJ Vlad talks solving Tupac's case_
-[Watch @CiTYOFLOSANGELES - youtu.be/ZwAPILMPBug](https://youtu.be/ZwAPILMPBug)
+[Watch @CiTYOFLOSANGELES - youtu.be/ZwAPILMPBug](https://youtu.be/ZwAPILMPBug) /// 
 [youtube.com/@`HOLLYWOODUNLOCKED`](https://www.youtube.com/@HOLLYWOODUNLOCKED)
 ![https://yt3.googleusercontent.com/ytc/AIdro_lO3T8d3RvcbIaKAKjdP77gfhbxHNz-cVcHjThj-1wKwjQ=s160-c-k-c0x00ffffff-no-rj](https://yt3.googleusercontent.com/ytc/AIdro_lO3T8d3RvcbIaKAKjdP77gfhbxHNz-cVcHjThj-1wKwjQ=s160-c-k-c0x00ffffff-no-rj)
 <img  alt="image" src="https://github.com/user-attachments/assets/957c2b12-2e12-44d2-85a8-a1ee2d73ec1d" />
