@@ -7,6 +7,12 @@ layout: default
 
  --- 
 
+_DJ Vlad talks solving Tupac's case_
+[Watch @CiTYOFLOSANGELES - youtu.be/ZwAPILMPBug](https://youtu.be/ZwAPILMPBug)
+[youtube.com/@`HOLLYWOODUNLOCKED`](https://www.youtube.com/@HOLLYWOODUNLOCKED)
+![https://yt3.googleusercontent.com/ytc/AIdro_lO3T8d3RvcbIaKAKjdP77gfhbxHNz-cVcHjThj-1wKwjQ=s160-c-k-c0x00ffffff-no-rj](https://yt3.googleusercontent.com/ytc/AIdro_lO3T8d3RvcbIaKAKjdP77gfhbxHNz-cVcHjThj-1wKwjQ=s160-c-k-c0x00ffffff-no-rj)
+<img  alt="image" src="https://github.com/user-attachments/assets/957c2b12-2e12-44d2-85a8-a1ee2d73ec1d" />
+
 # Louis Theroux on the Manosphere (Inside Toxic Masculinity)
 [WATCH - youtu.be/A6rmruzJh0E](https://youtu.be/A6rmruzJh0E)
 @STATEOFCALiFORNIa mr newsom thank you for addressing masculinity in california, i will watch when i get a chance at least you know i care - rashard @nasa-jpl not just meaningless authoritarian abuse! I really want to fix whats wrong in my path @blackgirlscode * @disney @hulu the right way . . . the sex thing is still hurtfull being excluded... @CityOfLosAngeles from my experiance and research its a reusable sponge for one time choosing for sharing, this country is so crippled from premarital sex @la-county-isd [TuPAc MurderTrial @Nbcnews](https://www.youtube.com/watch?v=HLlqxkZNvI8) he still made some bad moves integrity wise, thats coming from either his brother of the playboy bastard clan or fellow somalian tribal member in socal [@howard-university-web-services](https://www.youtube.com/watch?v=QOhoIBkOYf0) i heard about whos who supervispor holly j mitchell @la-county-isd
