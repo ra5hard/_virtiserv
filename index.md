@@ -12,6 +12,7 @@ Official Courtroom Proceedings `In the opening day of Tupac Shakur's murder tria
 
 [@nasa-jpl _`HiphopNews`__youtube.com/@vladtv](https://www.youtube.com/@vladtv)
 <img  alt="image" src="https://github.com/user-attachments/assets/d2fdb942-24ab-4087-8d55-7cd361bbe013" />
+![https://yt3.googleusercontent.com/0rGGguwsuFiuVQBQEP7bJz7eT7giPPfR13mucYirEcg3rf7R9vcmdHXTxaDSORc1908Il4ITqQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/0rGGguwsuFiuVQBQEP7bJz7eT7giPPfR13mucYirEcg3rf7R9vcmdHXTxaDSORc1908Il4ITqQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 # [Karmelo Anthony](https://www.nba.com/stats/player/2546/career) Update:
 Judge Is Removed And Karmelo Seeks New Trial
