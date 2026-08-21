@@ -7,7 +7,7 @@ layout: default
 
  --- 
 
-<imgalt="image" src="https://github.com/user-attachments/assets/ea726e7f-64b8-49f7-be4d-08099e91c3b9" />
+<img alt="image" src="https://github.com/user-attachments/assets/ea726e7f-64b8-49f7-be4d-08099e91c3b9" />
 
 @SpaceXtudio
 ​​Welcome to the live coverage of the Starlink Group 15-20 mission! 🚀SpaceX is targeting the launch of 27 Starlink satellites to low-Earth orbit from SLC-4E at Vandenberg Space Force Base in California
