@@ -7,6 +7,16 @@ layout: default
 
  --- 
 
+
+
+## Old Graffiti Writers Are Keeping You Toy?! Is Graffiti Gatekeeping Real [youtube.com/@Theartistblock](https://www.youtube.com/@Theartistblock)
+[`WATCH` - youtu.be/nLLQ1veoyw4](https://youtu.be/nLLQ1veoyw4)
+[http://archive.org/details/artofgettingover0000powe/page/n7/mode/2up](http://archive.org/details/artofgettingover0000powe/page/n7/mode/2up)
+
+<img alt="image" src="https://github.com/user-attachments/assets/c44d196b-5edb-4027-8911-44dfb1730ef1" />
+
+![https://yt3.googleusercontent.com/APFPKMCD7LyWMNKIGWI5oO63JOUgcCKwNNe1BsnuY98IEuD-KjnQjYh_yPIMZOoTqI1ao3qY=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/APFPKMCD7LyWMNKIGWI5oO63JOUgcCKwNNe1BsnuY98IEuD-KjnQjYh_yPIMZOoTqI1ao3qY=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 _DJ Vlad talks solving Tupac's case_
 [Watch @CiTYOFLOSANGELES - youtu.be/ZwAPILMPBug](https://youtu.be/ZwAPILMPBug) /// 
 [youtube.com/@`HOLLYWOODUNLOCKED`](https://www.youtube.com/@HOLLYWOODUNLOCKED)
