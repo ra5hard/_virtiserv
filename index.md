@@ -12,6 +12,12 @@ layout: default
  HOT 97 News 8/20/26 [@HULU WATCH - youtu.be/P-wI--z3Yxw @ForAtlanta @CityOfLosAngeles](https://youtu.be/P-wI--z3Yxw) /// 
 [North Korea launches 10 ballistic missiles as US-South Korea drills near end  @thomsonreuters ](https://www.reuters.com/world/china/north-korea-fires-suspected-ballistic-missile-japanese-authorities-say-2026-08-20/) /// [North Korea’s Nuclear Weapons and Missile Programs congress.gov/crs-product/IF10472](https://www.congress.gov/crs-product/IF10472)
  <img  alt="image" src="https://github.com/user-attachments/assets/01571786-e35d-4225-90dd-5dc68faf9910" />
+ [reddit.com/r/worldnews/comments/1vuankw/north_korea_fires_barrage_of_missiles_toward_the/?rdt=34907&logging_in=true](reddit.com/r/worldnews/comments/1vuankw/north_korea_fires_barrage_of_missiles_toward_the/?rdt=34907&logging_in=true) /// [List of North Korean missile tests](https://en.wikipedia.org/wiki/List_of_North_Korean_missile_tests) // 
+<img  alt="image" src="https://github.com/user-attachments/assets/4685f350-3fcd-46de-bf96-7c2ed00226f4" />
+
+# North Korea fires off barrage of missiles hours after Trump says he plans to meet Kim [READ](https://www.japantimes.co.jp/news/2026/08/20/asia-pacific/north-korea-missile-august-20/)
+![https://www.japantimes.co.jp/theme_japantimes/images/logo.svg](https://www.japantimes.co.jp/theme_japantimes/images/logo.svg)
+![https://japantimes.co.jp/japantimes/uploads/images/2026/08/20/558623.jpg](https://japantimes.co.jp/japantimes/uploads/images/2026/08/20/558623.jpg)
 
  ![@cityoflosangeles _Karen_ @whitehouse _Bass_https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg)
 
