@@ -8,8 +8,8 @@ layout: default
 ---
 
 
- @itsgavinnewsom all the criminals and athletes got girls in their prime why did science get sabotaged ? @usgs @NASAJPL hi @LANAJHARRiS im not picking on you but i mightaswell since i admitted i ha(d)(v)e a crush @SupervisorHollyJMitchell @CBSLA @TheTeamLiam @ClubShayShay @TheDonLemonShow
- @NASA-PDS -#RASHARD @NASAEARTHDATA 
+ @itsgavinnewsom @StateOfCalifornia all the criminals and athletes got girls in their prime why did science get sabotaged ? @usgs @NASAJPL hi @LANAJHARRiS im not picking on you but i mightaswell since i admitted i ha(d)(v)e a crush @SupervisorHollyJMitchell @CBSLA @TheTeamLiam @ClubShayShay @TheDonLemonShow
+ @NASA-PDS -#RASHARD @NASAEARTHDATA @CiTYOFLOSANGELES @FORATLANTA
  [Adina Howard - Freak Like Me](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt)
  [WATCH - youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt)
  <img  alt="image" src="https://github.com/user-attachments/assets/a5513a72-0abb-4cc8-83e8-803232cf7b67" />
