@@ -9,8 +9,11 @@ layout: default
 
 
 # ConflictFreeTimeline Approach @nasa-jpl
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
 thats y i get turned around [ms bass @cityoflosangeles](https://mayor.lacity.gov/about-mayor-karen-bass) . . . and i really dont know the approach to pay when a few factors involving involuntary labor and a ivf scam are involved [@howard-university-web-services @newshour ia601608.us.archive.org/10/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf](ia601608.us.archive.org/10/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf)  /// [Erykah Badu - 💯Next💯💯lifetime💯 @disney 💯](https://youtu.be/RxITI3A2KWA) //
 <img  alt="image thats y i get turned around [ms bass @cityoflosangeles](https://mayor.lacity.gov/about-mayor-karen-bass) . . . and i really dont know the approach to pay when a few factors involving involuntary labor and a ivf scam are involved  @blackgirlscode " src="https://github.com/user-attachments/assets/18d1b563-9139-4013-92d1-ca9eeb8d62ef" />
+
+![https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_1920x530_/public/2022-12/52538848189_f852a5947e_o.jpg.webp @cityoflosangeles @la-county-isd](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_1920x530_/public/2022-12/52538848189_f852a5947e_o.jpg.webp)
 
 # Aperture _ 232 @CityOfLosAngeles @LA-County-ISD 
 [GOODREADS](https://www.goodreads.com/author/list/247029.Aperture) // [UNSEEN 2Pac: 1995 @CNN Tapes](https://youtu.be/LJj_8eS9Ens?si=QU5d69EmOq40PtM3)
