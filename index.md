@@ -4,6 +4,34 @@ layout: default
 
 
 
+# DOD INSTRUCTION 2200.01
+COMBATING TRAFFICKING IN PERSONS (CTIP)
+#### [@nasa-jpl this is the @DeptOfWar](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf?ver=2019-06-21-102951-257) stance on sex trafficking, 
+1.2. POLICY. It is DoD policy to:
+a. Oppose prostitution, forced labor, and any related activities contributing to the
+phenomenon of trafficking in persons (TIP). CTIP will be applied across the entire spectrum of
+DoD missions, functions, programs, and activities.
+b. Deter activities of Service members, civilian employees, indirect hires, DoD contractors,
+foreign national employees of DoD, grant and cooperative agreement recipients, and all
+dependents that could facilitate or support TIP, domestically and overseas. These activities, to
+which DoD Components will uniformly refer using these terms when issuing internal
+implementing instructions and regulations, are:
+(1) Prostitution, pimping, pandering, and patronizing a prostitute. Even though such
+activities may be legal in a host country, they are in violation of:
+(a) Chapter 47 of Title 10, United States Code (U.S.C.), also known and referred to
+in this issuance as the “Uniform Code of Military Justice.”
+(b) Paragraph 106 of Part IV of the Manual for Courts-Martial.
+(2) Activities in violation of Chapter 77 of Title 18, U.S.C. including:
+(a) Forced labor and involuntary servitude.
+(b) Document tampering (e.g., withholding passports, fraudulent visas).
+(c) Sex trafficking of children.
+(3) Sex trafficking by force, fraud, or coercion in violation of Chapter 117 of Title 18,
+U.S.C.
+(4) Additional TIP-related offenses in Sections 1581, 1584, 1590-1597, 2421, 2421A,
+and 2422 of Title 18, U.S.C. 
+<img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
+
+
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1757240661985130%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 EOSDIS Earthdata
 
