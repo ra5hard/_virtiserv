@@ -3,9 +3,22 @@ layout: default
 ---
 
 
-[Erykah Badu - 💯Next💯💯lifetime💯 @disney 💯](https://youtu.be/RxITI3A2KWA) // [Use Your Heart · SWV](https://youtu.be/bOckbm7TCu4) // [702 - Steelo](https://youtu.be/5ojOERy-mf8?si=hLBG2CCxla6_Jppw) // [Other Side Of The Game performed by Erykah Badu](https://youtu.be/3qpyDUfMq-8) // [Erykah Badu - Next lifetime](https://youtu.be/RxITI3A2KWA)
+[Erykah Badu - 💯Next💯💯lifetime💯 @disney 💯](https://youtu.be/RxITI3A2KWA) // [Use Your Heart · SWV](https://youtu.be/bOckbm7TCu4) // [702 - Steelo](https://youtu.be/5ojOERy-mf8?si=hLBG2CCxla6_Jppw) // [Other Side Of The Game performed by Erykah Badu](https://youtu.be/3qpyDUfMq-8) // [Erykah Badu - Next lifetime](https://youtu.be/RxITI3A2KWA) // [Adina Howard - Freak Like Me](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt)
 
 ---
+
+ # [Adina Howard - Freak Like Me](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt)
+ [WATCH - youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt)
+ @itsgavinnewsom all the criminals and athletes got girls in their prime why did science get sabotaged ? @usgs @NASAJPL hi @LANAJHARRiS im not picking on you but i mightaswell since i admitted i ha(d)(v)e a crush @SupervisorHollyJMitchell @CBSLA @TheTeamLiam @ClubShayShay @TheDonLemonShow
+ @NASA-PDS -#RASHARD @NASAEARTHDATA
+ <img  alt="image" src="https://github.com/user-attachments/assets/a5513a72-0abb-4cc8-83e8-803232cf7b67" />
+
+
+# Aperture _ 232 @CityOfLosAngeles @LA-County-ISD 
+[GOODREADS](https://www.goodreads.com/author/list/247029.Aperture)
+[Snippet - archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/aperture232.pdf](https://archive.org/download/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/aperture232.pdf)
+<img alt="image-1" src="https://github.com/user-attachments/assets/1d4f0f3c-44f4-4de6-b20b-cafd7b24669c" />
+<img  alt="image-2" src="https://github.com/user-attachments/assets/5248ec0c-058e-4638-aec5-576e707e1494" />
 
 [UNSEEN 2Pac: 1995 @CNN Tapes](https://youtu.be/LJj_8eS9Ens?si=QU5d69EmOq40PtM3)
 # DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
