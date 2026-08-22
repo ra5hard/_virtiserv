@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1757240661985130%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+EOSDIS Earthdata
+
 [@CityOfLosAngeles @nasa @EmergingCoders](https://archive.org/details/i_saw_some_scary_graffiti_threatening_elon_musk/GbU_SjeaoAA_dT-.jpeg)
 ![https://www.google.com/logos/doodles/2026/celebrating-national-parks-week-acadia-6753651837111365-law.gif](https://www.google.com/logos/doodles/2026/celebrating-national-parks-week-acadia-6753651837111365-law.gif)
 
