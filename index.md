@@ -2,7 +2,14 @@
 layout: default
 ---
 
-[Lost Boys - Lifestyles Of The Rich And Shameless](https://youtu.be/USEn5IlZK44?si=I1ehBcwJ8djv_Sg4) // [Lost Boyz - Renee @Blackgirlscode ](https://youtu.be/z0Nb06MfJu4) // [The Internet - Girl](https://youtu.be/zmY8mG4_3j4)
+[Lost Boys - Lifestyles Of The Rich And Shameless](https://youtu.be/USEn5IlZK44?si=I1ehBcwJ8djv_Sg4) // [Lost Boyz - Renee @Blackgirlscode ](https://youtu.be/z0Nb06MfJu4) // [The Internet - Girl](https://youtu.be/zmY8mG4_3j4) // [Sade - Turn My Back On You](https://youtu.be/CCzANcg3Xag) // [S.O.S. Band- Even When You Sleep](https://youtu.be/aX0wGKIgSZU?si=679lPPgrlPfY1iBi)
+
+@CityOfLosAngeles [Mayor Karen Bass](https://www.congress.gov/member/karen-bass/B001270)
+We got good scans of the water on [August 18](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/229/S2A_MSIL1C_20260817T183831_N0512_R027_T11SLT_20260818T013128) . . . @LA-COuNTY-ISD if its a clear day our machines pick up the best details so its important for me to have access to a computer at anytime because we dont pull back great results on every spot that needs monitoring  everytime. Its consistant, not lucky but luck is still there @ForAtlanta [@CityOfLosAngeles @StateOfCalifornia - _BiTMAP_](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.35/-13138746.38/3988940.58&layers=aqv_rgb_20260817_sentinel:1.00:default) ////// [@CityOfLosAngeles @StateOfCalifornia - _BiTMAP_](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.02/-13156271.24/3960852.11&layers=aqv_tss_20260817_sentinel:1.00:0.00:30.00:default) @nasa-pds @SWOT-community it looks like the oil spill is clearing up but at the same time it looks like it may have drifted north and Satna Barbara has a buildup of junk out of our river [SEE-MAP - ladsweb.modaps.eosdis.nasa.gov](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.76/-13156239.94/3997091.50&layers=aqv_tss_20260817_sentinel:1.00:0.00:30.00:default)
+
+<img alt="image" src="https://github.com/user-attachments/assets/25f599c5-7af0-4f9e-a885-e9982846c1dc" />
+<img   alt="image" src="https://github.com/user-attachments/assets/99cb94f0-e742-45bd-b3f3-0e0412ee2534" />
+
 
 
 [worldview.earthdata.nasa.gov/?v=36.19163512217095,6.737825440587331,80.50946408104447,36.283044746503016&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-08-21-T21%3A54%3A28Z](https://worldview.earthdata.nasa.gov/?v=36.19163512217095,6.737825440587331,80.50946408104447,36.283044746503016&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-08-21-T21%3A54%3A28Z)
