@@ -9,7 +9,7 @@ layout: default
 
 
 # ConflictFree Approach @nasa-jpl
-thats y i get turned around [ms bass @cityoflosangeles](https://mayor.lacity.gov/about-mayor-karen-bass) . . . and i really dont know the approach to pay when a few factors involving involuntary labor and a ivf scam are involved 
+thats y i get turned around [ms bass @cityoflosangeles](https://mayor.lacity.gov/about-mayor-karen-bass) . . . and i really dont know the approach to pay when a few factors involving involuntary labor and a ivf scam are involved [@howard-university-web-services @newshour ia601608.us.archive.org/10/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf](ia601608.us.archive.org/10/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf)
 <img  alt="image thats y i get turned around [ms bass @cityoflosangeles](https://mayor.lacity.gov/about-mayor-karen-bass) . . . and i really dont know the approach to pay when a few factors involving involuntary labor and a ivf scam are involved  @blackgirlscode " src="https://github.com/user-attachments/assets/18d1b563-9139-4013-92d1-ca9eeb8d62ef" />
 
 # Aperture _ 232 @CityOfLosAngeles @LA-County-ISD 
