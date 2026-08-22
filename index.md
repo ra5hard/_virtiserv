@@ -3,8 +3,8 @@ layout: default
 ---
 
 
-
-# DOD INSTRUCTION 2200.01
+[UNSEEN 2Pac: 1995 @CNN Tapes](https://youtu.be/LJj_8eS9Ens?si=QU5d69EmOq40PtM3)
+# DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
 COMBATING TRAFFICKING IN PERSONS (CTIP)
 #### [@nasa-jpl this is the @DeptOfWar](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf?ver=2019-06-21-102951-257) stance on sex trafficking, 
 [ @cityoflosangeles @stateofcalifornia @blackgirlscode esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
