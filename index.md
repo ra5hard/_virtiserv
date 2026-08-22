@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-[Erykah Badu - 💯Next💯💯lifetime💯 @disney 💯](https://youtu.be/RxITI3A2KWA) // [Use Your Heart · SWV](https://youtu.be/bOckbm7TCu4) // [702 - Steelo](https://youtu.be/5ojOERy-mf8?si=hLBG2CCxla6_Jppw) // [Other Side Of The Game performed by Erykah Badu](https://youtu.be/3qpyDUfMq-8) // [Erykah Badu - Next lifetime](https://youtu.be/RxITI3A2KWA) // [Adina Howard - Freak Like Me](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt) // [Soul II Soul - Back To Life `BellyRMX`](https://youtu.be/tlGv94pzRoU) // [Solange - Cranes in the Sky](https://youtu.be/S0qrinhNnOM)
+ [Use Your Heart · SWV](https://youtu.be/bOckbm7TCu4) // [702 - Steelo](https://youtu.be/5ojOERy-mf8?si=hLBG2CCxla6_Jppw) // [Other Side Of The Game performed by Erykah Badu](https://youtu.be/3qpyDUfMq-8) // [Erykah Badu - Next lifetime](https://youtu.be/RxITI3A2KWA) // [Adina Howard - Freak Like Me](https://youtu.be/fdyUqqRfUMk?si=-2djZ1d1-PIvYEBt) // [Soul II Soul - Back To Life `BellyRMX`](https://youtu.be/tlGv94pzRoU) // [Solange - Cranes in the Sky](https://youtu.be/S0qrinhNnOM)
 
 ---
 
 
 # ConflictFreeTimeline Approach @nasa-jpl
-thats y i get turned around [ms bass @cityoflosangeles](https://mayor.lacity.gov/about-mayor-karen-bass) . . . and i really dont know the approach to pay when a few factors involving involuntary labor and a ivf scam are involved [@howard-university-web-services @newshour ia601608.us.archive.org/10/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf](ia601608.us.archive.org/10/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf)
+thats y i get turned around [ms bass @cityoflosangeles](https://mayor.lacity.gov/about-mayor-karen-bass) . . . and i really dont know the approach to pay when a few factors involving involuntary labor and a ivf scam are involved [@howard-university-web-services @newshour ia601608.us.archive.org/10/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf](ia601608.us.archive.org/10/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_PDF/Water_ON_MARS_michaelCARR_water_flow_mars_picsTheory_neptue_Planning_methodology_NASAJPL.pdf)  /// [Erykah Badu - 💯Next💯💯lifetime💯 @disney 💯](https://youtu.be/RxITI3A2KWA) //
 <img  alt="image thats y i get turned around [ms bass @cityoflosangeles](https://mayor.lacity.gov/about-mayor-karen-bass) . . . and i really dont know the approach to pay when a few factors involving involuntary labor and a ivf scam are involved  @blackgirlscode " src="https://github.com/user-attachments/assets/18d1b563-9139-4013-92d1-ca9eeb8d62ef" />
 
 # Aperture _ 232 @CityOfLosAngeles @LA-County-ISD 
