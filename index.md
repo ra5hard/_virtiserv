@@ -7,6 +7,7 @@ layout: default
 # DOD INSTRUCTION 2200.01
 COMBATING TRAFFICKING IN PERSONS (CTIP)
 #### [@nasa-jpl this is the @DeptOfWar](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf?ver=2019-06-21-102951-257) stance on sex trafficking, 
+[ @cityoflosangeles @stateofcalifornia @blackgirlscode esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
 1.2. POLICY. It is DoD policy to:
 a. Oppose prostitution, forced labor, and any related activities contributing to the
 phenomenon of trafficking in persons (TIP). CTIP will be applied across the entire spectrum of
@@ -29,6 +30,7 @@ in this issuance as the “Uniform Code of Military Justice.”
 U.S.C.
 (4) Additional TIP-related offenses in Sections 1581, 1584, 1590-1597, 2421, 2421A,
 and 2422 of Title 18, U.S.C. 
+[esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
 <img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
 
 
