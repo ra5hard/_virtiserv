@@ -2,7 +2,16 @@
 layout: default
 ---
 
+[Bonobo Boiler Room New York DJ Set](https://youtu.be/uynCeLheCPc?list=RDuynCeLheCPc)
+---
 
+
+
+---
+
+[@EMERGiNGCODERS](https://podcasts.apple.com/dz/podcast/from-newsroom-to-hot-97-lana-harris-on-betting-on-yourself/id1807999562?i=1000744063416&l=ar0)
+@NASA @howard-university-web-services [LANA J HARRiS @ForATLANTA podcasts.apple.com/dz/podcast/from-newsroom-to-hot-97-lana-harris-on-betting-on-yourself/id1807999562?i=1000744063416&l=ar0](podcasts.apple.com/dz/podcast/from-newsroom-to-hot-97-lana-harris-on-betting-on-yourself/id1807999562?i=1000744063416&l=ar0)
+<img   alt="image" src="https://github.com/user-attachments/assets/a97c59be-7d69-4193-bac1-1a04d83bafc0" />
 
 [@LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) HELLO [hOLLY mITCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/)
 hI ITS RASHARD FROM @NASA-JPL / @NASA-OPENSCAPES OR SOMETHING anyway I am really working slow but still moving, last night I got chased off of the city hall property several times by cars that had some sort of electronic weapon to disrupt like I often complain about. So I don't know who was at fault but if the bus ran the light make sure the area is tested for @Teslamotors Hacked `EmfBuggys` someone is blocking my thoughts I will add more to my nightly report and some guy was openly confessing murder, check on the [losangelesmission.org/](https://losangelesmission.org/) because the COVID treason playlist are decaying in peoples heads and he may have been lying @blackgirlscode beware if you down there 
