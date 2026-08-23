@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+
+[@LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) HELLO [hOLLY mITCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/)
+[Obtain A Traffic Collision Report `LAPD` @CityOfLosAngeles](https://www.lapdonline.org/office-of-the-chief-of-police/office-of-special-operations/transit-services-bureau/file-a-traffic-collision-report/) _Traffic Collision Reports may be released to authorized persons such as victims, representative(s) of the victim, or such individuals as provided in Section 20012 of the Vehicle Code, by requesting the report online or via United States Mail._
+
 @EmergingCoders @howard-university-web-services did you know that to get to @NASA-jpl / @nasa-pds @caltech from @Whitehouse you need [Route 66 @StateOfCAlifornia?](https://youtu.be/jbwPKIPVcPw?list=RDjbwPKIPVcPw)
 <img  alt="image" src="https://github.com/user-attachments/assets/483090b1-b259-46ec-9d87-5d22da94d627" />
 
