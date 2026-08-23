@@ -10,6 +10,20 @@ layout: default
 
 ---
 
+### PERSEVERANCE RAW IMAGES
+# Mars Perseverance Sol 1956: Left Navigation Camera (Navcam)
+[Link](https://mars.nasa.gov/mars2020/multimedia/raw-images/)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01956/ids/edr/browse/ncam/NLF_1956_0840589939_178ECM_N0910124NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01956/ids/edr/browse/ncam/NLF_1956_0840589939_178ECM_N0910124NCAM00501_01_295J01_1200.jpg)
+
+<img  alt="Mars_PatrickMooreCharlesCross-01" src="https://github.com/user-attachments/assets/efefa5df-69e9-4cfa-92b5-776db8babd16" />
+
+<img  alt="Mars_PatrickMooreCharlesCross-05" src="https://github.com/user-attachments/assets/45c9d9b0-609e-4d91-9312-7cb1d9ddc956" />
+
+<img  alt="Mars_PatrickMooreCharlesCross-14" src="https://github.com/user-attachments/assets/e94fab36-742d-458e-bae5-4c45086c18c7" />
+
+
+<img alt="Mars_PatrickMooreCharlesCross-22" src="https://github.com/user-attachments/assets/380d0cee-2634-4bab-8e98-0503e1dc3576" />
+
 
 <img   alt="SaturnsMoonsNotes_DigitalPhotographyHistory-04" src="https://github.com/user-attachments/assets/0a639f90-0b88-480a-b767-687f397e31d0" />
 
