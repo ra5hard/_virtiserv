@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Motorama - Ghost](https://youtu.be/_Tmixo-oXIA?si=AYrPY9GC1ZQ-lbaY) // [The Police - Walking On The Moon](https://youtu.be/zPwMdZOlPo8?si=QooM4euauFmJX0cF)
+[Motorama - Ghost](https://youtu.be/_Tmixo-oXIA?si=AYrPY9GC1ZQ-lbaY) // [The Police - Walking On The Moon](https://youtu.be/zPwMdZOlPo8?si=QooM4euauFmJX0cF) // [The Police - Don't Stand So Close To Me](https://youtu.be/KNIZofPB8ZM?si=kzWkcc703pxP7RJW)
 
 ---
 [Bonobo Boiler Room New York DJ Set](https://youtu.be/uynCeLheCPc?list=RDuynCeLheCPc)
