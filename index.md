@@ -2,6 +2,9 @@
 layout: default
 ---
 
+@EmergingCoders @howard-university-web-services did you know that to get to @NASA-jpl / @nasa-pds @caltech from @Whitehouse you need [Route 66 @StateOfCAlifornia?](https://youtu.be/jbwPKIPVcPw?list=RDjbwPKIPVcPw)
+<img  alt="image" src="https://github.com/user-attachments/assets/483090b1-b259-46ec-9d87-5d22da94d627" />
+
 [Lost Boys - Lifestyles Of The Rich And Shameless](https://youtu.be/USEn5IlZK44?si=I1ehBcwJ8djv_Sg4) // [Lost Boyz - Renee @Blackgirlscode ](https://youtu.be/z0Nb06MfJu4) // [The Internet - Girl](https://youtu.be/zmY8mG4_3j4) // [Sade - Turn My Back On You](https://youtu.be/CCzANcg3Xag) // [S.O.S. Band- Even When You Sleep](https://youtu.be/aX0wGKIgSZU?si=679lPPgrlPfY1iBi) // [Soul Rebel · Lee "Scratch" ](https://youtu.be/bEPHlpjMPIc)
 
 @CityOfLosAngeles [Mayor Karen Bass](https://www.congress.gov/member/karen-bass/B001270)
