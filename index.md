@@ -11,6 +11,11 @@ layout: default
 ---
 
 
+<img   alt="SaturnsMoonsNotes_DigitalPhotographyHistory-04" src="https://github.com/user-attachments/assets/0a639f90-0b88-480a-b767-687f397e31d0" />
+
+<img  alt="SaturnsMoonsNotes_DigitalPhotographyHistory-17" src="https://github.com/user-attachments/assets/1d8ddb53-a358-41fb-9d36-70f09fc89cf9" />
+
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A5078696&color=%230094ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/motorama" title="Motorama" target="_blank" style="color: #cccccc; text-decoration: none;">Motorama</a> · <a href="https://soundcloud.com/motorama/06-ghost" title="Ghost" target="_blank" style="color: #cccccc; text-decoration: none;">Ghost</a></div>
 
 ---
