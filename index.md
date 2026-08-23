@@ -5,6 +5,7 @@ layout: default
 
 
 [@LACMTA](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) HELLO [hOLLY mITCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/)
+hI ITS RASHARD FROM @NASA-JPL / @NASA-OPENSCAPES OR SOMETHING anyway I am really working slow but still moving, last night I got chased off of the city hall property several times by cars that had some sort of electronic weapon to disrupt like I often complain about. So I don't know who was at fault but if the bus ran the light make sure the area is tested for @Teslamotors Hacked `EmfBuggys` someone is blocking my thoughts I will add more to my nightly report and some guy was openly confessing murder, check on the [losangelesmission.org/](https://losangelesmission.org/) because the COVID treason playlist are decaying in peoples heads and he may have been lying @blackgirlscode beware if you down there 
 [Obtain A Traffic Collision Report `LAPD` @CityOfLosAngeles](https://www.lapdonline.org/office-of-the-chief-of-police/office-of-special-operations/transit-services-bureau/file-a-traffic-collision-report/) _Traffic Collision Reports may be released to authorized persons such as victims, representative(s) of the victim, or such individuals as provided in Section 20012 of the Vehicle Code, by requesting the report online or via United States Mail._
 
 @EmergingCoders @howard-university-web-services did you know that to get to @NASA-jpl / @nasa-pds @caltech from @Whitehouse you need [Route 66 @StateOfCAlifornia?](https://youtu.be/jbwPKIPVcPw?list=RDjbwPKIPVcPw)
