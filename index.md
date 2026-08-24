@@ -4,6 +4,39 @@ layout: default
 
 [Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI)
 
+
+[https://www.youtube.com/@AtlantaNewsFirst](https://www.youtube.com/@AtlantaNewsFirst)
+[https://youtu.be/Hq3-Zy9tUxE](https://youtu.be/Hq3-Zy9tUxE)
+<img  alt="image" src="https://github.com/user-attachments/assets/d204f6cb-052c-4064-bae1-11bee9ad894e" />
+
+![https://yt3.googleusercontent.com/1Ifaw4lwcoOpR4cF6L9LMEOt4u8ziU6YTPws0ht92btmqfET1QPE-dU216hoFJhWOtvpC9R1=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1Ifaw4lwcoOpR4cF6L9LMEOt4u8ziU6YTPws0ht92btmqfET1QPE-dU216hoFJhWOtvpC9R1=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+
+
+5 Things to Know About the Fight Against ISIS in Syria @NAsajpl @lanajharrIs @hot97 dhs.gov/publication/reference-aid-isis-and-al-qa-ida-inspired-homegrown-violent-extremists @ushomelandsecurity @ktla
+@lanajharris war.gov/News/News-Stories/Article/Article/3934087/defeat-isis-group-adapts-to-continue-pressure-on-islamic-state/ &&&& Reference Aid: ISIS and al-Qa‘ida-Inspired Homegrown Violent Extremists
+Body
+This reference aid is about homegrown violent extremists (HVE) in the United States. These individuals are most frequently supporters of the Islamic State of Iraq and ash-Sham (ISIS), al-Qa‘ida, or designated foreign terrorist organizations (FTO) allied with these two groups.a,b It also discusses HVEs’ connections to FTOs, participation in multiple types of terrorism activities, historical attack data and recent examples of lethal attacks, targeting and tactical trends, locations, demographics, and common behavioral indicators during their radicalization to violence.  &&&&&&& https://www.dhs.gov/publication/reference-aid-isis-and-al-qa-ida-inspired-homegrown-violent-extremists &&&&&&&& https://www.war.gov/Multimedia/Photos/igphoto/2001698991/ Operation Inherent Resolve - Targeted Operations Against ISIS Terrorists
+U.S. Central Command continues to work with partner nations to conduct targeted airstrikes in Iraq and Syria as part of the comprehensive strategy to degrade and defeat the Islamic State of Iraq and Syria, or ISIS. @NASAJPL @DEPToFWAR @hot97 @LANAJHARRiS hi its rashard @NASAJPL sorry im late @DEPTOFWAR #AboutiSiS #iSiS 
+@repkarenbass 5 Things to Know About the Fight Against ISIS in Syria
+Dec. 20, 2018 @itsgavinnewsom @Keishaforga
+https://www.war.gov/News/Feature-Stories/story/Article/1718356/5-things-to-know-about-the-fight-against-isis-in-syria/
+The Coalition has liberated territory in Syria that the Islamic State of Iraq and Syria (ISIS) formerly controlled, but the campaign against ISIS is not over, Chief Pentagon Spokesperson Dana W. White said. The process of returning U.S. troops home from Syria has begun as the campaign transitions to its next phase.
+
+The United States will continue working with its partners and allies to defeat ISIS wherever it operates, White said.
+
+In 2014, the U.S. military and our Coalition partners began the fight against ISIS in Syria. Since that time:
+
+The Coalition has liberated more than 20,000 sq. miles of previously held ISIS territory in Syria.
+ 
+More than 3 million innocent civilians have been liberated from ISIS’ barbaric cruelty and fear.
+ 
+The 79-Member global coalition to defeat ISIS is an unprecedented collection of nations aligned in a common counterterrorism cause.  (74 nations, 5 international organizations)
+ 
+Executed a successful by, with, and through campaign with the Syrian Democratic Force (SDF) who sacrificed more than 1,600 warriors alongside 6 members of the international Coalition in the fight against ISIS in Syria.
+ 
+As of September 2018, 36 high value targets have been eliminated and more than 700 foreign terrorist fighters from more than 40 countries are in SDF custody.
+
 ![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 
