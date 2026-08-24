@@ -5,6 +5,32 @@ layout: default
 [Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI)
 
 
+### LIVE: Keefe D Murder Trial Day 6 
+| Official Courtroom Proceedings [`WATCH` - youtu.be/JaZvLFEgiHc_](https://youtu.be/JaZvLFEgiHc)
+| [Las Vegas](https://www.lasvegasnevada.gov/Government/Mayor-City-Council)
+<img alt="image" src="https://github.com/user-attachments/assets/8d3ee069-da83-4b56-a074-6cba63a843dd" />
+
+[google.com/search?q=tmz+tupac&sca_esv=991c25bc481f9039&rlz=1CASLJZ_enUS1229&tbm=nws&ei=JL-MauvjGr7HkPIPpuOKkQI&start=20&sa=N&ved=2ahUKEwjrhef8obqWAxW-I0QIHaaxIiIQ8tMDegQIHRAG&biw=957&bih=945&dpr=1](https://www.google.com/search?q=tmz+tupac&sca_esv=991c25bc481f9039&rlz=1CASLJZ_enUS1229&tbm=nws&ei=JL-MauvjGr7HkPIPpuOKkQI&start=20&sa=N&ved=2ahUKEwjrhef8obqWAxW-I0QIHaaxIiIQ8tMDegQIHRAG&biw=957&bih=945&dpr=1)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/08245f38-8ca0-4635-a130-d1d38bac99ee" />
+
+### Documentary Producer Michael Dorsey Testifies Again: Keefe D Murder Trial Day 6 (Part 2)
+[WATCH - https://youtu.be/GHX09hWCSDc](https://youtu.be/GHX09hWCSDc)
+<img  alt="image" src="https://github.com/user-attachments/assets/f47844c7-648f-4573-9e59-71b919fd2dcc" />
+
+[WATCH - https://youtu.be/GHX09hWCSDc](https://youtu.be/GHX09hWCSDc)
+<img  alt="image" src="https://github.com/user-attachments/assets/842b116a-17ee-47d3-8fff-c50b2f4d86fd" />
+
+_Mike Dorsey is a television producer, editor, and documentary filmmaker, with a passion for true crime, history, and exploring the unknown. He made the crime documentary "Murder Rap: Inside the Biggie and Tupac Murders" in 2015 with retired LAPD detective Greg Kading, which ultimately helped lead to an arrest for the murder of Tupac Shakur in 2023._ [IMDb](https://www.imdb.com/name/nm1512797/bio/?ref_=nm_ov_bio_sm)
+
+[reutersconnect.com/item/trial-for-alleged-killer-of-tupac-shakur/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjY1TkFMTUE2Vg](https://www.reutersconnect.com/item/trial-for-alleged-killer-of-tupac-shakur/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjY1TkFMTUE2Vg)
+<img  alt="image" src="https://github.com/user-attachments/assets/8f73cc9a-656c-4760-8389-f1ac85307e5d" />
+
+
+![https://yt3.googleusercontent.com/0rGGguwsuFiuVQBQEP7bJz7eT7giPPfR13mucYirEcg3rf7R9vcmdHXTxaDSORc1908Il4ITqQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/0rGGguwsuFiuVQBQEP7bJz7eT7giPPfR13mucYirEcg3rf7R9vcmdHXTxaDSORc1908Il4ITqQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+@cbs-news-data [Live updates: Day 6 of Tupac murder trial ](https://www.8newsnow.com/news/tupac-murder-trial/live-updates-day-6-of-tupac-murder-trial/)
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F886577590670845%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 @nbcnews [https://www.youtube.com/watch?v=i-6QJvquHjo](https://www.youtube.com/watch?v=i-6QJvquHjo)
 <img   alt="image" src="https://github.com/user-attachments/assets/698123b7-a526-4cb9-a3e3-926986609d08" />
