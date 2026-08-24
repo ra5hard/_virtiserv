@@ -5,9 +5,14 @@ layout: default
 [Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI)
 
 
-[https://www.youtube.com/@AtlantaNewsFirst](https://www.youtube.com/@AtlantaNewsFirst)
-[https://youtu.be/Hq3-Zy9tUxE](https://youtu.be/Hq3-Zy9tUxE)
+
+
+
+[youtube.com/@AtlantaNewsFirst](https://www.youtube.com/@AtlantaNewsFirst)
+[WATCH - youtu.be/Hq3-Zy9tUxE](https://youtu.be/Hq3-Zy9tUxE) [holetoanotheruniverse40.github.io/holetoanotheruniverse/](https://holetoanotheruniverse40.github.io/holetoanotheruniverse/)
 <img  alt="image" src="https://github.com/user-attachments/assets/d204f6cb-052c-4064-bae1-11bee9ad894e" />
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@lanajharris/video/7496589297793994026" data-video-id="7496589297793994026" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@lanajharris" href="https://www.tiktok.com/@lanajharris?refer=embed">@lanajharris</a> <p>You guys 🥹🥹🥹 this was officially my last show at ANF and they gave me a goodbye 😭 Rick!! My partner in crime and the steady voice beside me day in and day out, there are no words for how deeply I appreciated this 🥹. I’m going to miss you (and your humor)!! I cannot believe my producer Jasmin made that happen, you are a QUEEN, thank you! Court I love that your voice was in it too lol, and Carol I can’t thank you enough for catching the BTS. You guys made that so special 😊. This team at Atlanta News First and my city will always have the biggest place in my heart ❤️</p> <a target="_blank" title="♬ original sound - Lana Harris | News Updates" href="https://www.tiktok.com/music/original-sound-7496589380245818155?refer=embed">♬ original sound - Lana Harris | News Updates</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 ![https://yt3.googleusercontent.com/1Ifaw4lwcoOpR4cF6L9LMEOt4u8ziU6YTPws0ht92btmqfET1QPE-dU216hoFJhWOtvpC9R1=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1Ifaw4lwcoOpR4cF6L9LMEOt4u8ziU6YTPws0ht92btmqfET1QPE-dU216hoFJhWOtvpC9R1=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
