@@ -4,6 +4,8 @@ layout: default
 
 [_`Lake Lanier`_ @ForAtlanta https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-9348173.27/4056918.90&layers=aqv_tss_20260823_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-9348173.27/4056918.90&layers=aqv_tss_20260823_sentinel:1.00:0.00:30.00:default) // _Wildfire in [Oregon @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,viirs_crtc,earth;@-117.3,41.0,5.5z)
 <img   alt="image" src="https://github.com/user-attachments/assets/31e50cdd-665d-417a-bd67-45e411d59685" />
+[https://www.youtube.com/@HOT97ontv](https://www.youtube.com/@HOT97ontv) <~ @blackgirlscode @nasa-giss @nasa-jpl imma do some fact checking and mapping for her today @whitehouse @CityOIfLosAngele _Karen Bass_ @La-county-isd @LACMTA _Supervisor Holly J Mitchell_ 
+<img   alt="image" src="https://github.com/user-attachments/assets/9919e726-9774-4388-84f0-8e48b0eac289" />
 
 
 [Motorama - Ghost](https://youtu.be/_Tmixo-oXIA?si=AYrPY9GC1ZQ-lbaY) // [The Police - Walking On The Moon](https://youtu.be/zPwMdZOlPo8?si=QooM4euauFmJX0cF) // [The Police - Don't Stand So Close To Me](https://youtu.be/KNIZofPB8ZM?si=kzWkcc703pxP7RJW)
