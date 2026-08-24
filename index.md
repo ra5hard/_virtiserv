@@ -2,11 +2,31 @@
 layout: default
 ---
 
-[_`Lake Lanier`_ @ForAtlanta https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-9348173.27/4056918.90&layers=aqv_tss_20260823_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-9348173.27/4056918.90&layers=aqv_tss_20260823_sentinel:1.00:0.00:30.00:default) // _Wildfire in [Oregon @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,viirs_crtc,earth;@-117.3,41.0,5.5z)
+
+
+![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+
+@hulu I'm sorry to bother you but I know Chloe from back home @disney and I need Lana family to see this, [t.i.](https://youtu.be/z9H5_zDoBrU?si=cXmzGFMBVrOYjKN0) have cellphones and paper so their church hard on me imo . . @CityOfLosAngeles [`WATCH - T.I. - ASAP  youtu.be/jwNYov2s3dI?list=RDjwNYov2s3dI](https://youtu.be/jwNYov2s3dI?list=RDjwNYov2s3dI)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/707cdd64-4a61-4db5-a9c8-ec644bc6daed" />
+
+<img   alt="image @Foratlanta plz forward to Lana family https://www.youtube.com/@HOT97ontv " src="https://github.com/user-attachments/assets/d4e63f04-6173-42f2-a2eb-7d73705d4b69" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/1168f578-fbd4-4da0-9e08-9a3618127577" />
+
+
+[_`Lake Lanier`_ @ForAtlanta ladsweb.modaps.eosdis.nasa.gov/stream/](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.00/-9348173.27/4056918.90&layers=aqv_tss_20260823_sentinel:1.00:0.00:30.00:default) // _Wildfire in [Oregon @nasa-jpl](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs,24hrs;l:fires_all,active-ca,active-usa,fire-perimeter,countries,viirs_crtc,earth;@-117.3,41.0,5.5z)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/31e50cdd-665d-417a-bd67-45e411d59685" />
+
 [https://www.youtube.com/@HOT97ontv](https://www.youtube.com/@HOT97ontv) <~ @blackgirlscode @nasa-giss @nasa-jpl imma do some fact checking and mapping for her today @whitehouse @CityOIfLosAngele _Karen Bass_ @La-county-isd @LACMTA _Supervisor Holly J Mitchell_ 
+
 <img   alt="image" src="https://github.com/user-attachments/assets/9919e726-9774-4388-84f0-8e48b0eac289" />
 
+
+![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 [Motorama - Ghost](https://youtu.be/_Tmixo-oXIA?si=AYrPY9GC1ZQ-lbaY) // [The Police - Walking On The Moon](https://youtu.be/zPwMdZOlPo8?si=QooM4euauFmJX0cF) // [The Police - Don't Stand So Close To Me](https://youtu.be/KNIZofPB8ZM?si=kzWkcc703pxP7RJW)
 
