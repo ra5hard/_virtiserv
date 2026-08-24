@@ -5,6 +5,12 @@ layout: default
 [Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI)
 
 
+---
+
+
+@nasa-jpl korea is transmitting from the moon [pda.kasi.re.kr/mission-danuri.php?lang=en](https://pda.kasi.re.kr/mission-danuri.php?lang=en)
+![https://pda.kasi.re.kr/img/mission-danuri_logo.png](https://pda.kasi.re.kr/img/mission-danuri_logo.png)
+
 ### LIVE: Keefe D Murder Trial Day 6 
 | Official Courtroom Proceedings
 [`WATCH` - youtu.be/JaZvLFEgiHc_](https://youtu.be/JaZvLFEgiHc) ///
