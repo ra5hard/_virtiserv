@@ -6,9 +6,11 @@ layout: default
 
 
 ### LIVE: Keefe D Murder Trial Day 6 
-| Official Courtroom Proceedings [`WATCH` - youtu.be/JaZvLFEgiHc_](https://youtu.be/JaZvLFEgiHc)
+| Official Courtroom Proceedings
+[`WATCH` - youtu.be/JaZvLFEgiHc_](https://youtu.be/JaZvLFEgiHc) ///
 | [Las Vegas](https://www.lasvegasnevada.gov/Government/Mayor-City-Council)
 <img alt="image" src="https://github.com/user-attachments/assets/8d3ee069-da83-4b56-a074-6cba63a843dd" />
+
 
 [google.com/search?q=tmz+tupac&sca_esv=991c25bc481f9039&rlz=1CASLJZ_enUS1229&tbm=nws&ei=JL-MauvjGr7HkPIPpuOKkQI&start=20&sa=N&ved=2ahUKEwjrhef8obqWAxW-I0QIHaaxIiIQ8tMDegQIHRAG&biw=957&bih=945&dpr=1](https://www.google.com/search?q=tmz+tupac&sca_esv=991c25bc481f9039&rlz=1CASLJZ_enUS1229&tbm=nws&ei=JL-MauvjGr7HkPIPpuOKkQI&start=20&sa=N&ved=2ahUKEwjrhef8obqWAxW-I0QIHaaxIiIQ8tMDegQIHRAG&biw=957&bih=945&dpr=1)
 
@@ -28,6 +30,11 @@ _Mike Dorsey is a television producer, editor, and documentary filmmaker, with a
 
 
 ![https://yt3.googleusercontent.com/0rGGguwsuFiuVQBQEP7bJz7eT7giPPfR13mucYirEcg3rf7R9vcmdHXTxaDSORc1908Il4ITqQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/0rGGguwsuFiuVQBQEP7bJz7eT7giPPfR13mucYirEcg3rf7R9vcmdHXTxaDSORc1908Il4ITqQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+[_Chris Rock Me and Tupac Dated Same Women ...Possible Will Smith Slap Connection???_ tmz.com/2026/05/14/chris-rock-claims-he-and-tupac-dated-same-women/](https://www.tmz.com/2026/05/14/chris-rock-claims-he-and-tupac-dated-same-women/)
+
+
+![https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png](https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png) 
 
 @cbs-news-data [Live updates: Day 6 of Tupac murder trial ](https://www.8newsnow.com/news/tupac-murder-trial/live-updates-day-6-of-tupac-murder-trial/)
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F886577590670845%2F&show_text=true&width=267&t=0" width="267" height="591" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
