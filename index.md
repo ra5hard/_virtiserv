@@ -8,6 +8,25 @@ layout: default
 ---
 
 
+## Mars from @LowellObservatory 
+[github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_from_lowell_observatory.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_from_lowell_observatory.pdf)
+[github.com/virtiserv/NightWatch](https://github.com/virtiserv/NightWatch)
+<img  alt="image" src="https://github.com/user-attachments/assets/2b039bf4-0cf4-43a4-96b3-89567f746804" />
+@LowellObservatory  hi Its Rashard, I'm Active mission MRO I have been working out of [ @cityoflosangeles](https://www.lapl.org) [Central Library](https://www.discoverlosangeles.com/things-to-do/los-angeles-central-library-the-story-of-an-la-icon) to catch up on my work since its has been difficult to get on computers with my living situation it takes diligence to do research. I saw [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) and the paintings of the photographs concerned me that there were other landforms that I am not comprehending, you see I help with landings and scouting on that mission ... I was looking over recent Anagylphs at Hirise.org and came across [ESP_012516_1330_ESP_012239_1330](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png) and just trying to understand what's going on . . . Our Mayor [KAren Bass](https://mayor.lacity.gov/) is one of our [Congressional Contacts @Nasa-JPL / @Nasa-pds ](https://mayor.lacity.gov/) because she is on the team of people that Govern our county @La-County-Isd @StateOfCAlifornia I don't know what's going on with those lines but I want to hear your opinion someday  @nasa-giss [@Blackgirlscode Commit ae7126d](https://github.com/virtiserv/virtiserv.github.io/commit/ae7126d28b6980d02215d7acf231416f066a7af4)
+
+![https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb](https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png)
+[MIT Alumni Forum: Decoding the Mystery of Water on Mars](https://youtu.be/JnODU5J767c) // [ @NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584](https://youtu.be/JPAyg7-p9oM) // [Planet Mars: 1979](https://youtu.be/dZzY8-nxabA)
+
+[55 Years Ago: Mariner 4 First to Explore Mars - READ @NASA](https://www.nasa.gov/history/55-years-ago-mariner-4-first-to-explore-mars/)
+
+ ## [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) 
+[<video controls loading="lazy"  src="https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4" />](https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4)
+
+
+<img  alt="image @teslamotors from book made in america" src="https://github.com/user-attachments/assets/08ce9ffd-aa0b-40f9-8127-48e85894ef67" />
+
+
 @nasa-jpl korea is transmitting from the moon [pda.kasi.re.kr/mission-danuri.php?lang=en](https://pda.kasi.re.kr/mission-danuri.php?lang=en)
 ![https://pda.kasi.re.kr/img/mission-danuri_logo.png](https://pda.kasi.re.kr/img/mission-danuri_logo.png)
 
