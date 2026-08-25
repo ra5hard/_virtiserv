@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk)
+[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk) // [Three 6 Mafia feat UGK - Sippin' on Some Syrup](https://youtu.be/2YVvMfXXG7E)
 
 ---
 
-
+# HElioPhysics Websites @nasa-jpl
+[https://science.nasa.gov/mission/stereo/](https://science.nasa.gov/mission/stereo/) // [https://sdo.gsfc.nasa.gov/](https://sdo.gsfc.nasa.gov/)
 [eyes.nasa.gov/apps/dsn-now/dsn.html](eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img alt="image PARKER SOLAR PROBE i sTransmitting @nasa-jpl gm @blackgirlscode @JHUAPL @jhuapl-bio https://eyes.nasa.gov/apps/dsn-now/dsn.html @StateOfCalifornia @cityoflosangeles its in goldstone so @la-county-isd maybe @LowellObservatory can help us find griffith on @Github https://griffithobservatory.lacity.gov/ @whitehouse @dhs-gov @howard-university-web-services  " src="https://github.com/user-attachments/assets/1f36e789-0c77-44b1-b5da-4aa12532c2d3" />
 
