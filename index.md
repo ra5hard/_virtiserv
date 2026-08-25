@@ -13,6 +13,7 @@ layout: default
 Two of the transformative advances in our understanding of the Sun and its influence on the solar system were the discovery that the corona is several hundreds of times hotter than the visible solar surface (the photosphere) and the development — and observational confirmation — of the theory of the corona's supersonic expansion into interplanetary space as a "solar wind."
 ![https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png @nasa-giss](https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png)
 
+![https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg @nasa-jpl @blackgirlscode @cityoflosangeles](https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg)
 <img alt="image" src="https://github.com/user-attachments/assets/e8c23615-202a-447c-a23b-953b50ecffc7" />
 [`MissionWebsite` science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png](https://science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png)
 
