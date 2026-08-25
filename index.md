@@ -2,7 +2,7 @@
 layout: default
 ---
 
-@nasa-jpl gm @blackgirlscode my butt is burning ferociously @howard-university-web-services so while i like my workstation position i have to sign off and see fi the itching stops @nasa-pds i told lapd to look up ... the itching and burning stopped all of a sudden so i think someone had a particle array , taser or laser on my chair 
+@nasa-jpl gm @blackgirlscode my butt is burning ferociously @howard-university-web-services so while i like my workstation position i have to sign off and see if the itching stops @nasa-pds i told lapd to look up @LowellObservatory @CityOfLosAngeles ... the itching and burning stopped all of a sudden so i think someone had a particle array , taser or laser on my chair 
 [Directed Energy Weapons: Ultra-Short Pulse Laser and Atmospheric Characterization - https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization @USNavy](onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization)
 ![https://www.onr.navy.mil/themes/custom/onr/logo.png](https://www.onr.navy.mil/themes/custom/onr/logo.png)
 <img  alt="image" src="https://github.com/user-attachments/assets/3d6c81f9-9f06-41ef-b9b4-ba314041205a" />
