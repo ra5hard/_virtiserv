@@ -9,8 +9,10 @@ layout: default
 @ESA @NASAJPL [Sophie Adenot's second spacewalk | U.S. Spacewalk 98 (Official broadcast)](https://youtu.be/a9-7HyV77TU)
 @DeptOfWar there is no easy way to get money or a handset with my current family situation, i should have distanced myself after they started dancing with drake, but i made my bed and i know the county supervisor is helping me fix my relationships, bc this is unacceptable performance for our lab @whitehouse, im sorry [@ForAtlanta youtube.com/watch?v=SYIoWUay0ac](https://www.youtube.com/watch?v=SYIoWUay0ac)
 NASA astronaut Anil Menon and @ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at 8:35 a.m. EDT (1235 UTC). The pair will finish installing a high-speed communications antenna on the International Space Station; Menon and Adenot began the work on Aug. 18, 2026.
+
 <img  alt="image" src="https://github.com/user-attachments/assets/1b54667e-6578-4e70-9318-276ebef363ea" />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I0j7as4MLHk?si=Nan8zdVgZLy2dZEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## _Parker Solar Probe_ Our First Visit to a Star
 `interActive!!!` < [`parkersolarprobe`.jhuapl.edu/](https://parkersolarprobe.jhuapl.edu/)
 [parker.gsfc.nasa.gov/](https://parker.gsfc.nasa.gov/)
