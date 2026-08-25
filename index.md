@@ -9,8 +9,8 @@ layout: default
 [WATCH - https://youtu.be/t86a5MPKf4g](https://youtu.be/t86a5MPKf4g)
 <img  alt="image" src="https://github.com/user-attachments/assets/3ecc0b8d-bd73-4bbe-8537-2493e5a3ebd1" />
 
-## Remarks from Secretary of the Treasury Scott Bessent on Operation Economic Outcast against Iran [Read - home.treasury.gov/news/press-releases/sb0614/](https://home.treasury.gov/news/press-releases/sb0614/)
-> Aug 24 2026 - Today, at President Trump’s direction, the United States Treasury has begun Operation Economic Outcast – an unprecedented campaign against the Islamic Republic of Iran and its enablers.
+#### Remarks from Secretary of the Treasury Scott Bessent on Operation Economic Outcast against Iran [Read - home.treasury.gov/news/press-releases/sb0614/](https://home.treasury.gov/news/press-releases/sb0614/)
+> Aug 24 2026 - Today, at President Trump’s direction, the United States Treasury has begun Operation Economic Outcast – an unprecedented campaign against the Islamic Republic of Iran and its enablers. @Commercegov @fbicyber @nasa-jpl @whitehouse @US-Department-of-the-Treasury
 <img  alt="image" src="https://github.com/user-attachments/assets/e93c18b9-8da3-4e44-bfaa-fce85b65b700" />
 
 
