@@ -5,6 +5,8 @@ layout: default
 
 ---
 
+
+[Community Development/Human Services Committee Meeting @ForAtlanta](https://youtu.be/SYIoWUay0ac)
 [youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
 <img  alt="image" src="https://github.com/user-attachments/assets/7bbdf546-c76e-4bb2-932a-df6e9835c7d5" />
 
