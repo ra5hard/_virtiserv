@@ -5,6 +5,7 @@ layout: default
 
 ---
 
+<img alt="image" src="https://github.com/user-attachments/assets/a4dde0cd-4ce5-4607-aef4-815898335ad8" />
 
 [Community Development/Human Services Committee Meeting @ForAtlanta](https://youtu.be/SYIoWUay0ac)
 [youtube.com/@ATLChannel26](https://www.youtube.com/@ATLChannel26)
@@ -142,7 +143,7 @@ Using the earthaccess Python Library to Stream Data
 
 Date: August 26, 2026
 Time: 2:30 pm ET
-
+[Drake "Best I Ever Had" (Thank Me Later)](https://youtu.be/7yudRAYTlvo) <~ @nasa-jpl her fve even in longbeach
 Join us for a short webinar to learn more about how to use the Python earthaccess library to stream NASA data directly to memory, skipping the download. We will explain the difference between downloading data and streaming data and work through an example using the NASA Merra-2 reanalysis product.  There will be a question and answer opportunity at the end.
 
 Presented by: Andrew Barrett
