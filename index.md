@@ -4,7 +4,10 @@ layout: default
 
 [Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI)
 
+ ## [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) 
+[<video controls loading="lazy"  src="https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4" />](https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4)
 
+<img   alt="mars_from_lowell_observatory-10" src="https://github.com/user-attachments/assets/f3e7acd4-9699-4f59-9560-6a30f180a8f8" />
 
 [@doug-newman-nasa](https://www.earthdata.nasa.gov/events/using-earthaccess-python-library-stream-data) // [@nasa-openscapes](https://urs.earthdata.nasa.gov/profile)
 <img   alt="image" src="https://github.com/user-attachments/assets/97c4ea24-4a8e-4fa9-a74f-9391d7fa5d20" />
@@ -34,10 +37,8 @@ layout: default
 
 [55 Years Ago: Mariner 4 First to Explore Mars - READ @NASA](https://www.nasa.gov/history/55-years-ago-mariner-4-first-to-explore-mars/)
 
- ## [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) 
-[<video controls loading="lazy"  src="https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4" />](https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4)
 
-<img   alt="mars_from_lowell_observatory-10" src="https://github.com/user-attachments/assets/f3e7acd4-9699-4f59-9560-6a30f180a8f8" />
+
 
 <img  alt="image @teslamotors from book made in america" src="https://github.com/user-attachments/assets/08ce9ffd-aa0b-40f9-8127-48e85894ef67" />
 
