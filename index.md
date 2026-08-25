@@ -19,6 +19,7 @@ layout: default
 [<video controls loading="lazy" poster="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg"  src="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" />](https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4)
 <img alt="image" src="https://github.com/user-attachments/assets/2c1e640c-b27e-4be0-9139-ff65fa8a561a" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/5d280a4b-fc3d-45f3-833d-6ef278d80b94" />
 
 [https://science.nasa.gov/mission/stereo/](https://science.nasa.gov/mission/stereo/) // [https://sdo.gsfc.nasa.gov/](https://sdo.gsfc.nasa.gov/)
 [eyes.nasa.gov/apps/dsn-now/dsn.html](eyes.nasa.gov/apps/dsn-now/dsn.html)
