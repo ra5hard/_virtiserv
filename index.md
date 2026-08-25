@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+
+![https://andreforatlanta.com/wp-content/uploads/brizy/imgs/ad_text4-864x347x0x0x864x347x1683237288.png](https://andreforatlanta.com/wp-content/uploads/brizy/imgs/ad_text4-864x347x0x0x864x347x1683237288.png)
 [andreforatlanta.com/ @foratlanta](https://andreforatlanta.com/)
 ![https://andreforatlanta.com/wp-content/uploads/brizy/imgs/andre_dickens-footer2-967x1500x0x0x967x1500x1748596599.webp](https://andreforatlanta.com/wp-content/uploads/brizy/imgs/andre_dickens-footer2-967x1500x0x0x967x1500x1748596599.webp)
 <img  alt="image" src="https://github.com/user-attachments/assets/742b1585-0e8c-4edf-95ce-13a61e732ffc" />
