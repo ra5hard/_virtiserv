@@ -2,12 +2,17 @@
 layout: default
 ---
 
-[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI)
+[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w)
 
  ## [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) 
 [<video controls loading="lazy"  src="https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4" />](https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4)
 
+Chloe Bailey: [`WATCH` - Relationship Red Flags & Redefining Success](https://youtu.be/J1JB7_NdjSc)
+[The Chlöe Bailey hate train is forced: How the internet can be harmful for creatives trying to grow, experiment or simply exist](https://www.revolt.tv/article/chloe-bailey-hate-train-social-media-critics) ... [artLanta](https://www.eventeny.com/events/bonfire-atl-2026-carnival-fusion-day-party-30575/?srsltid=AfmBOordGWe2scC22DXAm1NFbaImizbnZsozEmO1a4YYyR6pp1KM6DZ1), I was distracted, beyonce say _`PrettyHurts`_ [HEAR](https://youtu.be/LXXQLa-5n5w)
 <img   alt="mars_from_lowell_observatory-10" src="https://github.com/user-attachments/assets/f3e7acd4-9699-4f59-9560-6a30f180a8f8" />
+
+![https://static.wixstatic.com/media/035735_5d9edb4995364b388b1f3072b12917e4~mv2.jpg/v1/fill/w_957,h_982,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000078248.jpg](https://static.wixstatic.com/media/035735_5d9edb4995364b388b1f3072b12917e4~mv2.jpg/v1/fill/w_957,h_982,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000078248.jpg)
+
 
 [@doug-newman-nasa](https://www.earthdata.nasa.gov/events/using-earthaccess-python-library-stream-data) // [@nasa-openscapes](https://urs.earthdata.nasa.gov/profile) Thank you for registering! Your webinar information is below.
 Please add a reminder to your calendar. @blackgirlscode @emergingcoders @nasa @nasa-jpl @howard-university-web-services latrice I have a class . . . @disney @hulu I'm sorry to bug you @nbcnews can you tell [Chloe](https://www.facebook.com/officialangiemartinez/videos/chloe-bailey-shares-what-it-is-like-watching-halle-as-a-mom/858525097213949/) I have a class
