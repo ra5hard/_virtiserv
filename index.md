@@ -7,8 +7,16 @@ layout: default
  ## [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) 
 [<video controls loading="lazy"  src="https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4" />](https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4)
 
+![https://www.adorama.com/images/Large/fujifilm-neopan-acros-ii-135-36exp_fjna210036.webp](https://www.adorama.com/images/Large/fujifilm-neopan-acros-ii-135-36exp_fjna210036.webp)
+
 Chloe Bailey: [`WATCH` - Relationship Red Flags & Redefining Success](https://youtu.be/J1JB7_NdjSc)
 [The Chlöe Bailey hate train is forced: How the internet can be harmful for creatives trying to grow, experiment or simply exist](https://www.revolt.tv/article/chloe-bailey-hate-train-social-media-critics) ... [artLanta](https://www.eventeny.com/events/bonfire-atl-2026-carnival-fusion-day-party-30575/?srsltid=AfmBOordGWe2scC22DXAm1NFbaImizbnZsozEmO1a4YYyR6pp1KM6DZ1), I was distracted, beyonce say _`PrettyHurts`_ [HEAR](https://youtu.be/LXXQLa-5n5w)
+
+![https://creatives.attn.tv/adorama/Adorama-Logo---Blue---Small_df12348f.png](https://creatives.attn.tv/adorama/Adorama-Logo---Blue---Small_df12348f.png) 
+
+![https://www.adorama.com/images/product/fujifilm-velvia-rvp50-35mm_fjrvp5036.webp](https://www.adorama.com/images/product/fujifilm-velvia-rvp50-35mm_fjrvp5036.webp)
+
+
 <img   alt="mars_from_lowell_observatory-10" src="https://github.com/user-attachments/assets/f3e7acd4-9699-4f59-9560-6a30f180a8f8" />
 
 ![https://static.wixstatic.com/media/035735_5d9edb4995364b388b1f3072b12917e4~mv2.jpg/v1/fill/w_957,h_982,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000078248.jpg](https://static.wixstatic.com/media/035735_5d9edb4995364b388b1f3072b12917e4~mv2.jpg/v1/fill/w_957,h_982,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1000078248.jpg)
@@ -16,7 +24,7 @@ Chloe Bailey: [`WATCH` - Relationship Red Flags & Redefining Success](https://yo
 
 [@doug-newman-nasa](https://www.earthdata.nasa.gov/events/using-earthaccess-python-library-stream-data) // [@nasa-openscapes](https://urs.earthdata.nasa.gov/profile) Thank you for registering! Your webinar information is below.
 Please add a reminder to your calendar. @blackgirlscode @emergingcoders @nasa @nasa-jpl @howard-university-web-services latrice I have a class . . . @disney @hulu I'm sorry to bug you @nbcnews can you tell [Chloe](https://www.facebook.com/officialangiemartinez/videos/chloe-bailey-shares-what-it-is-like-watching-halle-as-a-mom/858525097213949/) I have a class
-
+@nasa-openscapes [app.smartsheet.com/b/form/019ffbb4dc927b6782b1ab58d9b9ed85?confirm=true](https://app.smartsheet.com/b/form/019ffbb4dc927b6782b1ab58d9b9ed85?confirm=true)
 Using the earthaccess Python Library to Stream Data
 
 Date: August 26, 2026
