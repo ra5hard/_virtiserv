@@ -2,12 +2,13 @@
 layout: default
 ---
 
-[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w) // [The Crying Game · Nicki Minaj](https://youtu.be/VSeqlfTz1pE?list=RDVSeqlfTz1pE)
+[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w) // [The Crying Game · Nicki Minaj](https://youtu.be/VSeqlfTz1pE?list=RDVSeqlfTz1pE) // [Beef · Boogie Down Productions](https://youtu.be/nn4JLAmbbJk)
 
 
 # HOT 97 News Live! 8/24/26
-[WATCH - https://youtu.be/t86a5MPKf4g](https://youtu.be/t86a5MPKf4g)
+[WATCH - https://youtu.be/t86a5MPKf4g](https://youtu.be/t86a5MPKf4g) // [🎧Beef · Boogie Down Productions🎧](https://youtu.be/nn4JLAmbbJk)
 <img  alt="image" src="https://github.com/user-attachments/assets/3ecc0b8d-bd73-4bbe-8537-2493e5a3ebd1" />
+<img   alt="image" src="https://github.com/user-attachments/assets/f98ff1db-2e4b-4cf4-8a46-f542ee4f5145" />
 
 #### Remarks from Secretary of the Treasury Scott Bessent on Operation Economic Outcast against Iran [Read - home.treasury.gov/news/press-releases/sb0614/](https://home.treasury.gov/news/press-releases/sb0614/)
 > Aug 24 2026 - Today, at President Trump’s direction, the United States Treasury has begun Operation Economic Outcast – an unprecedented campaign against the Islamic Republic of Iran and its enablers. @Commercegov @fbicyber @nasa-jpl @whitehouse @US-Department-of-the-Treasury @DeptOfWar
