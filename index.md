@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w)
+[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w) // [The Crying Game · Nicki Minaj](https://youtu.be/VSeqlfTz1pE?list=RDVSeqlfTz1pE)
 
  ## [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) 
 [<video controls loading="lazy"  src="https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4" />](https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4)
