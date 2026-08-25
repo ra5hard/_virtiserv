@@ -10,7 +10,7 @@ layout: default
 
 
 Chloe Bailey: [`WATCH` - Relationship Red Flags & Redefining Success](https://youtu.be/J1JB7_NdjSc)
-[The Chlöe Bailey hate train is forced: How the internet can be harmful for creatives trying to grow, experiment or simply exist](https://www.revolt.tv/article/chloe-bailey-hate-train-social-media-critics) ... [artLanta](https://www.eventeny.com/events/bonfire-atl-2026-carnival-fusion-day-party-30575/?srsltid=AfmBOordGWe2scC22DXAm1NFbaImizbnZsozEmO1a4YYyR6pp1KM6DZ1), I was distracted, beyonce say _`PrettyHurts`_ [HEAR](https://youtu.be/LXXQLa-5n5w)
+[The Chlöe Bailey hate train is forced: How the internet can be harmful for creatives trying to grow, experiment or simply exist](https://www.revolt.tv/article/chloe-bailey-hate-train-social-media-critics) ... [artLanta](https://www.eventeny.com/events/bonfire-atl-2026-carnival-fusion-day-party-30575/?srsltid=AfmBOordGWe2scC22DXAm1NFbaImizbnZsozEmO1a4YYyR6pp1KM6DZ1), I was distracted, beyonce say _`PrettyHurts`_ [HEAR](https://youtu.be/LXXQLa-5n5w) /// [lomography.com/films](https://www.lomography.com/films)
 
 ![https://creatives.attn.tv/adorama/Adorama-Logo---Blue---Small_df12348f.png](https://creatives.attn.tv/adorama/Adorama-Logo---Blue---Small_df12348f.png) 
 
