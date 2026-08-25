@@ -9,7 +9,37 @@ layout: default
 
 <img   alt="mars_from_lowell_observatory-10" src="https://github.com/user-attachments/assets/f3e7acd4-9699-4f59-9560-6a30f180a8f8" />
 
-[@doug-newman-nasa](https://www.earthdata.nasa.gov/events/using-earthaccess-python-library-stream-data) // [@nasa-openscapes](https://urs.earthdata.nasa.gov/profile)
+[@doug-newman-nasa](https://www.earthdata.nasa.gov/events/using-earthaccess-python-library-stream-data) // [@nasa-openscapes](https://urs.earthdata.nasa.gov/profile) Thank you for registering! Your webinar information is below.
+Please add a reminder to your calendar. @blackgirlscode @emergingcoders @nasa @nasa-jpl @howard-university-web-services latrice I have a class . . . @disney @hulu I'm sorry to bug you @nbcnews can you tell [Chloe](https://www.facebook.com/officialangiemartinez/videos/chloe-bailey-shares-what-it-is-like-watching-halle-as-a-mom/858525097213949/) I have a class
+
+Using the earthaccess Python Library to Stream Data
+
+Date: August 26, 2026
+Time: 2:30 pm ET
+
+Join us for a short webinar to learn more about how to use the Python earthaccess library to stream NASA data directly to memory, skipping the download. We will explain the difference between downloading data and streaming data and work through an example using the NASA Merra-2 reanalysis product.  There will be a question and answer opportunity at the end.
+
+Presented by: Andrew Barrett
+Produced by:  Andrew Barrett and Luis López ______________________________________________________________________________
+Microsoft Teams meeting
+
+Join:
+https://teams.microsoft.com/meet/273721549609832?p=eWVz2HefEvaTWbY0AD
+
+Meeting ID:
+273 721 549 609 832
+
+Passcode:
+6Di6KS6X
+
+Dial in by phone
+
++1 256-715-9946
+845114218#
+United States, Huntsville
+
+Phone conference ID:
+845 114 218#
 <img   alt="image" src="https://github.com/user-attachments/assets/97c4ea24-4a8e-4fa9-a74f-9391d7fa5d20" />
 
 ---
