@@ -58,9 +58,11 @@ Phone conference ID:
 ![https://foundation.lowell.edu/wp-content/themes/lowell-web_foundation/assets/images/lof-logo.png](https://foundation.lowell.edu/wp-content/themes/lowell-web_foundation/assets/images/lof-logo.png)
 
 ![https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb](https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb)
+
 <img   alt="mars_from_lowell_observatory-21" src="https://github.com/user-attachments/assets/900eff55-079d-4f67-985e-f858a45812f9" />
 
-[@USNAVY @NASA-JPL en.wikipedia.org/wiki/Howard_Russell_Butler](https://en.wikipedia.org/wiki/Howard_Russell_Butler
+[@USNAVY @NASA-JPL en.wikipedia.org/wiki/Howard_Russell_Butler](https://en.wikipedia.org/wiki/Howard_Russell_Butler)
+
 ![https://upload.wikimedia.org/wikipedia/commons/9/90/Howard_Russell_Butler.jpg](https://upload.wikimedia.org/wikipedia/commons/9/90/Howard_Russell_Butler.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/16328a52-21a8-41fb-b26c-e36da4b74b28" />
