@@ -8,6 +8,8 @@ layout: default
 # HOT 97 News Live! 8/24/26
 [WATCH - https://youtu.be/t86a5MPKf4g](https://youtu.be/t86a5MPKf4g) // [🎧Beef · Boogie Down Productions🎧 @FDA](https://youtu.be/nn4JLAmbbJk)
 <img  alt="image" src="https://github.com/user-attachments/assets/3ecc0b8d-bd73-4bbe-8537-2493e5a3ebd1" />
+<img  alt="image" src="https://github.com/user-attachments/assets/844648d7-34e5-480e-bff0-e5c1362e3adc" />
+
 <img   alt="image" src="https://github.com/user-attachments/assets/f98ff1db-2e4b-4cf4-8a46-f542ee4f5145" />
 
 #### Remarks from Secretary of the Treasury Scott Bessent on Operation Economic Outcast against Iran [Read - home.treasury.gov/news/press-releases/sb0614/](https://home.treasury.gov/news/press-releases/sb0614/)
