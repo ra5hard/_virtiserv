@@ -1,15 +1,18 @@
 ---
 layout: default
 ---
-[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk) // [Three 6 Mafia feat UGK - Sippin' on Some Syrup](https://youtu.be/2YVvMfXXG7E) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Gangsta Boo - Where Dem Dollas At?!](https://youtu.be/s6oq8pASVqw) // [Who Run It · Three 6 Mafia](https://youtu.be/gU7003Juh7c)
+[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk) // [Three 6 Mafia feat UGK - Sippin' on Some Syrup](https://youtu.be/2YVvMfXXG7E) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Gangsta Boo - Where Dem Dollas At?!](https://youtu.be/s6oq8pASVqw) // [Who Run It · Three 6 Mafia](https://youtu.be/gU7003Juh7c) // [Triple Six Mafia - Da Summa (REMIX) ](https://youtu.be/TwYz5iI7pm0)
 
 ---
 
 # HElioPhysics Websites @nasa-jpl
 
-
-## _Parker Solar Probe_ 
+## _Parker Solar Probe_ Our First Visit to a Star
 `interActive!!!` < [`parkersolarprobe`.jhuapl.edu/](https://parkersolarprobe.jhuapl.edu/)
+[parker.gsfc.nasa.gov/](https://parker.gsfc.nasa.gov/)
+Two of the transformative advances in our understanding of the Sun and its influence on the solar system were the discovery that the corona is several hundreds of times hotter than the visible solar surface (the photosphere) and the development — and observational confirmation — of the theory of the corona's supersonic expansion into interplanetary space as a "solar wind."
+![https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png @nasa-giss](https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png)
+
 <img alt="image" src="https://github.com/user-attachments/assets/e8c23615-202a-447c-a23b-953b50ecffc7" />
 [`MissionWebsite` science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png](https://science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png)
 
