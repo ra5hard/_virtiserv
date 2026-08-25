@@ -1,10 +1,13 @@
 ---
 layout: default
 ---
-[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM)
+[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk)
 
 ---
 
+
+[eyes.nasa.gov/apps/dsn-now/dsn.html](eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img alt="image PARKER SOLAR PROBE i sTransmitting @nasa-jpl gm @blackgirlscode @JHUAPL @jhuapl-bio https://eyes.nasa.gov/apps/dsn-now/dsn.html @StateOfCalifornia @cityoflosangeles its in goldstone so @la-county-isd maybe @LowellObservatory can help us find griffith on @Github https://griffithobservatory.lacity.gov/ @whitehouse @dhs-gov @howard-university-web-services  " src="https://github.com/user-attachments/assets/1f36e789-0c77-44b1-b5da-4aa12532c2d3" />
 
 @nasa-jpl gm @blackgirlscode my butt is burning ferociously @howard-university-web-services so while i like my workstation position i have to sign off and see if the itching stops @nasa-pds i told lapd to look up @LowellObservatory @CityOfLosAngeles ... the itching and burning stopped all of a sudden so i think someone had a particle array , taser or laser on my chair 
 [Directed Energy Weapons: Ultra-Short Pulse Laser and Atmospheric Characterization - https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization @USNavy](onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization)
