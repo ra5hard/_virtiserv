@@ -6,6 +6,9 @@ layout: default
 ---
 
 # HElioPhysics Websites @nasa-jpl
+
+[<video controls loading="lazy" poster="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg"  src="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" />](https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4)
+
 [https://science.nasa.gov/mission/stereo/](https://science.nasa.gov/mission/stereo/) // [https://sdo.gsfc.nasa.gov/](https://sdo.gsfc.nasa.gov/)
 [eyes.nasa.gov/apps/dsn-now/dsn.html](eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img alt="image PARKER SOLAR PROBE i sTransmitting @nasa-jpl gm @blackgirlscode @JHUAPL @jhuapl-bio https://eyes.nasa.gov/apps/dsn-now/dsn.html @StateOfCalifornia @cityoflosangeles its in goldstone so @la-county-isd maybe @LowellObservatory can help us find griffith on @Github https://griffithobservatory.lacity.gov/ @whitehouse @dhs-gov @howard-university-web-services  " src="https://github.com/user-attachments/assets/1f36e789-0c77-44b1-b5da-4aa12532c2d3" />
