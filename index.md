@@ -2,13 +2,21 @@
 layout: default
 ---
 
-[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w) // [The Crying Game · Nicki Minaj](https://youtu.be/VSeqlfTz1pE?list=RDVSeqlfTz1pE) // [Beef · Boogie Down Productions](https://youtu.be/nn4JLAmbbJk)
+[Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w) // [The Crying Game · Nicki Minaj](https://youtu.be/VSeqlfTz1pE?list=RDVSeqlfTz1pE) // [Beef · Boogie Down Productions](https://youtu.be/nn4JLAmbbJk) // [My Philosophy · Boogie Down Productions](https://youtu.be/YzbZvPx9V1A) // 
+
+
+
 
 
 # HOT 97 News Live! 8/24/26
-[WATCH - https://youtu.be/t86a5MPKf4g](https://youtu.be/t86a5MPKf4g) // [🎧Beef · Boogie Down Productions🎧 @FDA](https://youtu.be/nn4JLAmbbJk)
+[WATCH - https://youtu.be/t86a5MPKf4g](https://youtu.be/t86a5MPKf4g) // [🎧Beef · Boogie Down Productions🎧 @FDA](https://youtu.be/nn4JLAmbbJk) +++++ [_`WATCH`_@Whitehouse Does Trump Have a Side Chick in the Oval Office? @DeptoFWar](https://youtu.be/H1D5TqRJfVo?t=558)
+<img   alt="image" src="https://github.com/user-attachments/assets/b052502b-0608-439e-9693-57e861d60417" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/3ecc0b8d-bd73-4bbe-8537-2493e5a3ebd1" />
 <img  alt="image" src="https://github.com/user-attachments/assets/844648d7-34e5-480e-bff0-e5c1362e3adc" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/596f21e2-d031-444b-ab5a-f682b1c8696c" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/f98ff1db-2e4b-4cf4-8a46-f542ee4f5145" />
 
