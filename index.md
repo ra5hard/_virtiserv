@@ -18,6 +18,8 @@ Chloe Bailey: [`WATCH` - Relationship Red Flags & Redefining Success](https://yo
 
 <img  alt="image" src="https://github.com/user-attachments/assets/fbdf032b-8dda-4f35-a540-75bbe51865de" />
 
+![https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/cinestill_800135_cinestill_800_tungsten_film_1699272322_1046360.jpg](https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/cinestill_800135_cinestill_800_tungsten_film_1699272322_1046360.jpg) 
+
 ![https://www.adorama.com/images/product/fujifilm-velvia-rvp50-35mm_fjrvp5036.webp](https://www.adorama.com/images/product/fujifilm-velvia-rvp50-35mm_fjrvp5036.webp)
 
 ![https://www.adorama.com/images/Large/kodak-t-max-400-35mm-36exp_kktmy36u.webp](https://www.adorama.com/images/Large/kodak-t-max-400-35mm-36exp_kktmy36u.webp) 
