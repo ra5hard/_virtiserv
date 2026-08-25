@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
-[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk) // [Three 6 Mafia feat UGK - Sippin' on Some Syrup](https://youtu.be/2YVvMfXXG7E) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Gangsta Boo - Where Dem Dollas At?!](https://youtu.be/s6oq8pASVqw) // [Who Run It · Three 6 Mafia](https://youtu.be/gU7003Juh7c) // [Triple Six Mafia - Da Summa (REMIX) ](https://youtu.be/TwYz5iI7pm0) // [Lord Infamous - Crazy Off Da Budsack](https://youtu.be/8ECzS3f2O0w)
+[Do It How It Go · 8-Ball · MJG](https://youtu.be/tNusjh2nxsM?list=RDtNusjh2nxsM) // [Prophet Posse · Three 6 Mafia](https://youtu.be/1FarcBkP-xk) // [Three 6 Mafia feat UGK - Sippin' on Some Syrup](https://youtu.be/2YVvMfXXG7E) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Gangsta Boo - Where Dem Dollas At?!](https://youtu.be/s6oq8pASVqw) // [Who Run It · Three 6 Mafia](https://youtu.be/gU7003Juh7c) // [Triple Six Mafia - Da Summa (REMIX) ](https://youtu.be/TwYz5iI7pm0) // [Lord Infamous - Crazy Off Da Budsack](https://youtu.be/8ECzS3f2O0w) // [Drake "Best I Ever Had" (Thank Me Later)](https://youtu.be/7yudRAYTlvo) <~ @nasa-jpl her fve even in longbeach, he got her on remote control but let her run a business, im just stuck 
 
 ---
 
 # HElioPhysics Websites @nasa-jpl
-
+@ESA @NASAJPL [Sophie Adenot's second spacewalk | U.S. Spacewalk 98 (Official broadcast)](https://youtu.be/a9-7HyV77TU)
+@DeptOfWar there is no easy way to get money or a handset with my current family situation, i should have distanced myself after they started dancing with drake, but i made my bed and i know the county supervisor is helping me fix my relationships, bc this is unacceptable performance for our lab @whitehouse, im sorry [@ForAtlanta youtube.com/watch?v=SYIoWUay0ac](https://www.youtube.com/watch?v=SYIoWUay0ac)
+NASA astronaut Anil Menon and @ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at 8:35 a.m. EDT (1235 UTC). The pair will finish installing a high-speed communications antenna on the International Space Station; Menon and Adenot began the work on Aug. 18, 2026.
+<img  alt="image" src="https://github.com/user-attachments/assets/1b54667e-6578-4e70-9318-276ebef363ea" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I0j7as4MLHk?si=Nan8zdVgZLy2dZEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## _Parker Solar Probe_ Our First Visit to a Star
 `interActive!!!` < [`parkersolarprobe`.jhuapl.edu/](https://parkersolarprobe.jhuapl.edu/)
 [parker.gsfc.nasa.gov/](https://parker.gsfc.nasa.gov/)
@@ -16,6 +20,7 @@ Two of the transformative advances in our understanding of the Sun and its influ
 ![https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg @nasa-jpl @blackgirlscode @cityoflosangeles](https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg)
 <img alt="image" src="https://github.com/user-attachments/assets/e8c23615-202a-447c-a23b-953b50ecffc7" />
 [`MissionWebsite` science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png](https://science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png)
+<img   alt="image" src="https://github.com/user-attachments/assets/2d48baa0-b421-4ccd-a5fa-8d431e13ba4a" />
 
 [@NASA Stereo A&b 3d Gallery](https://stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml)
 ### STEREO 3D Images
