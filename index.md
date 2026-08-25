@@ -7,7 +7,7 @@ layout: default
  ## [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) 
 [<video controls loading="lazy"  src="https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4" />](https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4)
 
-![https://www.adorama.com/images/Large/fujifilm-neopan-acros-ii-135-36exp_fjna210036.webp](https://www.adorama.com/images/Large/fujifilm-neopan-acros-ii-135-36exp_fjna210036.webp)
+
 
 Chloe Bailey: [`WATCH` - Relationship Red Flags & Redefining Success](https://youtu.be/J1JB7_NdjSc)
 [The Chlöe Bailey hate train is forced: How the internet can be harmful for creatives trying to grow, experiment or simply exist](https://www.revolt.tv/article/chloe-bailey-hate-train-social-media-critics) ... [artLanta](https://www.eventeny.com/events/bonfire-atl-2026-carnival-fusion-day-party-30575/?srsltid=AfmBOordGWe2scC22DXAm1NFbaImizbnZsozEmO1a4YYyR6pp1KM6DZ1), I was distracted, beyonce say _`PrettyHurts`_ [HEAR](https://youtu.be/LXXQLa-5n5w)
@@ -53,10 +53,12 @@ United States, Huntsville
 
 Phone conference ID:
 845 114 218#
+
 <img   alt="image" src="https://github.com/user-attachments/assets/97c4ea24-4a8e-4fa9-a74f-9391d7fa5d20" />
 
 ---
 
+![https://www.adorama.com/images/Large/fujifilm-neopan-acros-ii-135-36exp_fjna210036.webp](https://www.adorama.com/images/Large/fujifilm-neopan-acros-ii-135-36exp_fjna210036.webp)
 
 ## Mars from @LowellObservatory 
 [github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_from_lowell_observatory.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_from_lowell_observatory.pdf)
