@@ -19,6 +19,11 @@ layout: default
 
 <img alt="image @cityoflosangeles all of a sudden @blackgirlscode @nasa-jpl @howard-university-web-services @nbcnews" src="https://github.com/user-attachments/assets/d913fc42-8216-44c1-a1cf-2b80f3c1b5f6" />
 
+
+
+![https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png](https://hot97atlanta.com/assets/hot97tv-logo-Bd065d8K.png)
+
+
  ## [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) 
 [<video controls loading="lazy"  src="https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4" />](https://archive.org/download/yt__GdBUcwi1LM/_GdBUcwi1LM.mp4)
 
