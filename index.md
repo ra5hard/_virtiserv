@@ -14,6 +14,8 @@ Chloe Bailey: [`WATCH` - Relationship Red Flags & Redefining Success](https://yo
 
 ![https://creatives.attn.tv/adorama/Adorama-Logo---Blue---Small_df12348f.png](https://creatives.attn.tv/adorama/Adorama-Logo---Blue---Small_df12348f.png) 
 
+![https://static.bhphoto.com/images/images500x500/1774353461_1960681.jpg](https://static.bhphoto.com/images/images500x500/1774353461_1960681.jpg)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/fbdf032b-8dda-4f35-a540-75bbe51865de" />
 
 ![https://www.adorama.com/images/product/fujifilm-velvia-rvp50-35mm_fjrvp5036.webp](https://www.adorama.com/images/product/fujifilm-velvia-rvp50-35mm_fjrvp5036.webp)
