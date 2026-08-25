@@ -5,6 +5,10 @@ layout: default
 [Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI)
 
 
+
+[@doug-newman-nasa](https://www.earthdata.nasa.gov/events/using-earthaccess-python-library-stream-data) // [@nasa-openscapes](https://urs.earthdata.nasa.gov/profile)
+<img   alt="image" src="https://github.com/user-attachments/assets/97c4ea24-4a8e-4fa9-a74f-9391d7fa5d20" />
+
 ---
 
 
