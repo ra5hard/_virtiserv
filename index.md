@@ -6,6 +6,27 @@ layout: default
 So So Def Bass All-Stars Vol. II](https://youtu.be/6B9roO-rcGw)
 
 
+
+# Bounty on Barron Trump 
+@whitehouse
+on Hot97 Lana J Harris is talking a bout a bounty on his head... So since he is not a bastardized monarch like myself I know there is some depopulation scandals on the mainland that could be affecting him especially if he is remnotely attached to any pretty girls @Homelandsecurit the secret service not on @Github idk someone who believe in Fuck ice may have tookem down
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ba4637-1b8f-4d61-8615-516d29fb2082" />
+
+
+`@lanajharris hi i dont see this in the secret service newsfeed https://www.secretservice.gov/newsroom/releases?combine=trump&field_pr_published_date_value=All&items_per_page=15 @homelandsecurity Address	48 W. 25th St, Floor 3, New York, NY 10010
+General Info	(212) 229-9797
+General Fax	(212) 524-9855
+Contest/Request Line	(800) 223-9797
+General Email	info@hot97.com
+Press & Media Info	press@hot97.com
+Advertise with Hot 97	(212) 229-9797 @whitehouse please reach out to @lanajharris because everyone talking about the threat id from the commercial broadcast world @AssociatedPress @RepKArenBass maxine waters was in atlanta and when i came out the houe with #BlackFaceLana @T.i. she said thats your wife, can i get a cellphone out of her with that data ? @atlantablackstar7299`
+
+![secretservice.gov/sites/default/files/2025-02/Star-2025-BlueGREY_0.png](https://www.secretservice.gov/sites/default/files/2025-02/Star-2025-BlueGREY_0.png)
+
+RIP Dolly Parton, Bounty On Barron Trump, Sexual Scandals, Ebola Update | HOT 97 News 8/25/26
+<img alt="image" src="https://github.com/user-attachments/assets/e9eae940-98dd-4165-be83-e1b407a7a112" />
+
 ### Apple Pie · Virgo
 So So Def Bass All-Stars Vol. II
 <img   alt="image" src="https://github.com/user-attachments/assets/d6db47fb-8187-403a-b139-30d315677cc5" />
