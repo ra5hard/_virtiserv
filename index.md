@@ -4,20 +4,21 @@ layout: default
 
 
 
-[Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX) // [Project Pat - Choose U @Disney Chloe don't mean no harm @nbcnews ](https://youtu.be/SXykV3OtL8A?list=RDSXykV3OtL8A)
+[Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX) // [Project Pat - Choose U @Disney Chloe don't mean no harm @nbcnews ](https://youtu.be/SXykV3OtL8A?list=RDSXykV3OtL8A) // [If You Ain't From My Hood · Project Pat · Juicy J · DJ Paul](https://youtu.be/DrCs-n6pB4c?list=RDDrCs-n6pB4c)
 
 ---
 
 [results.lavote.gov/#year=2026&election=4338](https://results.lavote.gov/#year=2026&election=4338)
 <img alt="image" src="https://github.com/user-attachments/assets/8f3b0651-6541-46f3-9fb1-c60f6a669533" />
 # NS Records 
+@CityOfLosAngeles three six is a long soap opera that's hard to finish bc ppl in California wronged them at the casino and they want m3mphis quiet like Pasadena should b, its not a bad song @nasa-pds @nasa-jpl [If You Ain't From My Hood · Project Pat · Juicy J · DJ Paul](https://youtu.be/DrCs-n6pB4c?list=RDDrCs-n6pB4c) @deptofwar 
 
 | Domain Name | NS | TTL | 
 |-------------|----|-----|
-| lavote.gov | lrci-ib-e03.isd.lacounty.gov. | 300 | 
-| lavote.gov | dci-ib-e02.isd.lacounty.gov. | 300 | 
-| lavote.gov | lrci-ib-e04.isd.lacounty.gov. | 300 | 
-| lavote.gov | dci-ib-e01.isd.lacounty.gov. | 300 | 
+| [lavote.gov](lavote.gov) | [lrci-ib-e03.isd.lacounty.gov](lrci-ib-e03.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [dci-ib-e02.isd.lacounty.gov](dci-ib-e02.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [lrci-ib-e04.isd.lacounty.gov](lrci-ib-e04.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [dci-ib-e01.isd.lacounty.gov @la-county-isd](dci-ib-e01.isd.lacounty.gov). | 300 | 
 
 
 ## Karen Bass (1953- )
