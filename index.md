@@ -2,13 +2,30 @@
 layout: default
 ---
 
-[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8) // [Creepin' · Redman](https://youtu.be/P-kOHQexqPE?list=RDP-kOHQexqPE) // [_X-CLAN_- Verbs of Power](https://youtu.be/86tkUdqf7Yo?si=eaNajFL2wvYY0ZEX&t=60) // [MF DOOM - Dead Bent](https://youtu.be/6ohRUPhORzc) // [300 M.P.H. Torrential Outpour Blues · The White Stripes](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs)
+[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8) // [Creepin' · Redman](https://youtu.be/P-kOHQexqPE?list=RDP-kOHQexqPE) // [_X-CLAN_- Verbs of Power](https://youtu.be/86tkUdqf7Yo?si=eaNajFL2wvYY0ZEX&t=60) // [MF DOOM - Dead Bent](https://youtu.be/6ohRUPhORzc) // [300 M.P.H. Torrential Outpour Blues · The White Stripes](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs) // [Journey - Separate Ways (Worlds Apart) (Official HD Video - 1983)](https://youtu.be/LatorN4P9aA)
 
 
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
+[Journey - Separate Ways (Worlds Apart) (Official HD Video - 1983)](https://youtu.be/LatorN4P9aA)
 
+<img   alt="image" src="https://github.com/user-attachments/assets/44826f7e-2551-4a88-960c-475efbeadb12" />
 
-@Nasa-jpl I see evidence that LAtrice or someone is helping with the doxxing despite lifestyle changes [@nasa-pds](https://glorilla.fandom.com/wiki/Glorious) so a lot of my software is behind @Github pages from unverified changes @cityoflosangeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [thakarashard.github.io/](https://thakarashard.github.io/) is failing checks as well @howard-university-web-services @nbcnews I'm sure someone that does hair for you should know ///////////// [😢300 M.P.H. Torrential Outpour Blues · The White Stripes😭](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs)
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+@Nasa-jpl I see evidence that LAtrice or someone is helping with the doxxing despite lifestyle changes [@nasa-pds](https://glorilla.fandom.com/wiki/Glorious) so a lot of my software is behind @Github pages from unverified changes @cityoflosangeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [thakarashard.github.io/](https://thakarashard.github.io/) is failing checks as well @howard-university-web-services @nbcnews I'm sure someone that does hair for you should know ///////////// [😢300 M.P.H. Torrential Outpour Blues · The White Stripes😭](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs) /////// @w3c [github.com/w3c/png](https://github.com/w3c/png) is great for @emit-sds I'll send some work someday 
 
 @la-county-isd I'm not fixing warning since I'm going for usability, but if that taxes me [Holly J Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) send me a sign and I will clear with all green . . . @newshour @StateofCalifornia [Supervisor Lindsey](https://lindseyhorvath.lacounty.gov/) I think you are credible 
 <img  alt="image" src="https://github.com/user-attachments/assets/61731f2d-eb31-4525-a56b-3919c12dcddb" />
