@@ -8,6 +8,10 @@ layout: default
 
 ---
 
+
+[https://spacetelescopelive.org/](https://spacetelescopelive.org/)
+<img  alt="image" src="https://github.com/user-attachments/assets/1aebfe1e-ec07-462e-a312-b186184b68e5" />
+
 # @jaxa ナンシー・グレイス・ローマン宇宙望遠鏡に関する記者説明会
 NAncy Grace Roman on @nasa-jpl!!!!!! @doug-newman-nasa @JAXA 
 [Nancy Grace Roman Space Telescope - JPL Science https://science.jpl.nasa.gov/projects/wfirst/ @cityoflosangeles](https://science.jpl.nasa.gov/projects/wfirst/) ///////// [NASA Ames’ Contributions to Roman’s Mission](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/) // [200 times larger than Hubble’s infrared view - stsci.edu/roman](https://www.stsci.edu/roman) ++ ["Dark Energy" Lithograph](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/Roman-darkenergy-2024.pdf) // Brocures [https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/](https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/) +++++ [`PRESSKiT` @CityOfLosAngeles @nbcnews](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/aug%20Roman%20Press%20Kit-508compliant.pdf)
@@ -28,6 +32,7 @@ NAncy Grace Roman on @nasa-jpl!!!!!! @doug-newman-nasa @JAXA
 
 Known as the "mother of the Hubble Space Telescope," Nancy Grace Roman was born May 16, 1925 in Nashville, Tennessee, and died December 25, 2018. From a young age, Roman showed an interest in astronomy, and when she was 11 years old she organized a club with her classmates in Reno, Nevada. In this club they learned about constellations and celestial objects from a book. By high school, Roman realized that she had a passion for astronomy and wanted to pursue it. Her academic prowess was highlighted when she participated in an accelerated program and graduated in three years from Baltimore's Western High School. [Read more - https://roman.ipac.caltech.edu/page/nancy-grace-roman](https://roman.ipac.caltech.edu/page/nancy-grace-roman) // [RetailConspiracy @Reddit How @NASA turned a spy satellite into the Nancy Grace Roman Space Telescope](https://www.reddit.com/r/space/comments/1vrqu9y/how_nasa_turned_a_spy_satellite_into_the_nancy/?rdt=39138)
 ![https://roman.ipac.caltech.edu/system/media_files/binaries/159/large/225_44477663304_a673c66226_o.png?1648484196](https://roman.ipac.caltech.edu/system/media_files/binaries/159/large/225_44477663304_a673c66226_o.png?1648484196)
+
 
 
 ![https://www.isas.jaxa.jp/common/images/logo-jaxa.svg](https://www.isas.jaxa.jp/common/images/logo-jaxa.svg)
