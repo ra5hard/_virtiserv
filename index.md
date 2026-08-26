@@ -26,9 +26,13 @@ General Email	info@hot97.com
 Press & Media Info	press@hot97.com
 Advertise with Hot 97	(212) 229-9797 @whitehouse please reach out to @lanajharris because everyone talking about the threat id from the commercial broadcast world @AssociatedPress @RepKArenBass maxine waters was in atlanta and when i came out the houe with #BlackFaceLana @T.i. she said thats your wife, can i get a cellphone out of her with that data ? @atlantablackstar7299`
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35f79839-201f-4a51-93b5-4b1eb293f7fc" />
+
+[@CityOfLosANgeles aapiforce-ef.org/fuck-ice](https://www.aapiforce-ef.org/fuck-ice)
+<img alt="image" src="https://github.com/user-attachments/assets/35f79839-201f-4a51-93b5-4b1eb293f7fc" />
 
 ![secretservice.gov/sites/default/files/2025-02/Star-2025-BlueGREY_0.png](https://www.secretservice.gov/sites/default/files/2025-02/Star-2025-BlueGREY_0.png)
+
+![https://cdn.prod.website-files.com/64f22582b11ec2a7fb23de90/6875a16f7c5888cd6bb8e34e_(Square)%20Digital%20Ads%202025%20%20(5)-p-800.png](https://cdn.prod.website-files.com/64f22582b11ec2a7fb23de90/6875a16f7c5888cd6bb8e34e_(Square)%20Digital%20Ads%202025%20%20(5)-p-800.png) 
 
 RIP Dolly Parton, Bounty On Barron Trump, Sexual Scandals, Ebola Update | HOT 97 News 8/25/26
 <img alt="image" src="https://github.com/user-attachments/assets/e9eae940-98dd-4165-be83-e1b407a7a112" />
