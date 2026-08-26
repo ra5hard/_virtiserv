@@ -4,12 +4,21 @@ layout: default
 
 
 
-[Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX)
+[Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX) // [Project Pat - Choose U @Disney Chloe don't mean no harm @nbcnews ](https://youtu.be/SXykV3OtL8A?list=RDSXykV3OtL8A)
 
 ---
 
-
+[results.lavote.gov/#year=2026&election=4338](https://results.lavote.gov/#year=2026&election=4338)
 <img alt="image" src="https://github.com/user-attachments/assets/8f3b0651-6541-46f3-9fb1-c60f6a669533" />
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| lavote.gov | lrci-ib-e03.isd.lacounty.gov. | 300 | 
+| lavote.gov | dci-ib-e02.isd.lacounty.gov. | 300 | 
+| lavote.gov | lrci-ib-e04.isd.lacounty.gov. | 300 | 
+| lavote.gov | dci-ib-e01.isd.lacounty.gov. | 300 | 
+
 
 ## Karen Bass (1953- )
 Karen Bass made history on December 11, 2022 when she was sworn in by Vice President Kamala Harris as the first woman and second Black person (after Tom Bradley) to be mayor of Los Angeles, California, the second largest city in the United States.  Before her election, Bass was a member of Congress, having been elected to the United States House of Representatives in 2011 following a successful six-year post as a California Assembly member. [blackpast.org/african-american-history/bass-karen-1953/](https://blackpast.org/african-american-history/bass-karen-1953/)
