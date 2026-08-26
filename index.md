@@ -18,9 +18,9 @@ layout: default
 | Domain Name | NS | TTL | 
 |-------------|----|-----|
 | [lavote.gov](lavote.gov) | [lrci-ib-e03.isd.lacounty.gov @deptofwar @fecgov](lrci-ib-e03.isd.lacounty.gov). | 300 | 
-| [lavote.gov](lavote.gov) | [dci-ib-e02.isd.lacounty.gov](dci-ib-e02.isd.lacounty.gov). | 300 | 
-| [lavote.gov](lavote.gov) | [lrci-ib-e04.isd.lacounty.gov](lrci-ib-e04.isd.lacounty.gov). | 300 | 
-| [lavote.gov](lavote.gov) | [dci-ib-e01.isd.lacounty.gov @la-county-isd](dci-ib-e01.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [dci-ib-e02.isd.lacounty.gov @nasa-pds](dci-ib-e02.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [lrci-ib-e04.isd.lacounty.gov @usgs @npr @newshour](lrci-ib-e04.isd.lacounty.gov). | 300 | 
+| [lavote.gov](lavote.gov) | [dci-ib-e01.isd.lacounty.gov @foratlanta @la-county-isd](dci-ib-e01.isd.lacounty.gov). | 300 | 
 
 
 ## Karen Bass (1953- )
@@ -56,6 +56,13 @@ Application 'maapauth' has been added to your authorized applications /// [What'
 [andreforatlanta.com/ @foratlanta](https://andreforatlanta.com/)
 ![https://andreforatlanta.com/wp-content/uploads/brizy/imgs/andre_dickens-footer2-967x1500x0x0x967x1500x1748596599.webp](https://andreforatlanta.com/wp-content/uploads/brizy/imgs/andre_dickens-footer2-967x1500x0x0x967x1500x1748596599.webp)
 <img  alt="image" src="https://github.com/user-attachments/assets/742b1585-0e8c-4edf-95ce-13a61e732ffc" />
+
+# NS Records 
+
+| Name | TTL | Data | 
+|------|-----|------|
+| andreforatlanta.com | 3600 | ns65.domaincontrol.com. | 
+| andreforatlanta.com | 3600 | ns66.domaincontrol.com. | 
 
 
 ```
