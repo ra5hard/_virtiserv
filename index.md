@@ -5,6 +5,12 @@ layout: default
 [MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8) // [Creepin' · Redman](https://youtu.be/P-kOHQexqPE?list=RDP-kOHQexqPE) // [_X-CLAN_- Verbs of Power](https://youtu.be/86tkUdqf7Yo?si=eaNajFL2wvYY0ZEX&t=60) // [MF DOOM - Dead Bent](https://youtu.be/6ohRUPhORzc) // [300 M.P.H. Torrential Outpour Blues · The White Stripes](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs) // [Journey - Separate Ways (Worlds Apart) (Official HD Video - 1983)](https://youtu.be/LatorN4P9aA)
 
 
+#### W3C CSS Validator results for https://virtiserv.github.io/ (CSS level 3 + SVG)
+Congratulations! No Error Found.
+This document validates as CSS level 3 + SVG !
+
+To show your readers that you've taken the care to create an interoperable Web page, you may display this icon on any page that validates. Here is the XHTML you could use to add this icon to your Web page:
+
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -12,6 +18,11 @@ layout: default
             alt="Valid CSS!" />
     </a>
 </p>
+
+
+
+
+[jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvirtiserv.github.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvirtiserv.github.io%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 [Journey - Separate Ways (Worlds Apart) (Official HD Video - 1983)](https://youtu.be/LatorN4P9aA)
 
@@ -56,7 +67,7 @@ Donate and help us build better tools for a better web.
 <img  alt="image" src="https://github.com/user-attachments/assets/8b06d368-1d52-47f9-8944-1c54362422d5" />
 
 
-# Abercrombie CEO Trial, Trump Pardon Scandal & Florida Lawmaker Arrest
+#### Abercrombie CEO Trial, Trump Pardon Scandal & Florida Lawmaker Arrest
 [WATCH - https://youtu.be/Yfc-08N7Tps](https://youtu.be/Yfc-08N7Tps) /// [Former Abercrombie & Fitch CEO found competent to stand trial for sex trafficking charges by: Kate Shields](https://www.nbc4i.com/news/local-news/new-albany/former-abercrombie-fitch-ceo-found-confident-to-stand-trial-for-sex-trafficking-charges/)
 
 ![]()
@@ -96,7 +107,7 @@ Cosmic Dawn: The Untold Story of the James Webb Space Telescope
 [https://spacetelescopelive.org/](https://spacetelescopelive.org/)
 <img  alt="image" src="https://github.com/user-attachments/assets/1aebfe1e-ec07-462e-a312-b186184b68e5" />
 
-# @jaxa ナンシー・グレイス・ローマン宇宙望遠鏡に関する記者説明会
+#  ナンシー・グレイス・ローマン宇宙望遠鏡に関する記者説明会
 NAncy Grace Roman on @nasa-jpl!!!!!! @doug-newman-nasa @JAXA 
 [Nancy Grace Roman Space Telescope - JPL Science https://science.jpl.nasa.gov/projects/wfirst/ @cityoflosangeles](https://science.jpl.nasa.gov/projects/wfirst/) ///////// [NASA Ames’ Contributions to Roman’s Mission](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/) // [200 times larger than Hubble’s infrared view - stsci.edu/roman](https://www.stsci.edu/roman) ++ ["Dark Energy" Lithograph](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/Roman-darkenergy-2024.pdf) // Brocures [https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/](https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/) +++++ [`PRESSKiT` @CityOfLosAngeles @nbcnews](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/aug%20Roman%20Press%20Kit-508compliant.pdf)
 
