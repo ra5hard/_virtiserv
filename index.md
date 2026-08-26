@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw)
+[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO)
 
 
 [https://science.nasa.gov/mission/europa-clipper/stories/](https://science.nasa.gov/mission/europa-clipper/stories/) @whitehouse
