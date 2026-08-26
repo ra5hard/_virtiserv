@@ -4,6 +4,16 @@ layout: default
 
 
 
+[Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX)
+
+---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A996852493&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonta-4" title="Sonta" target="_blank" style="color: #cccccc; text-decoration: none;">Sonta</a> · <a href="https://soundcloud.com/sonta-4/your-mistake-1" title="Your Mistake" target="_blank" style="color: #cccccc; text-decoration: none;">Your Mistake</a></div>
+
+[https://www.google.com/search?q=youtube+sonta+your+mistake&rlz=1CASLJZ_enUS1229&oq=youtube+sonta+your+mistake&gs@blackgirlscode @howard-university-web-services](https://www.google.com/search?q=youtube+sonta+your+mistake&rlz=1CASLJZ_enUS1229&oq=youtube+sonta+your+mistake&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRiPAtIBCDQ1NzVqMGo0qAIBsAIB8QVOuoJwM9tbJvEFTrqCcDPbWyY&sourceid=chrome&ie=UTF-8)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2e209d99-8f19-4536-928a-d76ff0b16a1c" />
+
 ![https://andreforatlanta.com/wp-content/uploads/brizy/imgs/ad_text4-864x347x0x0x864x347x1683237288.png](https://andreforatlanta.com/wp-content/uploads/brizy/imgs/ad_text4-864x347x0x0x864x347x1683237288.png)
 [andreforatlanta.com/ @foratlanta](https://andreforatlanta.com/)
 ![https://andreforatlanta.com/wp-content/uploads/brizy/imgs/andre_dickens-footer2-967x1500x0x0x967x1500x1748596599.webp](https://andreforatlanta.com/wp-content/uploads/brizy/imgs/andre_dickens-footer2-967x1500x0x0x967x1500x1748596599.webp)
