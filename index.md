@@ -2,8 +2,12 @@
 layout: default
 ---
 
-[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8)
+[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw)
 
+[ACE https://science.gsfc.nasa.gov/heliophysics/projects/12/](https://science.gsfc.nasa.gov/heliophysics/projects/12/) // [https://helio.data.nasa.gov/mission/ACE](https://helio.data.nasa.gov/mission/ACE)
+[@nasa-jpl SOHO https://soho.nascom.nasa.gov/](https://soho.nascom.nasa.gov/)
+![https://soho.nascom.nasa.gov/imgs/soho_top.jpg](https://soho.nascom.nasa.gov/imgs/soho_top.jpg)
+<img   alt="image" src="https://github.com/user-attachments/assets/4e12b75b-549f-48a6-b894-93376f834267" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/0ff7e087-8720-4b93-8425-823dc3c12452" />
 
