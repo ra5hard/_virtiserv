@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8)
+[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8) // [Creepin' · Redman](https://youtu.be/P-kOHQexqPE?list=RDP-kOHQexqPE)
 
 
 [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I)
