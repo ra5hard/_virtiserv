@@ -2,7 +2,12 @@
 layout: default
 ---
 
-[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO)
+[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // 
+
+
+[Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I)
+@Howard-university-web-services I get it you Moonie girl cousin . . . soo anyway Abbie Kerse might need support during the KeffeD Tupac Murder Trial... Those people were with bambaata during that y2k ish resurgence of street hip-hop to balance retail religion `New Release Tuesday` PartyHop @nasa-jpl some places called it commercial rap. Coming from a Pasadena perspective, Universal is a Small Business in @CityOfSantaMonica that hosted a lot of parties for popular blaCK KIDS FROM HARLEM @blackgirlscode _`Brookyln`_
+<img alt="image" src="https://github.com/user-attachments/assets/68eb347b-8536-4bbc-a575-4e828eebefd5" />
 
 
 [https://science.nasa.gov/mission/europa-clipper/stories/](https://science.nasa.gov/mission/europa-clipper/stories/) @whitehouse
