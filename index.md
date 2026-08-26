@@ -8,9 +8,14 @@ layout: default
 
 ---
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/8f3b0651-6541-46f3-9fb1-c60f6a669533" />
+
 ## Karen Bass (1953- )
 Karen Bass made history on December 11, 2022 when she was sworn in by Vice President Kamala Harris as the first woman and second Black person (after Tom Bradley) to be mayor of Los Angeles, California, the second largest city in the United States.  Before her election, Bass was a member of Congress, having been elected to the United States House of Representatives in 2011 following a successful six-year post as a California Assembly member. [blackpast.org/african-american-history/bass-karen-1953/](https://blackpast.org/african-american-history/bass-karen-1953/)
 <img alt="image" src="https://github.com/user-attachments/assets/26f6df6d-b8ba-46d5-9dab-5bf69c323236" />
+
+![https://results.lavote.gov/images/county_seal.png](https://results.lavote.gov/images/county_seal.png) 
 
 ![https://cdn.kqed.org/wp-content/uploads/sites/10/2026/06/AP26154166135184-scaled-e1780507153418.jpg](https://cdn.kqed.org/wp-content/uploads/sites/10/2026/06/AP26154166135184-scaled-e1780507153418.jpg) 
 
