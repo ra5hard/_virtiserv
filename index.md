@@ -7,6 +7,23 @@ layout: default
 
 @nasa-jpl about the relationship thing, if Caroline hunter is at church, Karen bass at the bet awards and Holly Mitchell doing digital divide conferences I will be more respectful @disney @hulu @nbcnews etc bc altadena would have a sizable @blackgirlscode population that knows what's best for the community and post pole employees may have just got into a predicament and grace might be the christian quality I never developed with Jehovah's witnesses and have not read enough Quran . . . and I need to let the lab heal after that fire bc idk what people are going through ... @blackgirlscode always recheck your
 code, virtiserv is not css validated anymore and neither is our relationship, but it don't mean it cant or should not be fixed @foratlanta _`im a meteorologist`_ . . . @nasa-pds [MF DOOM - Dead Bent](https://youtu.be/6ohRUPhORzc)
+![https://www.w3.org/2018/12/w3cx-fewd.png](https://www.w3.org/2018/12/w3cx-fewd.png)
+
+```shell
+W3C CSS Validator results for https://virtiserv.github.io/ (CSS level 3 + SVG)
+Sorry! We found the following errors (4)
+URI : https://virtiserv.github.io/assets/css/style.css?v=dace3f6876057e98fc398b60344044e3cf2f534c
+1	.scroller	Property container-type doesn't exist : inline-size
+1	iframe	Value Error : height only 0 can be a unit. You must put a unit after your number : 400
+1	video	Value Error : height only 0 can be a unit. You must put a unit after your number : 350
+1	embed	Value Error : height only 0 can be a unit. You must put a unit after your number : 350
+↑ Top
+
+W3Cx logo	Interested in “developing” your developer skills? In W3Cx’s hands-on Professional Certificate Program, learn how to code the right way by creating Web sites and apps that use the latest Web standards. Find out more!
+
+Donate and help us build better tools for a better web.
+```
+![https://www.w3.org/assets/logos/w3c-2025/svg/margins/w3c-letters-bg-white.svg](https://www.w3.org/assets/logos/w3c-2025/svg/margins/w3c-letters-bg-white.svg) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8b06d368-1d52-47f9-8944-1c54362422d5" />
 
