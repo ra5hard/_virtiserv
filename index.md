@@ -2,8 +2,13 @@
 layout: default
 ---
 
-[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8) // [Creepin' · Redman](https://youtu.be/P-kOHQexqPE?list=RDP-kOHQexqPE) // [_X-CLAN_- Verbs of Power](https://youtu.be/86tkUdqf7Yo?si=eaNajFL2wvYY0ZEX&t=60) // [MF DOOM - Dead Bent](https://youtu.be/6ohRUPhORzc) // [300 M.P.H. Torrential Outpour Blues · The White Stripes](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs)
+[MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8) // [Creepin' · Redman](https://youtu.be/P-kOHQexqPE?list=RDP-kOHQexqPE) // [_X-CLAN_- Verbs of Power](https://youtu.be/86tkUdqf7Yo?si=eaNajFL2wvYY0ZEX&t=60) // [MF DOOM - Dead Bent](https://youtu.be/6ohRUPhORzc) // [300 M.P.H. Torrential Outpour Blues · The White Stripes](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs)
 
+
+
+
+
+@Nasa-jpl I see evidence that LAtrice or someone is helping with the doxxing despite lifestyle changes [@nasa-pds](https://glorilla.fandom.com/wiki/Glorious) so a lot of my software is behind @Github pages from unverified changes @cityoflosangeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [thakarashard.github.io/](https://thakarashard.github.io/) is failing checks as well @howard-university-web-services @nbcnews I'm sure someone that does hair for you should know ///////////// [😢300 M.P.H. Torrential Outpour Blues · The White Stripes😭](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs)
 <img  alt="image" src="https://github.com/user-attachments/assets/95d20f52-6886-4408-baba-0016dd99f390" />
 
 
