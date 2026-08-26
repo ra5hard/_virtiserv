@@ -10,13 +10,16 @@ layout: default
 
 # @jaxa ナンシー・グレイス・ローマン宇宙望遠鏡に関する記者説明会
 NAncy Grace Roman on @nasa-jpl!!!!!! @doug-newman-nasa @JAXA 
-
+[Nancy Grace Roman Space Telescope - JPL Science https://science.jpl.nasa.gov/projects/wfirst/ @cityoflosangeles](https://science.jpl.nasa.gov/projects/wfirst/)
 
 [@ESA The ‘Mother of Hubble’: Nancy Grace Roman](https://esahubble.org/about/history/the-mother-of-hubble/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sT4cEjnJbBk?si=S_wb2vSEylsPnmaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A strange, invisible force has been pushing galaxies apart faster and faster for billions of years. Astronomers have named it dark energy.<br><br>But how do we study something we can&#39;t see? Check out this video to learn more!<br><br>For a deeper dive, click here: <a href="https://t.co/dukYneetrO">https://t.co/dukYneetrO</a> <a href="https://t.co/VdAFE2fxlf">pic.twitter.com/VdAFE2fxlf</a></p>&mdash; Nancy Grace Roman Space Telescope (@NASARoman) <a href="https://x.com/NASARoman/status/2090107890799374614?ref_src=twsrc%5Etfw">August 19, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 [@esa @thespacedevs @nasa-jpl @newshour LANA J HARRiS isas.jaxa.jp/en/missions/spacecraft/developing/roman.html](https://www.isas.jaxa.jp/en/missions/spacecraft/developing/roman.html) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/18b0ef5a-3061-4c70-ba47-350222866a1a" />
 <img alt="image" src="https://github.com/user-attachments/assets/cd50449b-6360-4c7d-83d5-c4e5b209bdcd" />
 <img alt="image" src="https://github.com/user-attachments/assets/6dcf4bc1-8d0c-411b-b99f-e2e2e0d39c77" />
