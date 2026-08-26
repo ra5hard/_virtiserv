@@ -9,6 +9,14 @@ layout: default
 ---
 
 
+`Application 'maapauth' has been added to your authorized applications`
+@doug-newman-nasa I accepted an agreement that has no description @CityOfLosAngeles [Karen Bass](https://www.congress.gov/member/karen-bass/B001270)
+Application 'maapauth' has been added to your authorized applications /// [What's New in LA’s Messy Mayor’s Race](https://www.kqed.org/news/12096730/whats-new-in-las-messy-mayors-race) @npr @newshour can it be taken into consideration that I am a legit at risk youth that due to tribal associations may be causing Mayor Bass to catch some heat bc they want the kiddie playboy partied to keep entertaining the city at night ? @NFL I know I got people over there, everyone did not hurt me @nbcnews @disney @blackgirlscode  @whithouse  [Drake "Best I Ever Had" (Thank Me Later) @hulu](https://youtu.be/7yudRAYTlvo)  
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c3779577-37c1-4d69-8893-12207fd00d2a" />
+
+// [Triple Six Mafia - Da Summa (REMIX) ](https://youtu.be/TwYz5iI7pm0) // [Lord Infamous - Crazy Off Da Budsack](https://youtu.be/8ECzS3f2O0w) //
+<img alt="image" src="https://github.com/user-attachments/assets/bbd0947a-189f-40a2-8b68-c8ea5ac12b56" />
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A669007685&color=%236484b4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonta-4" title="Sonta" target="_blank" style="color: #cccccc; text-decoration: none;">Sonta</a> · <a href="https://soundcloud.com/sonta-4/your-mistake" title="Your Mistake Produced By Da Surgeonz" target="_blank" style="color: #cccccc; text-decoration: none;">Your Mistake Produced By Da Surgeonz</a></div>
 
