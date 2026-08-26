@@ -8,9 +8,15 @@ layout: default
 
 ---
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A996852493&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonta-4" title="Sonta" target="_blank" style="color: #cccccc; text-decoration: none;">Sonta</a> · <a href="https://soundcloud.com/sonta-4/your-mistake-1" title="Your Mistake" target="_blank" style="color: #cccccc; text-decoration: none;">Your Mistake</a></div>
 
-[https://www.google.com/search?q=youtube+sonta+your+mistake&rlz=1CASLJZ_enUS1229&oq=youtube+sonta+your+mistake&gs@blackgirlscode @howard-university-web-services](https://www.google.com/search?q=youtube+sonta+your+mistake&rlz=1CASLJZ_enUS1229&oq=youtube+sonta+your+mistake&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRiPAtIBCDQ1NzVqMGo0qAIBsAIB8QVOuoJwM9tbJvEFTrqCcDPbWyY&sourceid=chrome&ie=UTF-8)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A669007685&color=%236484b4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonta-4" title="Sonta" target="_blank" style="color: #cccccc; text-decoration: none;">Sonta</a> · <a href="https://soundcloud.com/sonta-4/your-mistake" title="Your Mistake Produced By Da Surgeonz" target="_blank" style="color: #cccccc; text-decoration: none;">Your Mistake Produced By Da Surgeonz</a></div>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5163cae2-486c-46f5-be0b-9e0d14febaf7" />
+
+<img alt="image @nasa-jpl @blackgirlscode [Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX) @Cityoflosangeles  " src="https://github.com/user-attachments/assets/f20af207-c645-4eb6-b6b7-0afc0c4dcde6" />
+
+[google.com/search?q=youtube+sonta+your+mistake&rlz=1CASLJZ_enUS1229&oq=youtube+sonta+your+mistake&gs@blackgirlscode @howard-university-web-services](https://www.google.com/search?q=youtube+sonta+your+mistake&rlz=1CASLJZ_enUS1229&oq=youtube+sonta+your+mistake&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRiPAtIBCDQ1NzVqMGo0qAIBsAIB8QVOuoJwM9tbJvEFTrqCcDPbWyY&sourceid=chrome&ie=UTF-8)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2e209d99-8f19-4536-928a-d76ff0b16a1c" />
 
