@@ -4,6 +4,13 @@ layout: default
 
 [MF Doom-Doomsday](https://youtu.be/U2U0FFZXMN8?list=RDU2U0FFZXMN8) // [Madvillian - Fancy Clown (feat. Viktor Vaughn)](https://youtu.be/yEYCCiXLPTw?list=RDyEYCCiXLPTw) // [The Finest · MF DOOM · Tommy Gunn](https://youtu.be/MueIgPaaQjg?list=PLsiiNfmWVgnn7ZoOtH2n3fw3Ckj1GUNlO) // [Madvillain (MF DOOM & Madlib) - Rhinestone Cowboy](https://youtu.be/lWpRJK_z08I?list=RDlWpRJK_z08I) // [Puff Daddy - Bad Boy's Been Around the World (Remix)` [feat. Mase & Carl Thomas]` ](https://youtu.be/fer1EFfvDXw) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24?list=RDy9lNbNGbo24) // [Black Moon - Who Got Da Props](https://youtu.be/58lZYDxHRV8?list=RD58lZYDxHRV8) // [Creepin' · Redman](https://youtu.be/P-kOHQexqPE?list=RDP-kOHQexqPE) // [_X-CLAN_- Verbs of Power](https://youtu.be/86tkUdqf7Yo?si=eaNajFL2wvYY0ZEX&t=60)
 
+
+@nasa-jpl about the relationship thing, if Caroline hunter is at church, Karen bass at the bet awards and Holly Mitchell doing digital divide conferences I will be more respectful @disney @hulu @nbcnews etc bc altadena would have a sizable @blackgirlscode population that knows what's best for the community and post pole employees may have just got into a predicament and grace might be the christian quality I never developed with Jehovah's witnesses and have not read enough Quran . . . and I need to let the lab heal after that fire bc idk what people are going through ... @blackgirlscode always recheck your
+code, virtiserv is not css validated anymore and neither is our relationship, but it don't mean it cant or should not be fixed @foratlanta _`im a meteorologist`_ . . . @nasa-pds
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8b06d368-1d52-47f9-8944-1c54362422d5" />
+
+
 # Abercrombie CEO Trial, Trump Pardon Scandal & Florida Lawmaker Arrest
 [WATCH - https://youtu.be/Yfc-08N7Tps](https://youtu.be/Yfc-08N7Tps) /// [Former Abercrombie & Fitch CEO found competent to stand trial for sex trafficking charges by: Kate Shields](https://www.nbc4i.com/news/local-news/new-albany/former-abercrombie-fitch-ceo-found-confident-to-stand-trial-for-sex-trafficking-charges/)
 
