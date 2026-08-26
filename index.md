@@ -8,6 +8,8 @@ layout: default
 
 ---
 
+![https://www.fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg) 
+
 [results.lavote.gov/#year=2026&election=4338](https://results.lavote.gov/#year=2026&election=4338)
 <img alt="image" src="https://github.com/user-attachments/assets/8f3b0651-6541-46f3-9fb1-c60f6a669533" />
 # NS Records 
