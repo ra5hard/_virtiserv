@@ -9,6 +9,10 @@ layout: default
 
 
 @Nasa-jpl I see evidence that LAtrice or someone is helping with the doxxing despite lifestyle changes [@nasa-pds](https://glorilla.fandom.com/wiki/Glorious) so a lot of my software is behind @Github pages from unverified changes @cityoflosangeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) [thakarashard.github.io/](https://thakarashard.github.io/) is failing checks as well @howard-university-web-services @nbcnews I'm sure someone that does hair for you should know ///////////// [😢300 M.P.H. Torrential Outpour Blues · The White Stripes😭](https://youtu.be/BN8c4nnnWYs?list=RDBN8c4nnnWYs) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE?list=RDBN8c4nnnWYs)
+
+@la-county-isd I'm not fixing warning since I'm going for usability, but if that taxes me [Holly J Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) send me a sign and I will clear with all green . . . @newshour @StateofCalifornia [Supervisor Lindsey](https://lindseyhorvath.lacounty.gov/) I think you are credible 
+<img  alt="image" src="https://github.com/user-attachments/assets/61731f2d-eb31-4525-a56b-3919c12dcddb" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/95d20f52-6886-4408-baba-0016dd99f390" />
 
 
