@@ -8,7 +8,7 @@ layout: default
 
 
 @Deptofwar ask [Keisha Lance bottoms](https://www.keishaforgovernor.com/bio) what my child upto after i went to [dance411 @foratlanta](https://www.dance411.com/)
-[https://archive.org/details/education-for-death-1943](https://archive.org/details/education-for-death-1943) she used to try to contact me 
+[https://archive.org/details/education-for-death-1943](https://archive.org/details/education-for-death-1943) she used to try to contact me @nasa-pds @nasa-jpl @cityoflosangeles holly j mitchell @blackgirlscode @disney
 <img  alt="image" src="https://github.com/user-attachments/assets/a70e1191-ba07-447b-a5c4-4f0dbbb2da78" />
 
 Black voters changed Georgia politics in 2020. Keisha Lance Bottoms needs them to show up again [@ForAtlanta thegrio.com/2026/08/27/keisha-lance-bottoms-georgia-black-voter-turnout/](https://thegrio.com/2026/08/27/keisha-lance-bottoms-georgia-black-voter-turnout/)
