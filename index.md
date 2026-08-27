@@ -6,10 +6,13 @@ layout: default
 
 ---
 
+@eosdis-nasa yo i got your highFreakanLoWFREAK messages and i was lost man looking for , not even that... i was procrastinating complaining about there bing no [NasaEarthdata](https://www.datacenterdynamics.com/en/news/nasa-migrates-earth-science-data-archives-to-the-cloud/) github ... So i was trying to login via [Earthdata Search](https://search.earthdata.nasa.gov/) and i saw new options for [GoogleAuth](https://pypi.org/project/google-auth/) and it requires [2fa](https://en.wikipedia.org/wiki/Multi-factor_authentication), @doug-newman-nasa i have rolling cases with @CityofLosangeles and [County Of Los Angeles @La-County-Isd](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/ba8e2bae-eafb-4bbc-afdd-795fbce5e3bc/090126_Agenda.html), [@ESA](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf) alot of it is informal because [Holly Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/), is the county [DFACS @ForAtlanta](https://dekalbgasuperiorcourt.gov/home/family-law/family-law/) in my missing child and abandonment cases anyway @NASA-GiSS you guys know someone can send me an android, with instructions not to exclude me for prostitution support to [4800 Oak Grove Drive La Cañada Flintridge, CA 91011](https://www.jpl.nasa.gov/jpl-and-the-community/directions-and-maps/) and have them forwad to [200 W. Broadway Long Beach, CA 90802 @CiA](https://longbeach.gov/library/locations/main-library/) give them instructions @USEPA 
+<img  alt="image @Datadesk @nasa-pds @Cityoflosangeles _@USGS_ @doug-newman-nasa" src="https://github.com/user-attachments/assets/548d438c-7d90-4ed0-b70c-64f18f5ca169" />
+
 
 [ita.lacity.gov/smartla2028](https://ita.lacity.gov/smartla2028)
 [Download - ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
-<img  alt="image" src="https://github.com/user-attachments/assets/c19a14bf-d6a2-42a1-9534-c6dc41d6d9a6" />
+<img  alt="image @Datadesk @nasa-pds @Cityoflosangeles _@USGS_ " src="https://github.com/user-attachments/assets/c19a14bf-d6a2-42a1-9534-c6dc41d6d9a6" />
 
 
 ## Checking In On Pacific Palisades With Councilmember Traci Park
