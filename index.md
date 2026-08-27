@@ -7,6 +7,11 @@ layout: default
 ---
 
 
+[ita.lacity.gov/smartla2028](https://ita.lacity.gov/smartla2028)
+[Download - ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/c19a14bf-d6a2-42a1-9534-c6dc41d6d9a6" />
+
+
 ## Checking In On Pacific Palisades With Councilmember Traci Park
  [WATCH - youtu.be/d6ykSPXXzxQ?si=aY-yHzhrdmRSW-AR](https://youtu.be/d6ykSPXXzxQ?si=aY-yHzhrdmRSW-AR)
 @Datadesk @nasa-pds @Cityoflosangeles _@USGS_
