@@ -8,6 +8,16 @@ mathjax: true
 ---
 https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/20262381301-20262390046-GOES18-ABI-CONUS-DMW-1250x750.gif
 
+# RAIN Global Viewer
+Regional Animations of IMERG in Near-realtime - Global Edition
+[HOMEPAGE - gpm.nasa.gov/data/visualizations/rain-global](https://gpm.nasa.gov/data/visualizations/rain-global) 
+[WEBAPP - storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html)
+RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244 @nasa-jpl @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/278028a8-4c5e-46c7-932c-5e11159ef103" />
+
+[<video controls loading="lazy" poster="https://gpm.nasa.gov/themes/custom/pmm_bs/images/nasa-logo-large-v1.png" src="https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4" />](https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
+
 <img  alt="NavySeasonalWindsOfThePacific1972-01" src="https://github.com/user-attachments/assets/3b04aff4-0178-497c-ab10-9ee5f908864d" />
 <img  alt="NavySeasonalWindsOfThePacific1972-02" src="https://github.com/user-attachments/assets/b5bd9b9d-d1fd-4804-81a2-3ab1253e79d0" />
 <img   alt="NavySeasonalWindsOfThePacific1972-04" src="https://github.com/user-attachments/assets/f3b82c48-9a0a-474e-8d4e-f18e1286497e" />
