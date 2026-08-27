@@ -8,6 +8,12 @@ mathjax: true
 ---
 
 
+<img  alt="NavySeasonalWindsOfThePacific1972-01" src="https://github.com/user-attachments/assets/3b04aff4-0178-497c-ab10-9ee5f908864d" />
+<img width="2408" height="3305" alt="NavySeasonalWindsOfThePacific1972-02" src="https://github.com/user-attachments/assets/b5bd9b9d-d1fd-4804-81a2-3ab1253e79d0" />
+<img width="2408" height="3400" alt="NavySeasonalWindsOfThePacific1972-04" src="https://github.com/user-attachments/assets/f3b82c48-9a0a-474e-8d4e-f18e1286497e" />
+<img width="2408" height="3400" alt="NavySeasonalWindsOfThePacific1972-05" src="https://github.com/user-attachments/assets/759a3974-1ebd-4c33-805a-252e73759809" />
+
+
 # Panoply netCDF, HDF and GRIB Data Viewer
 [download - https://www.giss.nasa.gov/tools/panoply/download @la-county-isd @nasa-jpl @cityoflosangeles](https://www.giss.nasa.gov/tools/panoply/download/)
 
