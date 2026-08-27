@@ -7,6 +7,9 @@ layout: default
 ---
 
 
+Education For Death 1943 
+<iframe src="https://archive.org/embed/education-for-death-1943" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [donlemon.com/ @Blackgirlscode dom check on em @ForAtlanta](https://donlemon.com/)
 <img  alt="image donlemon.com/ @Blackgirlscode dom check on em @ForAtlanta " src="https://github.com/user-attachments/assets/6907d8de-8568-4ec6-a7d0-25ea86e95618" />
 
