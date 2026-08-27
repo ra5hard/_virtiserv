@@ -7,12 +7,42 @@ So So Def Bass All-Stars Vol. II](https://youtu.be/6B9roO-rcGw) // [The Roots - 
 
 
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/476f890e-e5b8-41ee-8344-cedea765428c" />
+
+# Vampire Savior 2: The Lord of Vampire (Japan 970913)
+<img src="https://images.launchbox-app.com/3f4c0210-85a0-4a57-aba6-c159abdf9406.jpg"/>
+
+by [Capcom](https://www.capcom.com/) / [launchbox @nasa-jpl](https://gamesdb.launchbox-app.com/games/images/39937-vampire-savior-2-the-lord-of-vampire)
+
+Publication date 1997
+<iframe src="https://archive.org/embed/arcade_vsav2" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img src="https://images.launchbox-app.com/b9f4670e-b378-4654-bb54-5be3b6dea571.png"/>
+<img   alt="image" src="https://github.com/user-attachments/assets/569cecec-a3d2-405f-a7a9-92927afaa811" />
+
+[<video controls loading="lazy"  src="https://archive.org/download/nasafirejuly26/Screen%20recording%202026-08-19%206.24.52%20PM.webm" />](https://archive.org/download/nasafirejuly26/Screen%20recording%202026-08-19%206.24.52%20PM.webm)
+
+
 ## Global Precipretation Measurement
 @Nasa-jpl IDK how I got associated with this mission... but I contribute ... so I found this PDF of @USnavy wind patterns at Central 
 `youtube`
 @nasajpl im trying to create a weather card in jekyll thats easily shareable for tracking elnino patters to finally resolve why all that heat coming off the west coast of South America and ppl on our news act like its such a mystery @LANAJHARRiS @HOT97 its blocked for passthrough but you should still try the app even if my interactive flashcard is not fully working yet [https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html) - #Rashard @NasaEarthdAta @itsgavinnewsom [Whodini - One Love](https://youtu.be/qMnTawcUZLQ?si=80pOrXRfnNfK5dwO)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e9f4627b-1b1a-4c58-8629-6a3f67b9e2aa" />
+![https://www.star.nesdis.noaa.gov/goes/images/banner/GOESAllBanner_1800x100px.jpg](https://www.star.nesdis.noaa.gov/goes/images/banner/GOESAllBanner_1800x100px.jpg)
+
+# RAIN Global Viewer
+Regional Animations of IMERG in Near-realtime - Global Edition
+[HOMEPAGE - gpm.nasa.gov/data/visualizations/rain-global](https://gpm.nasa.gov/data/visualizations/rain-global) 
+[WEBAPP - storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html](https://storm.pps.eosdis.nasa.gov/storm/outreach/RAIN-Global2.html)
+RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244 @nasa-jpl @cityoflosangeles
+<img alt="image" src="https://github.com/user-attachments/assets/278028a8-4c5e-46c7-932c-5e11159ef103" />
+
+[<video controls loading="lazy" poster="https://gpm.nasa.gov/themes/custom/pmm_bs/images/nasa-logo-large-v1.png" src="https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4" />](https://archive.org/download/longbeach_202605/ScreenRecording2026-08-11RainGLOBAL2DEMO_RAshardKELLY_NASA_JPLEARTHDATA_4lanajharrisReporterVirtiservKARENBASSrexRichardsonSPACEBEACH124244.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/fdbb2e9b-8f14-49e8-a58e-1c06f1ab6072" />
+
+
 
 
 ## THE HEALTH EFFECTS OF
@@ -60,6 +90,13 @@ So So Def Bass All-Stars Vol. II
 
 [HEAR- youtu.be/6B9roO-rcGw](https://youtu.be/6B9roO-rcGw)
 `https://youtu.be/PVcPxGCIzpg @lanajharris these songs hurt like hell, thanks for being th real thing @hot977 @repkarenbass its for records @itsgavinnewsom @t.i. @Hot97 @NAsa-pds`  @howard-university-web-service @nasa-jpl I wont talk down to her or gossip on her if y'all let me back in the building for rebadging... @Whitehouse what are the rules on hitting back, after they been to Hollywood they start hitting @Cityoflosangeles 
+
+[Who sampled.cOm](https://www.whosampled.com/browse/) <~ @howard-university-web-services
+
+## When Discovery Becomes Consolidation: 
+@Spotify 's [WhoSampled](https://www.whosampled.com/search/?q=bohannon) Acquisition
+[READ - soniare.net/blog/spotify-whosampled-acquisition-consolidation](https://www.soniare.net/blog/spotify-whosampled-acquisition-consolidation)
+![https://www.soniare.net/static/images/spotifyWhoSampled.jpg](https://www.soniare.net/static/images/spotifyWhoSampled.jpg)
 
 #### W3C CSS Validator results for https://virtiserv.github.io/ (CSS level 3 + SVG)
 Congratulations! No Error Found.
