@@ -14,6 +14,10 @@ The Earth Surface Mineral Dust Source Investigation (EMIT) instrument measures s
 
 ![https://cd11.lacity.gov/sites/g/files/wph2151/files/CD11_Logo_Traci-Park_370x100.svg](https://cd11.lacity.gov/sites/g/files/wph2151/files/CD11_Logo_Traci-Park_370x100.svg)
 
+ Sacremento @StateOfCalifornia 
+ ![https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png](https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png)
+<img   alt="image" src="https://github.com/user-attachments/assets/8da076d6-efbb-4209-8450-12a68712604f" />
+
 <img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
 
 @ESA @eu-cdse hi its [rashard](https://virtiserv.github.io/rashardmro/hr) from @nasa-jpl... i dont know how reliable this @Github handle is but i want you guys to connect with @LongBeachInnovationTeam well, i dont know im trying to communicate danger looking at the moisture index, I know its not good but i dont want to be an alarmist @StateOfCalifornia [Governor Newsom](https://www.gov.ca.gov/) can we get some california privilage for some fly overs to understand whats up with the water, we had kelp bits on the long beach shore, in @CityOfSantamonica they come in bundles, but i think the levees break them up ,... im committing, i need to look up a map
