@@ -16,8 +16,8 @@ The Earth Surface Mineral Dust Source Investigation (EMIT) instrument measures s
 
 ![https://cd11.lacity.gov/sites/g/files/wph2151/files/CD11_Logo_Traci-Park_370x100.svg](https://cd11.lacity.gov/sites/g/files/wph2151/files/CD11_Logo_Traci-Park_370x100.svg)
 
- Sacremento @StateOfCalifornia 
- ![https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png](https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png)
+ Sacremento @StateOfCalifornia @saccounty 
+ ![@emit-sds @podaac @cityoflosangeles gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png](https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png)
  <img alt="image" src="https://github.com/user-attachments/assets/d0b9b942-72df-44b8-b8ed-a73df756a306" />
 <img  alt="image" src="https://github.com/user-attachments/assets/cec73b64-bae3-4719-860c-bf5c18f3525a" />
 
