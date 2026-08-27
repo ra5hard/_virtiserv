@@ -11,6 +11,8 @@ mathjax: true
 <img  alt="NavySeasonalWindsOfThePacific1972-01" src="https://github.com/user-attachments/assets/3b04aff4-0178-497c-ab10-9ee5f908864d" />
 <img width="2408" height="3305" alt="NavySeasonalWindsOfThePacific1972-02" src="https://github.com/user-attachments/assets/b5bd9b9d-d1fd-4804-81a2-3ab1253e79d0" />
 <img width="2408" height="3400" alt="NavySeasonalWindsOfThePacific1972-04" src="https://github.com/user-attachments/assets/f3b82c48-9a0a-474e-8d4e-f18e1286497e" />
+_RightNow_ @USnavy I'll make it a card at some point I'm just gathering data @nasa-jpl / @deptofwar did you see my [Barron trump concern](https://youtu.be/GriqJ94kRro?si=MJ7Pz8TJK1xVX7wp) message ? I saw it on [Lana J HArris](https://www.threads.com/@lanajharris) show. being from Atlanta she super into [TMZ](https://www.tmz.com/2026/08/26/jed-york-prostitution-arrest-being-checked-on-by-nfl/) and shit so sometimes they say important things ... [@NFL tmz.com/2026/08/26/jed-york-prostitution-arrest-being-checked-on-by-nfl/](https://www.tmz.com/2026/08/26/jed-york-prostitution-arrest-being-checked-on-by-nfl/)
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif) 
 <img width="2408" height="3400" alt="NavySeasonalWindsOfThePacific1972-05" src="https://github.com/user-attachments/assets/759a3974-1ebd-4c33-805a-252e73759809" />
 
 
