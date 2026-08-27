@@ -7,6 +7,9 @@ layout: default
 ---
 
 
+[donlemon.com/ @Blackgirlscode dom check on em @ForAtlanta](https://donlemon.com/)
+<img  alt="image donlemon.com/ @Blackgirlscode dom check on em @ForAtlanta " src="https://github.com/user-attachments/assets/6907d8de-8568-4ec6-a7d0-25ea86e95618" />
+
 # Keisha: You Don't Call the National Guard in Anticipation of an Election 
 [WATCH - youtube.com/watch?v=jq64nLK2CSE](https://www.youtube.com/watch?v=jq64nLK2CSE)
 | Don Lemon Show 8.26.26 [@DeptOfWar ask dom](https://spectrumlocalnews.com/us/snplus/politics/2026/01/30/don-lemon-arrested-protest-minnesota-church) if he go to barbie city i lost my sexual partner recently and really displaced... its robbery my nigga i need a cell phone and some baseline stability im excluded from everything ... @nasa-jpl if the county is now bi sexual and sharing partners is the norm i wanna transfer @ESA i want to be place in a country that supports heterosexuality 
