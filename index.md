@@ -6,6 +6,9 @@ layout: default
 
 ---
 
+@hot97 is this @lanajharris  @repkarenbass @nasajpl @CountyofLosAngelesNewsroom @cityoflosangeles plz forward to [ms bass](https://youtu.be/fx8VqDOsC8E)
+<img  alt="image" src="https://github.com/user-attachments/assets/065e1ca7-d594-4173-a16b-97b9cf985bbc" />
+
 ## MAIA Air Sensor at Work in Addis Ababa
 [@Blackgirlscode jpl.nasa.gov/news/nasa-mission-studies-air-pollution-over-ethiopia/](https://www.jpl.nasa.gov/news/nasa-mission-studies-air-pollution-over-ethiopia/) + [jpl.nasa.gov/images/pia26694-mapping-air-pollution-with-maia-sensors-in-addis-ababa/](https://www.jpl.nasa.gov/images/pia26694-mapping-air-pollution-with-maia-sensors-in-addis-ababa/)
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26698.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/PIA26698.width-1024.jpg)
