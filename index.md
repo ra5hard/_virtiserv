@@ -7,9 +7,11 @@ layout: default
 ---
 
 
-
+EMIT L1B At-Sensor Calibrated Radiance and Geolocation Data 60 m V001
+@CityOfLosAngeles plz forward to [Council Member PArk](https://cd11.lacity.gov/about/traci-park)
 <img alt="image plz forward to supervisors the Board of Supervisord @la-county-isd " src="https://github.com/user-attachments/assets/dfc7d26e-ee5a-42ed-aee0-bce018975914" />
 
+![https://cd11.lacity.gov/sites/g/files/wph2151/files/CD11_Logo_Traci-Park_370x100.svg](https://cd11.lacity.gov/sites/g/files/wph2151/files/CD11_Logo_Traci-Park_370x100.svg)
 
 <img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
 
