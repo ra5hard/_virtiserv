@@ -8,7 +8,7 @@ layout: default
 
 ## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
 
-[Watch - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) @nasa-pds I'm glad y'all healing 
+[Watch - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) @nasa-pds I'm glad y'all healin 
 <img alt="image" src="https://github.com/user-attachments/assets/8a821457-d2ae-4495-94df-0495342eecba" />
 
  [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
