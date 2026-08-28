@@ -8,9 +8,15 @@ layout: default
 
  [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
  @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles 
+<img  alt="image-7" src="https://github.com/user-attachments/assets/2eed93c8-35bb-455f-a9ee-dcccec2ddaa1" />
+<img   alt="image-8" src="https://github.com/user-attachments/assets/3d1087e3-7359-4d50-bcd3-b6dbd5fc3fb3" />
 
  <img  alt="image-5" src="https://github.com/user-attachments/assets/82b65453-d2b2-40a4-a7f1-53c847c3f3cb" />
 <img  alt="image-6" src="https://github.com/user-attachments/assets/22d27967-aa5b-42ca-8cf8-0ef2c6fd8beb" />
+<img alt="image-9" src="https://github.com/user-attachments/assets/6e038136-c34d-40ca-bb89-cefa5a3294a8" />
+<img  alt="image-1" src="https://github.com/user-attachments/assets/306d9ee3-6bbc-4675-9210-3a0274623a95" />
+<img  alt="image-9" src="https://github.com/user-attachments/assets/d29e4511-b5c2-4be7-89cb-51614cb7cdb1" />
+
 
 
 @Deptofwar ask [Keisha Lance bottoms](https://www.keishaforgovernor.com/bio) what my child upto after i went to [dance411 @foratlanta](https://www.dance411.com/)
