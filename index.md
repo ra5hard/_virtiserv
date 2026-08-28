@@ -8,7 +8,9 @@ layout: default
 @CityOfLosAngeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) we got an extension, thanks @whitehouse 
 >In early 2024, EMIT passed into an extended mission phase of operations. This means that the EMIT sensor will continue to collect data from its vantage point on the International Space Station through at least 2026. The EMIT team looks forward to supporting additional data collection, the newly announced ROSES funded Research and Applications Team, and the user community in the coming years. @emit-sds [@emit-sds plant.id/](https://plant.id/) @blackgirlscode [@DeptOfWar earth.jpl.nasa.gov/emit/ @Blackgirlscode](https://earth.jpl.nasa.gov/emit/) @howard-university-web-services
 >
-![https://earth.jpl.nasa.gov/emit/mission/team/science-team/](https://earth.jpl.nasa.gov/emit/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b4391f8beeae49850fee4364cc4a0baa95c73ab/EMIT_Science_Team_Meeting_2_20191206a.jpg?disposition=inline)
+<img  alt="image" src="https://github.com/user-attachments/assets/19650d5b-f19e-4cfe-b24b-fd6fde0c113b" />
+
+[https://earth.jpl.nasa.gov/emit/mission/team/science-team/](https://earth.jpl.nasa.gov/emit/mission/team/science-team/)
 <img  alt="image" src="https://github.com/user-attachments/assets/6c82e1f9-5968-40be-93d6-679eed13b394" />
 
 [@nasa-jpl how much do they stalk me ? - Juicy J & Project Pat on Oscars Moment with Dolly Parton, Meeting Jelly Roll & New Album Dem Goat](https://youtu.be/vRwl0BCpQpY) /// @nbcnews that's some rare ass shit in Cali @cityoflosangeles [https://www.youtube.com/@JimmyKimmelLive](https://www.youtube.com/@JimmyKimmelLive)
