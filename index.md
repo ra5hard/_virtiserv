@@ -2,6 +2,14 @@
 layout: default
 ---
 
+@eosdis-nasa  @usgs @la-county-isd hi here is the spot I p[pulled the vegetation samples from, someone hurt me bad in the library 
+[https://search.earthdata.nasa.gov/search?lat=33.80437529320976&long=-118.20526301958586&overlays=placeLabels&zoom=18.470427907788203](https://search.earthdata.nasa.gov/search?lat=33.80437529320976&long=-118.20526301958586&overlays=placeLabels&zoom=18.470427907788203)
+<img alt="image" src="https://github.com/user-attachments/assets/8b835d4a-b245-45d4-8526-522be0e3252a" />
+
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=19.73/-13158570.98/4003704.95](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=19.73/-13158570.98/4003704.95)
+<img  alt="image" src="https://github.com/user-attachments/assets/486e7c85-37dc-405f-b5df-37f31db3c92a" />
+
+
 //  [Grandmaster Melle Mel ‎- White Lines (Don't Don't Do It) (Official Video)](https://youtu.be/DwRXI-y6M9o) // [My Melody · Eric B. & Rakim](https://youtu.be/8n8BvELP2y0) // [No Happy Holidays · Mary J. Blige](https://youtu.be/WFK_UgYGofo) // [Tommy Wright III & Princess Loko & Mac T-Dog - Still Pimpin](https://youtu.be/3W2jLb7AM3s) // [The Man Right Chea · Mystikal](https://youtu.be/CPcGQy61uBc) // [I Always Feel Like... · Tru @Cia @nasa-jpl](https://youtu.be/8zr-v8RWQ1U) // [How Ya Do Dat · Young Bleed · Master P · C-Loc](https://youtu.be/eWZKXGGJo_k) / [Juvenile - Ha](https://youtu.be/Ww9VlmXKYgs?list=RDEMoWfBgYdaTPG6hYP290Ekxw)
 
 ---
