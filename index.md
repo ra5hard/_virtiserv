@@ -5,6 +5,8 @@ layout: default
 
 [The Chemical Brothers - Got To Keep On](https://youtu.be/rSYwtllbweY)
 
+[@nasa-jpl how much do they stalk me ? - Juicy J & Project Pat on Oscars Moment with Dolly Parton, Meeting Jelly Roll & New Album Dem Goat](https://youtu.be/vRwl0BCpQpY) /// @nbcnews that's some rare ass shit in Cali @cityoflosangeles [https://www.youtube.com/@JimmyKimmelLive](https://www.youtube.com/@JimmyKimmelLive)
+
 <img  alt="image-2" src="https://github.com/user-attachments/assets/e8b12356-f203-4720-a1fd-27ef0e556752" />
 
 @nasa-jpl @nasa-openscapes @landsat can we get [this cleaner](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.80/-13158249.22/4002665.69&layers=aqv_chla_20260825_sentinel:1.00:0.00:30.00:default) @ESA its a great practice spot! there is a lot of [biomass](https://www.earthdata.nasa.gov/maap-biomass/) hi @blackgirlscode @cityoflosangeles @howard-university-web-services
