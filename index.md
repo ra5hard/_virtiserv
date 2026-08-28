@@ -2,6 +2,319 @@
 layout: default
 ---
 
+
+```
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+XP
+ 
+
+
+
+@DariBenny
+​​⚰🪦🕊😭 RIP Hayden panettiere Tim curry and dolly Parton and peter cullen
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Dari.
+
+
+@Supadupacee
+​
+
+#1
+​Live from the famous Hot 97 TV Studios in Atlanta, Georgia, this is Hot 97 News and the news is newsing with Lana Harris. T.G.I.F.
+
+
+@Supadupacee
+​
+
+#1
+​On tonight’s show, we got “The Lana Rundown”, “America’s Hottest Headlines”, “You Can’t Make This Up” and the 411 in entertainment. All coming up on Hot 97 News and it will start in eight minutes.
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Lana and Will aka Airhorn Willie with the famous air horn sound effect.
+
+
+@hot97
+​​If you made it to FRIDAY hit that like button! Thanks for hanging out with us fam!
+
+
+@Supadupacee
+​
+
+#1
+​We got the famous Hot 97 TV theme music in full effect on a Friday. Compliments of the almighty A.K.
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, @hot97.
+
+
+@LaToyaEvans-v3f
+​
+
+#3
+​ Good evening all
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Latoya. Are you ready for the weekend?
+
+
+@BumpPJohnson
+​​falcons
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Bump.
+
+
+@LaToyaEvans-v3f
+​
+
+#3
+​I am MORE than ready Sup and you?
+
+
+@Supadupacee
+​
+
+#1
+​Great Caesar’s ghost! Not more flood! Give me a break!
+
+
+@Supadupacee
+​
+
+#1
+​Yes I am ready, Latoya.
+
+
+@MeezyTheRealKingOfHisLife0-e9i
+​​Hi
+
+
+@KingRavensburner
+​​Prayers 🙏🏿
+
+
+@Projectkang
+​
+
+#2
+​Hola to Supa, Bump LaToya
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, Kang, KingRaven and Meezy.
+
+
+@BumpPJohnson
+​​I love their dedication to save, Nepal China
+
+
+@Projectkang
+​
+
+#2
+​it's also a big season for travelers there
+
+
+@KingRavensburner
+​​Good evening Supa 🌆.
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+
+@AltoKeyz
+​​YERRRRR
+
+
+@KingRavensburner
+​
+
+#2
+​Jesus bro
+
+
+@AltoKeyz
+​​Good evening familia
+
+
+@Supadupacee
+​
+
+#1
+​Good Friday evening, A.K.
+
+
+@Projectkang
+​
+
+#2
+​yerr Keys, KingRaven
+
+
+@AltoKeyz
+​
+
+#3
+​Beautiful day it is Supa ! Hope all is well !
+
+
+@AltoKeyz
+​
+
+#3
+​Kang ! Doom cometh !
+
+
+@thakasErikaselassie_kelly
+​​@lanajharris sorry dude i been busy we had a lunar eclipse and some shit on mars https://www.msss.com/ <~ @nasajpl she should meeet robin .. @t.i. what happened to future? @officialfuturevideos @cbsla
+
+
+@Projectkang
+​
+
+#2
+​trailer looks so good
+
+
+@AltoKeyz
+​
+
+#3
+​Hey raven toya and the crew let’s get it ! 🥃🥃🥃
+
+
+@Projectkang
+​
+
+#2
+​I'm hooked on the new Green Lantern show now
+
+
+@Supadupacee
+​
+
+#1
+​Like the late Fred Rogers said, “It’s a beautiful day in the neighborhood”.
+
+
+@AltoKeyz
+​
+
+#3
+​Ohhh I gotta watch that !
+
+
+@Projectkang
+​
+
+#2
+​Rip Mr Rogers
+
+
+@BumpPJohnson
+​​yeah but the oil in Iran is a benefit like the oil in Venezuela?
+
+
+@Supadupacee
+​
+
+#1
+​Prepare to throw in your comments so Lana can read them after the “Rundown” ends.
+
+
+@Projectkang
+​
+
+#2
+​Mitch McConnell has been on the Cod Beta, so he's excused as well
+
+
+@thakasErikaselassie_kelly
+​​msss.comn @nasajpl idk what ... @2Chainz hi im uncomfortable with california futuire + and i emailed @monica @YungMiami305 from the library the @AtlantaNewsFirst @Essencemag @chloebaileywashere
+
+
+@thakasErikaselassie_kelly
+​​@repkarenbass @2Chainz hi im uncomfortable with california futuire + and i emailed @monica @YungMiami305 from the library the @AtlantaNewsFirst @Essencemag @chloebaileywashere @deptofwar
+
+
+@thakasErikaselassie_kelly
+​​@2chainz california future look like donald glover ... idk what happend to z6ne future!?!?! , ̄\_(ツ)_/ ̄ (˶>⩊<˶) (˶ᴖ ᴗ ᴖ˶)
+
+
+@AltoKeyz
+​
+
+#3
+​Somebody just taking a night drive while I’m waiting on a comet to hit lol
+
+
+@thakasErikaselassie_kelly
+​​@2chainz i said magicity people are genocidal maniacs... if i find a girl like me will you conspire to kidnap her and charm her into sex ? @SupervisorHollyJMitchell @AtlantaNewsFirst @Essencemag
+
+
+@Supadupacee
+​
+
+#1
+​Also if you like the famous “Lana Rundown” and other segments, please do hit the like 👍 button, like I did, so it will go viral before the show wraps up. Am I doing great so far, Latoya?
+```
+[https://youtu.be/T_sc6vnV09E](https://youtu.be/T_sc6vnV09E) 
+<img alt="image" src="https://github.com/user-attachments/assets/0a351516-d323-49c9-998b-dc89316f0e15" />
+
+
 @nasa-pds @nasa Veronica hi, its rashard, I was catching up on the nasal social shit... I heard you mention phoenix... that one was not rep[sorting as of the last time I checked it and insight is not reporting either... [seismology](https://www.jpl.nasa.gov/edu/resources/teachable-moment/how-insight-revealed-the-heart-of-mars/) and solar panels are not things that ever stop @deptofwar so if pre nelson leadership got hurt partying with Harvey Levin and turn the shit off idk, but here is an app that it should be dumping to @nasa-pds and I'm trying to get it all turned on for whatever [Victor and those hollywood people](https://www.nasa.gov/people/victor-j-glover-jr/) are into for their walk... lets make it stable now, they taking shit that they cant do unless they got Japanese equipment they check in on their dual sim OprahDroids @disney @hulu @nbcnews [pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx) @SpaceExplorationTechnologies @r-spacex [https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx&gather.common.instrument=OM](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx&gather.common.instrument=OM)
 
 ![https://www.msss.com/images/msss_logo.gif](https://www.msss.com/images/msss_logo.gif)
