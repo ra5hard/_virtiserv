@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[The Chemical Brothers - Got To Keep On](https://youtu.be/rSYwtllbweY)
+[The Chemical Brothers - Got To Keep On](https://youtu.be/rSYwtllbweY) // [Keep On Rockin It (feat. Charizma)](https://youtu.be/klNiPcJMSvs)
 
 [@nasa-jpl how much do they stalk me ? - Juicy J & Project Pat on Oscars Moment with Dolly Parton, Meeting Jelly Roll & New Album Dem Goat](https://youtu.be/vRwl0BCpQpY) /// @nbcnews that's some rare ass shit in Cali @cityoflosangeles [https://www.youtube.com/@JimmyKimmelLive](https://www.youtube.com/@JimmyKimmelLive)
 
