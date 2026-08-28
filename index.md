@@ -2,9 +2,15 @@
 layout: default
 ---
 
+<img  alt="image-2" src="https://github.com/user-attachments/assets/e8b12356-f203-4720-a1fd-27ef0e556752" />
+
 @eosdis-nasa  @usgs @la-county-isd hi here is the spot I p[pulled the vegetation samples from, someone hurt me bad in the library 
 [https://search.earthdata.nasa.gov/search?lat=33.80437529320976&long=-118.20526301958586&overlays=placeLabels&zoom=18.470427907788203](https://search.earthdata.nasa.gov/search?lat=33.80437529320976&long=-118.20526301958586&overlays=placeLabels&zoom=18.470427907788203)
 <img alt="image" src="https://github.com/user-attachments/assets/8b835d4a-b245-45d4-8526-522be0e3252a" />
+<img  alt="image-4" src="https://github.com/user-attachments/assets/bddb157d-24ce-423e-9c01-5b5c7df83eec" />
+
+@eosdis-nasa  @usgs @la-county-isd this is the plant that expands and contracts, to someone far off it could be mistaken for a [Harmful Algal Bloom](https://svs.gsfc.nasa.gov/14648/)
+<img   alt="image @eosdis-nasa  @usgs @la-county-isd (1)-2" src="https://github.com/user-attachments/assets/668ad58b-2a6a-44e5-966e-90af24e188ee" />
 
 [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=19.73/-13158570.98/4003704.95](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=19.73/-13158570.98/4003704.95)
 <img  alt="image" src="https://github.com/user-attachments/assets/486e7c85-37dc-405f-b5df-37f31db3c92a" />
