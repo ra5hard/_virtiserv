@@ -7,6 +7,13 @@ layout: default
 ---
 
 
+## Daddy O - "Played Out" OFFICIAL MUSIC VIDEO
+[WATCH - youtu.be/uABHh5OGQHs](https://youtu.be/uABHh5OGQHs)
+@CBSLA i was just chillin and had some downtime, and wanted to freely play with some ideas and @TommyBoyRecords
+ daddyo took over, all them girls was passing through O4w and i was jubbling my daughter @blackgirlscode how did i lose her @keishaforga you support prostituion and the @Deptofwar says its illegal and pandering  @chloebaileywashere i cant sit in the same room with you im hurt man you did your shit and im just mentioning @Chrisbrowntv bc he prolly know him bc his cousin know him @disney
+•  ........ @nasa-pds this song scary @hot97 @lanajharris . . @repkarenbass @nasa-pds @NASAJPL tommy wright had a cutlaass or a chevy and was scared of my father figure religiously!!!! @SupervisorHollyJMitchell @CountyofLosAngelesNewsroom
+<img  alt="image" src="https://github.com/user-attachments/assets/d27c9205-890c-48de-9b32-944cf9e2ff10" />
+
 ![https://swot.jpl.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSnpkbUZ5YVdGdWRITXZaRGRoWmpZd1lUWXRObU5pTnkwME1UYzRMV0V4TldFdE9ETXlaRE0yWVRJMk5Ea3hMemc1WVdVNFlqbGpZVEZqWTJKaU1HSTRZek0zTWpBM01EQmlZemhtTWpCak1USTJOVEF6TW1KaU9HSm1aR0UyTXpRMk16VXpOMk00T0dGaE1XSmhOVGdHT2daRlZEb1FaR2x6Y0c5emFYUnBiMjVKSWxscGJteHBibVU3SUdacGJHVnVZVzFsUFNKbWFYaGxaRjloY21Ob2FYUmxZM1IxY21VdWQyVmljQ0k3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWm1sNFpXUmZZWEpqYUdsMFpXTjBkWEpsTG5kbFluQUdPd1pVT2hGamIyNTBaVzUwWDNSNWNHVkpJZzlwYldGblpTOTNaV0p3QmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2tleSJ9fQ==--f3cb5be2af6dad4e1ae84414f5525aa797173a7b/fixed_architecture.webp](https://swot.jpl.nasa.gov/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSnpkbUZ5YVdGdWRITXZaRGRoWmpZd1lUWXRObU5pTnkwME1UYzRMV0V4TldFdE9ETXlaRE0yWVRJMk5Ea3hMemc1WVdVNFlqbGpZVEZqWTJKaU1HSTRZek0zTWpBM01EQmlZemhtTWpCak1USTJOVEF6TW1KaU9HSm1aR0UyTXpRMk16VXpOMk00T0dGaE1XSmhOVGdHT2daRlZEb1FaR2x6Y0c5emFYUnBiMjVKSWxscGJteHBibVU3SUdacGJHVnVZVzFsUFNKbWFYaGxaRjloY21Ob2FYUmxZM1IxY21VdWQyVmljQ0k3SUdacGJHVnVZVzFsS2oxVlZFWXRPQ2NuWm1sNFpXUmZZWEpqYUdsMFpXTjBkWEpsTG5kbFluQUdPd1pVT2hGamIyNTBaVzUwWDNSNWNHVkpJZzlwYldGblpTOTNaV0p3QmpzR1ZEb1JjMlZ5ZG1salpWOXVZVzFsT2dwc2IyTmhiQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2tleSJ9fQ==--f3cb5be2af6dad4e1ae84414f5525aa797173a7b/fixed_architecture.webp)
 
 ## Lil Fly From Da Darkness Of Da Kut
