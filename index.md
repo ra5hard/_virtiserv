@@ -7,9 +7,11 @@ layout: default
 ---
 
  [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
- @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles 
+ @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles ...... [Veronica Mcgregor](https://youtu.be/arZVDCIC0S4?si=SR41n3Rbj3xdceD2) @SWOT-community I'm behind on my jupyter notebooks the machine beams in on dsn sometimes often nsn ... just saying wassup..
 <img  alt="image-7" src="https://github.com/user-attachments/assets/2eed93c8-35bb-455f-a9ee-dcccec2ddaa1" />
 <img   alt="image-8" src="https://github.com/user-attachments/assets/3d1087e3-7359-4d50-bcd3-b6dbd5fc3fb3" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And I am incredibly honored to receive it. I share it with followers of <a href="https://x.com/MarsPhoenix?ref_src=twsrc%5Etfw">@MarsPhoenix</a> (the 1st <a href="https://x.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> account!) and <a href="https://x.com/NASASocial?ref_src=twsrc%5Etfw">@NASASocial</a> alumni who brought their passion to our events. <a href="https://t.co/Bqmq7DwiEv">https://t.co/Bqmq7DwiEv</a></p>&mdash; Veronica McGregor (@VeronicaMcG) <a href="https://x.com/VeronicaMcG/status/1443385887400755201?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
  <img  alt="image-5" src="https://github.com/user-attachments/assets/82b65453-d2b2-40a4-a7f1-53c847c3f3cb" />
 <img  alt="image-6" src="https://github.com/user-attachments/assets/22d27967-aa5b-42ca-8cf8-0ef2c6fd8beb" />
