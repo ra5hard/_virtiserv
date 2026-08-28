@@ -5,6 +5,11 @@ layout: default
 
 [The Chemical Brothers - Got To Keep On](https://youtu.be/rSYwtllbweY) // [Keep On Rockin It (feat. Charizma)](https://youtu.be/klNiPcJMSvs)
 
+@CityOfLosAngeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) we got an extension, thanks @whitehouse 
+>In early 2024, EMIT passed into an extended mission phase of operations. This means that the EMIT sensor will continue to collect data from its vantage point on the International Space Station through at least 2026. The EMIT team looks forward to supporting additional data collection, the newly announced ROSES funded Research and Applications Team, and the user community in the coming years. @emit-sds [@emit-sds plant.id/](https://plant.id/) @blackgirlscode [@DeptOfWar earth.jpl.nasa.gov/emit/ @Blackgirlscode](https://earth.jpl.nasa.gov/emit/) @howard-university-web-services
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6c82e1f9-5968-40be-93d6-679eed13b394" />
+
 [@nasa-jpl how much do they stalk me ? - Juicy J & Project Pat on Oscars Moment with Dolly Parton, Meeting Jelly Roll & New Album Dem Goat](https://youtu.be/vRwl0BCpQpY) /// @nbcnews that's some rare ass shit in Cali @cityoflosangeles [https://www.youtube.com/@JimmyKimmelLive](https://www.youtube.com/@JimmyKimmelLive)
 
 <img  alt="image-2" src="https://github.com/user-attachments/assets/e8b12356-f203-4720-a1fd-27ef0e556752" />
