@@ -6,6 +6,13 @@ layout: default
 
 ---
 
+
+
+## Lil Fly From Da Darkness Of Da Kut
+_@CBSLA this was my bully and @chloebaileywashere i cant sit in the same room with you im hurt man you did your shit and im just mentioning @Chrisbrowntv bc he prolly know him bc his cousin know him @disney
+•  ........ @nasa-pds this song scary @hot97 @lanajharris . . @repkarenbass @nasa-pds @NASAJPL_ [Lil Fly From Da Darkness Of Da Kut](https://youtu.be/v-fHkfdKufw)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A191848426&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/the-nola-music-fiend" title="Slo.Mocean" target="_blank" style="color: #cccccc; text-decoration: none;">Slo.Mocean</a> · <a href="https://soundcloud.com/the-nola-music-fiend/lil-fly-slangin-rocks-pt-1" title="Lil Fly - Slangin Rocks pt 1" target="_blank" style="color: #cccccc; text-decoration: none;">Lil Fly - Slangin Rocks pt 1</a></div>
+
 ### Chucky Mask Suspect Caught, $324K Prison Drone Drop & Capitol Guillotine
 [Watch @nasa-pds - youtu.be/8fVaqfmaMOk?t=77](https://youtu.be/8fVaqfmaMOk?t=77)
 <img  alt="image" src="https://github.com/user-attachments/assets/6ced6950-da20-4e81-8967-07e565636cc0" />
