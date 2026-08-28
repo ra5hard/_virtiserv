@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[The Chemical Brothers - Got To Keep On](https://youtu.be/rSYwtllbweY) // [Keep On Rockin It (feat. Charizma)](https://youtu.be/klNiPcJMSvs) // [Rasco - Unassisted @Nasa ](https://youtu.be/OMS4iRwCcho?si=toUvGcJ_wDCvqrA_) ppl thought I was insulting them, but its a good framework for beat jugglers that's all @Blackgirlscode [Rasco - Unassisted @Nasa ](https://youtu.be/OMS4iRwCcho?si=toUvGcJ_wDCvqrA_)
+[The Chemical Brothers - Got To Keep On](https://youtu.be/rSYwtllbweY) // [Keep On Rockin It (feat. Charizma)](https://youtu.be/klNiPcJMSvs) // [Rasco - Unassisted @Nasa ](https://youtu.be/OMS4iRwCcho?si=toUvGcJ_wDCvqrA_) ppl thought I was insulting them, but its a good framework for beat jugglers that's all @Blackgirlscode [Rasco - Unassisted @Nasa ](https://youtu.be/OMS4iRwCcho?si=toUvGcJ_wDCvqrA_) // [Watch The Sound: Mr. Choc @CityOfLosAngeles @nasa-JPL hi](https://youtu.be/sHEGiVASlZU) this all I do with turntables, I'm just not as good @nasa-pds 
 
 @CityOfLosAngeles [KarenBass](https://www.congress.gov/member/karen-bass/B001270) we got an extension, thanks @whitehouse 
 >In early 2024, EMIT passed into an extended mission phase of operations. This means that the EMIT sensor will continue to collect data from its vantage point on the International Space Station through at least 2026. The EMIT team looks forward to supporting additional data collection, the newly announced ROSES funded Research and Applications Team, and the user community in the coming years. @emit-sds [@emit-sds plant.id/](https://plant.id/) @blackgirlscode [@DeptOfWar earth.jpl.nasa.gov/emit/ @Blackgirlscode](https://earth.jpl.nasa.gov/emit/) @howard-university-web-services
