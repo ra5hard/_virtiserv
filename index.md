@@ -6,6 +6,12 @@ layout: default
 
 ---
 
+
+## Russia Threatens NATO: “Catastrophic Consequences”
+| The Lana Rundown @ESA she could use some linnks man
+[WATCH - https://youtu.be/A4kTXQWg8vQ](https://youtu.be/A4kTXQWg8vQ) @nasa-jpl play it in the cafeteria @nasa 
+<img  alt="image" src="https://github.com/user-attachments/assets/7adbd9a0-ab51-4d08-b637-641520c9bfd0" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/569bc9f1-d07f-4d53-8643-942a5a5bf417" />
  @eosdis-nasa @doug-newman-nasa
  
