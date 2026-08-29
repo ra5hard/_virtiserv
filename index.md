@@ -6,6 +6,34 @@ layout: default
 
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/569bc9f1-d07f-4d53-8643-942a5a5bf417" />
+ @eosdis-nasa @doug-newman-nasa
+ 
+```
+ Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-29-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.23 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+
 this is further downriver @cityOfLosangeles Supervisor Lindsey, [spaceforce.mil/ @nasa-jpl @usnavy ](https://www.spaceforce.mil/)
 [@la-county-isd https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78)
 
