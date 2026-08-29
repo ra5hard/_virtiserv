@@ -6,6 +6,17 @@ layout: default
 
 ---
 
+ @eosdis-nasa @doug-newman-nasa i talked about BEPS earlier, im just saying that in case its black airforce slang and im missing the whole kaboodle @USAFA-ECE . . . 
+ @blackgirlscode @howard-university-web-services if someone is free here is an inaccessible website to check on, its down fro [LongbeachBillieJEan](https://www.longbeach.gov/library/locations/main-library/) . . .  @usarmyresearchlab im seeing what i need to do to prep to go to the army corp of engineers to share my report... Im getting stalked after getting involved romantially with a girl in Atlanta who turned out to be a california hooker and they nasty with the [DEW ATTACKS @datadesk](https://www.youtube.com/watch?v=0pbe3bTDcyM), my gut hurts right now!!! 
+ 
+```
+This site can’t be reached
+The webpage at [https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/](https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/)  might be temporarily down or it may have moved permanently to a new web address.
+ERR_TUNNEL_CONNECTION_FAILED
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/91bd1fae-9168-4778-9b56-fb73a238c344" />
+
 
 [@nasa-jpl @cityoflosangeles mrca.ca.gov/los-angeles-river/](https://mrca.ca.gov/los-angeles-river/)
 @usgs im working on my river report @nasa-jpl [Steve Slaten](https://www.linkedin.com/in/steven-slaten-5b86a912) im using the [@USGS water DASHBOARD] and it generated this link, but im trying to see what other things i can use to describe the biomass, alot of [@SWOTCommunity](https://swot-community.github.io/SWOT-galleries/cnes.html) documentation is in french and im still confused [dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.5428%2C33.6479%2C-117.26076%2C34.35695%5D&view=%7B%22basemap%22%3A%22CartoDarkmatter2%22%2C%22bounds%22%3A%22-118.54279557337001%2C33.64790230733941%2C-117.26075720944083%2C34.356946167865644%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C2%2C7%2C10%2C17%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A3%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.5428%2C33.6479%2C-117.26076%2C34.35695%5D&view=%7B%22basemap%22%3A%22CartoDarkmatter2%22%2C%22bounds%22%3A%22-118.54279557337001%2C33.64790230733941%2C-117.26075720944083%2C34.356946167865644%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C2%2C7%2C10%2C17%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A3%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
