@@ -4,14 +4,16 @@ layout: default
 
 [Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU)
 
+---
 
+this is further downriver @cityOfLosangeles Supervisor Lindsey, 
+[@la-county-isd https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39733319-6525-42b1-bd96-5c0ff5928fdd" />
 @nasa-jpl @nasa-pds idk who saw any fragments of my biomass report but the florets were not at that part of the river the train crosses after the chinatown station 
 [@la-county-isd https://search.earthdata.nasa.gov/search?lat=34.074227263684506&long=-118.22516110091946&zoom=18.788688469380542](https://search.earthdata.nasa.gov/search?lat=34.074227263684506&long=-118.22516110091946&zoom=18.788688469380542) i dont know how old this pic is but it looked like this today
 <img alt="image" src="https://github.com/user-attachments/assets/d4555c4b-e79f-4d29-8018-793a6d506909" />
 
-this is further downriver @cityOfLosangeles Supervisor Lindsey, 
-[@la-county-isd https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78)
-<img  alt="image" src="https://github.com/user-attachments/assets/39733319-6525-42b1-bd96-5c0ff5928fdd" />
 
 @La-county-isd im with @nasa-jpl [jplwater.nasa.gov/](https://jplwater.nasa.gov/) on my Earthdata job @eosdis-nasa when im on the river, i took a biomas sample and scanned it in at @CityOfLosAngeles [LAPLCENTRAL](https://www.lapl.org/branches/central-library) ijm going to make a flashcard of the work here after i eat [Christian Outreach Longbeach](https://www.coalongbeach.org/)...@USSF-ORBIT the documentation said it was a good place for an active mission[duty] soldier to eat while being robbed by playboy and to chill while the family members that abandoned you finish up their paperwork to clear me for access to money and my child @nasa @usarmyresearchlab.. . @lacountyDPH yo ask the gaurd that was working around 2am if he used a tracktor beam on me . . . @Doug-newman-nasa [Steve Slaten](https://www.linkedin.com/in/steven-slaten-5b86a912) Groundwater Cleanup Project Director 818-393-6683 should be in my earthdata workflow but im still putting it all together and theres 3 broken machines on mars and im overwhemled atm . . . @USSF-ORBIT officer stevens told me to go to BEPS in BeverlyHills and i dont knbow what he talking about... Victor in the navy and i get what robin said but there was no enlistment place called beps @doug-newman-nasa @whitehouse @dhs-gov @commercegov . . . @salesforce @fiserv 
 ![https://www.lapl.org/themes/custom/lapl/branding/logo-default.svg](https://www.lapl.org/themes/custom/lapl/branding/logo-default.svg)
