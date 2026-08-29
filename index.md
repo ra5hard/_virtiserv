@@ -2,9 +2,18 @@
 layout: default
 ---
 
-[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV)
+[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience]()
 
 ---
+
+
+
+## Straight to the Point:
+Directed Energy Weapon Terrorism on American Soil
+@foratlanta, @datadesk is @Latimes @usatoday
+[WATCH - youtu.be/0pbe3bTDcyM](https://youtu.be/0pbe3bTDcyM)
+<img  alt="image" src="https://github.com/user-attachments/assets/b7bddf8b-dd03-4dae-96dd-1fa03e8c1195" />
+
 
 [riverla.org/](https://www.riverla.org/)
 
