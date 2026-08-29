@@ -3,6 +3,9 @@ layout: default
 ---
 
 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A950425816&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rubianarose" title="Rubi Rose" target="_blank" style="color: #cccccc; text-decoration: none;">Rubi Rose</a> · <a href="https://soundcloud.com/rubianarose/whole-lotta-liquor-feat-future" title="Whole Lotta Liquor (feat. Future &amp; PARTYNEXTDOOR)" target="_blank" style="color: #cccccc; text-decoration: none;">Whole Lotta Liquor (feat. Future &amp; PARTYNEXTDOOR)</a></div>
+
 [youtube.com/results?search_query=lana+j+hbarris](https://www.youtube.com/results?search_query=lana+j+hbarris)
 +++++++++ @nasa-pds [planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/EDR/JUPITER/ORBIT_78/JNCE_2025322_78T00001_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/EDR/JUPITER/ORBIT_78/JNCE_2025322_78T00001_V01.PNG)
 <img  alt="image" src="https://github.com/user-attachments/assets/0a2ca1fe-458f-4ba3-9d57-09f92915193e" />
