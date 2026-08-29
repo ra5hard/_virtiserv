@@ -7,6 +7,8 @@ layout: default
 
 ![https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg](https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg) 
 [@blackgirlscode @deptofwar @usnavy](https://www.msss.com/all_projects/junocam.php)
+![https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22178/PIA22178.gif](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22178/PIA22178.gif)
+
 ---
 
 ![https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538](https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538)
