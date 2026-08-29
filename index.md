@@ -7,7 +7,7 @@ layout: default
 
 
 
-[@soundcloud @nasa .com/bubblegumpop-978449604/sets](https://soundcloud.com/bubblegumpop-978449604/sets) <~ @Blackgirlscode plz fwd to normani the kenyan one thats all i did she asked for some song curation @nasa-pds protect me from the entertainment retail im not interested @deptofwar eww
+[@soundcloud @nasa .com/bubblegumpop-978449604/sets](https://soundcloud.com/bubblegumpop-978449604/sets) <~ @Blackgirlscode plz fwd to normani the kenyan one thats all i did she asked for some song curation @nasa-pds protect me from the entertainment retail im not interested @deptofwar eww [Petty People · Sadat X](https://youtu.be/rKV9xM8f5yI)
 <img   alt="image" src="https://github.com/user-attachments/assets/17bca625-174c-4707-9444-6c4c88a6970c" />
 
 
