@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience](https://youtu.be/o284JiI4j8w?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [_Manic Depression_ · The Jimi Hendrix Experience](https://youtu.be/_OmzEQzaaU4?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [NASA-PDS Esperanza Spalding Crowned & Kissed @NASA-GiSS](https://youtu.be/-IMh9bJmoU0)
+[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience](https://youtu.be/o284JiI4j8w?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [_Manic Depression_ · The Jimi Hendrix Experience](https://youtu.be/_OmzEQzaaU4?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [NASA-PDS Esperanza Spalding Crowned & Kissed @NASA-GiSS](https://youtu.be/-IMh9bJmoU0) // [Willing & Waiting · Mary J. Blige](https://youtu.be/-HaHf8iMmX4)
 
 
 ![https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg](https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg) 
