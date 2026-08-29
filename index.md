@@ -2,44 +2,18 @@
 layout: default
 ---
 
+[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU)
+
+
+---
+
+@Howard-University-web-services @disney @blackgirlscode plz fwd to chloe
+hi chloe , i saw you on the train platform by [LAPD](https://www.lapdonline.org/) ... when i walked by you i was making a cough like noise, but its really like the sound of a microphone test @nasa-jpl and i let the noise out, its similar to buttheads cough, he might do it in this scene [Beavis & Butthead watch Snoop Dogg](https://youtu.be/pnD1W08_6_k?si=YXhw3GbwpIRo174D) , im not mad at you, but i need you to know i have those symptoms some other people in your studio have - `The noise in my head, the curse of the talented` - [Nas - Cherry Wine (Explicit) ft. Amy Winehouse](https://youtu.be/6903zFUIxoU)
+<img   alt="image" src="https://github.com/user-attachments/assets/3ac01284-527b-4b79-b022-47d332a767db" />
+
 
 ```
  
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
- 
- 
-XP
- 
-
-
 
 @DariBenny
 ​​⚰🪦🕊😭 RIP Hayden panettiere Tim curry and dolly Parton and peter cullen
