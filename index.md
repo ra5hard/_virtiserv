@@ -2,11 +2,11 @@
 layout: default
 ---
 
-[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU)
+[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv)
 
 ---
 
-this is further downriver @cityOfLosangeles Supervisor Lindsey, 
+this is further downriver @cityOfLosangeles Supervisor Lindsey, [spaceforce.mil/ @nasa-jpl @usnavy ](https://www.spaceforce.mil/)
 [@la-county-isd https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.66/-13158132.04/4005092.78)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/39733319-6525-42b1-bd96-5c0ff5928fdd" />
@@ -15,7 +15,7 @@ this is further downriver @cityOfLosangeles Supervisor Lindsey,
 <img alt="image" src="https://github.com/user-attachments/assets/d4555c4b-e79f-4d29-8018-793a6d506909" />
 
 
-@La-county-isd im with @nasa-jpl [jplwater.nasa.gov/](https://jplwater.nasa.gov/) on my Earthdata job @eosdis-nasa when im on the river, i took a biomas sample and scanned it in at @CityOfLosAngeles [LAPLCENTRAL](https://www.lapl.org/branches/central-library) ijm going to make a flashcard of the work here after i eat [Christian Outreach Longbeach](https://www.coalongbeach.org/)...@USSF-ORBIT the documentation said it was a good place for an active mission[duty] soldier to eat while being robbed by playboy and to chill while the family members that abandoned you finish up their paperwork to clear me for access to money and my child @nasa @usarmyresearchlab.. . @lacountyDPH yo ask the gaurd that was working around 2am if he used a tracktor beam on me . . . @Doug-newman-nasa [Steve Slaten](https://www.linkedin.com/in/steven-slaten-5b86a912) Groundwater Cleanup Project Director 818-393-6683 should be in my earthdata workflow but im still putting it all together and theres 3 broken machines on mars and im overwhemled atm . . . @USSF-ORBIT officer stevens told me to go to BEPS in BeverlyHills and i dont knbow what he talking about... Victor in the navy and i get what robin said but there was no enlistment place called beps @doug-newman-nasa @whitehouse @dhs-gov @commercegov . . . @salesforce @fiserv 
+@La-county-isd im with @nasa-jpl [jplwater.nasa.gov/](https://jplwater.nasa.gov/) on my Earthdata job @eosdis-nasa when im on the river, i took a biomas sample and scanned it in at @CityOfLosAngeles [LAPLCENTRAL](https://www.lapl.org/branches/central-library) ijm going to make a flashcard of the work here after i eat [Christian Outreach Longbeach](https://www.coalongbeach.org/)...@USSF-ORBIT the documentation said it was a good place for an active mission[duty] soldier to eat while being robbed by playboy and to chill while the family members that abandoned you finish up their paperwork to clear me for access to money and my child @nasa @usarmyresearchlab.. . @lacountyDPH yo ask the gaurd that was working around 2am if he used a tracktor beam on me . . . @Doug-newman-nasa [Steve Slaten](https://www.linkedin.com/in/steven-slaten-5b86a912) Groundwater Cleanup Project Director 818-393-6683 should be in my earthdata workflow but im still putting it all together and theres 3 broken machines on mars and im overwhemled atm . . . @USSF-ORBIT @USAFA-ECE officer stevens told me to go to BEPS in BeverlyHills and i dont knbow what he talking about... Victor in the navy and i get what robin said but there was no enlistment place called beps @doug-newman-nasa @whitehouse @dhs-gov @commercegov . . . @salesforce @fiserv 
 ![https://www.lapl.org/themes/custom/lapl/branding/logo-default.svg](https://www.lapl.org/themes/custom/lapl/branding/logo-default.svg)
 
 ![https://static.wixstatic.com/media/ea682c_OA%2520logo_horiz_edited_edited.jpg](https://static.wixstatic.com/media/ea682c_c5c4e62b7629464daebe88f7dc932631~mv2.jpg/v1/fill/w_234,h_65,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/COA%2520logo_horiz_edited_edited.jpg)
@@ -28,8 +28,10 @@ hi chloe , i saw you on the train platform by [LAPD](https://www.lapdonline.org/
 
 
 ![https://www.spaceforce.mil/Portals/2/ussf_vert_logo_20.png](https://www.spaceforce.mil/Portals/2/ussf_vert_logo_20.png) 
+
 <img   alt="image" src="https://github.com/user-attachments/assets/3ac01284-527b-4b79-b022-47d332a767db" />
 
+[spaceforce.mil/](https://www.spaceforce.mil/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6d286df9-5fb5-4f19-b564-e328f8581515" />
 
