@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience]()
+[Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience](https://youtu.be/o284JiI4j8w?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_)
 
 ---
 
