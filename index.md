@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2342935253&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kanyewest" title="Kanye West" target="_blank" style="color: #cccccc; text-decoration: none;">Kanye West</a> · <a href="https://soundcloud.com/kanyewest/mission-control" title="MISSION CONTROL (feat. The WRLDFMS Tony Williams)" target="_blank" style="color: #cccccc; text-decoration: none;">MISSION CONTROL (feat. The WRLDFMS Tony Williams)</a></div>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A282331451&color=%233b95ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/iamhermusic" title="H.E.R." target="_blank" style="color: #cccccc; text-decoration: none;">H.E.R.</a> · <a href="https://soundcloud.com/iamhermusic/v1-03-facts" title="Facts" target="_blank" style="color: #cccccc; text-decoration: none;">Facts</a></div>
 
 
