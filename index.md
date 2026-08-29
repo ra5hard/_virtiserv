@@ -9,11 +9,11 @@ layout: default
  @eosdis-nasa @doug-newman-nasa i talked about BEPS earlier, im just saying that in case its black airforce slang and im missing the whole kaboodle @USAFA-ECE . . . 
  @blackgirlscode @howard-university-web-services if someone is free here is an inaccessible website to check on, its down fro [LongbeachBillieJEan](https://www.longbeach.gov/library/locations/main-library/) . . .  @usarmyresearchlab im seeing what i need to do to prep to go to the army corp of engineers to share my report... Im getting stalked after getting involved romantially with a girl in Atlanta who turned out to be a california hooker and they nasty with the [DEW ATTACKS @datadesk](https://www.youtube.com/watch?v=0pbe3bTDcyM), my gut hurts right now!!! 
  
-```
-This site can’t be reached
-The webpage at [https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/](https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/)  might be temporarily down or it may have moved permanently to a new web address.
-ERR_TUNNEL_CONNECTION_FAILED
-```
+
+>This site can’t be reached
+>The webpage at [https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/](https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/)  might be temporarily down or it may have moved permanently to a new web address.
+>ERR_TUNNEL_CONNECTION_FAILED
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/91bd1fae-9168-4778-9b56-fb73a238c344" />
 
