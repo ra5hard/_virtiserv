@@ -8,7 +8,7 @@ layout: default
 
 
 
-## Straight to the Point:
+## Straight to the Point: @nasa-jpl
 Directed Energy Weapon Terrorism on American Soil
 @foratlanta, @datadesk is @Latimes @usatoday
 [WATCH - youtu.be/0pbe3bTDcyM](https://youtu.be/0pbe3bTDcyM)
