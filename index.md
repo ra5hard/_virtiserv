@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[https://www.youtube.com/results?search_query=lana+j+hbarris](https://www.youtube.com/results?search_query=lana+j+hbarris)
+[youtube.com/results?search_query=lana+j+hbarris](https://www.youtube.com/results?search_query=lana+j+hbarris)
 +++++++++ [planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/EDR/JUPITER/ORBIT_78/JNCE_2025322_78T00001_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/EDR/JUPITER/ORBIT_78/JNCE_2025322_78T00001_V01.PNG)
 <img  alt="image" src="https://github.com/user-attachments/assets/0a2ca1fe-458f-4ba3-9d57-09f92915193e" />
 
