@@ -4,12 +4,23 @@ layout: default
 
 [Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU)
 
+@La-county-isd im with @nasa-jpl [jplwater.nasa.gov/](https://jplwater.nasa.gov/) on my Earthdata job @eosdis-nasa when im on the river, i took a biomas sample and scanned it in at @CityOfLosAngeles [LAPLCENTRAL](https://www.lapl.org/branches/central-library) ijm going to make a flashcard of the work here after i eat [Christian Outreach Longbeach](https://www.coalongbeach.org/)... @lacountyDPH yo ask the gaurd that was working around 2am if he used a tracktor beam on me . . . @Doug-newman-nasa [Steve Slaten](https://www.linkedin.com/in/steven-slaten-5b86a912) Groundwater Cleanup Project Director 818-393-6683 should be in my earthdata workflow but im still putting it all together and theres 3 broken machines on mars and im overwhemled atm . . . @USSF-ORBIT officer stevens told me to go to BEPS in BeverlyHills and i dont knbow what he talking about... Victor in the navy and i get what robin said but there was no enlistment place called beps @doug-newman-nasa @whitehouse @dhs-gov @commercegov . . . @salesforce @fiserv 
+![https://www.lapl.org/themes/custom/lapl/branding/logo-default.svg](https://www.lapl.org/themes/custom/lapl/branding/logo-default.svg)
+
+![https://static.wixstatic.com/media/ea682c_OA%2520logo_horiz_edited_edited.jpg](https://static.wixstatic.com/media/ea682c_c5c4e62b7629464daebe88f7dc932631~mv2.jpg/v1/fill/w_234,h_65,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/COA%2520logo_horiz_edited_edited.jpg)
 
 ---
 
 @Howard-University-web-services @disney @blackgirlscode plz fwd to chloe
 hi chloe , i saw you on the train platform by [LAPD](https://www.lapdonline.org/) ... when i walked by you i was making a cough like noise, but its really like the sound of a microphone test @nasa-jpl and i let the noise out, its similar to buttheads cough, he might do it in this scene [Beavis & Butthead watch Snoop Dogg](https://youtu.be/pnD1W08_6_k?si=YXhw3GbwpIRo174D) , im not mad at you, but i need you to know i have those symptoms some other people in your studio have - `The noise in my head, the curse of the talented` - [Nas - Cherry Wine (Explicit) ft. Amy Winehouse](https://youtu.be/6903zFUIxoU)
+[@hulu this link is to show u im not stalking her, its a clear path to clarity](https://www.imdb.com/title/tt11871764/?ref_=nm_flmg_job_1_accord_2_cdt_c_1) @nasa-jpl ppl done turned off equipment on my mission and we got folk trying to access the earthquake data and its not there @nasa-pds @paramount-engineering im not a dickhead, just regular staff, if you people making movies wanna handle shit healthier use this number [Matthew Segal](https://www.linkedin.com/in/matthewjsegal123) News Chief 818-354-8307
+
+
+![https://www.spaceforce.mil/Portals/2/ussf_vert_logo_20.png](https://www.spaceforce.mil/Portals/2/ussf_vert_logo_20.png) 
 <img   alt="image" src="https://github.com/user-attachments/assets/3ac01284-527b-4b79-b022-47d332a767db" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6d286df9-5fb5-4f19-b564-e328f8581515" />
 
 
 ```
@@ -30,7 +41,7 @@ hi chloe , i saw you on the train platform by [LAPD](https://www.lapdonline.org/
 ​
 
 #1
-​Live from the famous Hot 97 TV Studios in Atlanta, Georgia, this is Hot 97 News and the news is newsing with Lana Harris. T.G.I.F.
+​Live from the famous Hot 97 TV Studios in Atlanta, Grgia, this is Hot 97 News and the news is newsing with Lana Harris. T.G.I.F.
 
 
 @Supadupacee
@@ -193,7 +204,7 @@ Welcome to live chat! Remember to guard your privacy and abide by our community 
 
 
 @thakasErikaselassie_kelly
-​​@lanajharris sorry dude i been busy we had a lunar eclipse and some shit on mars https://www.msss.com/ <~ @nasajpl she should meeet robin .. @t.i. what happened to future? @officialfuturevideos @cbsla
+​​@lanajharris sorry dude i been busy we had a lunar eclipse and some shit on mars https://www.msss.com/ <~ @nasajpl she should meeet robin .. @t.i. what happened to future? @officialfuturevids @cbsla
 
 
 @Projectkang
@@ -276,7 +287,7 @@ Welcome to live chat! Remember to guard your privacy and abide by our community 
 
 
 @thakasErikaselassie_kelly
-​​@2chainz i said magicity people are genocidal maniacs... if i find a girl like me will you conspire to kidnap her and charm her into sex ? @SupervisorHollyJMitchell @AtlantaNewsFirst @Essencemag
+​​@2chainz i said magicity pple are genocidal maniacs... if i find a girl like me will you conspire to kidnap her and charm her into sex ? @SupervisorHollyJMitchell @AtlantaNewsFirst @Essencemag
 
 
 @Supadupacee
@@ -289,7 +300,7 @@ Welcome to live chat! Remember to guard your privacy and abide by our community 
 <img alt="image" src="https://github.com/user-attachments/assets/0a351516-d323-49c9-998b-dc89316f0e15" />
 
 
-@nasa-pds @nasa Veronica hi, its rashard, I was catching up on the nasal social shit... I heard you mention phoenix... that one was not rep[sorting as of the last time I checked it and insight is not reporting either... [seismology](https://www.jpl.nasa.gov/edu/resources/teachable-moment/how-insight-revealed-the-heart-of-mars/) and solar panels are not things that ever stop @deptofwar so if pre nelson leadership got hurt partying with Harvey Levin and turn the shit off idk, but here is an app that it should be dumping to @nasa-pds and I'm trying to get it all turned on for whatever [Victor and those hollywood people](https://www.nasa.gov/people/victor-j-glover-jr/) are into for their walk... lets make it stable now, they taking shit that they cant do unless they got Japanese equipment they check in on their dual sim OprahDroids @disney @hulu @nbcnews [pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx) @SpaceExplorationTechnologies @r-spacex [https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx&gather.common.instrument=OM](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx&gather.common.instrument=OM)
+@nasa-pds @nasa Veronica hi, its rashard, I was catching up on the nasal social shit... I heard you mention phoenix... that one was not rep[sorting as of the last time I checked it and insight is not reporting either... [seismology](https://www.jpl.nasa.gov/edu/resources/teachable-moment/how-insight-revealed-the-heart-of-mars/) and solar panels are not things that ever stop @deptofwar so if pre nelson leadership got hurt partying with Harvey Levin and turn the shit off idk, but here is an app that it should be dumping to @nasa-pds and I'm trying to get it all turned on for whatever [Victor and those hollywood pple](https://www.nasa.gov/pple/victor-j-glover-jr/) are into for their walk... lets make it stable now, they taking shit that they cant do unless they got Japanese equipment they check in on their dual sim OprahDroids @disney @hulu @nbcnews [pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx) @SpaceExplorationTechnologies @r-spacex [https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx&gather.common.instrument=OM](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.mission=phx&gather.common.instrument=OM)
 
 ![https://www.msss.com/images/msss_logo.gif](https://www.msss.com/images/msss_logo.gif)
 [@CityOfLosAngeles msss.com](https://www.msss.com/)
