@@ -4,6 +4,9 @@ layout: default
 
 [Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience](https://youtu.be/o284JiI4j8w?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [_Manic Depression_ · The Jimi Hendrix Experience](https://youtu.be/_OmzEQzaaU4?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_)
 
+
+![https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg](https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg) 
+[@blackgirlscode @deptofwar @usnavy](https://www.msss.com/all_projects/junocam.php)
 ---
 
 ![https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538](https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538)
