@@ -4,6 +4,11 @@ layout: default
 
 [Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience](https://youtu.be/o284JiI4j8w?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [_Manic Depression_ · The Jimi Hendrix Experience](https://youtu.be/_OmzEQzaaU4?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [NASA-PDS Esperanza Spalding Crowned & Kissed @NASA-GiSS](https://youtu.be/-IMh9bJmoU0) // [Willing & Waiting · Mary J. Blige](https://youtu.be/-HaHf8iMmX4) // [Acid Raindrops · People Under The Stairs · Camel MC @CityOfLosAngeles `LocalMusic`](https://youtu.be/UcKDx4cmvio) // [Jayou · Jurassic 5 @CityOfLosAngeles `LocalMusic`](https://youtu.be/2ZuN8rc6y7s?si=DvijSzFb64i5pNiB) // [The Who-Pinball Wizard](https://youtu.be/4AKbUm8GrbM) // [Marco Polo ft. Big Daddy Kane - "Nite & Day" (scratches by Shylow)](https://youtu.be/EJ-N4Xj9_2I?si=qeKmUPlUJpvL_BXA)
 
+---
+
+
+ [Marco Polo ft. Big Daddy Kane - "Nite & Day" (scratches by Shylow)](https://youtu.be/EJ-N4Xj9_2I?si=qeKmUPlUJpvL_BXA)
+<img  alt="image" src="https://github.com/user-attachments/assets/db1b8391-1dab-482d-b8b8-d598252df4d9" />
 
 
 ![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_80/JNCR_2026022_80R00002_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_80/JNCR_2026022_80R00002_V01.PNG) 
