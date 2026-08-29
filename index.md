@@ -4,11 +4,13 @@ layout: default
 
 [Rico Nasty - IPHONE @DeptofWar @nasa-jpl `relationships`](https://youtu.be/RuhvdaDabpU) // [A Tribe Called Quest - I Left My Wallet In El Segundo @USAFA-ECE @La-county-isd](https://youtu.be/WILyWmT2A-Q?si=HvikHi9Qo2y94Erv) // [Street Life · The Crusaders](https://youtu.be/nuAYUVMdSrw) // [The Awakening · Ahmad Jamal Trio](https://youtu.be/L34b0ut8Loc?si=8gqvIkGXTaosiZOV) // [I Don't Live Today · The Jimi Hendrix Experience](https://youtu.be/o284JiI4j8w?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [_Manic Depression_ · The Jimi Hendrix Experience](https://youtu.be/_OmzEQzaaU4?list=PL1RRNXldMeRFm7CqtN44oav-TgaWT3yt_) // [NASA-PDS Esperanza Spalding Crowned & Kissed @NASA-GiSS](https://youtu.be/-IMh9bJmoU0) // [Willing & Waiting · Mary J. Blige](https://youtu.be/-HaHf8iMmX4)
 
-
+@NASA [https://www.nasa.gov/nssdc/](https://www.nasa.gov/nssdc/) `429 Too Many Requests` 
+[nginx](https://nginx.org/) //// @nasa-jpl im trying to find the latest juno release, 8/04 is the most recent i see, but i feel im not looking i the right place, i felt guilty about making fun of @nasa-pds @blackgirlscode life style changes, especially since i had a broken heart, i can be more professional going forward... I learned about @NGiNX at RentPath alot of those girls and @NFL players that were customer service had lives outside of work and dance, and i just got eclipsed and i need to be reasonable about girls reactions and make sure i can perform at playboy butler levels even if there are no goodies on the other side of finished @doug-newman-nasa  [NGINX OSS 1.29.6 and 1.29.7: Open-sourced Session Persistence, Multipath TCP and More](https://blog.nginx.org/blog/nginx-oss-1-29-6-and-1-29-7-open-sourced-session-persistence-multipath-tcp-and-more)
 ![https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg](https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg) 
 [@blackgirlscode @deptofwar @usnavy](https://www.msss.com/all_projects/junocam.php)
 ![https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22178/PIA22178.gif](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22178/PIA22178.gif)
 
+![https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2026/05/NGINX-Community-Blog-Images-4-300x169.png](https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2026/05/NGINX-Community-Blog-Images-4-300x169.png)
 ![https://pds.nasa.gov/images/usa-gov.gif](https://pds.nasa.gov/images/usa-gov.gif)
 ![https://data.nasa.gov/img/NASA_logo.png](https://data.nasa.gov/img/NASA_logo.png)
 
