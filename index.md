@@ -6,6 +6,12 @@ layout: default
 
 ---
 
+![https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538](https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538)
+
+@esri i hope you guys are ok GEOGLOWS is down, i recently submitted a biomass scan and shit just got sour! And the last time you went down during my use time it was right b4 a class. Im outdoors alot @StateOFCalifornia @CityOfLosAngelels due to the nature of the work   @nasa-jpl  @eosdis-nasa @doug-newman-nasa imma clear my head and try to remember my .... im having trouble like that day in mission control with chris . . . memoryloss @disney idk what chloe did but i need to talk to her safely without men present @nfl the shit aint fair @nbcnews Directed Energy Weapon Terrorism on American Soil
+@foratlanta, @datadesk is @Latimes @usatoday
+[WATCH - youtu.be/0pbe3bTDcyM](https://youtu.be/0pbe3bTDcyM)
+<img  alt="image" src="https://github.com/user-attachments/assets/0d221812-4975-4922-9436-2f1a635cb283" />
 
 
 ## Straight to the Point: @nasa-jpl
