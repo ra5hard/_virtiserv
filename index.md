@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+[https://www.youtube.com/results?search_query=lana+j+hbarris](https://www.youtube.com/results?search_query=lana+j+hbarris)
++++++++++ [planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/EDR/JUPITER/ORBIT_78/JNCE_2025322_78T00001_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/EDR/JUPITER/ORBIT_78/JNCE_2025322_78T00001_V01.PNG)
+<img  alt="image" src="https://github.com/user-attachments/assets/0a2ca1fe-458f-4ba3-9d57-09f92915193e" />
+
 @Nasa-pds here is a juno shot i pulled, its the old camera problem and idk how you guys are making color images but alot of shit broke and it can crash!!! @nasa-jpl @LMCO [https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0015/EXTRAS/FULL/EDR/JUPITER/ORBIT_27/JNCE_2020154_27C00008_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0015/EXTRAS/FULL/EDR/JUPITER/ORBIT_27/JNCE_2020154_27C00008_V01.PNG) @la-county-isd @cityoflosangeles
 
 <img  alt="image" src="https://github.com/user-attachments/assets/75c4037f-708c-4fd2-8cab-3ac94857de30" />
