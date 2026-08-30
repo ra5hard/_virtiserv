@@ -24,6 +24,9 @@ permalink: losangeles
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
 
+
+<img   alt=" @nasa @cityofsantamonica ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_ET" src="https://github.com/user-attachments/assets/c3345983-7d7d-47a1-8f98-aa0a299eb3fe" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/ad0524d6-a747-4125-9d5c-70d75d08a7d6" />
 
 
