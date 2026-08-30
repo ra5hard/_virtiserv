@@ -5,7 +5,8 @@ layout: default
 
 
 [Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) //
-[Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) // [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ)
+[Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) // [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ) // @blackgirlscode [Ain't Gon Let Up · DG Yola](https://youtu.be/PtWZJVJCRhg?si=rNDE3WjIMfTqytGg)
+
 
 
 ## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
@@ -30,7 +31,21 @@ thats some sort of landslid in a coffee table book i found at central and we are
 
 ![https://static.uahirise.org/images/wallpaper/2560/ESP_016423_2640.jpg](https://static.uahirise.org/images/wallpaper/2560/ESP_016423_2640.jpg) 
 ![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
  <img   alt=" @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode AV520250627t202122_013_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/e9fd3e73-5769-41cd-af1e-0f97a4c730d1" />
+ 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ <img  alt="ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_PTJPLSMsoil" src="https://github.com/user-attachments/assets/4e2d67cf-e0d5-44c7-9d55-b145e06102a0" />
+
 
 <img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
 
