@@ -2,12 +2,15 @@
 layout: default
 ---
 
-[Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // 
-[Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) 
-
----
 
 
+[Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) //
+[Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) 
+
+
+
+
+![https://static.uahirise.org/images/2011/details/ESP_016423_2640.jpg](https://static.uahirise.org/images/2011/details/ESP_016423_2640.jpg)
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_007300_007399/PSP_007338_2640/PSP_007338_2640_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_007300_007399/PSP_007338_2640/PSP_007338_2640_MRGB.abrowse.jpg)
 ![martian avalanche @nasa-jpl https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_007300_007399/PSP_007338_2640/PSP_007338_2640_IRB.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_007300_007399/PSP_007338_2640/PSP_007338_2640_IRB.NOMAP.browse.jpg) 
 
