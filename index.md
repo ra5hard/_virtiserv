@@ -6,6 +6,9 @@ layout: default
 [Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) 
 
 [hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles ](hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg)
+
+<img alt="AV520250627t194118_004_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/83e1e0c2-4145-4846-b671-b27761d4f027" />
+
 <img  alt="AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles " src="https://github.com/user-attachments/assets/039937ad-b81c-4152-8899-4b4de085918e" />
 
 ![ @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles](<img src="https://d3o6w55j8uz1ro.cloudfront.net/s3-d0f68fa49c8cba12794bb586349f2341/ornl-cumulus-prod-public.s3.us-west-2.amazonaws.com/aviris/AV5_L1B_RDN/data/AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE.jpg?A-userid=None&amp;Expires=1788133036&amp;Signature=UlngqU0ntvc1Nbo9D8pTNCwpGqJbePcQmPR2nR~95PrfPjtglAlPhvhb2QPB9AKk1FhzKdWJXWcIMsVCQsNXGWnNMi3oJFJp6FZc~ZSdmxdI69Si8egKikcjYJAiKXUjUy1J3U3zMuuprmPlMjZFzAEpArQRnXeZuRu1GTqD-zlY8KMJqq-HdGO4aOa1~XNZg7Rj38OgenHK2h3JCGCJfWOwIiQcREsNaGwb7VZEfYAwqmHMjiSd-CIhBmhCnlcqtA35rn9-jMivw5n8m2ywIqthyeMWVe-RUpGCEzIFx5Mc0eBEvbo3jx9ClwvGEIgcNWcJmC~7GnZmqMvQlJ-kww__&amp;Key-Pair-Id=K30BK6GBUP3FO5"/>) 
