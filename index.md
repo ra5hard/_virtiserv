@@ -4,7 +4,14 @@ layout: default
 
 [Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) 
 [Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) 
-https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg
+
+[hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles ](hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg)
+<img  alt="AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles " src="https://github.com/user-attachments/assets/039937ad-b81c-4152-8899-4b4de085918e" />
+
+![ @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles](<img src="https://d3o6w55j8uz1ro.cloudfront.net/s3-d0f68fa49c8cba12794bb586349f2341/ornl-cumulus-prod-public.s3.us-west-2.amazonaws.com/aviris/AV5_L1B_RDN/data/AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE.jpg?A-userid=None&amp;Expires=1788133036&amp;Signature=UlngqU0ntvc1Nbo9D8pTNCwpGqJbePcQmPR2nR~95PrfPjtglAlPhvhb2QPB9AKk1FhzKdWJXWcIMsVCQsNXGWnNMi3oJFJp6FZc~ZSdmxdI69Si8egKikcjYJAiKXUjUy1J3U3zMuuprmPlMjZFzAEpArQRnXeZuRu1GTqD-zlY8KMJqq-HdGO4aOa1~XNZg7Rj38OgenHK2h3JCGCJfWOwIiQcREsNaGwb7VZEfYAwqmHMjiSd-CIhBmhCnlcqtA35rn9-jMivw5n8m2ywIqthyeMWVe-RUpGCEzIFx5Mc0eBEvbo3jx9ClwvGEIgcNWcJmC~7GnZmqMvQlJ-kww__&amp;Key-Pair-Id=K30BK6GBUP3FO5"/>) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a1c527be-8441-452a-a389-0c6b7732a6f7" />
+
 <img alt="image (2)-11" src="https://github.com/user-attachments/assets/ac23503c-5118-4906-bdea-0fb33ff8c6c5" />
 <img alt="image (2)-17" src="https://github.com/user-attachments/assets/f2014a8e-2307-4f52-a931-e9647b04af0f" />
 
