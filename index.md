@@ -8,6 +8,14 @@ layout: default
 [Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) 
 
 
+## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
+[WATCH - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc)
+<img   alt="image" src="https://github.com/user-attachments/assets/00640704-6f17-494c-9a63-6f766653a3e2" />
+
+@NASA-PDS ok i messed up again, im mad at your sister... but not im better #VirtiservRashard @NASAJPL @NASAEARTHDATA but still *italics* @LANAJHARRiS i got discouraged because i missed the nancy grace roman launch @repkarenbass https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg <~ @RobinBarnes @chloebaileywashere
+@howarduniversity
+thats some sort of landslid in a coffee table book i found at central and we are supposed to treack those things, and you all hurt me making miss the dark matter telescope launch you .,.. none of you know how a technical person that is physically inthe world acts or feels and you hurt me alot!!! thats all  @michelleobama @lapubliclibrary
+@hot97 @Lanajharris
 
 <img  alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode  " src="https://github.com/user-attachments/assets/d81a4891-7a66-4ee8-b0d3-263811f2f964" />
 
