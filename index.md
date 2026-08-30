@@ -2,12 +2,17 @@
 layout: default
 ---
 
-[Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) 
+[Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // 
 [Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) 
 
 
-<img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
  <img   alt=" @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode AV520250627t202122_013_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/e9fd3e73-5769-41cd-af1e-0f97a4c730d1" />
+
+<img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
+
+
+ 
 @ESA @eu-cdse hi its [rashard](https://virtiserv.github.io/rashardmro/hr) from @nasa-jpl... i dont know how reliable this @Github handle is but i want you guys to connect with @LongBeachInnovationTeam well, i dont know im trying to communicate danger looking at the moisture index, I know its not good but i dont want to be an alarmist @StateOfCalifornia [Governor Newsom](https://www.gov.ca.gov/) can we get some california privilage for some fly overs to understand whats up with the water, we had kelp bits on the long beach shore, in @CityOfSantamonica they come in bundles, but i think the levees break them up ,... im committing, i need to look up a map
 [@eu-cdse browser.dataspace.copernicus.eu/?zoom=12&lat=33.81966&lng=-118.22886&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FoIV40JIiH6NkqSMszVPif8JfqP2585BSPQA%2F8WjHD%2F6IlOsXS1uN8rVwImqZb%2BQ1VAN9sLKY1a1x8MkQHywKBRt4KGnh%2BYvyDzG2X%2F8A0QC6uVWZDLmqV&datasetId=S2_L2A_CDAS&fromTime=2026-08-25T00%3A00%3A00.000Z&toTime=2026-08-25T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=12&lat=33.81966&lng=-118.22886&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FoIV40JIiH6NkqSMszVPif8JfqP2585BSPQA%2F8WjHD%2F6IlOsXS1uN8rVwImqZb%2BQ1VAN9sLKY1a1x8MkQHywKBRt4KGnh%2BYvyDzG2X%2F8A0QC6uVWZDLmqV&datasetId=S2_L2A_CDAS&fromTime=2026-08-25T00%3A00%3A00.000Z&toTime=2026-08-25T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 
