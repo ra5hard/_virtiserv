@@ -24,6 +24,26 @@ permalink: losangeles
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
 
+
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+ <img   alt=" @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode AV520250627t202122_013_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/e9fd3e73-5769-41cd-af1e-0f97a4c730d1" />
+ 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ <img  alt="ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_PTJPLSMsoil" src="https://github.com/user-attachments/assets/4e2d67cf-e0d5-44c7-9d55-b145e06102a0" />
+
+
+<img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
+
 # south_Pasadena_suspension_letter_
 delivered_by_south_pasadena_PD_to_Rashard_Iman_KELLY_NASAJPL
 @nasa-jpl @cityoflosangeles
