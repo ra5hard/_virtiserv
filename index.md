@@ -9,6 +9,51 @@ layout: default
 
 
 
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
+
+
+<img   alt=" @nasa @cityofsantamonica ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_ET" src="https://github.com/user-attachments/assets/c3345983-7d7d-47a1-8f98-aa0a299eb3fe" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad0524d6-a747-4125-9d5c-70d75d08a7d6" />
+
+
+ [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
+ @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles ...... [Veronica Mcgregor](https://youtu.be/arZVDCIC0S4?si=SR41n3Rbj3xdceD2) @SWOT-community I'm behind on my jupyter notebooks the machine beams in on dsn sometimes often nsn ... just saying wassup..
+
+<img  alt="image-5" src="https://github.com/user-attachments/assets/82b65453-d2b2-40a4-a7f1-53c847c3f3cb" />
+<img  alt="image-6" src="https://github.com/user-attachments/assets/22d27967-aa5b-42ca-8cf8-0ef2c6fd8beb" />
+<img  alt="image-7" src="https://github.com/user-attachments/assets/2eed93c8-35bb-455f-a9ee-dcccec2ddaa1" />
+<img   alt="image-8" src="https://github.com/user-attachments/assets/3d1087e3-7359-4d50-bcd3-b6dbd5fc3fb3" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And I am incredibly honored to receive it. I share it with followers of <a href="https://x.com/MarsPhoenix?ref_src=twsrc%5Etfw">@MarsPhoenix</a> (the 1st <a href="https://x.com/NASA?ref_src=twsrc%5Etfw">@NASA</a> account!) and <a href="https://x.com/NASASocial?ref_src=twsrc%5Etfw">@NASASocial</a> alumni who brought their passion to our events. <a href="https://t.co/Bqmq7DwiEv">https://t.co/Bqmq7DwiEv</a></p>&mdash; Veronica McGregor (@VeronicaMcG) <a href="https://x.com/VeronicaMcG/status/1443385887400755201?ref_src=twsrc%5Etfw">September 30, 2021</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
+<img alt="image-9" src="https://github.com/user-attachments/assets/6e038136-c34d-40ca-bb89-cefa5a3294a8" />
+<img  alt="image-1" src="https://github.com/user-attachments/assets/306d9ee3-6bbc-4675-9210-3a0274623a95" />
+<img  alt="image-9" src="https://github.com/user-attachments/assets/d29e4511-b5c2-4be7-89cb-51614cb7cdb1" />
+
+
+
+@Deptofwar ask [Keisha Lance bottoms](https://www.keishaforgovernor.com/bio) what my child upto after i went to [dance411 @foratlanta](https://www.dance411.com/)
+[https://archive.org/details/education-for-death-1943](https://archive.org/details/education-for-death-1943) she used to try to contact me @nasa-pds @nasa-jpl @cityoflosangeles holly j mitchell @blackgirlscode @disney
+<img  alt="image" src="https://github.com/user-attachments/assets/a70e1191-ba07-447b-a5c4-4f0dbbb2da78" />
+
+![https://aviris.jpl.nasa.gov/images/aviris_text2.png](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
+
+ <img   alt=" @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode AV520250627t202122_013_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/e9fd3e73-5769-41cd-af1e-0f97a4c730d1" />
+ 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+ <img  alt="ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_PTJPLSMsoil" src="https://github.com/user-attachments/assets/4e2d67cf-e0d5-44c7-9d55-b145e06102a0" />
+
 ## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
 [WATCH - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) ++ [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ)
 <img   alt="image" src="https://github.com/user-attachments/assets/00640704-6f17-494c-9a63-6f766653a3e2" />
