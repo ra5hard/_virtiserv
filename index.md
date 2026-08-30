@@ -11,6 +11,8 @@ layout: default
 
 <img alt=" @ESA @eu-cdse 2026-08-25-00_00_2026-08-25-23_59_Sentinel-2_L2A_5-MOISTURE-INDEX1" src="https://github.com/user-attachments/assets/c2f770d4-3f0c-48b7-a784-a216356bf283" />
 
+<img src="https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20260525T210941_2614514_002/EMIT_L1B_RAD_001_20260525T210941_2614514_002.png?A-userid=None&amp;Expires=1788133684&amp;Signature=tUAMpaENMg-uK5Pf9tz7max3VwVk0IXRen3fqe-3CT92MWYbrnacGZdLsYILEcZcPY-8s7ftXP2rUKILC4Hg~~Mlz2-ksxvQM3vdxcyz3pP5kTmdTWh-NP01CXPEka6jZzUAWEdUDTzGm8UYiWu8FfNw1b2mdNfWTD8b9bXiLoplFiRPGpERfTx991nDPwlpzRMKtMXuHquwBa~~eAUm8Ke-naWllD-P2DiFOP5XpSYDCLfrFw3JaFZTotWCXeOuNVNrnOpS~4cDQCs1pa2w2duYS7BnzFXuvyFyiJBca5zONlF6VHT27BJ4nE9c4gjULPj8QbBlJOinVhszd1OWDA__&amp;Key-Pair-Id=K1JHXLBU4LECA2"/>
+<img width="1242" height="1280" alt="EMIT_L1B_RAD_001_20260525T210941_2614514_002" src="https://github.com/user-attachments/assets/e6c21851-5f6b-4f11-81f3-d63aca908ac2" />
 
  
 @ESA @eu-cdse hi its [rashard](https://virtiserv.github.io/rashardmro/hr) from @nasa-jpl... i dont know how reliable this @Github handle is but i want you guys to connect with @LongBeachInnovationTeam well, i dont know im trying to communicate danger looking at the moisture index, I know its not good but i dont want to be an alarmist @StateOfCalifornia [Governor Newsom](https://www.gov.ca.gov/) can we get some california privilage for some fly overs to understand whats up with the water, we had kelp bits on the long beach shore, in @CityOfSantamonica they come in bundles, but i think the levees break them up ,... im committing, i need to look up a map
