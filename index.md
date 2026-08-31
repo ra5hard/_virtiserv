@@ -2,6 +2,58 @@
 layout: default
 ---
 
+@nasa-pds mro is transmitting data I will send an email @nasa-jpl 
+<img  alt="image" src="https://github.com/user-attachments/assets/ff7b17e8-6b0e-4d4f-8441-d4aba0bf680a" />
+
+SPACECRAFT
+NAME
+Mars Reconnaissance Orbiter
+
+RANGE
+-
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA
+NAME
+DSS 34
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+15 deg
+
+ELEVATION
+30 deg
+
+WIND SPEED
+0 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+MARS RECONNAISSANCE ORBITER
+
+FREQUENCY BAND
+X
+
+POWER TRANSMITTED
+0.0 x 100 kW
+
+DOWN SIGNAL
+SOURCE:MARS RECONNAISSANCE ORBITER
+
+FREQUENCY BAND X
+
+DATA RATE 1.500 Mb/sec
+
+POWER RECEIVED -120 dBm (1.0 x 10-18 kW)
+<img alt="image" src="https://github.com/user-attachments/assets/d6944058-9585-43dd-9ebd-64b35ad4c0ff" />
+
 
 Mars Reconnaissance Orbiter Launch Press Kit
 [Download - PDF @caltechlibrary](https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/4/44746_mro-launch.pdf?emrc=6a95ee5e626ab) 
