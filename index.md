@@ -5,12 +5,14 @@ layout: default
 # Keisha: At the End of the Day,
 This Election Is About Making Lives Better 
 | PoliAlert 08.28.26 [WATCH - youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB @nasa-jpl @foratlanta @CityOfLosAngeles ](https://youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB)
-Keisha Lance Bottoms is a proven fighter with battle-tested executive experience who will put Georgians first and stand up for us all. She has spent the past year traveling to every corner of the state, listening to Georgians’ concerns, and building a plan that leaves no community behind. [awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms)
+Keisha Lance Bottoms is a proven fighter with battle-tested executive experience who will put Georgians first and stand up for us all. She has spent the past year traveling to every corner of the state, listening to Georgians’ concerns, and building a plan that leaves no community behind. [awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms) // [@cbs-news-data georgia-governors-race-keisha-lance-bottoms-accepts-6-debate-offers-pressures-rick-jackson-to-join-her/](https://www.cbsnews.com/atlanta/news/georgia-governors-race-keisha-lance-bottoms-accepts-6-debate-offers-pressures-rick-jackson-to-join-her/)
 
 Keisha is ready to deliver on day one as governor because she understands that when Georgia families succeed, Georgia succeeds.
 ![https://awpc.cattcenter.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg @lmco](https://awpc.cattcenter.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg) 
 
 <img   alt="image @foratlanta" src="https://github.com/user-attachments/assets/f6fa1b7c-3296-48bd-bf15-0b88931e30d2" />
+<img alt="image" src="https://github.com/user-attachments/assets/11357f9d-9fe3-4e90-afc3-c7a9f38eddb8" />
+
 Name: Rashard I Kelly
 Username: rashardkelly
 Email Address: holetoanotheruniverse40@gmail.com
