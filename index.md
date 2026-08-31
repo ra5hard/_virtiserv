@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[@foratlanta @newshour @nasa-jpl atlantanewsfirst.com/video/2026/08/31/anf-host-gubernatorial-town-hall-debate-between-keisha-lance-bottoms-rick-jackson/](https://www.atlantanewsfirst.com/video/2026/08/31/anf-host-gubernatorial-town-hall-debate-between-keisha-lance-bottoms-rick-jackson/)
+<img alt="image" src="https://github.com/user-attachments/assets/7b219c6e-ca4f-4041-918a-1543238adcc5" />
+
 # Keisha: At the End of the Day,
 This Election Is About Making Lives Better 
 | PoliAlert 08.28.26 [WATCH - youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB @nasa-jpl @foratlanta @CityOfLosAngeles ](https://youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB)
