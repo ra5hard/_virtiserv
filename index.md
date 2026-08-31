@@ -2,8 +2,11 @@
 layout: default
 ---
 
-### Mauna Loa Eruption, HI - @USGS live stream 
-@nasa-jpl happening now @CityOfLosAngeles @Whitehouse 
+
+
+@whitehouse we need help cleaning up old live feeds @youtube sorry everyone! @nbcnews
+Mauna Loa Eruption, HI - @USGS live stream 
+@nasa-jpl ~~happening now~~ @CityOfLosAngeles @Whitehouse 
 @hsfl @UniversityOfHawaii [WATCH - youtu.be/Oal4j3Ipk0w](https://youtu.be/Oal4j3Ipk0w)
 Earth Sciences
 Andrew Wang Media Relations Specialist
