@@ -3,7 +3,15 @@ layout: default
 ---
 
 
-<img alt="image" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
+<img   alt="EMIT_L1B_RAD_001_20240825T173115_2423811_008 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/8b5b1096-2094-4689-a17b-d08bbfd3f167" />
+<img   alt="Screenshot 2026-08-31 11 10 00 AM image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/7a76d5bd-7a2b-45ac-9d9b-da2c23790521" />
+
+
+![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2) 
+
+
+[WATCH - Tracking NASA's Nancy Grace Roman Space Telescope with LIVE view from Space Station](https://www.youtube.com/watch?v=U2Ly0Q-BXqA) //// [youtube.com/@moterworld](https://www.youtube.com/@moterworld)
+<img alt="image image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
 <img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
 
 [Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) //
@@ -22,8 +30,8 @@ layout: default
  [KelpForest @ucla @emit-sds](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
  @nasa-jpl @podaac @nasa these are samples I pulled in Long Beach, there are levees and a marina so idk how natural the flow is. in @CityOFSantaMonica you can harvest bundles ...... [Veronica Mcgregor](https://youtu.be/arZVDCIC0S4?si=SR41n3Rbj3xdceD2) @SWOT-community I'm behind on my jupyter notebooks the machine beams in on dsn sometimes often nsn ... just saying wassup..
 
-<img  alt="image-5" src="https://github.com/user-attachments/assets/82b65453-d2b2-40a4-a7f1-53c847c3f3cb" />
-<img  alt="image-6" src="https://github.com/user-attachments/assets/22d27967-aa5b-42ca-8cf8-0ef2c6fd8beb" />
+<img  alt="image-5 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/82b65453-d2b2-40a4-a7f1-53c847c3f3cb" />
+<img  alt="image-6 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles " src="https://github.com/user-attachments/assets/22d27967-aa5b-42ca-8cf8-0ef2c6fd8beb" />
 <img  alt="image-7" src="https://github.com/user-attachments/assets/2eed93c8-35bb-455f-a9ee-dcccec2ddaa1" />
 <img   alt="image-8" src="https://github.com/user-attachments/assets/3d1087e3-7359-4d50-bcd3-b6dbd5fc3fb3" />
 
