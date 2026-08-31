@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg @cityoflosangeles @nasa-jpl @nasa-pds @blackgirlscode @whitehouse @la-county-isd](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg)
+
 ![https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png](https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png) 
 
 ![https://i2.wp.com/onlineobservatory.eu/wp-content/uploads/2021/02/M_MRO.png @nasa-pds @howard-university-web-service @nbcnews @disney @hulu](https://i2.wp.com/onlineobservatory.eu/wp-content/uploads/2021/02/M_MRO.png)
