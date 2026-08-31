@@ -3,6 +3,10 @@ layout: default
 ---
 
 
+![https://unit.aist.go.jp/igg/rs-rg/image/moon.jpg @howard-university-web-services ](https://unit.aist.go.jp/igg/rs-rg/image/moon.jpg)
+
+![https://asterweb.jpl.nasa.gov/images/GDEM-10km-colorized.png](https://asterweb.jpl.nasa.gov/images/GDEM-10km-colorized.png)
+
 
 @whitehouse we need help cleaning up old live feeds @youtube sorry everyone! @nbcnews
 Mauna Loa Eruption, HI - @USGS live stream 
