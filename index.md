@@ -13,6 +13,8 @@ layout: default
 [@nasa-jpl @doug-newman-nasa @whitehouse @DeptOfWar @JAXA @Cia mapp styles gbank.gsj.jp/EasyWMSView/cgi-bin/GSJ_Preview_numz18.php?dataset=GSJ_WMTS_miscellaneous_00012](https://gbank.gsj.jp/EasyWMSView/cgi-bin/GSJ_Preview_numz18.php?dataset=GSJ_WMTS_miscellaneous_00012)
 <img  alt="image" src="https://github.com/user-attachments/assets/f1f26af4-7ed6-4547-8be8-c4718ddb6dd8" />
 
+<img   alt="image" src="https://github.com/user-attachments/assets/62e6c041-34ef-4380-bd16-09b2f0874e15" />
+
 [V2cam] Kīlauea volcano, Hawaii (east Halemaʻumaʻu crater)
 [Watch - @CityOfLosangeles thiis our work too @nasa-jpl @USGS](https://www.youtube.com/watch?v=HggWKlZv9yk)
 @StateOfCalifornia so I check in and there's other volcanos to check on and [@nasa Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z) tracks them /// @nasa-jpl [https://gbank.gsj.jp/madas/?lang=en](https://gbank.gsj.jp/madas/?lang=en) notes on aster later so @nasa-pds what is Lana Harris is it you ? if it is I'm worried because she might have drug problem... its her reporting @ForAtlanta [@whitehouse](https://youtu.be/0D-f01H6Kos?t=66) 
