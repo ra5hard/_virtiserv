@@ -5,7 +5,7 @@ layout: default
 # Keisha: At the End of the Day,
 This Election Is About Making Lives Better 
 | PoliAlert 08.28.26 [WATCH - youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB @nasa-jpl @foratlanta @CityOfLosAngeles ](https://youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB)
-Keisha Lance Bottoms is a proven fighter with battle-tested executive experience who will put Georgians first and stand up for us all. She has spent the past year traveling to every corner of the state, listening to Georgians’ concerns, and building a plan that leaves no community behind.
+Keisha Lance Bottoms is a proven fighter with battle-tested executive experience who will put Georgians first and stand up for us all. She has spent the past year traveling to every corner of the state, listening to Georgians’ concerns, and building a plan that leaves no community behind. [awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms)
 
 Keisha is ready to deliver on day one as governor because she understands that when Georgia families succeed, Georgia succeeds.
 ![https://awpc.cattcenter.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg @lmco](https://awpc.cattcenter.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg) 
