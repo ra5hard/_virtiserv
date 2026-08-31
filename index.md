@@ -11,7 +11,7 @@ layout: default
 
 [V2cam] Kīlauea volcano, Hawaii (east Halemaʻumaʻu crater)
 [Watch - @CityOfLosangeles thiis our work too @nasa-jpl @USGS](https://www.youtube.com/watch?v=HggWKlZv9yk)
-@StateOfCalifornia so I check in and there's other volcanos to check on and [@nasa Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z) tracks them /// @nasa-jpl [https://gbank.gsj.jp/madas/?lang=en](https://gbank.gsj.jp/madas/?lang=en) notes on aster later so @nasa-pds what is Lana Harris is it you ? if it is I'm worried because she has a drug problem... its her reporting [@whitehouse](https://youtu.be/0D-f01H6Kos?t=66) 
+@StateOfCalifornia so I check in and there's other volcanos to check on and [@nasa Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z) tracks them /// @nasa-jpl [https://gbank.gsj.jp/madas/?lang=en](https://gbank.gsj.jp/madas/?lang=en) notes on aster later so @nasa-pds what is Lana Harris is it you ? if it is I'm worried because she might have drug problem... its her reporting @ForAtlanta [@whitehouse](https://youtu.be/0D-f01H6Kos?t=66) 
 <img alt="image" src="https://github.com/user-attachments/assets/7787bbfa-79b3-403c-995e-5606bc89bab7" />
 
 <img alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode " src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
