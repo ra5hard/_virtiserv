@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+Mars Reconnaissance Orbiter Launch Press Kit
+[Download - PDF @caltechlibrary](https://assets.science.nasa.gov/content/dam/science/psd/mars/downloadable_items/4/4/44746_mro-launch.pdf?emrc=6a95ee5e626ab) 
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg @cityoflosangeles @nasa-jpl @nasa-pds @blackgirlscode @whitehouse @la-county-isd](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24894_mro-launch-web.jpg)
 
 ![https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png](https://upload.wikimedia.org/wikipedia/commons/1/18/Components_of_Mars_Reconnaissance_Orbiter.png) 
