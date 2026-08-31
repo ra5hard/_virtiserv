@@ -4,13 +4,34 @@ layout: default
 
 # Keisha: At the End of the Day,
 This Election Is About Making Lives Better 
-| PoliAlert 08.28.26
+| PoliAlert 08.28.26 [WATCH - youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB @nasa-jpl @foratlanta @CityOfLosAngeles ](https://youtu.be/cqVtphubILA?si=POW31fu1y-3UjroB)
 Keisha Lance Bottoms is a proven fighter with battle-tested executive experience who will put Georgians first and stand up for us all. She has spent the past year traveling to every corner of the state, listening to Georgians’ concerns, and building a plan that leaves no community behind.
 
 Keisha is ready to deliver on day one as governor because she understands that when Georgia families succeed, Georgia succeeds.
 
 <img   alt="image @foratlanta" src="https://github.com/user-attachments/assets/f6fa1b7c-3296-48bd-bf15-0b88931e30d2" />
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 08-30-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
 
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.23 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa @howard-university-web-services @newshour 
 ![https://nul.org/themes/custom/apollo/logo.jpg](https://nul.org/themes/custom/apollo/logo.jpg) 
 [nul.org/basic-page/state-black-america-mayor-keisha-lance-bottoms](https://nul.org/basic-page/state-black-america-mayor-keisha-lance-bottoms)
 <img  alt="image @foratlanta " src="https://github.com/user-attachments/assets/7ea9c8d2-15c0-45b0-b1c5-1adb70fdf178" />
