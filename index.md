@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c18ffd45-1ae6-429c-85ac-bd58c7cf5559" />
 
