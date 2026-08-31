@@ -8,6 +8,7 @@ This Election Is About Making Lives Better
 Keisha Lance Bottoms is a proven fighter with battle-tested executive experience who will put Georgians first and stand up for us all. She has spent the past year traveling to every corner of the state, listening to Georgians’ concerns, and building a plan that leaves no community behind.
 
 Keisha is ready to deliver on day one as governor because she understands that when Georgia families succeed, Georgia succeeds.
+![https://awpc.cattcenter.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg @lmco](https://awpc.cattcenter.iastate.edu/themes/custom/iastate2022/img/iowa-state-university-logo-no-tagline-red.svg) 
 
 <img   alt="image @foratlanta" src="https://github.com/user-attachments/assets/f6fa1b7c-3296-48bd-bf15-0b88931e30d2" />
 Name: Rashard I Kelly
