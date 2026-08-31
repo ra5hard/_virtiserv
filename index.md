@@ -3,19 +3,34 @@ layout: default
 ---
 
 
-<img   alt="EMIT_L1B_RAD_001_20240825T173115_2423811_008 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/8b5b1096-2094-4689-a17b-d08bbfd3f167" />
-<img   alt="Screenshot 2026-08-31 11 10 00 AM image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/7a76d5bd-7a2b-45ac-9d9b-da2c23790521" />
-
-
-![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2) 
+[<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/Roman_Spacecraft_360STILL_1.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4)
 
 
 [WATCH - Tracking NASA's Nancy Grace Roman Space Telescope with LIVE view from Space Station](https://www.youtube.com/watch?v=U2Ly0Q-BXqA) //// [youtube.com/@moterworld](https://www.youtube.com/@moterworld)
 <img alt="image image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
 <img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
+[github.com/usdot](https://github.com/usdot) @usdot @nasa-jpl [@Nasa-Giss to KEnnedy Trip](https://svs.gsfc.nasa.gov/15064/) 
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015064/YTframe_RomanTRANSPORT_Still.jpg) 
+Deep Space Station 36 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss36.html) hi @USNAVY idk what a spy is and all there is to do is eavesdrop back this shit is stupid and annoying @whitehouse 
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss36_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss36_1.jpg)
+
+Deep Space Station 34 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss34.html)
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg)
+
 
 [Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) //
 [Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) // [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ) // @blackgirlscode [Ain't Gon Let Up · DG Yola](https://youtu.be/PtWZJVJCRhg?si=rNDE3WjIMfTqytGg)
+
+
+
+[https://svs.gsfc.nasa.gov/gallery/roman/](https://svs.gsfc.nasa.gov/gallery/roman/)
+
+<img   alt="EMIT_L1B_RAD_001_20240825T173115_2423811_008 image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/8b5b1096-2094-4689-a17b-d08bbfd3f167" />
+<img   alt="Screenshot 2026-08-31 11 10 00 AM image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/7a76d5bd-7a2b-45ac-9d9b-da2c23790521" />
+
+
+![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20240825T173115_2423811_008/EMIT_L1B_RAD_001_20240825T173115_2423811_008.png?A-userid=None&Expires=1788200913&Signature=Ux9mM~H0z5olJm6p3O906--o1~W~gZn3EaSlXD8mmbKQ4o0gOMfQDGDY~goFWNUhpcNSdaVXr7Ii2em~FuV-E1P9vr3siKgGvR4a5yNRj9AJs4lUp5sJG~qjP9NQocMytv2iz~82~vp4n4puQmJoM73LYlUNirfdXN2AFQc~8OwFOrIQ1-yE5JD2yB~j4VwzJzi7TBbj6A2Dcw3muWwltGeaSSFj-iUgbslatlC63d~DfFUqlC~R1fStD7ipzZXK53AmAWe~TIDA~cyfKc1DdFsBGcu1USg9E4Bvy-IdpuO-aHPG2DjGFUey4GFIip2~gBgw9APWjbRHjgQHhfqx6A__&Key-Pair-Id=K1JHXLBU4LECA2) 
 
 
 
