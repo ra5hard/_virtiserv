@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+<img alt="image" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
+<img   alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/821c72a1-05cd-48c5-9ce9-e6d17669dd94" />
 
 [Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) //
 [Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) // [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ) // @blackgirlscode [Ain't Gon Let Up · DG Yola](https://youtu.be/PtWZJVJCRhg?si=rNDE3WjIMfTqytGg)
