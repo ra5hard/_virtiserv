@@ -5,6 +5,7 @@ layout: default
 ## Nancy Grace Roman Space Telescope Launch 
 - [WATCH @nasa-pds @CityOfLosAngeles @CityOfSantaMonica](https://youtu.be/9wq3VHsL_bE)
 <img  alt="image" src="https://github.com/user-attachments/assets/bef6e683-8463-4a3e-ac3e-2653d185d8cc" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5739366e-ec7a-4f50-9acd-40780e34a9a3" />
 
 <img  alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode  " src="https://github.com/user-attachments/assets/fd208a06-3942-47b2-9876-4afd6502c29f" />
 
