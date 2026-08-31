@@ -5,9 +5,10 @@ layout: default
 @nasa-pds mro is transmitting data I will send an email @nasa-jpl 
 <img  alt="image" src="https://github.com/user-attachments/assets/ff7b17e8-6b0e-4d4f-8441-d4aba0bf680a" />
 
+![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg) 
+
 SPACECRAFT
-NAME
-Mars Reconnaissance Orbiter
+NAME Mars Reconnaissance Orbiter
 
 RANGE
 -
@@ -15,9 +16,7 @@ RANGE
 ROUND-TRIP LIGHT TIME
 -
 
-ANTENNA
-NAME
-DSS 34
+ANTENNA NAME [DSS 34](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg)
 
 ACTIVITY
 Spacecraft Telemetry, Tracking, and Command
