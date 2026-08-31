@@ -2,6 +2,14 @@
 layout: default
 ---
 
+### Mauna Loa Eruption, HI - @USGS live stream 
+@nasa-jpl happening now @CityOfLosAngeles @Whitehouse 
+@hsfl @UniversityOfHawaii [WATCH - youtu.be/Oal4j3Ipk0w](https://youtu.be/Oal4j3Ipk0w)
+Earth Sciences
+Andrew Wang Media Relations Specialist
+626-379-6874 @USGS @La-County-isd 
+<img alt="image" src="https://github.com/user-attachments/assets/58059010-2290-414b-8ab8-08ac73925ab6" />
+
 # Naked DoorDash Driver, March on Washington & Cheese Ball Spill
 [WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
 
