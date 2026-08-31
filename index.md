@@ -2,6 +2,243 @@
 layout: default
 ---
 
+
+@foratlanta the preacher at [TheRowLA](https://www.therowchurch.com/) might be on this track [Uni-4-Orm · Ras Kass · Heltah Skeltah · Canibus youtu.be/GoZGkZtJTcs?si=C3vB4ssw2FW3Z-lB](https://youtu.be/GoZGkZtJTcs?si=C3vB4ssw2FW3Z-lB) // []()
+
+
+
+
+
+[WATCH - https://www.youtube.com/live/d_xz6Y46XY4?si=6CPVNESczAnupxWI](https://www.youtube.com/live/d_xz6Y46XY4?si=6CPVNESczAnupxWI)
+[@la-county-isd @Cityofsantamonica](https://youtu.be/1Rc8L5A_vHs?si=jRX1OjRjzOpig0UB)
+<img  alt="image" src="https://github.com/user-attachments/assets/92cdc00a-9c18-462c-bb3b-9af0aec6dcd3" />
+
+```
+ 
+
+
+@Supadupacee
+​
+
+#1
+​On this last day of August on a manic Monday, live from the Hot 97 TV Studios in Atlanta, Georgia, this is Hot 97 News and the news is newsing with Lana Harris.
+
+
+@Supadupacee
+​
+
+#1
+​This streaming 411 show will start in nine minutes. So get ready, chat, for some fun.
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, Lana and Will aka Airhorn Willie with the air horn sound effect. How was the weekend?
+
+
+@Supadupacee
+​
+
+#1
+​On tonight’s show, we got “The Lana Rundown”, “America’s Hottest Headlines”, “You Can’t Make This Up” and the 411 in entertainment.
+
+
+@Supadupacee
+​
+
+#1
+​Are you off next Monday for Labor Day, Lana?
+
+
+@Projectkang
+​
+
+#2
+​Good evening mortals
+
+
+@BumpPJohnson
+​​peace love and unity
+
+
+@Supadupacee
+​
+
+#1
+​Starting off the show is the famous Hot 97 TV theme music, compliments of the almighty A.K.
+
+
+@Projectkang
+​
+
+#2
+​war and famine and pestilence
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, Bump and Kang.
+
+
+@Projectkang
+​
+
+#2
+​waddup Supa
+
+
+@LaToyaEvans-v3f
+​​Good evening all!
+
+
+@Projectkang
+​
+
+#2
+​Hola LaToya
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, Latoya. How was your weekend?
+
+
+@BumpPJohnson
+​​that's wild
+
+
+@Projectkang
+​
+
+#2
+​I've always wanted to go there..not now
+
+
+@Supadupacee
+​
+
+#1
+​Great Caesar’s ghost! Flood is everywhere in this country.
+
+
+@KingRavensburner
+​​Prayers 🙏🏿
+
+
+@Projectkang
+​
+
+#2
+​Poseidon has waged war on earth
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​Hey happy Monday Lana wassup
+
+
+@BumpPJohnson
+​​is that the hoover dam you cross to Nevada from arizona
+
+
+@qbmichaelog11
+​​👋😁
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, KingRaven and Neil.
+
+
+@Supadupacee
+​
+
+#1
+​Good Monday evening, QBM.
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​First Naoals now Grand canyon WOW
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​1st Nepal
+
+
+@Projectkang
+​
+
+#2
+​belated 🤜 Bump, Qbm
+
+
+@KingRavensburner
+​​Good evening 🌆. Hopeful for peace
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​Where the next flash flood going to be
+
+
+@Projectkang
+​
+
+#2
+​yerr Krb
+
+
+@KingRavensburner
+​​Project Kang with the new PFP
+
+
+@NeilWright-fc8sc
+​
+
+#3
+​If you live near a similar area move quickly away from it
+
+
+@Projectkang
+​
+
+#2
+​yeah my girl took me to the studio
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+
+@NeilWright-fc8sc
+​
+
+#3
+​Sounds like Russia underwater bombs
+
+
+@thakasErikaselassie_kelly
+​​hi @lanajharris im out of time @repkarenbass your town has no resources for honest men
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0764ac87-0bb1-4185-b9b4-a3822938ae67" />
+
+
 [@NEWSHOUR @USGS ajc.com/politics/2026/08/prominent-black-democrats-rally-behind-keisha-lance-bottoms/](https://www.ajc.com/politics/2026/08/prominent-black-democrats-rally-behind-keisha-lance-bottoms/)
 <img alt="image" src="https://github.com/user-attachments/assets/075c03d3-7ccb-4010-8193-23a14adc20e8" />
 
