@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c18ffd45-1ae6-429c-85ac-bd58c7cf5559" />
+
 # Naked DoorDash Driver, March on Washington & Cheese Ball Spill
 [WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
 <img alt="image" src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
@@ -9,6 +12,19 @@ layout: default
 #  "You Are Raising Boys To Be Men That You Don't Want To Be With"
 | Big Facts [WATCH - youtube.com/watch?v=Vi-bEaFKzHc](https://www.youtube.com/watch?v=Vi-bEaFKzHc)
 <img alt="image" src="https://github.com/user-attachments/assets/0e4784ba-dc94-4412-94ef-22b868d7b9f2" />
+
+
+# Nancy Grace Roman_Madrid_DSN [homepage @nasa-giss](https://www.mdscc.nasa.gov/index.php/en/start/)
+@nasa-jpl / @caltech / @ucla  [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) [LRo - Lunar Reconnocince Orbiter @Blackgirlscode @deptofwar](https://pds-geosciences.wustl.edu/missions/lro/) // [Lunar Reconnaissance Orbiter Stories](https://science.nasa.gov/mission/lro/stories/) // [mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J) /// [diviner.ucla.edu/single-post/2016/07/26/extended-mission-3](https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3) // [lroc.im-ldi.com/](https://lroc.im-ldi.com/) // [science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/) ////////// [Björk - Post (1995) Full Album](https://youtu.be/Y0WO2Km-r94?si=SoqIs3Ygg-joRKmV) ~> @[Blackgirlscode @cbs-news-data](https://spaceplace.nasa.gov/dsn-game/en/) /// [insightsonindia.com/2019/10/10/`lunar-reconnaissance-orbiter-lro-3`/ @isro](https://www.insightsonindia.com/2019/10/10/lunar-reconnaissance-orbiter-lro-3/)
+<img  alt="image" src="https://github.com/user-attachments/assets/117e8ed4-aca6-4cf7-96cd-c498ebc69324" />
+
+[hollyjmitchell.com/about](https://www.hollyjmitchell.com/about)
+![https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png](https://static.wixstatic.com/media/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png/v1/fill/w_350,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e870e6_6bc3fd7bdf4d4011a833df88f8671bd9~mv2_d_3104_2960_s_4_2.png)
+
+[🎮spaceplace.nasa.gov/dsn-game/en/](https://spaceplace.nasa.gov/dsn-game/en/)
+<img  alt="image" src="https://github.com/user-attachments/assets/fd61e003-1565-48de-8504-a5b5276570c1" />
+
+![https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=1920&q=75](https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=1920&q=75)
 
 
 [<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/Roman_Spacecraft_360STILL_1.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4)
