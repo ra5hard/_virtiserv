@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[@NEWSHOUR @USGS ajc.com/politics/2026/08/prominent-black-democrats-rally-behind-keisha-lance-bottoms/](https://www.ajc.com/politics/2026/08/prominent-black-democrats-rally-behind-keisha-lance-bottoms/)
+<img alt="image" src="https://github.com/user-attachments/assets/075c03d3-7ccb-4010-8193-23a14adc20e8" />
+
 [@foratlanta @newshour @nasa-jpl atlantanewsfirst.com/video/2026/08/31/anf-host-gubernatorial-town-hall-debate-between-keisha-lance-bottoms-rick-jackson/](https://www.atlantanewsfirst.com/video/2026/08/31/anf-host-gubernatorial-town-hall-debate-between-keisha-lance-bottoms-rick-jackson/)
 <img alt="image" src="https://github.com/user-attachments/assets/7b219c6e-ca4f-4041-918a-1543238adcc5" />
 
