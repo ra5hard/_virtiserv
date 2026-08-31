@@ -2,6 +2,20 @@
 layout: default
 ---
 
+# Keisha: At the End of the Day,
+This Election Is About Making Lives Better 
+| PoliAlert 08.28.26
+Keisha Lance Bottoms is a proven fighter with battle-tested executive experience who will put Georgians first and stand up for us all. She has spent the past year traveling to every corner of the state, listening to Georgians’ concerns, and building a plan that leaves no community behind.
+
+Keisha is ready to deliver on day one as governor because she understands that when Georgia families succeed, Georgia succeeds.
+
+<img   alt="image @foratlanta" src="https://github.com/user-attachments/assets/f6fa1b7c-3296-48bd-bf15-0b88931e30d2" />
+
+![https://nul.org/themes/custom/apollo/logo.jpg](https://nul.org/themes/custom/apollo/logo.jpg) 
+[nul.org/basic-page/state-black-america-mayor-keisha-lance-bottoms](https://nul.org/basic-page/state-black-america-mayor-keisha-lance-bottoms)
+<img  alt="image @foratlanta " src="https://github.com/user-attachments/assets/7ea9c8d2-15c0-45b0-b1c5-1adb70fdf178" />
+
+
 [https://unit.aist.go.jp/igg/rs-rg/ourresearch.html#resource](https://unit.aist.go.jp/igg/rs-rg/ourresearch.html#resource) 
 
 
