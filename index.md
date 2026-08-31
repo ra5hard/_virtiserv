@@ -2,6 +2,14 @@
 layout: default
 ---
 
+# Naked DoorDash Driver, March on Washington & Cheese Ball Spill
+[WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
+<img alt="image" src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
+
+#  "You Are Raising Boys To Be Men That You Don't Want To Be With"
+| Big Facts [WATCH - youtube.com/watch?v=Vi-bEaFKzHc](https://www.youtube.com/watch?v=Vi-bEaFKzHc)
+<img alt="image" src="https://github.com/user-attachments/assets/0e4784ba-dc94-4412-94ef-22b868d7b9f2" />
+
 
 [<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/Roman_Spacecraft_360STILL_1.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a013200/a013295/13295_Roman_360_Best_1080.mp4)
 
