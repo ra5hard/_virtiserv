@@ -21,6 +21,9 @@ HOT 97 News Live! 9/1/26
 [WATCH - youtu.be/2OdGBlbbmDo](https://youtu.be/2OdGBlbbmDo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2OdGBlbbmDo?si=jTiWkHgVf9IN2ERa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img alt="image" src="https://github.com/user-attachments/assets/5a67ac86-9a4a-475c-b6dd-ad3feb4ebe6d" />
+
+
 <img   alt="image @nasa-giss Lana j Harris need some PDFs on fire science that originates here . . . idk @Deptofwar the population abt to get fucked up with run away tech again @cityoflosangeles " src="https://github.com/user-attachments/assets/e76c67f0-5d63-41ca-93d4-0f07fe971f4e" />
 
 <img alt="image @fecgov" src="https://github.com/user-attachments/assets/592a37b4-fa45-41e4-a66c-d91af486c8f0" />
