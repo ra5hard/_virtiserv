@@ -2,6 +2,32 @@
 layout: default
 ---
 
+<img width="1336" height="2001" alt="NASA_JPL_MARS_RESOURCES_MER_era-11" src="https://github.com/user-attachments/assets/a24c8aeb-8524-452f-9c3d-63fc2e19be4a" />
+
+<img width="1318" height="1508" alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-15" src="https://github.com/user-attachments/assets/aa1ee94e-d5be-44e8-b223-4f4febf77ab8" />
+
+<img width="1196" height="619" alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-14" src="https://github.com/user-attachments/assets/03e07857-024b-4904-bd45-53aec4cdd192" />
+
+
+<img width="2390" height="2616" alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-09" src="https://github.com/user-attachments/assets/eb46566c-abbd-4a12-ae5c-cde98fb2134f" />
+<img width="1160" height="1872" alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-13" src="https://github.com/user-attachments/assets/4ffb479f-dfff-40a3-884c-b5f24483334d" />
+<img width="1733" height="3156" alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-02" src="https://github.com/user-attachments/assets/05bc5c49-700c-45dc-87bd-ec387cf5a9d3" />
+<img width="1629" height="2195" alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-20" src="https://github.com/user-attachments/assets/411f340d-f09f-4f4f-9f24-3247094152f7" />
+<img width="2149" height="2167" alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-10" src="https://github.com/user-attachments/assets/d74f97bd-5c80-4f7f-970b-938cc61208f0" />
+<img width="1216" height="1971" alt="NASA_JPL_MARS_RESOURCES_MER_era-01" src="https://github.com/user-attachments/assets/8357d272-509f-41c5-859d-7abb03bf12ae" />
+<img width="1340" height="2004" alt="NASA_JPL_MARS_RESOURCES_MER_era-02" src="https://github.com/user-attachments/assets/dabdab1f-a185-4c47-9f37-92445d691300" />
+<img width="1360" height="2021" alt="NASA_JPL_MARS_RESOURCES_MER_era-07" src="https://github.com/user-attachments/assets/5a46c7bd-0948-4814-89b7-11be1bb7b1c5" />
+<img width="1411" height="2015" alt="NASA_JPL_MARS_RESOURCES_MER_era-05" src="https://github.com/user-attachments/assets/36c4fbfc-f55d-4d34-91fd-4a7d7d1f0519" />
+<img width="1355" height="2010" alt="NASA_JPL_MARS_RESOURCES_MER_era-04" src="https://github.com/user-attachments/assets/48d82aba-422e-4930-90c1-ac9358aa87cd" />
+<img width="2851" height="2001" alt="NASA_JPL_MARS_RESOURCES_MER_era-08" src="https://github.com/user-attachments/assets/7f2767cf-2802-4086-87b8-effbda4c316f" />
+<img width="1335" height="2004" alt="NASA_JPL_MARS_RESOURCES_MER_era-09" src="https://github.com/user-attachments/assets/33fb48da-f552-44ae-b746-a957c082a267" />
+<img width="2824" height="1997" alt="NASA_JPL_MARS_RESOURCES_MER_era-10" src="https://github.com/user-attachments/assets/5ee0f287-3f54-44e1-bec9-3b7661343da3" />
+
+<img width="2845" height="2004" alt="NASA_JPL_MARS_RESOURCES_MER_era-03" src="https://github.com/user-attachments/assets/7a9aae52-f945-47a4-95d8-e904eb652be1" />
+<img width="1320" height="2000" alt="NASA_JPL_MARS_RESOURCES_MER_era-06" src="https://github.com/user-attachments/assets/e8450df9-1e28-450f-9611-018191010b9c" />
+
+
+
 
 ## Sophie Adenot's third spacewalk 
 @nasa-jpl @ESA [youtube.com/ @NASA](https://www.youtube.com/@NASA)
