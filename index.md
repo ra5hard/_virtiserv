@@ -6,6 +6,8 @@ layout: default
 ## Sophie Adenot's third spacewalk 
 @nasa-jpl @ESA [youtube.com/ @NASA](https://www.youtube.com/@NASA)
 | U.S. Spacewalk 99 [`WATCH` - youtu.be/3KPmNAXskBY](https://youtu.be/3KPmNAXskBY)
+[spacex.com/launches/sl-15-23](https://www.spacex.com/launches/sl-15-23) 
+
 ## LIVE: Astronauts spacewalk at ISS // [isstracker.pl/en](https://isstracker.pl/en)
 <img alt="image" src="https://github.com/user-attachments/assets/218df687-4510-4c2f-babb-6df50f634643" />
 <img  alt="image" src="https://github.com/user-attachments/assets/4c5b2a5e-e691-42c5-9edc-4ecb352cc645" />
