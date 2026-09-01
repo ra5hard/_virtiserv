@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu) // [Take Me As I Am · Mary J. Blige](https://youtu.be/Xe3nyNHPsLY) // [Unfunky UFO · Parliament](https://youtu.be/jjQ4iYh039g) // [Give Up The Funk (Tear The Roof Off The Sucker) · Parliament](https://youtu.be/3HU-KdHmYeA) // [@DeptOfWar @CityOfLosAngeles Bop Gun (Endangered Species) · Parliament @newshour @USNAVY](https://youtu.be/4bgTI3KN4d0)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu) // [Take Me As I Am · Mary J. Blige](https://youtu.be/Xe3nyNHPsLY) // [Unfunky UFO · Parliament](https://youtu.be/jjQ4iYh039g) // [Give Up The Funk (Tear The Roof Off The Sucker) · Parliament](https://youtu.be/3HU-KdHmYeA) // [@CityOfLosAngeles Bop Gun (Endangered Species) · Parliament ](https://youtu.be/4bgTI3KN4d0) // [Stephanie Mills & Teddy Pendergrass   Two Hearts](https://youtu.be/4wDsOQwQetI)
 
 ---
 
