@@ -13,6 +13,7 @@ layout: default
 >
 
 #### Sol 4998: Left Navigation Camera
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG)
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193998EDR_F1241978NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193998EDR_F1241978NCAM00354M_.JPG)
 #### Sol 4996: Left Navigation Camera
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04996/opgs/edr/ncam/NLB_841010297EDR_F1241872NCAM00292M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04996/opgs/edr/ncam/NLB_841010297EDR_F1241872NCAM00292M_.JPG)
