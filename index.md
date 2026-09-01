@@ -21,10 +21,12 @@ HOT 97 News Live! 9/1/26
 [WATCH - youtu.be/2OdGBlbbmDo](https://youtu.be/2OdGBlbbmDo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2OdGBlbbmDo?si=jTiWkHgVf9IN2ERa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img   alt="image" src="https://github.com/user-attachments/assets/58f8968d-36fa-4099-a490-838394b4aa8d" />
 
 <img alt="image @fecgov" src="https://github.com/user-attachments/assets/592a37b4-fa45-41e4-a66c-d91af486c8f0" />
 
 ![https://www.fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg) 
+<img  alt="image" src="https://github.com/user-attachments/assets/38a91d4b-ee77-4542-9f7f-14e3857e21f1" />
 
 [Standout Atlanta Police Department recruit dies in tragic motorcycle crash @cityoflosangeles Legacy he leaves behind](https://youtu.be/mL3t9ZreYeo?si=zpq40Fotg-tRNyqu)
 
