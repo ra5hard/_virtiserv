@@ -8,8 +8,11 @@ layout: default
 
 
 
-### Sol 4998: Left Navigation Camera
+
 >Curiosity Raw Images [link @nasa-pds @nasa-jpl](https://mars.nasa.gov/msl/multimedia/raw-images/)
+#### Sol 4996: Left Navigation Camera
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04996/opgs/edr/ncam/NLB_841010297EDR_F1241872NCAM00292M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04996/opgs/edr/ncam/NLB_841010297EDR_F1241872NCAM00292M_.JPG)
+#### Sol 4998: Left Navigation Camera
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193197EDR_F1241978NCAM00296M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193197EDR_F1241978NCAM00296M_.JPG)
 
 <img alt="image" src="https://github.com/user-attachments/assets/d820177c-3fe8-48ac-b18c-e5e8dc07e907" />
