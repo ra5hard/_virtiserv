@@ -3,9 +3,11 @@ layout: default
 ---
 
 ## Sophie Adenot's third spacewalk 
-@nasa-jpl @ESA 
+@nasa-jpl @ESA [youtube.com/ @NASA](https://www.youtube.com/@NASA)
 | U.S. Spacewalk 99 [`WATCH` - youtu.be/3KPmNAXskBY](https://youtu.be/3KPmNAXskBY)
-## LIVE: Astronauts spacewalk at ISS
+## LIVE: Astronauts spacewalk at ISS // [isstracker.pl/en](https://isstracker.pl/en)
+<img alt="image" src="https://github.com/user-attachments/assets/218df687-4510-4c2f-babb-6df50f634643" />
+
 [WATCH - youtu.be/OSTGlHvuksA](https://youtu.be/OSTGlHvuksA)
 NASA astronaut Jessica Meir and ESA's Sophie Adenot step out of the International Space Station for a spacewalk to replace a spacecraft navigational aid and perform regular maintenance.
 <img  alt="image" src="https://github.com/user-attachments/assets/4a237dd9-aece-4545-993b-6df5c6b16f6c" />
