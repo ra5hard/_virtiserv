@@ -17,6 +17,13 @@ layout: default
 ---
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2OdGBlbbmDo?si=jTiWkHgVf9IN2ERa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Standout Atlanta Police Department recruit dies in tragic motorcycle crash @cityoflosangeles Legacy he leaves behind](https://youtu.be/mL3t9ZreYeo?si=zpq40Fotg-tRNyqu)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ddb6dc63-b2b2-4e0c-ab98-ab834120ba11" />
+
+
 [`WATCH` - Deadly Flash Flood Tears Through Grand Canyon](https://youtu.be/hTtVlfBNgew?si=HoTJxA0TY6M_jLkW)
 
 <img alt="image" src="https://github.com/user-attachments/assets/54b35f62-0748-4007-aaf6-7d947c084d7b" />
