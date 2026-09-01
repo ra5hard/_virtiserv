@@ -36,6 +36,22 @@ What's Up: September 2026 Skywatching Tips from NASA
 
 @howard-university-web-services @emergingCoders hi tell latrice this is her 2222nd `commit 7e8aa9c` I know she into [Angel numbers](https://sacredscribesangelnumbers.blogspot.com/)
 <img   alt="image" src="https://github.com/user-attachments/assets/079b1ecb-b327-4b3c-9274-aa9204244701" />
+
+[@CiTYOFLOSANGELES _HollyJMiTChELL_ @LACMTA https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.53/-13158232.27/4002253.22&layers=aqv_chla_20260830_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.53/-13158232.27/4002253.22&layers=aqv_chla_20260830_sentinel:1.00:0.00:30.00:default) that's approximately where I got this mornings samples @Podaac @nasa-jpl @la-county-isd
+<img alt="image" src="https://github.com/user-attachments/assets/f276bc0b-61f7-4826-afa3-23fd0042ec29" />
+
+
+<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-15" src="https://github.com/user-attachments/assets/aa1ee94e-d5be-44e8-b223-4f4febf77ab8" />
+
+<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-14" src="https://github.com/user-attachments/assets/03e07857-024b-4904-bd45-53aec4cdd192" />
+
+
+<img  alt=" @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-09" src="https://github.com/user-attachments/assets/eb46566c-abbd-4a12-ae5c-cde98fb2134f" />
+<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-13" src="https://github.com/user-attachments/assets/4ffb479f-dfff-40a3-884c-b5f24483334d" />
+<img alt="  @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-02" src="https://github.com/user-attachments/assets/05bc5c49-700c-45dc-87bd-ec387cf5a9d3" />
+<img  alt=" @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-20" src="https://github.com/user-attachments/assets/411f340d-f09f-4f4f-9f24-3247094152f7" />
+<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-10" src="https://github.com/user-attachments/assets/d74f97bd-5c80-4f7f-970b-938cc61208f0" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/74d34533-a9ed-4eba-8b8d-445bf993519c" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bfb06f16-651f-4b6b-af44-b08c6439769c" />
@@ -59,16 +75,6 @@ Significant Flash Flooding Closes Phantom Ranch and North Kaibab Trail [LiNK](ht
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cdefff80-55cd-4eaa-8f59-f2e2b8cbc232" />
 
-<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-15" src="https://github.com/user-attachments/assets/aa1ee94e-d5be-44e8-b223-4f4febf77ab8" />
-
-<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-14" src="https://github.com/user-attachments/assets/03e07857-024b-4904-bd45-53aec4cdd192" />
-
-
-<img  alt=" @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-09" src="https://github.com/user-attachments/assets/eb46566c-abbd-4a12-ae5c-cde98fb2134f" />
-<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-13" src="https://github.com/user-attachments/assets/4ffb479f-dfff-40a3-884c-b5f24483334d" />
-<img alt="  @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-02" src="https://github.com/user-attachments/assets/05bc5c49-700c-45dc-87bd-ec387cf5a9d3" />
-<img  alt=" @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-20" src="https://github.com/user-attachments/assets/411f340d-f09f-4f4f-9f24-3247094152f7" />
-<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-10" src="https://github.com/user-attachments/assets/d74f97bd-5c80-4f7f-970b-938cc61208f0" />
 
 ![https://podaac.jpl.nasa.gov/sites/default/files/flexslider/2025-ED-Webinar-SWOT-Hydro-Tools%20.jpg](https://podaac.jpl.nasa.gov/sites/default/files/flexslider/2025-ED-Webinar-SWOT-Hydro-Tools%20.jpg)
 
