@@ -38,17 +38,35 @@ What's Up: September 2026 Skywatching Tips from NASA
 <img   alt="image" src="https://github.com/user-attachments/assets/079b1ecb-b327-4b3c-9274-aa9204244701" />
 
 [@CiTYOFLOSANGELES _HollyJMiTChELL_ @LACMTA https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.53/-13158232.27/4002253.22&layers=aqv_chla_20260830_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.53/-13158232.27/4002253.22&layers=aqv_chla_20260830_sentinel:1.00:0.00:30.00:default) that's approximately where I got this mornings samples @Podaac @nasa-jpl @la-county-isd
+[2026-08-30 - 242 Sentinel-2B	Chlorophyll-a, Total Suspended Solids (TSS), Secchi Depth (Transparency), True Color Composite (RGB)](https://ladsweb.modaps.eosdis.nasa.gov/stream/coverage/11SLT)
+
 <img alt="image" src="https://github.com/user-attachments/assets/f276bc0b-61f7-4826-afa3-23fd0042ec29" />
 
 
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-15" src="https://github.com/user-attachments/assets/aa1ee94e-d5be-44e8-b223-4f4febf77ab8" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2b580dc6-94fe-486e-954e-80338d37e459" />
 
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-14" src="https://github.com/user-attachments/assets/03e07857-024b-4904-bd45-53aec4cdd192" />
 
 
 <img  alt=" @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-09" src="https://github.com/user-attachments/assets/eb46566c-abbd-4a12-ae5c-cde98fb2134f" />
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-13" src="https://github.com/user-attachments/assets/4ffb479f-dfff-40a3-884c-b5f24483334d" />
+
+![https://www.fernbankmuseum.org/media/kugpki3e/fmnh_logorefresh_final_full_color.svg](https://www.fernbankmuseum.org/media/kugpki3e/fmnh_logorefresh_final_full_color.svg) 
+[fernbankmuseum.org/](https://www.fernbankmuseum.org/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/146d3b73-92a0-4287-b0df-d45f0540be8d" />
+
+
+![https://yt3.googleusercontent.com/E_QXDWbHWtPpPhnButT4d4swCNcEJ4YdpSVRr9CVv5xUuW3moeIwbV8ak4JJvus_TFAP1o7P4g=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/E_QXDWbHWtPpPhnButT4d4swCNcEJ4YdpSVRr9CVv5xUuW3moeIwbV8ak4JJvus_TFAP1o7P4g=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/1affacf7-8ea1-4fd2-8413-c5682ad3be6e" />
+
 <img alt="  @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-02" src="https://github.com/user-attachments/assets/05bc5c49-700c-45dc-87bd-ec387cf5a9d3" />
+<img alt="image" src="https://github.com/user-attachments/assets/aa9917f8-e86c-4e41-91af-aeea73e179aa" />
+
 <img  alt=" @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-20" src="https://github.com/user-attachments/assets/411f340d-f09f-4f4f-9f24-3247094152f7" />
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-10" src="https://github.com/user-attachments/assets/d74f97bd-5c80-4f7f-970b-938cc61208f0" />
 
