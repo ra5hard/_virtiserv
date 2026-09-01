@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![https://digitalcommons.georgiasouthern.edu/assets/md5images/34e81721d9cc0a5bfdd654466eb18d13.png](https://digitalcommons.georgiasouthern.edu/assets/md5images/34e81721d9cc0a5bfdd654466eb18d13.png)
 
 [@ForAtlanta digitalcommons.georgiasouthern.edu/savannah-signs/411/](https://digitalcommons.georgiasouthern.edu/savannah-signs/411/)
 <img alt="image" src="https://github.com/user-attachments/assets/36476a4d-b296-4040-b96f-c68493a476d7" />
