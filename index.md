@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu) // [Take Me As I Am · Mary J. Blige](https://youtu.be/Xe3nyNHPsLY) // [Unfunky UFO · Parliament](https://youtu.be/jjQ4iYh039g)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu) // [Take Me As I Am · Mary J. Blige](https://youtu.be/Xe3nyNHPsLY) // [Unfunky UFO · Parliament](https://youtu.be/jjQ4iYh039g) // [Give Up The Funk (Tear The Roof Off The Sucker) · Parliament](https://youtu.be/3HU-KdHmYeA)
 
 ---
 
@@ -10,7 +10,7 @@ layout: default
 
 
 >Curiosity Raw Images [link @nasa-pds @nasa-jpl](https://mars.nasa.gov/msl/multimedia/raw-images/)
->
+
 
 #### Sol 4998: Left Navigation Camera
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG)
