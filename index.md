@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu)
+
+---
 
 <img alt="image" src="https://github.com/user-attachments/assets/d820177c-3fe8-48ac-b18c-e5e8dc07e907" />
 
