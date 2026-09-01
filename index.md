@@ -49,6 +49,12 @@ What's Up: September 2026 Skywatching Tips from NASA
 
 [Ella Fitzgerald And Louis Armstrong ‎– ELLA AND LOUIS AGAIN ](https://youtu.be/ceygsgbpbB8) // [Armstrong , Ellington -The great reunion -1970](https://youtu.be/gIU-ZA-04jg)
 
+[`Tai Marie`](https://www.hot97.com/author/tai-marie/) - HOT 97 TV Officially Launches in Atlanta – Catch the Hottest Vibes on WHOT Channel 66! [READMORE](https://www.hot97.com/news/hot-97-tv-officially-launches-in-atlanta-catch-the-hottest-vibes-on-whot-channel-66/)
+<img  alt="image" src="https://github.com/user-attachments/assets/beca921f-d756-4c98-8c5a-7a70b8e4b6d4" />
+
+
+![https://www.hot97.com/wp-content/uploads/sites/2/2025/11/HOT97TV_1024x.jpg](https://www.hot97.com/wp-content/uploads/sites/2/2025/11/HOT97TV_1024x.jpg)
+
 
 @howard-university-web-services @emergingCoders hi tell latrice this is her 2222nd `commit 7e8aa9c` I know she into [Angel numbers](https://sacredscribesangelnumbers.blogspot.com/)
 <img   alt="image" src="https://github.com/user-attachments/assets/079b1ecb-b327-4b3c-9274-aa9204244701" />
