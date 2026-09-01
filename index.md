@@ -2,6 +2,133 @@
 layout: default
 ---
 
+
+## LIVE: Astronauts spacewalk at ISS
+[WATCH - ](https://youtu.be/OSTGlHvuksA)
+NASA astronaut Jessica Meir and ESA's Sophie Adenot step out of the International Space Station for a spacewalk to replace a spacecraft navigational aid and perform regular maintenance.
+<img  alt="image" src="https://github.com/user-attachments/assets/4a237dd9-aece-4545-993b-6df5c6b16f6c" />
+```
+
+
+
+@Foxy1-y9m
+​​I wonder what the brain dead flat earthers think when they see the "round" earth. Do they think that 10's of thousands of people are still in on the perceived hoax?
+
+
+@V70Thor
+​​thats a green screen prob
+
+
+@V70Thor
+​​idk
+
+
+@V70Thor
+​​I can see trough stuff lol
+
+
+@JesseKenta
+​​🇰🇪🇰🇪❤❤🇰🇪🇰🇪
+
+
+@JesseKenta
+​​❤❤🇰🇪🇰🇪❤❤
+
+
+@JesseKenta
+​​Blessed people #earphones sound is too loud
+
+
+@JesseKenta
+​​confirmed blessed people
+
+
+@JesseKenta
+​​Confirmed Access and accept
+
+
+@JesseKenta
+​​Access and #Receive
+
+
+@JesseKenta
+​​Received
+
+
+@JesseKenta
+​​Safe people
+
+
+@JesseKenta​​outside people
+@SMG_s2z​​the dark side
+@ColoredMachine-9x
+​#2​tt wasn't enough
+@drumcircler​​Monumental courage! Daunting skills!
+@ColoredMachine-9x#2​oh yeah, that sunshine
+
+@onetooiolvblckoxf0765​​@one2lv is bending
+@ColoredMachine-9x2​hand torque
+@db4804​#3​need a re-threader@ColoredMachine-9x#2​dexterity
+
+
+@ZeZa.​​whats the point with spacewalk 99? walk without using feet with a ground is impossible.. we back in 1999? in two 2 years is 911 we must stop
+
+
+@김화순-i6d​​text-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-over
+
+
+@김화순-i6d​​text-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-over
+
+@klebertavares-b1q​​How do they manage to stay still outside when the ISS is moving so fast? 28,000 km/h.
+
+@klebertavares-b1q​​What if the space crew isn't entirely human?👽
+
+@db4804​#3​klebert have you been talking to Ripley
+
+@thakasErikaselassie_kelly `​​@lanajharris` #Mornin!
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+@db4804 #1 ​these spacewomen are fantistic a days work problem solving and so brave👏
+
+
+@thakasErikaselassie_kelly ​​@repkarenbass please check mayor.helpdesk@lacity.org email and mayor@longbeach.gov as county seat you should have access to both @NASAJPL @NASA-PDS #rashard @USGS
+
+
+@MarkReid-mr2 ​​was it raining earlier
+
+
+@thakasErikaselassie_kelly ​​@blackgirlscode @HowardUniversity hi @atlantamasjid
+
+
+@김화순-i6d ​text-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-over
+
+
+@김화순-i6d ​​text-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-over
+
+@김화순-i6d #3 ​text-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-over
+
+@김화순-i6d
+​
+#3
+​text-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-overtext-green-game-over
+
+@klebertavares-b1q ​​Are the astronauts real or made with CGI?
+
+@ghostwriter4567 ​​Incredible 🫡
+
+@klebertavares-b1q ​​Is it all a digital lie, or are they aliens?
+
+@klebertavares-b1q ​​Is there a chance that the ISS is harboring extraterrestrial beings?
+
+@thakasErikaselassie_kelly ​​@nasajpl github.com/virtiserv/virtiserv.github.io/blob/master/_posts/2026-08-09-JPL-Oceanography.md @SupervisorHollyJMitchell ... @NASAJPLPODAAC check roc@jpl.nasa.gov @CountyofLosAngelesNewsroom
+
+@db4804
+​
+#1
+​Jessica & Sophie WoW
+
+@thakasErikaselassie_kelly ​​@klebertavares-b1q thats a technical yes, @repkarenbass has to makesure rentrey paperwork is legit for them to come back @AtlantaNewsFirst to they aliens till the job is done @NASA @NASAJPL @NAsa-pds
+```
+
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu) // [Take Me As I Am · Mary J. Blige](https://youtu.be/Xe3nyNHPsLY) // [Unfunky UFO · Parliament](https://youtu.be/jjQ4iYh039g) // [Give Up The Funk (Tear The Roof Off The Sucker) · Parliament](https://youtu.be/3HU-KdHmYeA) // [@CityOfLosAngeles Bop Gun (Endangered Species) · Parliament ](https://youtu.be/4bgTI3KN4d0) // [Stephanie Mills & Teddy Pendergrass   Two Hearts](https://youtu.be/4wDsOQwQetI)
 
 ---
