@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=cM5MXqzmjrEwHEqu) // [Take Me As I Am · Mary J. Blige](https://youtu.be/Xe3nyNHPsLY)
 
 ---
 
