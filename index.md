@@ -5,6 +5,13 @@ layout: default
 [It's A Fire · Portishead](https://youtu.be/selAvZE6lp4)
 
 
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 
 ---
@@ -69,6 +76,14 @@ Significant Flash Flooding Closes Phantom Ranch and North Kaibab Trail [LiNK](ht
 <img alt="NASA_JPL_MARS_RESOURCES_MER_era-03" src="https://github.com/user-attachments/assets/7a9aae52-f945-47a4-95d8-e904eb652be1" />
 <img alt="NASA_JPL_MARS_RESOURCES_MER_era-06" src="https://github.com/user-attachments/assets/e8450df9-1e28-450f-9611-018191010b9c" />
 
+
+# Naked DoorDash Driver, March on Washington & Cheese Ball Spill
+[WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
+<img alt="image" src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
+
+#  "You Are Raising Boys To Be Men That You Don't Want To Be With"
+| Big Facts [WATCH - youtube.com/watch?v=Vi-bEaFKzHc](https://www.youtube.com/watch?v=Vi-bEaFKzHc)
+<img alt="image" src="https://github.com/user-attachments/assets/0e4784ba-dc94-4412-94ef-22b868d7b9f2" />
 
 
 
@@ -220,26 +235,6 @@ Welcome to live chat! Remember to guard your privacy and abide by our community 
 
 ---
 
-
-[<video controls loading="lazy"  poster="https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG"  src="https://archive.org/download/mars-geology-imaging-gifs/MARSgeologySOL4996-8.mp4" />](https://archive.org/download/mars-geology-imaging-gifs/MARSgeologySOL4996-8.mp4)
-
-
->Curiosity Raw Images [link @nasa-pds @nasa-jpl](https://mars.nasa.gov/msl/multimedia/raw-images/)
-
-[@nasa-jpl archive.org/download/mars-geology-imaging-gifs/MARSgeologySOL4996-8.gif](https://archive.org/download/mars-geology-imaging-gifs/MARSgeologySOL4996-8.gif)
-
-#### Sol 4998: Left Navigation Camera
-![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193966EDR_F1241978NCAM00354M_.JPG)
-
-![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193998EDR_F1241978NCAM00354M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193998EDR_F1241978NCAM00354M_.JPG)
-
-#### Sol 4996: Left Navigation Camera
-![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04996/opgs/edr/ncam/NLB_841010297EDR_F1241872NCAM00292M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04996/opgs/edr/ncam/NLB_841010297EDR_F1241872NCAM00292M_.JPG)
-
-#### Sol 4998: Left Navigation Camera
-![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193197EDR_F1241978NCAM00296M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04998/opgs/edr/ncam/NLB_841193197EDR_F1241978NCAM00296M_.JPG)
-
-<img alt="image @usnavy" src="https://github.com/user-attachments/assets/d820177c-3fe8-48ac-b18c-e5e8dc07e907" />
 
 
 ![https://digitalcommons.georgiasouthern.edu/assets/md5images/34e81721d9cc0a5bfdd654466eb18d13.png](https://digitalcommons.georgiasouthern.edu/assets/md5images/34e81721d9cc0a5bfdd654466eb18d13.png)
@@ -756,14 +751,6 @@ Mars Reconnaissance Orbiter Launch Press Kit
 
 ![@nasa-pds https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10) 
 
-# Naked DoorDash Driver, March on Washington & Cheese Ball Spill
-[WATCH - https://youtu.be/ZXL33_MwOYA](https://youtu.be/ZXL33_MwOYA)
-<img alt="image" src="https://github.com/user-attachments/assets/86f830c7-6673-428a-be75-ae18ff6245a0" />
-
-#  "You Are Raising Boys To Be Men That You Don't Want To Be With"
-| Big Facts [WATCH - youtube.com/watch?v=Vi-bEaFKzHc](https://www.youtube.com/watch?v=Vi-bEaFKzHc)
-<img alt="image" src="https://github.com/user-attachments/assets/0e4784ba-dc94-4412-94ef-22b868d7b9f2" />
-
 
 # Nancy Grace Roman_Madrid_DSN [homepage @nasa-giss](https://www.mdscc.nasa.gov/index.php/en/start/)
 @nasa-jpl / @caltech / @ucla  [DSN](https://eyes.nasa.gov/apps/dsn-now/dsn.html) [LRo - Lunar Reconnocince Orbiter @Blackgirlscode @deptofwar](https://pds-geosciences.wustl.edu/missions/lro/) // [Lunar Reconnaissance Orbiter Stories](https://science.nasa.gov/mission/lro/stories/) // [mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J](https://mars.nasa.gov/mars2020/multimedia/raw-images/NRF_1955_0840498681_941ECM_N0910124NCAM03955_07_195J) /// [diviner.ucla.edu/single-post/2016/07/26/extended-mission-3](https://www.diviner.ucla.edu/single-post/2016/07/26/extended-mission-3) // [lroc.im-ldi.com/](https://lroc.im-ldi.com/) // [science.nasa.gov/mission/lro/](https://science.nasa.gov/mission/lro/) ////////// [Björk - Post (1995) Full Album](https://youtu.be/Y0WO2Km-r94?si=SoqIs3Ygg-joRKmV) ~> @[Blackgirlscode @cbs-news-data](https://spaceplace.nasa.gov/dsn-game/en/) /// [insightsonindia.com/2019/10/10/`lunar-reconnaissance-orbiter-lro-3`/ @isro](https://www.insightsonindia.com/2019/10/10/lunar-reconnaissance-orbiter-lro-3/)
@@ -793,6 +780,19 @@ Deep Space Station 36 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss3
 Deep Space Station 34 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss34.html)
 ![https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg](https://www.cdscc.nasa.gov/Images/Antennas/antennapg_dss34_1.jpg)
 
+
+## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
+[WATCH - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) ++ [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ)
+<img   alt="image" src="https://github.com/user-attachments/assets/00640704-6f17-494c-9a63-6f766653a3e2" />
+
+@NASA-PDS ok i messed up again, im mad at your sister... but not im better #VirtiservRashard @NASAJPL @NASAEARTHDATA but still *italics* @LANAJHARRiS i got discouraged because i missed the nancy grace roman launch @repkarenbass https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg <~ @RobinBarnes @chloebaileywashere
+@howarduniversity
+thats some sort of landslid in a coffee table book i found at central and we are supposed to treack those things, and you all hurt me making miss the dark matter telescope launch you .,.. none of you know how a technical person that is physically inthe world acts or feels and you hurt me alot!!! thats all  @michelleobama @lapubliclibrary
+@hot97 @Lanajharris
+
+
+[@nasa-pds  hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg @nasa-jpl](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg) ///  [hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_MIRB.abrowse.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/ef0bc6dd-541f-44b4-8319-abb2eea42ec5" />
 
 [Tinashe - Crash Out / Melatonin](https://youtu.be/nMa6XgsRVBQ) // [Grimes - World Princess Part II](https://youtu.be/EOwhuTlxE54) // [@nasa-pds Esperanza Spalding BLACK GOLD](https://youtu.be/_gFp53ATMiI) she know im late for work . . . @LA-County-isd [HollyMitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) //
 [Janet Jackson performing Feedback.© 2008 The Island Def Jam Music Group](https://youtu.be/wU0ucfoBcXM) // [“Scream” by Michael Jackson with Janet Jackson ](https://youtu.be/0P4A1K4lXDo?list=RD0P4A1K4lXDo) // [The Jackson 5The Life Of The Party](https://youtu.be/GXfz4OFV4ik?list=RDGXfz4OFV4ik) // [Ai No Corrida · Quincy Jones · Dune](https://youtu.be/NVTVheyDY4s?si=f1WKE8lSBY9Cq_f-) // [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ) // @blackgirlscode [Ain't Gon Let Up · DG Yola](https://youtu.be/PtWZJVJCRhg?si=rNDE3WjIMfTqytGg)
@@ -854,18 +854,6 @@ Deep Space Station 34 [Read more](https://www.cdscc.nasa.gov/Pages/Antennas/dss3
 
  <img  alt="ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_PTJPLSMsoil" src="https://github.com/user-attachments/assets/4e2d67cf-e0d5-44c7-9d55-b145e06102a0" />
 
-## Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect
-[WATCH - https://youtu.be/FqZTQA6p7Tc](https://youtu.be/FqZTQA6p7Tc) ++ [🎼Slippin' Into Darkness · War🎵](https://youtu.be/pBNZevgJH1g?si=gZBR8-4zQkbsYhEJ)
-<img   alt="image" src="https://github.com/user-attachments/assets/00640704-6f17-494c-9a63-6f766653a3e2" />
-
-@NASA-PDS ok i messed up again, im mad at your sister... but not im better #VirtiservRashard @NASAJPL @NASAEARTHDATA but still *italics* @LANAJHARRiS i got discouraged because i missed the nancy grace roman launch @repkarenbass https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg <~ @RobinBarnes @chloebaileywashere
-@howarduniversity
-thats some sort of landslid in a coffee table book i found at central and we are supposed to treack those things, and you all hurt me making miss the dark matter telescope launch you .,.. none of you know how a technical person that is physically inthe world acts or feels and you hurt me alot!!! thats all  @michelleobama @lapubliclibrary
-@hot97 @Lanajharris
-
-
-[@nasa-pds  hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg @nasa-jpl](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_IRB.NOMAP.browse.jpg) ///  [hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_MIRB.abrowse.jpg)
-<img  alt="image" src="https://github.com/user-attachments/assets/ef0bc6dd-541f-44b4-8319-abb2eea42ec5" />
 
 
 <img  alt="image @StateOfCalifornia @saccounty  @eodis-nasa @nasa-jpl @blackgirlscode  " src="https://github.com/user-attachments/assets/d81a4891-7a66-4ee8-b0d3-263811f2f964" />
@@ -1061,31 +1049,6 @@ Iran Gas Crisis, @CIA Spy In Russia & Canada Trade War
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A129690921&color=%2300b2ff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/uchicagolaw" title="UChicagoLaw" target="_blank" style="color: #cccccc; text-decoration: none;">UChicagoLaw</a> · <a href="https://soundcloud.com/uchicagolaw/harvey-levin-75-privacy-and" title="Harvey Levin, &#x27;75, &quot;Privacy and the Media&quot;" target="_blank" style="color: #cccccc; text-decoration: none;">Harvey Levin, &#x27;75, &quot;Privacy and the Media&quot;</a></div>
 
- [Marco Polo ft. Big Daddy Kane - "Nite & Day" (scratches by Shylow)](https://youtu.be/EJ-N4Xj9_2I?si=qeKmUPlUJpvL_BXA) //////////////////// @USGS [pds-imaging.jpl.nasa.gov/volumes/insight.html](https://pds-imaging.jpl.nasa.gov/volumes/insight.html) @NASA-PDS @NASA-DEVELOP the [InSight](https://science.nasa.gov/mission/insight/) mission page says itoccured 4 years ago, who stole it ? [MAtt Damon](https://www.facebook.com/primemovies/videos/he-makes-it-look-so-simple-the-martian/1760010098677618/) ? @NBCNEWS it was supposed to do siesmology indefinitley because we are supposed to have Martian Weather on the level of our EarthWeather assets for global space travel @JAXA @UKSpaceAgency  US SPACE PROGRAM got hurt by [this man](https://www.law.uchicago.edu/recordings/harvey-levin-75-privacy-and-media) 
- 
-<img  alt="image" src="https://github.com/user-attachments/assets/db1b8391-1dab-482d-b8b8-d598252df4d9" />
-
-
-![https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_80/JNCR_2026022_80R00002_V01.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_80/JNCR_2026022_80R00002_V01.PNG) 
-
-<img alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/5a0e4211-4dc1-43d3-9073-72b20a592e52" />
-
-
-```
-hi @NASA-PDS @LANAJHARRiS https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0035/EXTRAS/FULL/RDR/JUPITER/ORBIT_80/JNCR_2026023_80C00011_V01.PNG <~ something is wrong with the flightpath its actually an emergency its just spinning out of control @NASAJPL @WHiTEHOUSE , @Deptofwar hi pete its connected to emial @repkarenbass @SupervisorHollyJMitchell
-```
-
-@NASA [https://www.nasa.gov/nssdc/](https://www.nasa.gov/nssdc/) `429 Too Many Requests` 
-[nginx](https://nginx.org/) //// @nasa-jpl im trying to find the latest juno release, 8/04 is the most recent i see, but i feel im not looking i the right place, i felt guilty about making fun of @nasa-pds @blackgirlscode life style changes, especially since i had a broken heart, i can be more professional going forward... I learned about @NGiNX at RentPath alot of those girls and @NFL players that were customer service had lives outside of work and dance, and i just got eclipsed and i need to be reasonable about girls reactions and make sure i can perform at playboy butler levels even if there are no goodies on the other side of finished @doug-newman-nasa  [NGINX OSS 1.29.6 and 1.29.7: Open-sourced Session Persistence, Multipath TCP and More](https://blog.nginx.org/blog/nginx-oss-1-29-6-and-1-29-7-open-sourced-session-persistence-multipath-tcp-and-more)
-![https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg](https://www.msss.com/images/operations/Junocam/SouthernHemisphere.jpeg) 
-[@blackgirlscode @deptofwar @usnavy](https://www.msss.com/all_projects/junocam.php)
-![https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22178/PIA22178.gif](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia22/pia22178/PIA22178.gif)
-![https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/F5_NGINX-HORZ-RGB-300x85.png](https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2024/05/F5_NGINX-HORZ-RGB-300x85.png) 
-![https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2026/05/NGINX-Community-Blog-Images-4-300x169.png](https://nginxblog-8de1046ff5a84f2c-endpoint.azureedge.net/blobnginxbloga72cde487e/wp-content/uploads/2026/05/NGINX-Community-Blog-Images-4-300x169.png)
-![https://pds.nasa.gov/images/usa-gov.gif](https://pds.nasa.gov/images/usa-gov.gif)
-![https://data.nasa.gov/img/NASA_logo.png](https://data.nasa.gov/img/NASA_logo.png)
-
----
 
 ![https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538](https://www.arcgis.com/sharing/rest/content/items/a2db1481ce1c45829b8e54165ac49833/resources/geoglows_GEOGLOWS-white.png?v=1788033723538)
 
@@ -1815,7 +1778,6 @@ Donate and help us build better tools for a better web.
 #### Abercrombie CEO Trial, Trump Pardon Scandal & Florida Lawmaker Arrest
 [WATCH - https://youtu.be/Yfc-08N7Tps](https://youtu.be/Yfc-08N7Tps) /// [Former Abercrombie & Fitch CEO found competent to stand trial for sex trafficking charges by: Kate Shields](https://www.nbc4i.com/news/local-news/new-albany/former-abercrombie-fitch-ceo-found-confident-to-stand-trial-for-sex-trafficking-charges/)
 
-![]()
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c9161f7e-b63b-45b5-a591-db3ed87ee7c6" />
 
@@ -1845,37 +1807,6 @@ Donate and help us build better tools for a better web.
 [Sonta - Your MistakE](https://youtu.be/FiGAkDE7s7o?si=G50gtJHKEuvDPEnX) // [Project Pat - Choose U @Disney Chloe don't mean no harm @nbcnews ](https://youtu.be/SXykV3OtL8A?list=RDSXykV3OtL8A) // [If You Ain't From My Hood · Project Pat · Juicy J · DJ Paul](https://youtu.be/DrCs-n6pB4c?list=RDDrCs-n6pB4c) // [Three 6 Mafia - Niggaz Aint Barin Dat](https://youtu.be/C5fwP6pYXtk)
 
 ---
-
-Cosmic Dawn: The Untold Story of the James Webb Space Telescope
-[<video controls loading="lazy"  src="https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CD_YT1080_Track5.mp4)
-
-[https://spacetelescopelive.org/](https://spacetelescopelive.org/)
-<img  alt="image" src="https://github.com/user-attachments/assets/1aebfe1e-ec07-462e-a312-b186184b68e5" />
-
-#  ナンシー・グレイス・ローマン宇宙望遠鏡に関する記者説明会
-NAncy Grace Roman on @nasa-jpl!!!!!! @doug-newman-nasa @JAXA 
-[Nancy Grace Roman Space Telescope - JPL Science https://science.jpl.nasa.gov/projects/wfirst/ @cityoflosangeles](https://science.jpl.nasa.gov/projects/wfirst/) ///////// [NASA Ames’ Contributions to Roman’s Mission](https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/) // [200 times larger than Hubble’s infrared view - stsci.edu/roman](https://www.stsci.edu/roman) ++ ["Dark Energy" Lithograph](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/Roman-darkenergy-2024.pdf) // Brocures [https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/](https://science.nasa.gov/mission/roman-space-telescope/brochures-and-fact-sheets/) +++++ [`PRESSKiT` @CityOfLosAngeles @nbcnews](https://assets.science.nasa.gov/content/dam/science/missions/rst/education/aug%20Roman%20Press%20Kit-508compliant.pdf)
-
-[@ESA The ‘Mother of Hubble’: Nancy Grace Roman](https://esahubble.org/about/history/the-mother-of-hubble/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sT4cEjnJbBk?si=S_wb2vSEylsPnmaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">A strange, invisible force has been pushing galaxies apart faster and faster for billions of years. Astronomers have named it dark energy.<br><br>But how do we study something we can&#39;t see? Check out this video to learn more!<br><br>For a deeper dive, click here: <a href="https://t.co/dukYneetrO">https://t.co/dukYneetrO</a> <a href="https://t.co/VdAFE2fxlf">pic.twitter.com/VdAFE2fxlf</a></p>&mdash; Nancy Grace Roman Space Telescope (@NASARoman) <a href="https://x.com/NASARoman/status/2090107890799374614?ref_src=twsrc%5Etfw">August 19, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
-
-[@esa @thespacedevs @nasa-jpl @newshour LANA J HARRiS isas.jaxa.jp/en/missions/spacecraft/developing/roman.html](https://www.isas.jaxa.jp/en/missions/spacecraft/developing/roman.html) 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/18b0ef5a-3061-4c70-ba47-350222866a1a" />
-<img alt="image" src="https://github.com/user-attachments/assets/cd50449b-6360-4c7d-83d5-c4e5b209bdcd" />
-<img alt="image" src="https://github.com/user-attachments/assets/6dcf4bc1-8d0c-411b-b99f-e2e2e0d39c77" />
-
-## Who Was Nancy Grace Roman?
-
-Known as the "mother of the Hubble Space Telescope," Nancy Grace Roman was born May 16, 1925 in Nashville, Tennessee, and died December 25, 2018. From a young age, Roman showed an interest in astronomy, and when she was 11 years old she organized a club with her classmates in Reno, Nevada. In this club they learned about constellations and celestial objects from a book. By high school, Roman realized that she had a passion for astronomy and wanted to pursue it. Her academic prowess was highlighted when she participated in an accelerated program and graduated in three years from Baltimore's Western High School. [Read more - https://roman.ipac.caltech.edu/page/nancy-grace-roman](https://roman.ipac.caltech.edu/page/nancy-grace-roman) // [RetailConspiracy @Reddit How @NASA turned a spy satellite into the Nancy Grace Roman Space Telescope](https://www.reddit.com/r/space/comments/1vrqu9y/how_nasa_turned_a_spy_satellite_into_the_nancy/?rdt=39138)
-![https://roman.ipac.caltech.edu/system/media_files/binaries/159/large/225_44477663304_a673c66226_o.png?1648484196](https://roman.ipac.caltech.edu/system/media_files/binaries/159/large/225_44477663304_a673c66226_o.png?1648484196)
-
-
-
-![https://www.isas.jaxa.jp/common/images/logo-jaxa.svg](https://www.isas.jaxa.jp/common/images/logo-jaxa.svg)
 
 ![https://www.fec.gov/static/img/seal.svg](https://www.fec.gov/static/img/seal.svg) 
 
@@ -1987,65 +1918,7 @@ NASA Official: Doug Newman @doug-newman-nasa @nasa-jpl @cityoflosangeles @foratl
 
 <img alt="image" src="https://github.com/user-attachments/assets/80ad0779-a3fd-4b41-a02a-131db75213db" />
 
-# HElioPhysics Websites @nasa-jpl
-@ESA @NASAJPL [Sophie Adenot's second spacewalk | U.S. Spacewalk 98 (Official broadcast)](https://youtu.be/a9-7HyV77TU)
-@DeptOfWar there is no easy way to get money or a handset with my current family situation, i should have distanced myself after they started dancing with drake, but i made my bed and i know the county supervisor is helping me fix my relationships, bc this is unacceptable performance for our lab @whitehouse, im sorry [@ForAtlanta youtube.com/watch?v=SYIoWUay0ac](https://www.youtube.com/watch?v=SYIoWUay0ac)
-NASA astronaut Anil Menon and @ESA (European Space Agency) flight engineer Sophie Adenot will begin a spacewalk at 8:35 a.m. EDT (1235 UTC). The pair will finish installing a high-speed communications antenna on the International Space Station; Menon and Adenot began the work on Aug. 18, 2026.
 
-<img  alt="image" src="https://github.com/user-attachments/assets/1b54667e-6578-4e70-9318-276ebef363ea" />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I0j7as4MLHk?si=Nan8zdVgZLy2dZEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## _Parker Solar Probe_ Our First Visit to a Star
-`interActive!!!` < [`parkersolarprobe`.jhuapl.edu/](https://parkersolarprobe.jhuapl.edu/)
-[parker.gsfc.nasa.gov/](https://parker.gsfc.nasa.gov/)
-Two of the transformative advances in our understanding of the Sun and its influence on the solar system were the discovery that the corona is several hundreds of times hotter than the visible solar surface (the photosphere) and the development — and observational confirmation — of the theory of the corona's supersonic expansion into interplanetary space as a "solar wind."
-![https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png @nasa-giss](https://parker.gsfc.nasa.gov/assets/images/GoddarsSig.png)
-
-![https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg @nasa-jpl @blackgirlscode @cityoflosangeles](https://parkersolarprobe.jhuapl.edu/News-Center/admin/Press-Releases/images/articles/ParkerCloseup.jpg)
-<img alt="image" src="https://github.com/user-attachments/assets/e8c23615-202a-447c-a23b-953b50ecffc7" />
-[`MissionWebsite` science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png](https://science.nasa.gov/wp-content/uploads/2018/08/Parker-Solar-Probe_Logo-1024x1024-1.png)
-<img   alt="image" src="https://github.com/user-attachments/assets/2d48baa0-b421-4ccd-a5fa-8d431e13ba4a" />
-
-[@NASA Stereo A&b 3d Gallery](https://stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml)
-### STEREO 3D Images
-[stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml](https://stereo-ssc.nascom.nasa.gov/gallery/3dimages.shtml)
-[<video controls loading="lazy" poster="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops/frame000.jpg"  src="https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4" />](https://stereo-ssc.nascom.nasa.gov/img/3dimages/movies/Jul3_171A_post_flare_loops.mp4)
-<img alt="image" src="https://github.com/user-attachments/assets/2c1e640c-b27e-4be0-9139-ff65fa8a561a" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/5d280a4b-fc3d-45f3-833d-6ef278d80b94" />
-
-[https://science.nasa.gov/mission/stereo/](https://science.nasa.gov/mission/stereo/) // [https://sdo.gsfc.nasa.gov/](https://sdo.gsfc.nasa.gov/)
-[eyes.nasa.gov/apps/dsn-now/dsn.html](eyes.nasa.gov/apps/dsn-now/dsn.html)
-<img alt="image PARKER SOLAR PROBE i sTransmitting @nasa-jpl gm @blackgirlscode @JHUAPL @jhuapl-bio https://eyes.nasa.gov/apps/dsn-now/dsn.html @StateOfCalifornia @cityoflosangeles its in goldstone so @la-county-isd maybe @LowellObservatory can help us find griffith on @Github https://griffithobservatory.lacity.gov/ @whitehouse @dhs-gov @howard-university-web-services  " src="https://github.com/user-attachments/assets/1f36e789-0c77-44b1-b5da-4aa12532c2d3" />
-
-@nasa-jpl gm @blackgirlscode my butt is burning ferociously @howard-university-web-services so while i like my workstation position i have to sign off and see if the itching stops @nasa-pds i told lapd to look up @LowellObservatory @CityOfLosAngeles ... the itching and burning stopped all of a sudden so i think someone had a particle array , taser or laser on my chair 
-[Directed Energy Weapons: Ultra-Short Pulse Laser and Atmospheric Characterization - https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization @USNavy](onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-uspl-and-atmospheric-characterization)
-![https://www.onr.navy.mil/themes/custom/onr/logo.png](https://www.onr.navy.mil/themes/custom/onr/logo.png)
-<img  alt="image" src="https://github.com/user-attachments/assets/3d6c81f9-9f06-41ef-b9b4-ba314041205a" />
-
-## Mars from @LowellObservatory 
-[github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_from_lowell_observatory.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/mars_from_lowell_observatory.pdf)
-[github.com/virtiserv/NightWatch](https://github.com/virtiserv/NightWatch)
-<img  alt="image" src="https://github.com/user-attachments/assets/2b039bf4-0cf4-43a4-96b3-89567f746804" />
-@LowellObservatory  hi Its Rashard, I'm Active mission MRO I have been working out of [ @cityoflosangeles](https://www.lapl.org) [Central Library](https://www.discoverlosangeles.com/things-to-do/los-angeles-central-library-the-story-of-an-la-icon) to catch up on my work since its has been difficult to get on computers with my living situation it takes diligence to do research. I saw [Eight Months to Mars](https://youtu.be/_GdBUcwi1LM) and the ` Butler paintings` ([This guy?! @princetonuniversity ? @doug-newman-nasa](https://artmuseum.princeton.edu/art/collections/objects/45434)of the photographs concerned me that there were other landforms that I am not comprehending, you see I help with landings and scouting on that mission ... I was looking over recent Anagylphs at Hirise.org and came across [ESP_012516_1330_ESP_012239_1330](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png) and just trying to understand what's going on . . . Our Mayor [KAren Bass](https://mayor.lacity.gov/) is one of our [Congressional Contacts @Nasa-JPL / @Nasa-pds ](https://mayor.lacity.gov/) because she is on the team of people that Govern our county @La-County-Isd @StateOfCAlifornia I don't know what's going on with those lines but I want to hear your opinion someday  @nasa-giss [@Blackgirlscode Commit ae7126d](https://github.com/virtiserv/virtiserv.github.io/commit/ae7126d28b6980d02215d7acf231416f066a7af4)
-![https://foundation.lowell.edu/wp-content/themes/lowell-web_foundation/assets/images/lof-logo.png](https://foundation.lowell.edu/wp-content/themes/lowell-web_foundation/assets/images/lof-logo.png)
-
-![https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb](https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb)
-
-<img   alt="mars_from_lowell_observatory-21" src="https://github.com/user-attachments/assets/900eff55-079d-4f67-985e-f858a45812f9" />
-
-[@USNAVY @NASA-JPL en.wikipedia.org/wiki/Howard_Russell_Butler](https://en.wikipedia.org/wiki/Howard_Russell_Butler)
-
-![https://upload.wikimedia.org/wikipedia/commons/9/90/Howard_Russell_Butler.jpg](https://upload.wikimedia.org/wikipedia/commons/9/90/Howard_Russell_Butler.jpg)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/16328a52-21a8-41fb-b26c-e36da4b74b28" />
-
-<img   alt="mars_from_lowell_observatory-18" src="https://github.com/user-attachments/assets/3625b27a-3d54-4945-b72d-223ed3e50e12" />
-
-![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png)
-[MIT Alumni Forum: Decoding the Mystery of Water on Mars](https://youtu.be/JnODU5J767c) // [ @NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584](https://youtu.be/JPAyg7-p9oM) // [Planet Mars: 1979](https://youtu.be/dZzY8-nxabA)
-
-[55 Years Ago: Mariner 4 First to Explore Mars - READ @NASA](https://www.nasa.gov/history/55-years-ago-mariner-4-first-to-explore-mars/)
 
 [Shawty Lo - They Know](https://youtu.be/g_aMmSWd9M8?list=RDjwNYov2s3dI) // [Beyoncé - Pretty Hurts](https://youtu.be/LXXQLa-5n5w) // [The Crying Game · Nicki Minaj](https://youtu.be/VSeqlfTz1pE?list=RDVSeqlfTz1pE) // [Beef · Boogie Down Productions](https://youtu.be/nn4JLAmbbJk) // [My Philosophy · Boogie Down Productions](https://youtu.be/YzbZvPx9V1A) // [JAŸ-Z - On To The Next One ft. Swizz Beatz](https://youtu.be/VTYXVwrWz4Y) // [Estimated Prophet (2014 Remaster) · Grateful Dead](https://youtu.be/xgJ-UKYNNZI)
 
@@ -2645,23 +2518,6 @@ Young Thug's Wild Advice, China's '[Superman](https://www.youtube.com/playlist?l
 [WATCH - youtu.be/genklbB6EVQ?si=8-Q5uR0hnYEu3tBc](https://youtu.be/genklbB6EVQ?si=8-Q5uR0hnYEu3tBc)
 <img  alt="image" src="https://github.com/user-attachments/assets/ec3791f3-ba78-4346-b3b7-1e20f89bf462" />
 
-
-# Black Spot in MArtian Sky
-@deptofwar @whitehouse [Files - github.com/virtiserv/virtiserv.github.io/''''/sol01859%20-%20atlas_zip_download.zip](https://github.com/virtiserv/virtiserv.github.io/blob/master/assets/plots/sol01859%20-%20atlas_zip_download.zip)
-@nasa-jpl @doug-newman-nasa @newshour @foxnews @cbs-news-data @NBCNEWS @WashingtonPost
-@nasa-pds idk if its the eclipse on May 26 when phobos transisioned, i found it on Atlas and thought it was comnnected to the recent martian eclipse of phobos on 8/13 . . . anyway @nasa-jpl back to may . . . the day following the black spot [MastCam-Z](https://science.nasa.gov/mission/mars-2020-perseverance/science-instruments/#cameras) saved a [scrambled image](https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ) . . . the dark spot can be found in atlas beta [`pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/01859/ids/rdr/ncam/NLG_1859_0831980527_534RZS_N0880844NCAM00518_0A02I3J01.IMG` @nasa @cityoflosangeles ](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds4:mars_2020:perseverance:/mars2020_navcam_ops_calibrated/data/sol/01859/ids/rdr/ncam/NLG_1859_0831980527_534RZS_N0880844NCAM00518_0A02I3J01.IMG)
-
-
-
-
-![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01861/ids/edr/browse/zcam/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01861/ids/edr/browse/zcam/ZL7_1861_0832133671_785EBY_N0880844ZCAM01091_1100LMJ01_1200.jpg)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/735154d6-7789-496b-8c78-2a9ed5a07dde" />
-
-![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/7/27193_PIA25660-web.jpg?w=1200&h=263&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/7/27193_PIA25660-web.jpg?w=1200&h=263&fit=clip&crop=faces%2Cfocalpoint)
-![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24223_PIA23316-web.jpg?w=1600&h=1068&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/4/24223_PIA23316-web.jpg?w=1600&h=1068&fit=clip&crop=faces%2Cfocalpoint)
-
-<img alt="image" src="https://github.com/user-attachments/assets/fb3f9f52-6b43-4c0a-96cd-912dd9394922" />
 
 
 # LRO_Madrid_DSN [homepage @nasa-giss](https://www.mdscc.nasa.gov/index.php/en/start/)
