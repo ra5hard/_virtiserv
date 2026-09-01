@@ -24,6 +24,7 @@ p {
 img {
   max-width: 100%;
   display: block;
+  border-radius:12px;
   transition: all 0.5s linear;
 }
 
@@ -179,7 +180,7 @@ header h2 {
 
 .tupperware_col > * {
   border: 1px solid dodgerblue;
-  border-radius: 1px;
+  border-radius: 5px;
   padding: 10px;
   flex-basis: 250px;
   flex-shrink: 3;
@@ -221,7 +222,7 @@ header h2 {
 .tupperware > * {
   display: block;
   border: 1px solid dodgerblue;
-  border-radius: 1px;
+  border-radius: 5px;
   padding: 10px;
   flex-basis: 200px;
   flex-shrink:3;
@@ -312,6 +313,7 @@ aside a.button {
 
 iframe {
   height: 400px;
+	 border-radius:12px;
   width: 100%;
   margin: 0px;
   padding: 0px;
