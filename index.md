@@ -21,6 +21,8 @@ layout: default
 
 <img alt="image" src="https://github.com/user-attachments/assets/54b35f62-0748-4007-aaf6-7d947c084d7b" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🇨🇦 (this is real) <a href="https://t.co/Ucx2FNdi1q">pic.twitter.com/Ucx2FNdi1q</a></p>&mdash; Pete Hegseth (@PeteHegseth) <a href="https://x.com/PeteHegseth/status/2094593108755562927?ref_src=twsrc%5Etfw">September 1, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 // [hot97.com](https://www.hot97.com/)
 
 <img alt="image" src="https://github.com/user-attachments/assets/328af713-6b0e-4ef2-90ce-35a242f8bb99" />
