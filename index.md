@@ -2,6 +2,20 @@
 layout: default
 ---
 
+[Ella Fitzgerald And Louis Armstrong ‎– ELLA AND LOUIS AGAIN ](https://youtu.be/ceygsgbpbB8) // [Armstrong , Ellington -The great reunion -1970](https://youtu.be/gIU-ZA-04jg)
+
+---
+
+What's Up: September 2026 Skywatching Tips from NASA
+[`WATCH` - youtu.be/s_5V4X6SiWI](https://youtu.be/s_5V4X6SiWI)
+<img  alt="image" src="https://github.com/user-attachments/assets/f23d3ae5-b556-4813-98d7-780de8bc2415" />
+
+
+![https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png](https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png)
+
+<img alt="image" src="https://github.com/user-attachments/assets/328af713-6b0e-4ef2-90ce-35a242f8bb99" />
+
+
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-15" src="https://github.com/user-attachments/assets/aa1ee94e-d5be-44e8-b223-4f4febf77ab8" />
 
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-14" src="https://github.com/user-attachments/assets/03e07857-024b-4904-bd45-53aec4cdd192" />
@@ -13,6 +27,7 @@ layout: default
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-20" src="https://github.com/user-attachments/assets/411f340d-f09f-4f4f-9f24-3247094152f7" />
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-10" src="https://github.com/user-attachments/assets/d74f97bd-5c80-4f7f-970b-938cc61208f0" />
 
+![https://podaac.jpl.nasa.gov/sites/default/files/flexslider/2025-ED-Webinar-SWOT-Hydro-Tools%20.jpg](https://podaac.jpl.nasa.gov/sites/default/files/flexslider/2025-ED-Webinar-SWOT-Hydro-Tools%20.jpg)
 
 <img  alt="NASA_JPL_MARS_RESOURCES_MER_era-11" src="https://github.com/user-attachments/assets/a24c8aeb-8524-452f-9c3d-63fc2e19be4a" />
 
