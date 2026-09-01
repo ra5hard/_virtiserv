@@ -16,11 +16,6 @@ layout: default
 
 ---
 
-What's Up: September 2026 Skywatching Tips from NASA
-[`WATCH` - youtu.be/s_5V4X6SiWI](https://youtu.be/s_5V4X6SiWI)
-<img  alt="image" src="https://github.com/user-attachments/assets/f23d3ae5-b556-4813-98d7-780de8bc2415" />
-
-[Ella Fitzgerald And Louis Armstrong ‎– ELLA AND LOUIS AGAIN ](https://youtu.be/ceygsgbpbB8) // [Armstrong , Ellington -The great reunion -1970](https://youtu.be/gIU-ZA-04jg)
 
 
 [`WATCH` - Deadly Flash Flood Tears Through Grand Canyon](https://youtu.be/hTtVlfBNgew?si=HoTJxA0TY6M_jLkW)
@@ -28,8 +23,17 @@ What's Up: September 2026 Skywatching Tips from NASA
 <img alt="image" src="https://github.com/user-attachments/assets/54b35f62-0748-4007-aaf6-7d947c084d7b" />
 
 // [hot97.com](https://www.hot97.com/)
+
 <img alt="image" src="https://github.com/user-attachments/assets/328af713-6b0e-4ef2-90ce-35a242f8bb99" />
 `https://www.youtube.com/results?search_query=+Deadly+Flash+Flood+Tears+Through+Grand+Canyon+hot97` @blackgirlscode this is three tiers down @ForAtlanta from a normal @Youtube Query, that's sabotage bro @Howard-university-web-services [Lana J Harris @nasa-jpl](https://www.linkedin.com/in/lana-harris-8bb580108)
+
+What's Up: September 2026 Skywatching Tips from NASA
+[`WATCH` - youtu.be/s_5V4X6SiWI](https://youtu.be/s_5V4X6SiWI)
+<img  alt="image" src="https://github.com/user-attachments/assets/f23d3ae5-b556-4813-98d7-780de8bc2415" />
+
+[Ella Fitzgerald And Louis Armstrong ‎– ELLA AND LOUIS AGAIN ](https://youtu.be/ceygsgbpbB8) // [Armstrong , Ellington -The great reunion -1970](https://youtu.be/gIU-ZA-04jg)
+
+
 
 ### GRACE Mascons Visualization Tool
 CSR · JPL · GSFC [Link - @SWOTCommunity gracetws.com/#/analysis](https://www.gracetws.com/#/analysis)
