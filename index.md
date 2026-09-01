@@ -13,8 +13,12 @@ What's Up: September 2026 Skywatching Tips from NASA
 
 ![https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png](https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png)
 
-<img alt="image" src="https://github.com/user-attachments/assets/328af713-6b0e-4ef2-90ce-35a242f8bb99" />
+[`WATCH` - Deadly Flash Flood Tears Through Grand Canyon]()
 
+<img alt="image" src="https://github.com/user-attachments/assets/328af713-6b0e-4ef2-90ce-35a242f8bb99" />
+Significant Flash Flooding Closes Phantom Ranch and North Kaibab Trail [LiNK](https://www.nps.gov/grca/learn/news/significant-flash-flooding-closes-phantom-ranch-and-north-kaibab-trail.htm)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cdefff80-55cd-4eaa-8f59-f2e2b8cbc232" />
 
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-15" src="https://github.com/user-attachments/assets/aa1ee94e-d5be-44e8-b223-4f4febf77ab8" />
 
