@@ -2,7 +2,10 @@
 layout: default
 ---
 
-[Ella Fitzgerald And Louis Armstrong ‎– ELLA AND LOUIS AGAIN ](https://youtu.be/ceygsgbpbB8) // [Armstrong , Ellington -The great reunion -1970](https://youtu.be/gIU-ZA-04jg)
+[It's A Fire · Portishead](https://youtu.be/selAvZE6lp4)
+
+
+
 
 ---
 
@@ -10,13 +13,31 @@ What's Up: September 2026 Skywatching Tips from NASA
 [`WATCH` - youtu.be/s_5V4X6SiWI](https://youtu.be/s_5V4X6SiWI)
 <img  alt="image" src="https://github.com/user-attachments/assets/f23d3ae5-b556-4813-98d7-780de8bc2415" />
 
+[Ella Fitzgerald And Louis Armstrong ‎– ELLA AND LOUIS AGAIN ](https://youtu.be/ceygsgbpbB8) // [Armstrong , Ellington -The great reunion -1970](https://youtu.be/gIU-ZA-04jg)
+
+
+[`WATCH` - Deadly Flash Flood Tears Through Grand Canyon](https://youtu.be/hTtVlfBNgew?si=HoTJxA0TY6M_jLkW)
+
+<img alt="image" src="https://github.com/user-attachments/assets/54b35f62-0748-4007-aaf6-7d947c084d7b" />
+
+// [hot97.com](https://www.hot97.com/)
+<img alt="image" src="https://github.com/user-attachments/assets/328af713-6b0e-4ef2-90ce-35a242f8bb99" />
+`https://www.youtube.com/results?search_query=+Deadly+Flash+Flood+Tears+Through+Grand+Canyon+hot97` @blackgirlscode this is three tiers down @ForAtlanta from a normal @Youtube Query, that's sabotage bro @Howard-university-web-services [Lana J Harris @nasa-jpl](https://www.linkedin.com/in/lana-harris-8bb580108)
+
+### GRACE Mascons Visualization Tool
+CSR · JPL · GSFC [Link - @SWOTCommunity gracetws.com/#/analysis](https://www.gracetws.com/#/analysis)
+<img alt="@nasa-jpl @eodis-nasa download" src="https://github.com/user-attachments/assets/d48ded73-ff53-4f59-89c6-2fc57180e232" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/1298afee-d6fe-4001-bfec-00b74f2f4810" />
 
 ![https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png](https://podaac.jpl.nasa.gov/sites/all/themes/podaac/logo.png)
 
-[`WATCH` - Deadly Flash Flood Tears Through Grand Canyon]()
 
-<img alt="image" src="https://github.com/user-attachments/assets/328af713-6b0e-4ef2-90ce-35a242f8bb99" />
-Significant Flash Flooding Closes Phantom Ranch and North Kaibab Trail [LiNK](https://www.nps.gov/grca/learn/news/significant-flash-flooding-closes-phantom-ranch-and-north-kaibab-trail.htm)
+<img alt="image" src="https://github.com/user-attachments/assets/d277674e-d3ac-4c34-ba4b-83f5acad704f" />
+
+Significant Flash Flooding Closes Phantom Ranch and North Kaibab Trail [LiNK](https://www.nps.gov/grca/learn/news/significant-flash-flooding-closes-phantom-ranch-and-north-kaibab-trail.htm) 
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cdefff80-55cd-4eaa-8f59-f2e2b8cbc232" />
 
@@ -25,10 +46,10 @@ Significant Flash Flooding Closes Phantom Ranch and North Kaibab Trail [LiNK](ht
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-14" src="https://github.com/user-attachments/assets/03e07857-024b-4904-bd45-53aec4cdd192" />
 
 
-<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-09" src="https://github.com/user-attachments/assets/eb46566c-abbd-4a12-ae5c-cde98fb2134f" />
+<img  alt=" @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-09" src="https://github.com/user-attachments/assets/eb46566c-abbd-4a12-ae5c-cde98fb2134f" />
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-13" src="https://github.com/user-attachments/assets/4ffb479f-dfff-40a3-884c-b5f24483334d" />
-<img alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-02" src="https://github.com/user-attachments/assets/05bc5c49-700c-45dc-87bd-ec387cf5a9d3" />
-<img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-20" src="https://github.com/user-attachments/assets/411f340d-f09f-4f4f-9f24-3247094152f7" />
+<img alt="  @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-02" src="https://github.com/user-attachments/assets/05bc5c49-700c-45dc-87bd-ec387cf5a9d3" />
+<img  alt=" @SWOTCommunity  LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-20" src="https://github.com/user-attachments/assets/411f340d-f09f-4f4f-9f24-3247094152f7" />
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-10" src="https://github.com/user-attachments/assets/d74f97bd-5c80-4f7f-970b-938cc61208f0" />
 
 ![https://podaac.jpl.nasa.gov/sites/default/files/flexslider/2025-ED-Webinar-SWOT-Hydro-Tools%20.jpg](https://podaac.jpl.nasa.gov/sites/default/files/flexslider/2025-ED-Webinar-SWOT-Hydro-Tools%20.jpg)
