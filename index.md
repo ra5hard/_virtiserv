@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dcce1723-f5ea-4b69-8e30-559cc60fba1e" />
+
+
 ## Sophie Adenot's third spacewalk 
 @nasa-jpl @ESA [youtube.com/ @NASA](https://www.youtube.com/@NASA)
 | U.S. Spacewalk 99 [`WATCH` - youtu.be/3KPmNAXskBY](https://youtu.be/3KPmNAXskBY)
