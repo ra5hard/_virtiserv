@@ -22,6 +22,10 @@ permalink: losangeles
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/@RepKarenBass)
  -   [![Twitter Follow](https://img.shields.io/badge/Social-@NASAJPL__-blue?style=social&logo=X)](https://twitter.com/@NASAJPL)
 
+<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
+
+
+<img alt=" @cityoflosangeles EMIT_L1B_RAD_001_20260525T210941_2614514_002" src="https://github.com/user-attachments/assets/e6c21851-5f6b-4f11-81f3-d63aca908ac2" />
 
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-15" src="https://github.com/user-attachments/assets/aa1ee94e-d5be-44e8-b223-4f4febf77ab8" />
 
@@ -34,7 +38,43 @@ permalink: losangeles
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-20" src="https://github.com/user-attachments/assets/411f340d-f09f-4f4f-9f24-3247094152f7" />
 <img  alt="LA_RiVER_LONGBEACH_PAC_COAST_HWY_BiOMASS-10" src="https://github.com/user-attachments/assets/d74f97bd-5c80-4f7f-970b-938cc61208f0" />
 
-<iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
+
+
+<img alt="EMIT_L1B_RAD_001_20260525T210941_2614514_002" src="https://github.com/user-attachments/assets/e6c21851-5f6b-4f11-81f3-d63aca908ac2" />
+
+ 
+@ESA @eu-cdse hi its [rashard](https://virtiserv.github.io/rashardmro/hr) from @nasa-jpl... i dont know how reliable this @Github handle is but i want you guys to connect with @LongBeachInnovationTeam well, i dont know im trying to communicate danger looking at the moisture index, I know its not good but i dont want to be an alarmist @StateOfCalifornia [Governor Newsom](https://www.gov.ca.gov/) can we get some california privilage for some fly overs to understand whats up with the water, we had kelp bits on the long beach shore, in @CityOfSantamonica they come in bundles, but i think the levees break them up ,... im committing, i need to look up a map
+[@eu-cdse browser.dataspace.copernicus.eu/?zoom=12&lat=33.81966&lng=-118.22886&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FoIV40JIiH6NkqSMszVPif8JfqP2585BSPQA%2F8WjHD%2F6IlOsXS1uN8rVwImqZb%2BQ1VAN9sLKY1a1x8MkQHywKBRt4KGnh%2BYvyDzG2X%2F8A0QC6uVWZDLmqV&datasetId=S2_L2A_CDAS&fromTime=2026-08-25T00%3A00%3A00.000Z&toTime=2026-08-25T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=12&lat=33.81966&lng=-118.22886&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FoIV40JIiH6NkqSMszVPif8JfqP2585BSPQA%2F8WjHD%2F6IlOsXS1uN8rVwImqZb%2BQ1VAN9sLKY1a1x8MkQHywKBRt4KGnh%2BYvyDzG2X%2F8A0QC6uVWZDLmqV&datasetId=S2_L2A_CDAS&fromTime=2026-08-25T00%3A00%3A00.000Z&toTime=2026-08-25T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+[hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles ](hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_016200_016299/ESP_016228_2650/ESP_016228_2650_RED.NOMAP.browse.jpg)
+
+<img alt="AV520250627t194118_004_L1B_RDN_5b9e1cc2_RDN_BROWSE" src="https://github.com/user-attachments/assets/83e1e0c2-4145-4846-b671-b27761d4f027" />
+
+<img  alt="AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles " src="https://github.com/user-attachments/assets/039937ad-b81c-4152-8899-4b4de085918e" />
+
+![ @nasa-jpl Aviris.jpl.nasa.gov @la-county-isd @cityoflosangeles](<img src="https://d3o6w55j8uz1ro.cloudfront.net/s3-d0f68fa49c8cba12794bb586349f2341/ornl-cumulus-prod-public.s3.us-west-2.amazonaws.com/aviris/AV5_L1B_RDN/data/AV520250602t210914_014_L1B_RDN_5b9e1cc2_RDN_BROWSE.jpg?A-userid=None&amp;Expires=1788133036&amp;Signature=UlngqU0ntvc1Nbo9D8pTNCwpGqJbePcQmPR2nR~95PrfPjtglAlPhvhb2QPB9AKk1FhzKdWJXWcIMsVCQsNXGWnNMi3oJFJp6FZc~ZSdmxdI69Si8egKikcjYJAiKXUjUy1J3U3zMuuprmPlMjZFzAEpArQRnXeZuRu1GTqD-zlY8KMJqq-HdGO4aOa1~XNZg7Rj38OgenHK2h3JCGCJfWOwIiQcREsNaGwb7VZEfYAwqmHMjiSd-CIhBmhCnlcqtA35rn9-jMivw5n8m2ywIqthyeMWVe-RUpGCEzIFx5Mc0eBEvbo3jx9ClwvGEIgcNWcJmC~7GnZmqMvQlJ-kww__&amp;Key-Pair-Id=K30BK6GBUP3FO5"/>) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a1c527be-8441-452a-a389-0c6b7732a6f7" />
+
+<img alt="image (2)-11" src="https://github.com/user-attachments/assets/ac23503c-5118-4906-bdea-0fb33ff8c6c5" />
+<img alt="image (2)-17" src="https://github.com/user-attachments/assets/f2014a8e-2307-4f52-a931-e9647b04af0f" />
+
+<img  alt="image-3 @nasa-jpl .. @nasa-pds yo sistuh after @github @blaCKGIRLSCODE @HOWARD-UNIVERSITY-WEB-SERVICES" src="https://github.com/user-attachments/assets/48877e3f-2eb4-4378-af1e-43388e49db38" />
+
+<img  alt="image-4" src="https://github.com/user-attachments/assets/b5133e18-595f-4c60-bcae-d17de48f3897" />
+
+<img   alt="image-2" src="https://github.com/user-attachments/assets/cc99e1ff-dd9e-4086-8fed-f0f535de5f7d" />
+
+
+<img   alt=" @emit-sds 4mapping @nasa-pds @usgs image (1)-03" src="https://github.com/user-attachments/assets/60926a93-530f-412b-a6ee-d36b734ebdaa" />
+
+<img alt="image (1)-15" src="https://github.com/user-attachments/assets/f2e03b0c-2b6a-48fd-994b-c19f2dddf477" />
+<img alt="image (1)-16 " src="https://github.com/user-attachments/assets/beecc79f-5cb8-412c-b673-5c1e9e6c8176" />
+<img alt="image (1)-13" src="https://github.com/user-attachments/assets/7968ab2c-75cc-4afd-ad5f-a71385a4f3ee" />
+
+<img   alt="image (1)-11" src="https://github.com/user-attachments/assets/327dc4d8-2c92-4d06-9202-ebc0da827ee3" />
+<img   alt="image (1)-12" src="https://github.com/user-attachments/assets/48c62202-74a4-4e28-93a4-af15fe23aef5" />
+
 
 
 <img   alt=" @nasa @cityofsantamonica ECOv002_L3T_JET_45636_005_11SLT_20260723T213955_0713_01_ET" src="https://github.com/user-attachments/assets/c3345983-7d7d-47a1-8f98-aa0a299eb3fe" />
