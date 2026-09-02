@@ -16,6 +16,14 @@ layout: default
 
 ---
 
+<img  alt="image" src="https://github.com/user-attachments/assets/2e8386b5-bd45-40c5-93f7-e77a4f30dc94" />
+
+@nasa-pds Emily is that your name, can you share for Lana I need to get food @blackgirlscode @commercegov ... I will clean it up later she got some subjects that need fact checking @DeptOfWar and some other shit @ForAtlanta [`WATCH` - youtu.be/0c31wlVvIDs](https://youtu.be/0c31wlVvIDs)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0c31wlVvIDs?si=4CGUdCoVCHHS2Od5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8b4478ef-1716-4af0-a3df-de8382cdcf57" />
+
+
 [Creepin' · Stevie Wonder](https://youtu.be/Akwvng0SEjA)
 `@lanajharris just be balanced, you are a fast girl , @repkarenbass i just got hurt, ill be ok i needed to cry @SupervisorHollyJMitchell @georgiadivisionoffamilychi9316
 @Keishaforga I'm not mad at her, idk how modern human mingle, I read Darwin and got fucked up with dating in Atlanta and did not know what California was to them and my body is being hurt by vandals that eat people and stab people eyes out and I don't know who shes attached to , Erika bounced long ago! @itsGavinNewsom` @ForAtlanta @StateOfCalifornia
