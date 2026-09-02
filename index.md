@@ -17,9 +17,12 @@ layout: default
 ---
 
 
-Street Fighter Alpha 3 (Euro 980904)
+Street Fighter Alpha 3 (Euro 980904) 
+[archive.org/details/arcade_`sfa3`](https://archive.org/details/arcade_sfa3)
 by  [Capcom](https://www.capcom.co.jp/)
+
 <iframe src="https://archive.org/embed/arcade_sfa3" width="560" height="560" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [archive.org/details/arcade_xmcota#](https://archive.org/details/arcade_xmcota#)
 
 [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
