@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[It's A Fire · Portishead](https://youtu.be/selAvZE6lp4) // [Sour Times · Portishead](https://youtu.be/VoSoZyiHZ6o) // [Doubie Ashtray · Devin the Dude](https://youtu.be/XMjO4plTlb4)
+[It's A Fire · Portishead](https://youtu.be/selAvZE6lp4) // [Sour Times · Portishead](https://youtu.be/VoSoZyiHZ6o) // [Doubie Ashtray · Devin the Dude](https://youtu.be/XMjO4plTlb4) // [Mule Muraja - Trillion (ሙሌ ሙራጃ ትሪልየን)](https://youtu.be/62EC4kp1U8Q)
 
 
 <p>
@@ -15,6 +15,16 @@ layout: default
 
 
 ---
+
+[eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+Madrid Deep Space Communications Complex
+DEEP SPACE NETWORK [@NASA-JPL @NASA-PDS _HomePAge_mdscc.nasa.gov](https://www.mdscc.nasa.gov/index.php/en/start/)
+<img  alt="image" src="https://github.com/user-attachments/assets/f54a07da-ae1b-4abe-ade5-857f276206eb" />
+[Why NASA’s Roman Space Telescope Will Make Discoveries Scientists Don't Expect](https://youtu.be/FqZTQA6p7Tc)
+Madrid is renowned for its unique charm and its exhilarating cultural life. In the 10th century, a Moorish fortress called Magerit was first built on the site, a plateau 656 meters (2,150 feet) above sea level [-READMORE-](https://www.jpl.nasa.gov/images/pia11163-madrid/) `@T.I. i dont know who that @Nasa-PDS lady is, but i keep confusing her for @GLORiLLA and im embarrased bc i projected angry comments to her accidentally, whatever kin of yours in my significant other voice is not that deep and arns not as gangally @NASAJPL @T.I. i am under the impression that @LANAJHARRiS is #LatricePAPERDegreeFitzpatrick and the young @chloebaileywashere is yourr sister that graduated from @HowardUniversity ? - #Rashard @NasaEarthdata @HopeEntertainmentOy`
+
+![https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA11163.jpg](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA11163.jpg)
 
 [retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html @nasa-pds #](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
 <img alt=" @nasa-pds thx for the attention Lana I'm recovering I cried bad @blackgirlscode image" src="https://github.com/user-attachments/assets/afb8daf4-d18f-4606-a263-2a295f361a8b" />
