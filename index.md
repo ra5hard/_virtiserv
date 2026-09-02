@@ -18,8 +18,19 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2e8386b5-bd45-40c5-93f7-e77a4f30dc94" />
 
-@nasa-pds Emily is that your name, can you share for Lana I need to get food @blackgirlscode @commercegov ... I will clean it up later she got some subjects that need fact checking @DeptOfWar and some other shit @ForAtlanta [`WATCH` - youtu.be/0c31wlVvIDs](https://youtu.be/0c31wlVvIDs)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0c31wlVvIDs?si=4CGUdCoVCHHS2Od5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@nasa-pds Emily is that your name, can you share for Lana I need to get food @blackgirlscode @commercegov ... I will clean it up later she got some subjects that need fact checking @DeptOfWar and some other shit @ForAtlanta [`WATCH` - youtu.be/0c31wlVvIDs](https://youtu.be/0c31wlVvIDs) // [The Islamic Revolutionary Guard Corps (IRGC) @nasa-JPL](https://www.cfr.org/backgrounders/irans-revolutionary-guards)
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| cfr.org | wren.ns.cloudflare.com. @nasa-jpl @whitehouse | 21600 | 
+| cfr.org | nash.ns.cloudflare.com. @nasa-jpl @whitehouse | 21600 | 
+
+<img alt="image" src="https://github.com/user-attachments/assets/da013cc2-4731-4272-9858-1574436c3237" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8b4478ef-1716-4af0-a3df-de8382cdcf57" />
 
@@ -42,6 +53,43 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/3b5bfc27-2fed-4d5c-9863-b35bd3144fc6" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/ff8901c8-e296-44c2-bf83-f86772adb755" />
+
+
+
+
+
+# Inside the Atlanta Strip Club that Runs Hip Hop 
+Magic City @deptofwar [WATCH - @Cityoflosangeles @blackgirlscode youtu.be/-RfRclWgIOg?t=413](https://youtu.be/-RfRclWgIOg?t=413)
+[Eugenics and Scientific Racism @NIHGOV @dhs-gov @nasa-pds](https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism)
+In this full-length documentary by award winner Lauren Greenfield, we get to know the strippers, rappers, hustlers, and dreamers that make up the legendary [Magic City](https://www.magiccity.com/). More than just a strip club, the ATL hot spot is where aspiring rappers use the club’s influence in the hip hop industry to try and make it big, and where dancers and DJs call the shots as they seek out their own fame and fortune
+SUBSCRIBE for more videos: ‪http://gqm.ag/YouTubeSub‬ [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234) // [How do you recover fast after a shift? @rEDDIT @NASA-JPL](https://www.reddit.com/r/stripper/comments/16x9bs7/how_do_you_recover_fast_after_a_shift/) // [Ravyn Lenae Joins The Vibe Q|Talks ‘Blue Island’ Album, Black Identity in Music, and More](https://youtu.be/reP4Qt5u1nY?t=56)
+
+[Stripper Confessionals: Life After Stripping](https://www.thrillist.com/entertainment/nation/stripper-confessionals-what-strippers-do-when-their-careers-are-over) /// 
+[Stripping Helped Me Heal, But I’m Quitting Sex Work](https://saltyworld.net/stripping-helped-me-heal-but-im-quitting-sex-work/) /// [How Burlesque Helped Me Heal From Losing Everything I Loved](https://www.yourtango.com/self/how-burlesque-helped-me-heal-losing-everything-loved) /// [How Burlesque Heals Its Dancers](https://greatergood.berkeley.edu/article/item/How_burlesque_heals_its_dancers) /// [Top 3 Reasons I Became a Stripper](https://www.iamatreasure.com/blog/top-3-reasons-i-became-stripper)
+/// [Lessons on Taking Care of Your Body From a Stripper - medium.com @CityOfLosAngeles](https://medium.com/@sashaspeeks/lessons-on-taking-care-of-your-body-from-a-stripper-173e9d78632d)
+[ABOUT GQ](https://www.gq.com/)
+For more than 50 years, GQ has been the premier men’s magazine, providing definitive coverage of style, culture, politics and more. In that tradition, GQ’s video channel covers every part of a man’s life, from entertainment and sports to fashion and grooming advice. So join celebrities from 2 Chainz, Stephen Curry and Channing Tatum to Amy Schumer, Kendall Jenner and Kate Upton for a look at the best in pop culture. Welcome to the modern man’s guide to style advice, dating tips, celebrity videos, music, sports and more.
+Still haven’t subscribed to GQ on YouTube? ►► http://bit.ly/2iij5wt 
+
+@StateofCalifornia @nbcnews @newshour
+<img alt="image @StateofCalifornia @nbcnews @newshour # Inside the Atlanta Strip Club that Runs Hip Hop 
+Magic City @deptofwar [WATCH - @Cityoflosangeles @blackgirlscode youtu.be/-RfRclWgIOg?t=413](https://youtu.be/-RfRclWgIOg?t=413)
+[Eugenics and Scientific Racism @NIHGOV @dhs-gov @nasa-pds](https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism)" src="https://github.com/user-attachments/assets/73749ff8-23f8-433c-ba4a-f4a3bce1c6ff" />
+
+# NS Records 
+
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| magiccity.com | ns2.magiccity.com. @nasa-jpl I need rebadging @whitehouse | 21600 | 
+| magiccity.com | ns1.magiccity.com. @nasa-jpl I need rebadging @whitehouse | 21600 | 
+[SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk) 
+<img  alt="image [SZA - bROKEN cLOCKS @BLACKGIRLSCODE @usgs](https://youtu.be/zVc-K1kKkVk?t=234) " src="https://github.com/user-attachments/assets/958fe6e7-c4f3-46e9-ba81-e0e777f04248" />
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
+<a href="https://www.reddit.com/r/stripper/comments/1osswwn/stripping_helped_me_more_than_therapy_ever_did_tbh/">Stripping helped me more than therapy ever did tbh</a><br> by
+<a href="https://www.reddit.com/user/Xo-Overdose/">u/Xo-Overdose</a> in
+<a href="https://www.reddit.com/r/stripper/">stripper</a>
+</blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
