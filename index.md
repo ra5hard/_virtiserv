@@ -25,6 +25,8 @@ by  [Capcom](https://www.capcom.co.jp/)
 
 [archive.org/details/arcade_xmcota#](https://archive.org/details/arcade_xmcota#)
 
+![https://dn721805.ca.archive.org/0/items/thelastblade/Flyer%20%20The%20Last%20Blade%20%281997%29%20%28Fighting%29%20%28Arcade%29.jpg](https://dn721805.ca.archive.org/0/items/thelastblade/Flyer%20%20The%20Last%20Blade%20%281997%29%20%28Fighting%29%20%28Arcade%29.jpg) 
+
 [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/cdbc199b-0ca3-471b-b3c4-61159c05abe4" />
 
