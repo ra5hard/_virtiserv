@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[It's A Fire · Portishead](https://youtu.be/selAvZE6lp4) // [Sour Times · Portishead](https://youtu.be/VoSoZyiHZ6o) // [Doubie Ashtray · Devin the Dude](https://youtu.be/XMjO4plTlb4) // [Mule Muraja - Trillion (ሙሌ ሙራጃ ትሪልየን)](https://youtu.be/62EC4kp1U8Q) // [Marco Polo ft. Artifacts - "Back To Work"](https://youtu.be/-6-olhfhxuU)
+[It's A Fire · Portishead](https://youtu.be/selAvZE6lp4) // [Sour Times · Portishead](https://youtu.be/VoSoZyiHZ6o) // [Doubie Ashtray · Devin the Dude](https://youtu.be/XMjO4plTlb4) // [Mule Muraja - Trillion (ሙሌ ሙራጃ ትሪልየን)](https://youtu.be/62EC4kp1U8Q) // [Marco Polo ft. Artifacts - "Back To Work"](https://youtu.be/-6-olhfhxuU) // [Creepin' · Stevie Wonder](https://youtu.be/Akwvng0SEjA)
 
 
 <p>
@@ -15,6 +15,12 @@ layout: default
 
 
 ---
+
+[Creepin' · Stevie Wonder](https://youtu.be/Akwvng0SEjA)
+`@lanajharris just be balanced, you are a fast girl , @repkarenbass i just got hurt, ill be ok i needed to cry @SupervisorHollyJMitchell @georgiadivisionoffamilychi9316
+@Keishaforga I'm not mad at her, idk how modern human mingle, I read Darwin and got fucked up with dating in Atlanta and did not know what California was to them and my body is being hurt by vandals that eat people and stab people eyes out and I don't know who shes attached to , Erika bounced long ago! @itsGavinNewsom` @ForAtlanta @StateOfCalifornia
+
+![https://yt3.googleusercontent.com/2szdbIGgXN496aiCQBzGaVleH6j3Q0cQn4nz1GZMz4bk13OcUPK4ghNNph-Zlz5Cs7-P0tUwOA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/2szdbIGgXN496aiCQBzGaVleH6j3Q0cQn4nz1GZMz4bk13OcUPK4ghNNph-Zlz5Cs7-P0tUwOA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 ## Justice At Last: The Man Who Bragged About Killing Tupac
 @la-county-isd @CityOfLosAngeles
