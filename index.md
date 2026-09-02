@@ -17,6 +17,9 @@ layout: default
 ---
 
 
+<img alt="image" src="https://github.com/user-attachments/assets/afb8daf4-d18f-4606-a263-2a295f361a8b" />
+
+
 Street Fighter Alpha 3 (Euro 980904) 
 [archive.org/details/arcade_`sfa3`](https://archive.org/details/arcade_sfa3)
 by  [Capcom](https://www.capcom.co.jp/)
