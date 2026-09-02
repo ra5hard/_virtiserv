@@ -16,6 +16,66 @@ layout: default
 
 ---
 
+[eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/cdbc199b-0ca3-471b-b3c4-61159c05abe4" />
+
+@nasa-pds Roman is [transmitting in canberra](https://www.cdscc.nasa.gov/Pages/trackingtoday.html) @nasa-jpl @blackgirlscode @cityoflosangeles
+
+SPACECRAFT
+NAME
+Roman Space Telescope
+
+RANGE
+-
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA
+NAME
+DSS 34
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+259 deg
+
+ELEVATION
+24 deg
+
+WIND SPEED
+26 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+ROMAN SPACE TELESCOPE
+
+FREQUENCY BAND
+S
+
+POWER TRANSMITTED
+0.4 kW
+
+DOWN SIGNAL
+SOURCE
+ROMAN SPACE TELESCOPE
+
+FREQUENCY BAND
+S
+
+DATA RATE
+354.5 kb/sec
+
+POWER RECEIVED
+-110 dBm
+(1.0 x 10-17 kW)
+
+
+@nasa-pds Roman is [transmitting in canberra](https://www.cdscc.nasa.gov/Pages/trackingtoday.html) @nasa-jpl @blackgirlscode @cityoflosangeles
 
 
 # Internet Arcade: Turbo Edition
