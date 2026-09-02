@@ -16,6 +16,11 @@ layout: default
 
 ---
 
+
+Samurai Shodown IV - Amakusa's Revenge - Samurai Spirits - Amakusa Kourin (NGM-222 ~ NGH-222)
+by SNK  [archive.org/details/arcade_samsho4](https://archive.org/details/arcade_samsho4)
+<iframe src="https://archive.org/embed/arcade_samsho4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 2020 Super Baseball (set 1)
 by SNK - Pallas [archive.org/details/arcade_2020bb](https://archive.org/details/arcade_2020bb)
 <iframe src="https://archive.org/embed/arcade_2020bb" width="560" height="560" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
