@@ -16,6 +16,14 @@ layout: default
 
 ---
 
+## Trump Warns Iran, Venezuela Oil Deal & USPS Whistleblower 
+| [The Lana Rundown](https://www.google.com/search?q=%22the+lana+rundown%22&sca_esv=b0cde7a46b5a0bd4&rlz=1CASLJZ_enUS1230&sxsrf=APpeQntiKfRHeOpFDYGU2kxvr5uQfwM3wA%3A1788388928218&ei=QKaYao_qDOnakPIP8fe7qAU&biw=1100&bih=945&ved=2ahUKEwiPiqX2-9CWAxVpLUQIHfH7DlUQ4dUDegQIBhAM&uact=5&oq=%22the+lana+rundown%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiEiJ0aGUgbGFuYSBydW5kb3duIjIFEAAY7wUyBRAAGO8FMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIESJYYUPcIWP8ScAF4AZABAJgBXaABvgGqAQEzuAEDyAEA-AEBmAIEoAKLAsICChAAGEcY1gQYsAPCAgUQIRigAcICBRAhGKsCwgIFECEYnwWYAwCIBgGQBgiSBwMzLjGgB8kNsgcDMi4xuAfyAcIHBzItMS4yLjHIBziACAE&sclient=gws-wiz-serp) - - [Watch - _The Lana Rundown:Hot97tv youtu.be/sK2r2BLA4EY](https://youtu.be/sK2r2BLA4EY)
+### CENTCOM Completes Strikes on IRGC Targets in Iran @ForAtlanta
+[Read](https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4588389/centcom-completes-strikes-on-irgc-targets-in-iran/) // 
+<img  alt="image" src="https://github.com/user-attachments/assets/3b5bfc27-2fed-4d5c-9863-b35bd3144fc6" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/ff8901c8-e296-44c2-bf83-f86772adb755" />
+
 [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 Madrid Deep Space Communications Complex
