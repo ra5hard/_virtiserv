@@ -16,15 +16,25 @@ layout: default
 
 ---
 
+
+
 # Internet Arcade: Turbo Edition
 [`Internet Arcade: Turbo Edition`_archive.org/details/internetarcadeturbo](https://archive.org/details/internetarcadeturbo)
 Internet Arcade TURBO EDITION is a collection of emulated arcade machines using Webassembly versions of the MAME emulator. The TURBO EDITION collection are games with sizeable game loads (10+ megabytes) and heavy CPU usage. If you have issues with the games here, check out the [Internet Arcade](https://archive.org/details/internetarcade).
 
 <img   alt="image" src="https://github.com/user-attachments/assets/2b71da35-d849-452d-addf-7fe3d32886c7" />
 
+
+
+
+X-Men: Children of the Atom (Euro 950331)
+by [Capcom](https://archive.org/search?query=creator%3A%22Capcom%22)
+<iframe src="https://archive.org/embed/arcade_xmcota" width="560" height="560" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
 Samurai Shodown IV - Amakusa's Revenge - Samurai Spirits - Amakusa Kourin (NGM-222 ~ NGH-222)
 by SNK  [archive.org/details/arcade_samsho4](https://archive.org/details/arcade_samsho4)
-<iframe src="https://archive.org/embed/arcade_samsho4" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/arcade_samsho4" width="560" height="560" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 2020 Super Baseball (set 1)
 by SNK - Pallas [archive.org/details/arcade_2020bb](https://archive.org/details/arcade_2020bb)
