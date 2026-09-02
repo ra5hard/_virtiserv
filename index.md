@@ -20,10 +20,14 @@ layout: default
 by SNK - Pallas [archive.org/details/arcade_2020bb](https://archive.org/details/arcade_2020bb)
 <iframe src="https://archive.org/embed/arcade_2020bb" width="560" height="560" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/0f08bebd-b2be-4410-9cc0-3dd06706f95c" />
+
+
 Cyberbots: Fullmetal Madness (Euro 950424)
 by Capcom [archive.org/details/arcade_cybots#](https://archive.org/details/arcade_cybots#)
 @nasa-jpl about robot morals, I don't know who hates me working here for that reason @nasa-pds
 <iframe src="https://archive.org/embed/arcade_cybots" width="560" height="560" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <img  alt="image @nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles (1)-12" src="https://github.com/user-attachments/assets/a0a1f5c3-d958-47d7-8d69-ef132e69950f" />
 
 <img alt="image@nasa-jpl @nasa-pds acquisition sign for our county @la-county-isd Roman Space Telescope DSS 36 DSS 34 @blackgirlscode @howard-university-web-services @usgs @podaac @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/bb8f4a09-6c57-4b1c-80ad-cde4e8d3dd43" />
