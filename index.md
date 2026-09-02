@@ -16,8 +16,8 @@ layout: default
 
 ---
 
-
-<img alt="image" src="https://github.com/user-attachments/assets/afb8daf4-d18f-4606-a263-2a295f361a8b" />
+[retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html @nasa-pds #](https://www.retrogames.cc/arcade-games/marvel-super-heroes-vs-street-fighter-970625-usa.html#)
+<img alt=" @nasa-pds thx for the attention Lana I'm recovering I cried bad @blackgirlscode image" src="https://github.com/user-attachments/assets/afb8daf4-d18f-4606-a263-2a295f361a8b" />
 
 
 Street Fighter Alpha 3 (Euro 980904) 
