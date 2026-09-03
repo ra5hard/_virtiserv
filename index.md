@@ -16,6 +16,7 @@ layout: default
 
 ---
 
+[Days of future past](https://archive.org/details/daysoffuturepast0000kami/page/110/mode/2up)
 @la-county-isd @CityOfSantamonica please call @nasa @nasa-jpl @nasa-giss @deptofwar its 2023 but I see patterns we need to reshoot the whole west coast this way
 <img  alt=" @blackgirlscode @la-county-isd @CityOfSantamonica please call @nasa @nasa-jpl @nasa-giss @deptofwar its 2023 but I see patterns we need to reshoot the whole west coast this way EMIT_L1B_RAD_001_20231022T192750_2329513_008" src="https://github.com/user-attachments/assets/8079124d-0fad-484b-93e0-8610dd5edcd8" />
 
