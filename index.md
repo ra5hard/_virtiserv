@@ -9,8 +9,11 @@ layout: default
 
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/original_images/JPL_RedBlack_rgb_stacked_5in_160601.jpg](https://d2pn8kiwq2w21t.cloudfront.net/original_images/JPL_RedBlack_rgb_stacked_5in_160601.jpg) 
+
 ![https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg](https://www.jpl.nasa.gov/_nuxt/logo-tribrand-color.CrK_FdfP.svg)
+
 ![https://www.ssc.spaceforce.mil/portals/3/ussf_horizontal_logo_6.png](https://www.ssc.spaceforce.mil/portals/3/ussf_horizontal_logo_6.png) 
+
 [losangeles.spaceforce.mil](https://www.losangeles.spaceforce.mil/)
 
 [media.defense.gov/2026/Aug/13/2003984350/2000/2000/0/260813-X-X0813-1002.JPG @NASA-pds @la-county-isd @asu @blackgirlscode ](https://media.defense.gov/2026/Aug/13/2003984350/2000/2000/0/260813-X-X0813-1002.JPG) 
