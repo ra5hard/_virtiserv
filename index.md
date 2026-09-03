@@ -16,6 +16,9 @@ layout: default
 
 ---
 
+
+<img   alt="EMIT_L1B_RAD_001_20250622T182445_2517312_006" src="https://github.com/user-attachments/assets/01433586-ee6c-4a17-a7c8-a3812eb556f1" />
+
 [Days of future past](https://archive.org/details/daysoffuturepast0000kami/page/110/mode/2up) // [archive.org/details/x-men-the-animated-series-1080p-ai-upscale_202204](https://archive.org/details/x-men-the-animated-series-1080p-ai-upscale_202204)
 @la-county-isd @CityOfSantamonica please call @nasa @nasa-jpl @nasa-giss @deptofwar its 2023 but I see patterns we need to reshoot the whole west coast this way
 <img  alt=" @blackgirlscode @la-county-isd @CityOfSantamonica please call @nasa @nasa-jpl @nasa-giss @deptofwar its 2023 but I see patterns we need to reshoot the whole west coast this way EMIT_L1B_RAD_001_20231022T192750_2329513_008" src="https://github.com/user-attachments/assets/8079124d-0fad-484b-93e0-8610dd5edcd8" />
