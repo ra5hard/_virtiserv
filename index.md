@@ -10,6 +10,11 @@ HOT 97 News Live! 9/3/26
 [WATCH - https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH](https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH) ////////// [Battle of Jollof: Hoops, Food & African Culture Take Over NYC](https://youtu.be/WWZqDg4C5cs)
 <img   alt="image" src="https://github.com/user-attachments/assets/f3894204-fb62-4cd4-a6d9-8cfce935ba5d" />
 
+### Congressional Staffer Struck By Lightning
+, SF Trash Rescue & Moose Attack
+[`WATCH` - youtu.be/iUBBbHWGbD0](https://youtu.be/iUBBbHWGbD0)
+<img alt="image" src="https://github.com/user-attachments/assets/4106a3e3-1291-4f10-9273-3211806bfea0" />
+
 
 # Burningman !!!!
 @nasa-jpl i was first cheated on here i think.... are all american girls cruel @whitehouse @ESA @NASA-PDS
