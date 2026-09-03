@@ -2,6 +2,9 @@
 layout: default
 ---
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/77edf694-dbba-42ab-9de1-49f81c22eaed" />
+
 @Blackgirlscode about Mars
 [Positive Contact · Del The Funky Homosapien](https://youtu.be/b0u-KzmNaHY) // [Things You Can Do · Del The Funky Homosapien · Dan The Automator ](https://youtu.be/V-Easr4-qJk) // [Lapalux - Closure](https://youtu.be/RhDmY8JT6wA?si=faKb3xBLEiZ3zVXk) // [Bonobo - First Fires](https://youtu.be/vHotQANrGCE) <~ @nasa-jpl im being more cautius @ForAtlanta thx for supporting my dates at [dance411](https://www.tiktok.com/@dance411.com), it was a nice scratch pad to get started creating a safe place to work @nasa-jpl @ForAtlanta im not mad at latrice, she just all about money , its hard to make it in los angeles . . . but im still lonely [No Happy Holidays · Mary J. Blige](https://youtu.be/WFK_UgYGofo)
 
