@@ -6,6 +6,10 @@ layout: default
 
 --- 
 
+HOT 97 News Live! 9/3/26
+[WATCH - https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH](https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH) ////////// [Battle of Jollof: Hoops, Food & African Culture Take Over NYC](https://youtu.be/WWZqDg4C5cs)
+<img   alt="image" src="https://github.com/user-attachments/assets/f3894204-fb62-4cd4-a6d9-8cfce935ba5d" />
+
 
 # Burningman !!!!
 @nasa-jpl i was first cheated on here i think.... are all american girls cruel @whitehouse @ESA @NASA-PDS
@@ -13,6 +17,7 @@ layout: default
 <img alt="image" src="https://github.com/user-attachments/assets/3379e116-bf89-4094-888f-17a44fd2f48f" />
 <img alt="image" src="https://github.com/user-attachments/assets/214986ca-1fc3-49e3-b9d0-d13f6af8518c" />
 
+![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 # Water
 @CityOfLosAngeles @CityofSantaMonica 
