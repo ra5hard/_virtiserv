@@ -63,13 +63,14 @@ NASA Official: @Doug-Newman-Nasa
 [Designation of the Islamic Revolutionary Guard Corps - 2019 @NASA-JPL @DEPTofWAR @CityOfLosAngeles](https://2017-2021.state.gov/designation-of-the-islamic-revolutionary-guard-corps/)
 ![https://www.iranwatch.org/sites/all/themes/iranwatch/logo.png](https://www.iranwatch.org/sites/all/themes/iranwatch/logo.png)
 [READ MORE - iranwatch.org/iranian-entities/islamic-revolutionary-guard-corps-irgc](https://www.iranwatch.org/iranian-entities/islamic-revolutionary-guard-corps-irgc)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/5296f9ee-72b4-40af-be17-3225943dd392" />
 
 ![https://www.iranwatch.org/sites/default/files/styles/medium/public/islamic-revolutionary-guard-corps-seal.png](https://www.iranwatch.org/sites/default/files/styles/medium/public/islamic-revolutionary-guard-corps-seal.png) 
 
 ![https://assets.cfr.org/images/t_cfr_2_3/f_auto/w_640/v1758171867/IRGC_BG_0/IRGC_BG_0.jpg](https://assets.cfr.org/images/t_cfr_2_3/f_auto/w_640/v1758171867/IRGC_BG_0/IRGC_BG_0.jpg)
 
-![upload.wikimedia.org/wikipedia/commons/thumb/8/81/U.S._Department_of_State_official_seal.svg](upload.wikimedia.org/wikipedia/commons/thumb/8/81/U.S._Department_of_State_official_seal.svg) 
+![upload.wikimedia.org/wikipedia/commons/thumb/8/81/U.S._Department_of_State_official_seal.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/U.S._Department_of_State_official_seal.svg/500px-U.S._Department_of_State_official_seal.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8b4478ef-1716-4af0-a3df-de8382cdcf57" />
 
