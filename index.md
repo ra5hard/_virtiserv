@@ -40,7 +40,7 @@ For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Sup
 
 
 V 4.231.24 Home NASA Accessibility
-NASA Official: Doug-Newman-Nasa
+NASA Official: @Doug-Newman-Nasa
 <img  alt="image" src="https://github.com/user-attachments/assets/2e8386b5-bd45-40c5-93f7-e77a4f30dc94" />
 
 [toolbox.googleapps.com/apps/dig/#NS/ @CityOfLosAngeles](https://toolbox.googleapps.com/apps/dig/#NS/)
