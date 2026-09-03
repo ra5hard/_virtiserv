@@ -6,7 +6,7 @@ layout: default
 
 --- 
 
-![https://media.defense.gov/2026/Aug/13/2003984350/2000/2000/0/260813-X-X0813-1002.JPG @NASA-pds @la-county-isd @asu @blackgirlscode ](https://media.defense.gov/2026/Aug/13/2003984350/2000/2000/0/260813-X-X0813-1002.JPG) 
+[media.defense.gov/2026/Aug/13/2003984350/2000/2000/0/260813-X-X0813-1002.JPG @NASA-pds @la-county-isd @asu @blackgirlscode ](https://media.defense.gov/2026/Aug/13/2003984350/2000/2000/0/260813-X-X0813-1002.JPG) 
 
 ![https://www.msss.com/images/msss_logo.gif](https://www.msss.com/images/msss_logo.gif)
 
