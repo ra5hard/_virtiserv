@@ -7,6 +7,10 @@ layout: default
 --- 
 
 
+
+[@StateOfCalifornia longbeach.gov/library/featured-event/michelle-obama-10/](https://www.longbeach.gov/library/featured-event/michelle-obama-10/) 
+![ @whitehouse @la-county-isd HOLLY J MiTCHELL @CityOfLosAngeles KARENBASS](https://www.longbeach.gov/globalassets/library/media-library/images/news/mobama-10-anniversary.jpg)
+
 ![https://yt3.googleusercontent.com/y1prH_XwgeoLtF4YUeql6q42UiGBaL7aTsnRXMCoV2l7AMC6z35g4ByEKaA2ipSdU0AsFx3v=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/y1prH_XwgeoLtF4YUeql6q42UiGBaL7aTsnRXMCoV2l7AMC6z35g4ByEKaA2ipSdU0AsFx3v=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 @emit-sds somone broke the feed while our box was on!! 
