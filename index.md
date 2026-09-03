@@ -2,9 +2,15 @@
 layout: default
 ---
 
-[No Happy Holidays · Mary J. Blige @CityOfLosAngeles](https://youtu.be/WFK_UgYGofo) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [DIRIYAM OO HOO DIRIYAM](https://youtu.be/TuQFpeDd0zA) // [Hieroglyphics - The Way That It Be](https://youtu.be/FlDWQ89MCcg) // [Oakland Blackouts · Hieroglyphics](https://youtu.be/n8qDoVYsOQg?si=evsRorRp2v4KJhhq) // [That's When Ya Lost (I Ain't Trippin' Remix)](https://youtu.be/yp-g_iwGKww) // [Pete Rock & CL Smooth - Straighten It Out ](https://youtu.be/xhDb8LoScpI) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8) // [MC Lyte - Poor Georgie](https://youtu.be/hSTzr2V4KMw) // [Slick Rick - Hey Young World](https://youtu.be/ea-ezolZq5k) // [Slick Rick - Children's Story](https://youtu.be/HjNTu8jdukA) // [West Savannah · Outkast](https://youtu.be/jPeRi2CNYQA?si=QJRIMzS8XT9yxurr)
+[No Happy Holidays · Mary J. Blige @CityOfLosAngeles](https://youtu.be/WFK_UgYGofo) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [DIRIYAM OO HOO DIRIYAM](https://youtu.be/TuQFpeDd0zA) // [Hieroglyphics - The Way That It Be](https://youtu.be/FlDWQ89MCcg) // [Oakland Blackouts · Hieroglyphics](https://youtu.be/n8qDoVYsOQg?si=evsRorRp2v4KJhhq) // [That's When Ya Lost (I Ain't Trippin' Remix)](https://youtu.be/yp-g_iwGKww) // [Pete Rock & CL Smooth - Straighten It Out ](https://youtu.be/xhDb8LoScpI) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8) // [MC Lyte - Poor Georgie](https://youtu.be/hSTzr2V4KMw) // [Slick Rick - Hey Young World](https://youtu.be/ea-ezolZq5k) // [Slick Rick - Children's Story](https://youtu.be/HjNTu8jdukA) // [West Savannah · Outkast](https://youtu.be/jPeRi2CNYQA?si=QJRIMzS8XT9yxurr) // [Slump · Outkast](https://youtu.be/4Mm566HG3Fc)
 
 --- 
+
+
+# Burningman !!!!
+@nasa-jpl i was first cheated on here i think.... are all american girls cruel @whitehouse @ESA @NASA-PDS
+[WATCH - 2026 Burning Man Live Webcast from Black Rock City](https://youtu.be/Z8b1Be-HUGU)
+<img alt="image" src="https://github.com/user-attachments/assets/3379e116-bf89-4094-888f-17a44fd2f48f" />
 
 
 # Water
