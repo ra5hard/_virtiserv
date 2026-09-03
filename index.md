@@ -7,6 +7,7 @@ layout: default
 --- 
 
 @emit-sds somone broke the feed while our box was on!! 
+[BepiColombo’s Mercury arrival begins (Official ESA broadcast) @Blackgirlscode](https://youtu.be/oC7lQngNG3o)
 <img   alt=" @emit-sds somone broke the feed while our box was on!!  @nasa-jpl image" src="https://github.com/user-attachments/assets/3dead41b-6da5-4cb0-883f-e95a0c5149f5" />
 
 <img  alt="image @emit-sds somone broke the feed while our box was on!!  @nasa " src="https://github.com/user-attachments/assets/18f81d7b-6520-42b9-a182-3a31b90ea42b" />
