@@ -8,13 +8,18 @@ layout: default
 
 ![https://pds-imaging.jpl.nasa.gov/images/PDSIMG_logo_inv.png](https://pds-imaging.jpl.nasa.gov/images/PDSIMG_logo_inv.png) 
 
+[trek.nasa.gov/mars/ @bLACKGIRLSCODE @aSULIBRARIES @NASA-PDS](https://trek.nasa.gov/mars/)
+<img   alt="image" src="https://github.com/user-attachments/assets/531d0665-ed48-40f6-950f-cdf1608ee697" />
+<img   alt="image" src="https://github.com/user-attachments/assets/55fac3a3-80e0-470c-86fe-45cf272055f6" />
 
-
+![https://www.uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_001500_001599/PSP_001540_1890_PSP_002371_1890/DTEEC_001540_1890_002371_1890_A01.ca.jpg](https://www.uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_001500_001599/PSP_001540_1890_PSP_002371_1890/DTEEC_001540_1890_002371_1890_A01.ca.jpg) 
 Color sample @nasa-jpl @la-county-isd @NASA-PDS @NBCNEWS ?
 ![  @nasa-jpl @la-county-isd @NASA-PDS @NBCNEWS uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009200_009299/PSP_009280_2675_PSP_009426_2675/PSP_009280_2675_IRB_D_01_ORTHO.ab.jpg](https://www.uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009200_009299/PSP_009280_2675_PSP_009426_2675/PSP_009280_2675_IRB_D_01_ORTHO.ab.jpg) 
 ![  @nasa-jpl @la-county-isd @NASA-PDS @NBCNEWS cms.asuonline.asu.edu/sites/g/files/litvpz1971/files/asu-vertical-logo.png](https://cms.asuonline.asu.edu/sites/g/files/litvpz1971/files/asu-vertical-logo.png)
 ![  @nasa-jpl @la-county-isd @NASA-PDS @NBCNEWS uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009900_009999/PSP_009972_2045_PSP_007968_2045/PSP_007968_2045_RED_C_01_ORTHO.ab.jpg @asulibraries @nasa-pds @usgs @nasa-jpl @r-spacex @blueorigin](https://www.uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009900_009999/PSP_009972_2045_PSP_007968_2045/PSP_007968_2045_RED_C_01_ORTHO.ab.jpg)
 <img alt="image" src="https://github.com/user-attachments/assets/2676a5ba-6056-4cfa-b4e5-56ed539d5234" />
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">State Rep. Kim Schofield closed our Atlanta camp with a civics lesson, then told our scholars: &quot;We need more funding for Black Girls Code.&quot; Thank you <a href="https://x.com/State_Rep_Kim?ref_src=twsrc%5Etfw">@state_rep_kim</a> and @soleplayatl. <a href="https://x.com/hashtag/BlackGirlsCode?src=hash&amp;ref_src=twsrc%5Etfw">#BlackGirlsCode</a> <a href="https://x.com/hashtag/BlackBusinessMonth?src=hash&amp;ref_src=twsrc%5Etfw">#BlackBusinessMonth</a> <a href="https://t.co/ot5BnKAzUp">pic.twitter.com/ot5BnKAzUp</a></p>&mdash; Black Girls Code (@BlackGirlsCode) <a href="https://x.com/BlackGirlsCode/status/2094063010667008448?ref_src=twsrc%5Etfw">August 30, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 <img alt="image" src="https://github.com/user-attachments/assets/77edf694-dbba-42ab-9de1-49f81c22eaed" />
 
