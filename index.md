@@ -10,7 +10,7 @@ layout: default
 
 [@nasa-pds planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg)
 
-@asu @asulibraries hi its rashard, the [MARCi](https://www.msss.com/all_projects/mro-marci.php) imagers pics seem to have some issues similar to JUNO . .. at what point is an answer for this coming... idk but i dont believe its an emf attack its some sort of mis calibration 
+@asu @asulibraries hi its rashard, the [MARCi](https://www.msss.com/all_projects/mro-marci.php) imagers pics seem to have some issues similar to JUNO . .. at what point is an answer for this coming... idk but i dont believe its an emf attack its some sort of mis calibration ... @nasa-pds i got negative and distracted i wanted to say we have snow ... idk what pole it on 
 ![https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg)
 
 
@@ -20,6 +20,7 @@ layout: default
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01967/ids/edr/browse/fcam/FLF_1967_0841571854_537ECM_N0910806FHAZ00215_01_275J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01967/ids/edr/browse/fcam/FLF_1967_0841571854_537ECM_N0910806FHAZ00215_01_275J01_1200.jpg) 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01934/ids/edr/browse/shrlc/SIF_1934_0838664054_968EBY_N0894246SRLC08062_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01934/ids/edr/browse/shrlc/SIF_1934_0838664054_968EBY_N0894246SRLC08062_0000LMJ01_1200.jpg) 
+![https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png)
 
 ![https://www.uahirise.org/PDS/EXTRAS/RDR/ESP/ORB_093700_093799/ESP_093796_2260/ESP_093796_2260_MRGB.browse.jpg](https://www.uahirise.org/PDS/EXTRAS/RDR/ESP/ORB_093700_093799/ESP_093796_2260/ESP_093796_2260_MRGB.browse.jpg)
 
