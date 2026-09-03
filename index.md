@@ -8,6 +8,8 @@ layout: default
 
 ![https://www.msss.com/images/msss_logo.gif](https://www.msss.com/images/msss_logo.gif)
 
+![https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png @deptofwar vol 78 finished @cityoflosangeles @nasa-jpl @deptofwar Secretary Pete Hegseth @whitehouse](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png) 
+
 [@nasa-pds planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg)
 
 @asu @asulibraries hi its rashard, the [MARCi](https://www.msss.com/all_projects/mro-marci.php) imagers pics seem to have some issues similar to JUNO . .. at what point is an answer for this coming... idk but i dont believe its an emf attack its some sort of mis calibration ... @nasa-pds i got negative and distracted i wanted to say we have snow ... idk what pole it on 
