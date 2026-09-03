@@ -16,6 +16,10 @@ layout: default
 
 ---
 
+@la-county-isd @CityOfSantamonica please call @nasa @nasa-jpl @nasa-giss @deptofwar its 2023 but I see patterns we need to reshoot the whole west coast this way
+<img  alt=" @blackgirlscode @la-county-isd @CityOfSantamonica please call @nasa @nasa-jpl @nasa-giss @deptofwar its 2023 but I see patterns we need to reshoot the whole west coast this way EMIT_L1B_RAD_001_20231022T192750_2329513_008" src="https://github.com/user-attachments/assets/8079124d-0fad-484b-93e0-8610dd5edcd8" />
+
+<img alt="@la-county-isd @CityOfSantamonica please call @nasa @nasa-jpl @nasa-giss @deptofwar its 2023 but I see patterns we need to reshoot the whole west coast this way" src="https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20231022T192750_2329513_008/EMIT_L1B_RAD_001_20231022T192750_2329513_008.png?A-userid=None&amp;Expires=1788403753&amp;Signature=nva-gihtQl84DbnxWsHyU3H-j~QXSOxDvMmELpZR4IVoThtOhUEG~g0MbhYAHLGQ3I0-EXvrgkxx0TCg0FkRU5p6SXpMaYlnMA2mvRO3f2ccq9iE8kXwlmmPpv9eZ3xrtZB9AF1TBxxFUFxXr9oh6A1E4OpTqOIs~CBS72I~pBH52DIhd9zuwCV3A6bSfdSxbsu~UvA9Zl25RIUDteh4PptlnZ3P~vXtUCcbm7SVXUxvNRXfNqMwrXuBbK8wWKa38Db3CkZLCXq86ju4BTpaSRbCrrzZwfcHE5v2DKl4gG6uVQ7Z1EaYKBbpPdX1jjc7OWbQibpWYBkzk-ujld5n3Q__&amp;Key-Pair-Id=K1JHXLBU4LECA2"/>
 
 ![https://yt3.googleusercontent.com/c6ic1PNxHArsT5vTa8Uplqx9OgzHYWCWhND5ef88sBYuqtjPz0bSf-myw9iBMB5qmy3Q0ncVJw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/c6ic1PNxHArsT5vTa8Uplqx9OgzHYWCWhND5ef88sBYuqtjPz0bSf-myw9iBMB5qmy3Q0ncVJw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
