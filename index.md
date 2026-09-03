@@ -6,6 +6,12 @@ layout: default
 
 --- 
 
+![https://www.msss.com/images/msss_logo.gif](https://www.msss.com/images/msss_logo.gif)
+
+[@nasa-pds planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg)
+
+@asu @asulibraries hi its rashard, the [MARCi](https://www.msss.com/all_projects/mro-marci.php) imagers pics seem to have some issues similar to JUNO . .. at what point is an answer for this coming... idk but i dont believe its an emf attack its some sort of mis calibration 
+![https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_1738/extras/browse/W10_092970_2901_MU_00N034W.IMG.jpeg)
 
 
 [@NASA-PDS @NASA-JPL @LA-County-iSD pds-imaging.jpl.nasa.gov/volumes/mro/release78.html](https://pds-imaging.jpl.nasa.gov/volumes/mro/release78.html) /// @ESA do you know any cool german places to fwd this post . . my friend possibly flakey significant other [Lana J Harris @ForAtlanta](https://www.tiktok.com/@lanajharris) has a scary report that maybe impacting innocent ppl @nbcnews [@ESA Is Russia Secretly Attacking Germany @dlr-eoc @DLR-TS? - _The LANA RUNDOWN_youtu.be/3EywzXSH1V8](https://youtu.be/3EywzXSH1V8) @DHS-GOV @fbicyber 
