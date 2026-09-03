@@ -6,7 +6,7 @@ layout: default
 
 --- 
 
-
+![https://camo.githubusercontent.com/22a42dfd199e7cb81f67ec525629bc520ac7ac657ffd08464cf9cb4bf932a2e3](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png)
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/original_images/JPL_RedBlack_rgb_stacked_5in_160601.jpg](https://d2pn8kiwq2w21t.cloudfront.net/original_images/JPL_RedBlack_rgb_stacked_5in_160601.jpg) 
 
