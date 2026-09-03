@@ -4,6 +4,12 @@ layout: default
 
 [No Happy Holidays · Mary J. Blige @CityOfLosAngeles](https://youtu.be/WFK_UgYGofo) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [DIRIYAM OO HOO DIRIYAM](https://youtu.be/TuQFpeDd0zA)
 
+
+![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+[youtube.com/@HOT97ontv @fORaTLANTA FROM @sTATEoFcALIFORNIA ](https://www.youtube.com/@HOT97ontv)
+<img alt="image" src="https://github.com/user-attachments/assets/c6aa801f-46b1-4387-a66a-c507e65c626c" />
+
 ![https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
 
 ![https://pds-imaging.jpl.nasa.gov/images/PDSIMG_logo_inv.png](https://pds-imaging.jpl.nasa.gov/images/PDSIMG_logo_inv.png) 
