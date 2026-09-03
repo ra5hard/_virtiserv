@@ -6,6 +6,7 @@ layout: default
 
 --- 
 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01967/ids/edr/browse/fcam/FLF_1967_0841571854_537ECM_N0910806FHAZ00215_01_275J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01967/ids/edr/browse/fcam/FLF_1967_0841571854_537ECM_N0910806FHAZ00215_01_275J01_1200.jpg) 
 
 ![https://www.uahirise.org/PDS/EXTRAS/RDR/ESP/ORB_093700_093799/ESP_093796_2260/ESP_093796_2260_MRGB.browse.jpg](https://www.uahirise.org/PDS/EXTRAS/RDR/ESP/ORB_093700_093799/ESP_093796_2260/ESP_093796_2260_MRGB.browse.jpg)
 
