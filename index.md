@@ -9,7 +9,7 @@ layout: default
 
 # Water
 @CityOfLosAngeles @CityofSantaMonica 
-@la-county-isd HOlly Mitchell water quality, btw im getting tortured a lot and its @Stateofcalifornia Gavin Newsom support of the Sports and Entertainment Breeding Program ... all the best brides already fucked ... @whitehouse 
+@la-county-isd HOlly Mitchell water quality,  @whitehouse 
 <img alt="image @CityOfLosAngeles @CityofSantaMonica 
 @la-county-isd HOlly Mitchell water quality, btw im getting tortured a lot and its @Stateofcalifornia Gavin Newsom support of the Sports and Entertainment Breeding Program ... all the best brides already fucked ... @whitehouse " src="https://github.com/user-attachments/assets/7a85a529-f114-4e3d-a75b-7ef29c8c3d4e" />
 
