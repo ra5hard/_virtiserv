@@ -3,7 +3,7 @@ layout: default
 ---
 
 @Blackgirlscode about Mars
-[Positive Contact · Del The Funky Homosapien](https://youtu.be/b0u-KzmNaHY) // [Things You Can Do · Del The Funky Homosapien · Dan The Automator ](https://youtu.be/V-Easr4-qJk) // [Lapalux - Closure](https://youtu.be/RhDmY8JT6wA?si=faKb3xBLEiZ3zVXk)
+[Positive Contact · Del The Funky Homosapien](https://youtu.be/b0u-KzmNaHY) // [Things You Can Do · Del The Funky Homosapien · Dan The Automator ](https://youtu.be/V-Easr4-qJk) // [Lapalux - Closure](https://youtu.be/RhDmY8JT6wA?si=faKb3xBLEiZ3zVXk) // [Bonobo - First Fires](https://youtu.be/vHotQANrGCE) <~ @nasa-jpl im being more cautius @ForAtlanta thx for supporting my dates at [dance411](https://www.tiktok.com/@dance411.com), it was a nice scratch pad to get started creating a safe place to work @nasa-jpl 
 
 ![https://ci3.googleusercontent.com/meips/ADKq_NawVrUNdtco3E6RUK5WpGKh1KLo5-hM0ur87O7TYdpvOIu1SU7HKscf9Z9tFz3NiJnVwmFRRKOQDxPYxgHhoydjtv2m51ZVH-Pf0oC0mj5lyyO4=s0-d-e1-ft#https://lacity.gov/sites/g/files/wph2451/themes/site/logo.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Wordmark_of_Los_Angeles%2C_California.svg/1280px-Wordmark_of_Los_Angeles%2C_California.svg.png)
 
