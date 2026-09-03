@@ -8,8 +8,9 @@ layout: default
 
 
 
-[@NASA-PDS @NASA-JPL @LA-County-iSD pds-imaging.jpl.nasa.gov/volumes/mro/release78.html](https://pds-imaging.jpl.nasa.gov/volumes/mro/release78.html)
+[@NASA-PDS @NASA-JPL @LA-County-iSD pds-imaging.jpl.nasa.gov/volumes/mro/release78.html](https://pds-imaging.jpl.nasa.gov/volumes/mro/release78.html) /// @ESA do you know any cool german places to fwd this post . . my friend possibly flakey significant other Lana J Harris has a scary report that maybe impacting innocent ppl @nbcnews [@ESA Is Russia Secretly Attacking Germany? - _The LANA RUNDOWN_youtu.be/3EywzXSH1V8](https://youtu.be/3EywzXSH1V8)
 <img alt="image" src="https://github.com/user-attachments/assets/67c1dc1e-7c51-486c-b3f2-90cbe2c81207" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3374fa5c-8483-4d52-9e77-1a261df86757" />
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01967/ids/edr/browse/fcam/FLF_1967_0841571854_537ECM_N0910806FHAZ00215_01_275J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01967/ids/edr/browse/fcam/FLF_1967_0841571854_537ECM_N0910806FHAZ00215_01_275J01_1200.jpg) 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01934/ids/edr/browse/shrlc/SIF_1934_0838664054_968EBY_N0894246SRLC08062_0000LMJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01934/ids/edr/browse/shrlc/SIF_1934_0838664054_968EBY_N0894246SRLC08062_0000LMJ01_1200.jpg) 
