@@ -5,7 +5,10 @@ layout: default
 
 ![https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
 
-NASA Official: [Doug Newman @doug-newman-nasa](https://www.earthdata.nasa.gov/news/feature-articles/show-me-data) hi doug i have to do my personal check on the new @nasa-pds Mars Volume [@nasa-jpl . . . Sep. 1, 2026. MRO Release 78](https://pds-geosciences.wustl.edu/missions/mro/) i hope you hae my .cat file @nasa-pds 
+NASA Official: [Doug Newman @doug-newman-nasa](https://www.earthdata.nasa.gov/news/feature-articles/show-me-data) hi doug i have to do my personal check on the new @nasa-pds Mars Volume [@nasa-jpl . . . Sep. 1, 2026. MRO Release 78](https://pds-geosciences.wustl.edu/missions/mro/) i hope you hae my .cat file @nasa-pds @La-County-isd @CityOfLosAngeles Our Mayor of LongBeach [Rex Richardson](https://youtu.be/u4Nls-nPlxg) supported the @nasa @nasa-jpl [Orbital Operations](https://longbeach.gov/mayor/news/mayor-rex-richardson-welcomes-orbital-operations-to-long-beachs-space-beach/) A week over one year ago and i will email him some samples of the datavolume as i do my at my level `Unix Helpdesk: _LeveL 5_ Helpdesk` responsibilities require, please all an adult as well @longbeachInnovationTeam @StateOfCalifornia @voyager-tech-inc @vygr-labs
+
+![https://longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png](https://longbeach.gov/globalassets/mayor/media-library/images/cityseal90.png)
+![https://longbeach.gov/globalassets/mayor/media-library/images/mayor-rex-richardson-wordmark_new-colorway.png](https://longbeach.gov/globalassets/mayor/media-library/images/mayor-rex-richardson-wordmark_new-colorway.png) 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/91c61114-a612-4b22-bbc1-8377daeb500a" />
 
