@@ -16,6 +16,9 @@ layout: default
 
 ---
 
+
+![https://yt3.googleusercontent.com/c6ic1PNxHArsT5vTa8Uplqx9OgzHYWCWhND5ef88sBYuqtjPz0bSf-myw9iBMB5qmy3Q0ncVJw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/c6ic1PNxHArsT5vTa8Uplqx9OgzHYWCWhND5ef88sBYuqtjPz0bSf-myw9iBMB5qmy3Q0ncVJw=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 ![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d72f0775-14be-4673-9905-7466c46b2c31" />
