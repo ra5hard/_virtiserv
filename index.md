@@ -11,6 +11,7 @@ layout: default
 @nasa-jpl i was first cheated on here i think.... are all american girls cruel @whitehouse @ESA @NASA-PDS
 [WATCH - 2026 Burning Man Live Webcast from Black Rock City](https://youtu.be/Z8b1Be-HUGU)
 <img alt="image" src="https://github.com/user-attachments/assets/3379e116-bf89-4094-888f-17a44fd2f48f" />
+<img alt="image" src="https://github.com/user-attachments/assets/214986ca-1fc3-49e3-b9d0-d13f6af8518c" />
 
 
 # Water
