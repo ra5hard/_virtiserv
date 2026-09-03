@@ -8,7 +8,12 @@ layout: default
 
 ![https://pds-imaging.jpl.nasa.gov/images/PDSIMG_logo_inv.png](https://pds-imaging.jpl.nasa.gov/images/PDSIMG_logo_inv.png) 
 
-![https://www.uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009900_009999/PSP_009972_2045_PSP_007968_2045/PSP_007968_2045_RED_C_01_ORTHO.ab.jpg @asulibraries @nasa-pds @usgs @nasa-jpl @r-spacex @blueorigin](https://www.uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009900_009999/PSP_009972_2045_PSP_007968_2045/PSP_007968_2045_RED_C_01_ORTHO.ab.jpg)
+
+
+Color sample @nasa-jpl @la-county-isd @NASA-PDS @NBCNEWS ?
+![  @nasa-jpl @la-county-isd @NASA-PDS @NBCNEWS uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009200_009299/PSP_009280_2675_PSP_009426_2675/PSP_009280_2675_IRB_D_01_ORTHO.ab.jpg](https://www.uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009200_009299/PSP_009280_2675_PSP_009426_2675/PSP_009280_2675_IRB_D_01_ORTHO.ab.jpg) 
+![  @nasa-jpl @la-county-isd @NASA-PDS @NBCNEWS cms.asuonline.asu.edu/sites/g/files/litvpz1971/files/asu-vertical-logo.png](https://cms.asuonline.asu.edu/sites/g/files/litvpz1971/files/asu-vertical-logo.png)
+![  @nasa-jpl @la-county-isd @NASA-PDS @NBCNEWS uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009900_009999/PSP_009972_2045_PSP_007968_2045/PSP_007968_2045_RED_C_01_ORTHO.ab.jpg @asulibraries @nasa-pds @usgs @nasa-jpl @r-spacex @blueorigin](https://www.uahirise.org/PDS/EXTRAS/DTM/PSP/ORB_009900_009999/PSP_009972_2045_PSP_007968_2045/PSP_007968_2045_RED_C_01_ORTHO.ab.jpg)
 <img alt="image" src="https://github.com/user-attachments/assets/2676a5ba-6056-4cfa-b4e5-56ed539d5234" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/77edf694-dbba-42ab-9de1-49f81c22eaed" />
