@@ -7,7 +7,10 @@ layout: default
 --- 
 
 ### Roman Space Telescope to Scale with Tyrannosaurus rex
-[svs.gsfc.nasa.gov/14856/](https://svs.gsfc.nasa.gov/14856/) @nasa-pds roman is transmitting in Madrid @nasa @nasa-jpl
+
+[svs.gsfc.nasa.gov/14856/](https://svs.gsfc.nasa.gov/14856/) @nasa-pds roman is transmitting in Madrid @nasa @nasa-jpl 
+Madrid Deep Space Communications Complex
+_DEEP SPACE NETWORK_ [@NASA-JPL @NASA-PDS _HomePAge_mdscc.nasa.gov](https://www.mdscc.nasa.gov/index.php/en/start/)
 ![https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg)
 <img   alt="image" src="https://github.com/user-attachments/assets/d999eda4-701f-43e8-8381-116d0f903b0f" />
 
