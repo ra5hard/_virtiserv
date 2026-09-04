@@ -3,14 +3,15 @@ layout: default
 ---
 
 
-[Natnael Leta - Kalen (ናትናኤል ለታ - ቃሌን)](https://youtu.be/MPwLPDXexRE) // [Selamawit Yohannes - Yebleni'loo | የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA)
+[Natnael Leta - Kalen (ናትናኤል ለታ - ቃሌን)](https://youtu.be/MPwLPDXexRE) // [Selamawit Yohannes - Yebleni'loo | የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA) // [TIMNIT WELDAY - MESYUKA - ትምኒት ወልዳይ - መስዩካ ](https://youtu.be/mPj2jZLFPuU) // 
+
 
 ---
 
 # Iran’s Desperate New Move: Multiple Bases Hit
 @DeptOFWar Lana might be runnin man plz watch her report @FORATLANTA!!!! 
 [`WATCH` - youtu.be/Go6yAg9-ito](https://youtu.be/Go6yAg9-ito)
-@nasa-jpl she is one of those things like Kelly Bundy and im am scared, boy _D_G_ lover her ass and im about to have hurt feelings @Nasa-pds that's all I'm younger than a lot of ppl in the A @newshour [@USGS youtube.com/watch?v=Z8b1Be-HUGU @nationalparkservice](https://www.youtube.com/watch?v=Z8b1Be-HUGU ) <~ @Blackgirlscode if ya mamma out here forgive her I had a clean trip tbh @CityOfLosAngeles it was some @Whitehouse interview... And I had no unconsensual contact @USNAVY - [Rashard Iman KElly @nasa-jpl](ra5hard.github.io)
+@nasa-jpl she is one of those things like Kelly Bundy and im am scared, boy _D_G_ lover her ass and im about to have hurt feelings @Nasa-pds that's all I'm younger than a lot of ppl in the A @newshour [@USGS youtube.com/watch?v=Z8b1Be-HUGU @nationalparkservice](https://www.youtube.com/watch?v=Z8b1Be-HUGU ) <~ @Blackgirlscode if ya mamma out here forgive her I had a clean trip tbh @CityOfLosAngeles it was some @Whitehouse interview... And I had no unconsensual contact @USNAVY - [Rashard Iman KElly @nasa-jpl](ra5hard.github.io) // [@NASA _LittleEthiopia_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
 <img  alt="image" src="https://github.com/user-attachments/assets/e3d3b9dc-0887-45f2-8140-638ef0e12279" />
 <img   alt="image" src="https://github.com/user-attachments/assets/6d4b000e-d9f0-4b31-8036-fa4a7ac8cd3e" />
 
@@ -19,6 +20,7 @@ layout: default
 
 [<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
 ` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
+<img alt="image" src="https://github.com/user-attachments/assets/2edb1153-3d96-41b7-a216-82d1dced9200" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b79fc0d6-4832-4747-a533-8b60e68888e4" />
 <img   alt="image" src="https://github.com/user-attachments/assets/5a4e2011-7272-4c86-a968-2f48e42a5687" />
