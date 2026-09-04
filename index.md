@@ -26,6 +26,8 @@ On September 4, 1781, the eleven men, eleven women, and twenty-two children recr
 ECOv002_L2T_LSTE_46110_004_11SLT_20260823T095242_0713_01 @emit-sds @UCLA
 <img  alt="image" src="https://github.com/user-attachments/assets/78a31484-e5ea-4401-a796-825f6f95fc00" />
 
+EMIT_L1B_RAD_001_20260404T172021_2609411_003 @emit-sds  @cityoflosangeles @stateofcalifornia
+<img alt="EMIT_L1B_RAD_001_20260404T172021_2609411_003" src="https://github.com/user-attachments/assets/54c38487-4960-4e1f-9a18-0f4f78c650a4" />
 
 @emit-sds @cityoflosangeles @la-county-isd EMIT_L2A_RFL_001_20260602T180011_2615312_003
 <img alt=" @emit-sds @cityoflosangeles @la-county-isd EMIT_L2A_RFL_001_20260602T180011_2615312_003" src="https://github.com/user-attachments/assets/2bc13a3b-de41-41e7-8c26-257dd3844a3b" />
