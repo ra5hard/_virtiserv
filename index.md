@@ -8,8 +8,9 @@ layout: default
 
 
 ### mARS dATArLEASE 78
-![https://www.longbeach.gov/globalassets/library/development-assets/library-logo.jpg](https://www.longbeach.gov/globalassets/library/development-assets/library-logo.jpg)
-![https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png @stateofcalifornia make sure space beach gets a mention @nasa-jpl](https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png)
+[viewer.mars.asu.edu](viewer.mars.asu.edu)
+![https://www.longbeach.gov/globalassets/library/development-assets/library-logo.jpg @la-county-isd @whitehouse @nasa-pds](https://www.longbeach.gov/globalassets/library/development-assets/library-logo.jpg)
+![https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png @stateofcalifornia make sure space beach gets a mention @nasa-jpl @la-county-isd @whitehouse @nasa-pds ](https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png)
 ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10 @CityOfLosangeles @blackgirlscode @disney @hulu ](https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled)
 
 ![https://camo.githubusercontent.com/22a42dfd199e7cb81f67ec525629bc520ac7ac657ffd08464cf9cb4bf932a2e3](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png)
