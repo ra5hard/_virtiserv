@@ -15,7 +15,11 @@ layout: default
 
 @nasa-pds there would have never been conflict if you guys were honest [nps.edu/documents/106185685/108544842/CTIP+General+Awareness+PPT_FINAL_1.pdf/](https://nps.edu/documents/106185685/108544842/CTIP+General+Awareness+PPT_FINAL_1.pdf/)
 <img  alt="image" src="https://github.com/user-attachments/assets/04bbe23b-79a9-4eb3-a1ac-649ea7032e0a" />
-
+DOD INSTRUCTION 1020.03
+HARASSMENT PREVENTION AND RESPONSE IN THE
+ARMED FORCES @DeptofWar 
+@nasa-jpl [esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/102003p.PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/102003p.PDF)
+<img alt="image" src="https://github.com/user-attachments/assets/a3659e44-4bbf-4b13-a5a8-cd5dea5bc66a" />
 
 ##  Hubble vs Roman Space Telescope Image Size Comparisons
 [https://svs.gsfc.nasa.gov/12308/](https://svs.gsfc.nasa.gov/12308/)
