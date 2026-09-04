@@ -58,6 +58,7 @@ HOT 97 News Live! 9/3/26
 
 
 ### mARS dATArLEASE 78
+![https://www.longbeach.gov/globalassets/library/development-assets/library-logo.jpg](https://www.longbeach.gov/globalassets/library/development-assets/library-logo.jpg)
 ![https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png @stateofcalifornia make sure space beach gets a mention @nasa-jpl](https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png)
 ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10 @CityOfLosangeles @blackgirlscode @disney @hulu ](https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled)
 
