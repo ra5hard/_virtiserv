@@ -6,64 +6,6 @@ layout: default
 
 --- 
 
-# Burningman !!!!
-@nasa-jpl thanks for the job and knowing I did not violate another human on the playa @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [https://burningman.org/](https://burningman.org/) // [https://ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
-[youtube.com/@burningman](https://www.youtube.com/@burningman) 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-@nasa-pds there would have never been conflict if you guys were honest [nps.edu/documents/106185685/108544842/CTIP+General+Awareness+PPT_FINAL_1.pdf/](https://nps.edu/documents/106185685/108544842/CTIP+General+Awareness+PPT_FINAL_1.pdf/)
-<img  alt="image" src="https://github.com/user-attachments/assets/04bbe23b-79a9-4eb3-a1ac-649ea7032e0a" />
-DOD INSTRUCTION 1020.03
-HARASSMENT PREVENTION AND RESPONSE IN THE
-ARMED FORCES @DeptofWar [@NASA ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
-@nasa-jpl [esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/102003p.PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/102003p.PDF)
-<img alt="image" src="https://github.com/user-attachments/assets/a3659e44-4bbf-4b13-a5a8-cd5dea5bc66a" />
-
-##  Hubble vs Roman Space Telescope Image Size Comparisons
-[https://svs.gsfc.nasa.gov/12308/](https://svs.gsfc.nasa.gov/12308/)
-[<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman-Hubble_FOV_still_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4)
-
-[svs.gsfc.nasa.gov/14856/](https://svs.gsfc.nasa.gov/14856/) @nasa-pds roman is transmitting in Madrid @nasa @nasa-jpl 
-Madrid Deep Space Communications Complex
-_DEEP SPACE NETWORK_ [@NASA-JPL @NASA-PDS _HomePAge_mdscc.nasa.gov](https://www.mdscc.nasa.gov/index.php/en/start/)
-<img   alt="image" src="https://github.com/user-attachments/assets/d999eda4-701f-43e8-8381-116d0f903b0f" />
-
-`Roman Space Telescope to Scale with Tyrannosaurus rex`
-
-![https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg)
-
-![https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/WFIRST-PHAT-full_25percent.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/WFIRST-PHAT-full_25percent.jpg)
-
-HOT 97 News Live! 9/3/26
-[WATCH - https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH](https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH) ////////// [Battle of Jollof: Hoops, Food & African Culture Take Over NYC](https://youtu.be/WWZqDg4C5cs)
-<img   alt="image" src="https://github.com/user-attachments/assets/f3894204-fb62-4cd4-a6d9-8cfce935ba5d" />
-
-### Congressional Staffer Struck By Lightning
-, SF Trash Rescue & Moose Attack
-[`WATCH` - youtu.be/iUBBbHWGbD0](https://youtu.be/iUBBbHWGbD0)
-<img alt="image" src="https://github.com/user-attachments/assets/4106a3e3-1291-4f10-9273-3211806bfea0" />
-
-
-# Burningman !!!!
-@nasa-jpl i was first cheated on here i think.... are all american girls cruel @whitehouse @ESA @NASA-PDS
-[WATCH - 2026 Burning Man Live Webcast from Black Rock City](https://youtu.be/Z8b1Be-HUGU)
-<img alt="image" src="https://github.com/user-attachments/assets/3379e116-bf89-4094-888f-17a44fd2f48f" />
-<img alt="image" src="https://github.com/user-attachments/assets/214986ca-1fc3-49e3-b9d0-d13f6af8518c" />
-
-![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
-# Water
-@CityOfLosAngeles @CityofSantaMonica 
-@la-county-isd HOlly Mitchell water quality,  @whitehouse 
-[@forAtlanta](https://youtu.be/ipOSrQNrp1U?si=QdLNNRcYCsmhyxds)
-
-<img  alt="ECOv002_L2T_LSTE_46268_013_11SLT_20260902T131836_0713_01_LST @CityOfLosAngeles @CityofSantaMonica @la-county-isd HOlly Mitchell water quality,  @whitehouse " src="https://github.com/user-attachments/assets/4d80785e-68e4-45cc-8335-3fe1babae97e" />
-
-<img alt="image @CityOfLosAngeles @CityofSantaMonica 
-@la-county-isd HOlly Mitchell water quality, btw im getting tortured a lot and its @Stateofcalifornia Gavin Newsom support of the Sports and Entertainment Breeding Program ... all the best brides already fucked ... @whitehouse " src="https://github.com/user-attachments/assets/7a85a529-f114-4e3d-a75b-7ef29c8c3d4e" />
-
 
 ### mARS dATArLEASE 78
 ![https://www.longbeach.gov/globalassets/library/development-assets/library-logo.jpg](https://www.longbeach.gov/globalassets/library/development-assets/library-logo.jpg)
@@ -198,6 +140,30 @@ END
 @blackgirlscode @whitehouse forward to responsible howard [pds.nasa.gov/datasearch/subscription-service/PDS_Data_Release_Calendar_20260807_v0.xlsx](https://pds.nasa.gov/datasearch/subscription-service/PDS_Data_Release_Calendar_20260807_v0.xlsx) @Caltech 
 
 ![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+
+# MArs Vids @NASA-JPL @NASA-PDS I'm just sharing @DeptOfWar bc if I'm treated like a stranger but still here I'm still here... @CityOfLosAngeles KArenBass
+### A NEW VIEW OF MARS NASA MARINER & VIKING MISSION PROMOTIONAL FILM  
+[Watch](https://archive.org/details/59074ANewViewOfMars) / [Download](https://archive.org/download/59074ANewViewOfMars/59074%20A%20New%20View%20Of%20Mars.mp4)
+This 1970's NASA movie shows the results of the Mariner 9 mission -- which produced hundreds of photographs of the planet's surface, creating a new understanding of the planet's geography and atmosphere. 
+
+### NASA VIKING PROGRAM PIONEERING MARS LANDER HISTORIC FILM 48584
+[Watch](https://archive.org/details/48584NASAViking) / [Download](https://archive.org/download/48584NASAViking/48584%20NASA%20Viking.mp4)
+
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png)
+
+
+[viking](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:vik:viking_lander_1:/vl_0001/i0xx/11i003.red) 
+[insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS) + [_PressKit_@nasa-jpl @nbcnews @disney ](https://www.jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf)
+
+
+# KarenBass Cameos at [B.E.T](bet.com) Awards
+@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
+
+
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+
 ` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
 [youtube.com/@HOT97ontv @fORaTLANTA FROM @sTATEoFcALIFORNIA ](https://www.youtube.com/@HOT97ontv)
 <img alt="image" src="https://github.com/user-attachments/assets/c6aa801f-46b1-4387-a66a-c507e65c626c" />
@@ -299,6 +265,68 @@ V 4.231.24 Home NASA Accessibility
 NASA Official: Doug Newman @doug-newman-nasa hi doug i have to do my personal check on the new @nasa-pds Mars Volume [@nasa-jpl . . . Sep. 1, 2026. MRO Release 78](https://pds-geosciences.wustl.edu/missions/mro/) i hope you hae my .cat file @nasa-pds
 
 <script src="https://gist.github.com/virtiserv/2ad48e36ecde2f684e20d4962ecd13d5.js"></script>
+
+# Burningman !!!!
+@nasa-jpl thanks for the job and knowing I did not violate another human on the playa @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [https://burningman.org/](https://burningman.org/) // [https://ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
+[youtube.com/@burningman](https://www.youtube.com/@burningman) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+@newshour @foxnews @nbcnews @cbs-news-data /[Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+
+@nasa-pds there would have never been conflict if you guys were honest [nps.edu/documents/106185685/108544842/CTIP+General+Awareness+PPT_FINAL_1.pdf/](https://nps.edu/documents/106185685/108544842/CTIP+General+Awareness+PPT_FINAL_1.pdf/)
+<img  alt="image" src="https://github.com/user-attachments/assets/04bbe23b-79a9-4eb3-a1ac-649ea7032e0a" />
+DOD INSTRUCTION 1020.03
+HARASSMENT PREVENTION AND RESPONSE IN THE
+ARMED FORCES @DeptofWar [@NASA ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
+@nasa-jpl [esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/102003p.PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/102003p.PDF)
+<img alt="image" src="https://github.com/user-attachments/assets/a3659e44-4bbf-4b13-a5a8-cd5dea5bc66a" />
+
+##  Hubble vs Roman Space Telescope Image Size Comparisons
+[https://svs.gsfc.nasa.gov/12308/](https://svs.gsfc.nasa.gov/12308/)
+[<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman-Hubble_FOV_still_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4)
+
+[svs.gsfc.nasa.gov/14856/](https://svs.gsfc.nasa.gov/14856/) @nasa-pds roman is transmitting in Madrid @nasa @nasa-jpl 
+Madrid Deep Space Communications Complex
+_DEEP SPACE NETWORK_ [@NASA-JPL @NASA-PDS _HomePAge_mdscc.nasa.gov](https://www.mdscc.nasa.gov/index.php/en/start/)
+<img   alt="image" src="https://github.com/user-attachments/assets/d999eda4-701f-43e8-8381-116d0f903b0f" />
+
+`Roman Space Telescope to Scale with Tyrannosaurus rex`
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg)
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/WFIRST-PHAT-full_25percent.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/WFIRST-PHAT-full_25percent.jpg)
+
+HOT 97 News Live! 9/3/26
+[WATCH - https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH](https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH) ////////// [Battle of Jollof: Hoops, Food & African Culture Take Over NYC](https://youtu.be/WWZqDg4C5cs)
+<img   alt="image" src="https://github.com/user-attachments/assets/f3894204-fb62-4cd4-a6d9-8cfce935ba5d" />
+
+### Congressional Staffer Struck By Lightning
+, SF Trash Rescue & Moose Attack
+[`WATCH` - youtu.be/iUBBbHWGbD0](https://youtu.be/iUBBbHWGbD0)
+<img alt="image" src="https://github.com/user-attachments/assets/4106a3e3-1291-4f10-9273-3211806bfea0" />
+
+
+# Burningman !!!!
+@nasa-jpl i was first cheated on here i think.... are all american girls cruel @whitehouse @ESA @NASA-PDS
+[WATCH - 2026 Burning Man Live Webcast from Black Rock City](https://youtu.be/Z8b1Be-HUGU)
+<img alt="image" src="https://github.com/user-attachments/assets/3379e116-bf89-4094-888f-17a44fd2f48f" />
+<img alt="image" src="https://github.com/user-attachments/assets/214986ca-1fc3-49e3-b9d0-d13f6af8518c" />
+
+![https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/1TlDkAeaMuFtxmGc9TvvAPoNZ_diXemC1Wm_9zo7czKgqHwfwwPOZy6nJWG44eJfmlPGNA_SDQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+# Water
+@CityOfLosAngeles @CityofSantaMonica 
+@la-county-isd HOlly Mitchell water quality,  @whitehouse 
+[@forAtlanta](https://youtu.be/ipOSrQNrp1U?si=QdLNNRcYCsmhyxds)
+
+<img  alt="ECOv002_L2T_LSTE_46268_013_11SLT_20260902T131836_0713_01_LST @CityOfLosAngeles @CityofSantaMonica @la-county-isd HOlly Mitchell water quality,  @whitehouse " src="https://github.com/user-attachments/assets/4d80785e-68e4-45cc-8335-3fe1babae97e" />
+
+<img alt="image @CityOfLosAngeles @CityofSantaMonica 
+@la-county-isd HOlly Mitchell water quality, btw im getting tortured a lot and its @Stateofcalifornia Gavin Newsom support of the Sports and Entertainment Breeding Program ... all the best brides already fucked ... @whitehouse " src="https://github.com/user-attachments/assets/7a85a529-f114-4e3d-a75b-7ef29c8c3d4e" />
+
+
 
 [It's A Fire · Portishead](https://youtu.be/selAvZE6lp4) // [Sour Times · Portishead](https://youtu.be/VoSoZyiHZ6o) // [Doubie Ashtray · Devin the Dude](https://youtu.be/XMjO4plTlb4) // [Mule Muraja - Trillion (ሙሌ ሙራጃ ትሪልየን)](https://youtu.be/62EC4kp1U8Q) // [Marco Polo ft. Artifacts - "Back To Work"](https://youtu.be/-6-olhfhxuU) // [Creepin' · Stevie Wonder](https://youtu.be/Akwvng0SEjA) // [Living For The City · Stevie Wonder](https://youtu.be/ghLWjyOOLno) // [Heart Of The City (Ain't No Love) · JAŸ-Z](https://youtu.be/Cn4alua9o2o) // [Big Pun - It's So Hard (Official HD Video) ft. Donell Jones](https://youtu.be/eMIzWh1yhCA) // [Give It Back · Sharon Jones & The Dap-Kings](https://youtu.be/z4TVU24aUq8?si=rNoxNVV59f2kyuwm) // [Ghetto Mafia - For The Good Times (Straight From The Dec)](https://youtu.be/nuYSteLH104?si=aHpkwLrlLuuHb77u) // [Kool Moe Dee vs Busy Bee Starski Dec 1981 Harlem World](https://youtu.be/am9C2_DZ7s4?si=_QcjWQ7GOfrwvbk_) // [RUN DMC - Peter Piper](https://youtu.be/Sd5gFx001qg?si=rpDPkqNnc8fJ7hct) // [RUN DMC - Run's House ](https://youtu.be/0xMJZHrG_94?si=XVbHw9eSRw-ntQ_F) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?si=zdDzwS7Nwd7O_eV6) // [Biz Markie ‎- Young Girl Bluez @nasa-pds ](https://youtu.be/zAdUpKkPEps)
 
