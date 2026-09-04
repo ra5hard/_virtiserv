@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+[Natnael Leta - Kalen (ናትናኤል ለታ - ቃሌን)](https://youtu.be/MPwLPDXexRE) // [Selamawit Yohannes - Yebleni'loo | የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA)
+
+---
+
 # Iran’s Desperate New Move: Multiple Bases Hit
 @DeptOFWar Lana might be runnin man plz watch her report @FORATLANTA!!!! 
 [`WATCH` - youtu.be/Go6yAg9-ito](https://youtu.be/Go6yAg9-ito)
@@ -9,7 +14,15 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/e3d3b9dc-0887-45f2-8140-638ef0e12279" />
 <img   alt="image" src="https://github.com/user-attachments/assets/6d4b000e-d9f0-4b31-8036-fa4a7ac8cd3e" />
 
+### KarenBass Cameos at [B.E.T](bet.com) Awards
+@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
+
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
+
 <img  alt="image" src="https://github.com/user-attachments/assets/b79fc0d6-4832-4747-a533-8b60e68888e4" />
+<img   alt="image" src="https://github.com/user-attachments/assets/5a4e2011-7272-4c86-a968-2f48e42a5687" />
+
 
 [No Happy Holidays · Mary J. Blige @CityOfLosAngeles](https://youtu.be/WFK_UgYGofo) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [DIRIYAM OO HOO DIRIYAM](https://youtu.be/TuQFpeDd0zA) // [Hieroglyphics - The Way That It Be](https://youtu.be/FlDWQ89MCcg) // [Oakland Blackouts · Hieroglyphics](https://youtu.be/n8qDoVYsOQg?si=evsRorRp2v4KJhhq) // [That's When Ya Lost (I Ain't Trippin' Remix)](https://youtu.be/yp-g_iwGKww) // [Pete Rock & CL Smooth - Straighten It Out ](https://youtu.be/xhDb8LoScpI) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8) // [MC Lyte - Poor Georgie](https://youtu.be/hSTzr2V4KMw) // [Slick Rick - Hey Young World](https://youtu.be/ea-ezolZq5k) // [Slick Rick - Children's Story](https://youtu.be/HjNTu8jdukA) // [West Savannah · Outkast](https://youtu.be/jPeRi2CNYQA?si=QJRIMzS8XT9yxurr) // [Slump · Outkast](https://youtu.be/4Mm566HG3Fc) // [For Real (er) · Skyzoo](https://youtu.be/ZkMX1fjGbVo) // [De La Soul - Stakes Is High](https://youtu.be/radJQyaC5kY) // [Queen Latifah - Just Another Day... ](https://youtu.be/FLYu4jT5Ez4) // [Dilated Peoples & Tash - Soundbombing](https://youtu.be/Dzol0GQVIlU) // [Brick City Kids a k a Artifacts ‎- Brick City Kids](https://youtu.be/KQanE3jdJ3A) // _Jeezy - Holy Ghost_ [🎼🎧](https://youtu.be/SJ1849qTQkM?si=LgQWLwObxMnvh4ys) //
 
@@ -193,13 +206,7 @@ This 1970's NASA movie shows the results of the Mariner 9 mission -- which produ
 [insight](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=insight_lander&gather.common.instrument=ICC&gather.common.product_type=ZPS) + [_PressKit_@nasa-jpl @nbcnews @disney ](https://www.jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf)
 
 
-# KarenBass Cameos at [B.E.T](bet.com) Awards
-@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
 
-
-[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
-
-` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
 [youtube.com/@HOT97ontv @fORaTLANTA FROM @sTATEoFcALIFORNIA ](https://www.youtube.com/@HOT97ontv)
 <img alt="image" src="https://github.com/user-attachments/assets/c6aa801f-46b1-4387-a66a-c507e65c626c" />
 
