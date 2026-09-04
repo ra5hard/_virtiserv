@@ -10,10 +10,21 @@ layout: default
 
 @BLACKGiRLSCODE _`Jason Lee?`_ `Vice`Mayor of Stockton @StateOfCalifornia
 see Stockton from our space station peripheral @nasa-jpl @emit-sds
+_District 6 Vice Mayor Jason Lee_ @CityOFlosangeles [stocktonca.gov/government/city_council/district_6.php](https://www.stocktonca.gov/government/city_council/district_6.php)
+<img  alt="image" src="https://github.com/user-attachments/assets/5c7dd253-5f8e-416a-a40a-26d47db7173d" />
+
+EMIT_L1B_RAD_001_20250822T175703_2523412_008 @emit-sds @nasa 
+
+<img alt="EMIT_L1B_RAD_001_20250822T175703_2523412_008" src="https://github.com/user-attachments/assets/67991f81-c1be-4de4-b542-5798a9ff165c" />
+
 @asfadmin `EMIT_L2A_RFL_001_20250822T175703_2523412_008`
+
 <img  alt="EMIT_L2A_RFL_001_20250822T175703_2523412_008" src="https://github.com/user-attachments/assets/2da680ef-4250-49aa-b782-2cf80d230785" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/02d618bd-9019-4b61-bb07-e79015e8dd41" />
+
+![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20250822T175703_2523412_008/EMIT_L1B_RAD_001_20250822T175703_2523412_008.png?A-userid=None&Expires=1788549153&Signature=HDiCzjp36a3mnu8rie3H7-NdWrmaGq3T4kB3QDyOJd0g87vri8FajIwVMVgFLKFJpaaTLW-pShh517IUiO7KUG1nr3VUa2EvnZSPYf~N-qeXME0C5PL2jfUDfZUnb11x~qjzQuD5kC-dAn0g5mOd7KRxSj5TJv14KSKruD28L0gIjrPoUMhFj029SHM17VHHEIpz8XnuPHQT0oSf9knIoPso3x1IS6KvepxnBpcI9in1K~FiSCigXGQromOmJfomuXJkuhuiF0Ms6hPUlfGr4UspTpZX7FKx6zvGgZ9SV7EOlJYLGDx3SJOOK~BdN651hk4yATMaXalelzDD~AVlbQ__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20250822T175703_2523412_008/EMIT_L1B_RAD_001_20250822T175703_2523412_008.png?A-userid=None&Expires=1788549153&Signature=HDiCzjp36a3mnu8rie3H7-NdWrmaGq3T4kB3QDyOJd0g87vri8FajIwVMVgFLKFJpaaTLW-pShh517IUiO7KUG1nr3VUa2EvnZSPYf~N-qeXME0C5PL2jfUDfZUnb11x~qjzQuD5kC-dAn0g5mOd7KRxSj5TJv14KSKruD28L0gIjrPoUMhFj029SHM17VHHEIpz8XnuPHQT0oSf9knIoPso3x1IS6KvepxnBpcI9in1K~FiSCigXGQromOmJfomuXJkuhuiF0Ms6hPUlfGr4UspTpZX7FKx6zvGgZ9SV7EOlJYLGDx3SJOOK~BdN651hk4yATMaXalelzDD~AVlbQ__&Key-Pair-Id=K1JHXLBU4LECA2)
+
 
 ![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL2ARFL.001/EMIT_L2A_RFL_001_20250822T175703_2523412_008/EMIT_L2A_RFL_001_20250822T175703_2523412_008.png?A-userid=None&Expires=1788548900&Signature=lsv7Wa9A-32pZ64wHZzWSQFEgocmGxcP0J8rm35YcX5S2FKeDSmN5f0amQHwcLxffZPO7d8SLJhj2MmZGvmL2rU9KlUqEkO5~IBfYFfC2cKKKf4rg2OYoWdVAVz~t0Jondeufz~iqdNMH11F7KDaX-ssqHKrWDPbdJMAjbrKKDD4qHMBPmW~3WGgn5kMNDZyZFORYyHn~qZIA~EC1fd7GJajwsWDrPRXT9VW2x8lXkE8hdv72n61TGlpz02IJnFHEdq9pgAI~SQjVwQZQ24Txoi~zV473baiepE0rTQsYKlDAp6Atn6sNYSyM4VRn1YMpTgbwmmFg9YjLdoHDKC75g__&Key-Pair-Id=K1JHXLBU4LECA2 @stateofcalifornia ](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL2ARFL.001/EMIT_L2A_RFL_001_20250822T175703_2523412_008/EMIT_L2A_RFL_001_20250822T175703_2523412_008.png?A-userid=None&Expires=1788548900&Signature=lsv7Wa9A-32pZ64wHZzWSQFEgocmGxcP0J8rm35YcX5S2FKeDSmN5f0amQHwcLxffZPO7d8SLJhj2MmZGvmL2rU9KlUqEkO5~IBfYFfC2cKKKf4rg2OYoWdVAVz~t0Jondeufz~iqdNMH11F7KDaX-ssqHKrWDPbdJMAjbrKKDD4qHMBPmW~3WGgn5kMNDZyZFORYyHn~qZIA~EC1fd7GJajwsWDrPRXT9VW2x8lXkE8hdv72n61TGlpz02IJnFHEdq9pgAI~SQjVwQZQ24Txoi~zV473baiepE0rTQsYKlDAp6Atn6sNYSyM4VRn1YMpTgbwmmFg9YjLdoHDKC75g__&Key-Pair-Id=K1JHXLBU4LECA2) 
 Happy 240th Birthday, Los Angeles!
