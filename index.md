@@ -6,6 +6,16 @@ layout: default
 
 --- 
 
+Happy 240th Birthday, Los Angeles!
+_From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
+[@CityOfLosAngeles @LACountyDPH @la-county-isd _`Plz Watch`_](https://youtu.be/DFK21jpZ3t0) // [lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday](https://lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday) _Karen Bass_ my current review of @nasa-jpl @usgs dATArLEASE 78 for MRO [ra5hard.github.io/mars/2026/09/03/Marsblogv2.html](https://ra5hard.github.io/mars/2026/09/03/Marsblogv2.html)
+![https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0](https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0) 
+<img alt="image" src="https://github.com/user-attachments/assets/b1954a6b-96d9-41f7-9efe-a6dfc64803bc" />
+![@nasa is this real @commercegov @fbicyber @nasa-pds @emit-sds @CityOFSantaMonica](https://cdn.cookielaw.org/logos/437c2fa5-d4fa-4d44-9765-aeab285bb5e7/019bbd5c-8142-76a7-b6e5-3b95b7d45c1a/849a0683-8d9b-4df4-a35e-cdffb06ddde5/NASAFCU_1500x300.png) 
+
+[nasafcu.com/](https://www.nasafcu.com/) @nasa-jpl I'm just getting organized, tbh I'm still recovering from Erika dumping me and losing Coral... 
+[https://eyes.nasa.gov/apps/dsn-now/dsn.html @nasa-pds tell the MRO building we have data](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @Stateofcalifornia something is wrong with Goldstones website from [@CityOflosangeles [LAPL _ Central](https://www.gdscc.nasa.gov/) [gdscc.nasa.gov/](https://www.gdscc.nasa.gov/)
+<img alt="image" src="https://github.com/user-attachments/assets/aa3f94e2-2857-4d2d-9cae-a0ea4b1c1f80" />
 
 Happy 240th Birthday, Los Angeles!
 _From_ _@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_
