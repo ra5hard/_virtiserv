@@ -16,6 +16,9 @@ layout: default
 On September 4, 1781, the eleven men, eleven women, and twenty-two children recruited by Alta California Governor Felipe de Neve founded El Pueblo de la Reyna de Los Angeles (The Town of the Queen of the Angels). They had gathered in August at the Mission San Gabriel in New Spain (present-day Mexico) and traveled together to arrive at the site of the new pueblo alongside the Los Angeles River. [READ MORE](https://www.loc.gov/item/today-in-history/september-04/) /// 
 [MAPS OF LOS ANGELES @CityOfLosAngeles @NASA-JPL @Blackgirlscode for LA-Birthday - lapl.org](https://www.lapl.org/research-guides/maps/maps-los-angeles) ~  [Fugees - Vocab @la-county-isd @nasa-giss](https://youtu.be/m4t5R3fTbD0) // [Summertime In The LBC · Dove Shack](https://youtu.be/DlLvRY8QoY4)
 
+ECOv002_L2T_LSTE_46110_004_11SLT_20260823T095242_0713_01 @emit-sds @UCLA
+<img  alt="image" src="https://github.com/user-attachments/assets/78a31484-e5ea-4401-a796-825f6f95fc00" />
+
 ![https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg](https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg) // [@libraryofcongress](https://youtu.be/YD_fcIwgbO4)
 [[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
 ![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg)
