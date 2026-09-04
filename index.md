@@ -20,6 +20,9 @@ On September 4, 1781, the eleven men, eleven women, and twenty-two children recr
 [[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
 ![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg)
 
+EMIT_L1B_RAD_001_20240825T173115_2423811_008 @UCLA
+<img alt=" @nasa-jpl @whitehouse EMIT_L1B_RAD_001_20240825T173115_2423811_008" src="https://github.com/user-attachments/assets/a2c3d966-c673-4518-a5e7-272800e5665d" />
+
 @emit-sds EMIT_L1B_RAD_001_20260615T203704_2616613_011
 <img  alt="EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/50eaa660-ea63-4e1a-8349-a038863e5970" />
 
