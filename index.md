@@ -7,7 +7,7 @@ layout: default
 --- 
 
 # Burningman !!!!
-@nasa-jpl thanks for the job and knowing I did not violate another human on the playa @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [https://burningman.org/](https://burningman.org/)
+@nasa-jpl thanks for the job and knowing I did not violate another human on the playa @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [https://burningman.org/](https://burningman.org/) // [https://ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
 [youtube.com/@burningman](https://www.youtube.com/@burningman) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -17,7 +17,7 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/04bbe23b-79a9-4eb3-a1ac-649ea7032e0a" />
 DOD INSTRUCTION 1020.03
 HARASSMENT PREVENTION AND RESPONSE IN THE
-ARMED FORCES @DeptofWar 
+ARMED FORCES @DeptofWar [@NASA ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
 @nasa-jpl [esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/102003p.PDF](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/102003p.PDF)
 <img alt="image" src="https://github.com/user-attachments/assets/a3659e44-4bbf-4b13-a5a8-cd5dea5bc66a" />
 
