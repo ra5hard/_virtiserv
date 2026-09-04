@@ -7,6 +7,13 @@ layout: default
 --- 
 
 
+Happy 240th Birthday, Los Angeles!
+_From_ _@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_
+[@CityOfLosAngeles @LACountyDPH @la-county-isd _`Plz Watch`_](https://youtu.be/DFK21jpZ3t0) 
+![https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0](https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0)
+<img  alt="image" src="https://github.com/user-attachments/assets/8eed7bab-b419-433c-af57-7a93f94ae8b8" />
+
+
 ### mARS dATArLEASE 78
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_093700_093799/ESP_093777_2235/ESP_093777_2235_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_093700_093799/ESP_093777_2235/ESP_093777_2235_MIRB.abrowse.jpg)
 ![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_093700_093799/ESP_093771_2230/ESP_093771_2230_MIRB.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_093700_093799/ESP_093771_2230/ESP_093771_2230_MIRB.browse.jpg) 
