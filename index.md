@@ -11,6 +11,8 @@ layout: default
 [youtube.com/@burningman](https://www.youtube.com/@burningman) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
 ##  Hubble vs Roman Space Telescope Image Size Comparisons
 [https://svs.gsfc.nasa.gov/12308/](https://svs.gsfc.nasa.gov/12308/)
 [<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman-Hubble_FOV_still_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4)
@@ -56,7 +58,7 @@ HOT 97 News Live! 9/3/26
 
 
 ### mARS dATArLEASE 78
-
+![https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png @stateofcalifornia make sure space beach gets a mention @nasa-jpl](https://www.longbeach.gov/globalassets/logo-small-city-long-beach.png)
 ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUN3nV_T1jSYlYgqMnFaFfoeesgZJZlTzQY1R_aCYDrgxyXwy_XAJVeTM&s=10 @CityOfLosangeles @blackgirlscode @disney @hulu ](https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled)
 
 ![https://camo.githubusercontent.com/22a42dfd199e7cb81f67ec525629bc520ac7ac657ffd08464cf9cb4bf932a2e3](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png)
