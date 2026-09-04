@@ -11,10 +11,12 @@ layout: default
 # The Town of the Queen of Angels
 On September 4, 1781, the eleven men, eleven women, and twenty-two children recruited by Alta California Governor Felipe de Neve founded El Pueblo de la Reyna de Los Angeles (The Town of the Queen of the Angels). They had gathered in August at the Mission San Gabriel in New Spain (present-day Mexico) and traveled together to arrive at the site of the new pueblo alongside the Los Angeles River. [READ MORE](https://www.loc.gov/item/today-in-history/september-04/)
 ![https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg](https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg) // [@libraryofcongress](https://youtu.be/YD_fcIwgbO4)
-
+[[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
 ![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg)
+@emit-sds @cityoflosangeles @la-county-isd EMIT_L2A_RFL_001_20260602T180011_2615312_003
+<img alt=" @emit-sds @cityoflosangeles @la-county-isd EMIT_L2A_RFL_001_20260602T180011_2615312_003" src="https://github.com/user-attachments/assets/2bc13a3b-de41-41e7-8c26-257dd3844a3b" />
 
-[[Panorama along Broadway St., Los Angeles, California, showing City Hall] ]() 
+[[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
 Why This Couple Refused To Cancel Their Flooded Wedding
 @ForAtlanta save me [`WATCH` - https://youtu.be/YD_fcIwgbO4](https://youtu.be/YD_fcIwgbO4)
 <img  alt="image" src="https://github.com/user-attachments/assets/5be2009a-7048-4d91-bce8-115eea0f5cfe" />
