@@ -13,6 +13,10 @@ layout: default
 
 
 
+@nasa-pds there would have never been conflict if you guys were honest [nps.edu/documents/106185685/108544842/CTIP+General+Awareness+PPT_FINAL_1.pdf/](https://nps.edu/documents/106185685/108544842/CTIP+General+Awareness+PPT_FINAL_1.pdf/)
+<img  alt="image" src="https://github.com/user-attachments/assets/04bbe23b-79a9-4eb3-a1ac-649ea7032e0a" />
+
+
 ##  Hubble vs Roman Space Telescope Image Size Comparisons
 [https://svs.gsfc.nasa.gov/12308/](https://svs.gsfc.nasa.gov/12308/)
 [<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman-Hubble_FOV_still_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4)
