@@ -6,6 +6,12 @@ layout: default
 
 --- 
 
+### Roman Space Telescope to Scale with Tyrannosaurus rex
+[svs.gsfc.nasa.gov/14856/](https://svs.gsfc.nasa.gov/14856/) @nasa-pds roman is transmitting in Madrid @nasa @nasa-jpl
+![https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg)
+<img   alt="image" src="https://github.com/user-attachments/assets/d999eda4-701f-43e8-8381-116d0f903b0f" />
+
+
 HOT 97 News Live! 9/3/26
 [WATCH - https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH](https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH) ////////// [Battle of Jollof: Hoops, Food & African Culture Take Over NYC](https://youtu.be/WWZqDg4C5cs)
 <img   alt="image" src="https://github.com/user-attachments/assets/f3894204-fb62-4cd4-a6d9-8cfce935ba5d" />
