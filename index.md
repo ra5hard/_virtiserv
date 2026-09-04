@@ -23,6 +23,10 @@ On September 4, 1781, the eleven men, eleven women, and twenty-two children recr
 EMIT_L1B_RAD_001_20240825T173115_2423811_008 @UCLA
 <img alt=" @nasa-jpl @whitehouse EMIT_L1B_RAD_001_20240825T173115_2423811_008" src="https://github.com/user-attachments/assets/a2c3d966-c673-4518-a5e7-272800e5665d" />
 
+EMIT_L1B_RAD_001_20240621T191444_2417313_007
+@la-county-isd @CityOFLOSANGELES @USNAVY I think this is the fuel or oil leak from the river I reported a few weeks ago @Stateofcalifornia
+<img  alt="EMIT_L1B_RAD_001_20240621T191444_2417313_007" src="https://github.com/user-attachments/assets/c8b7c76d-2477-4d72-a8e3-e42327f4f35c" />
+
 @emit-sds EMIT_L1B_RAD_001_20260615T203704_2616613_011
 <img  alt="EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/50eaa660-ea63-4e1a-8349-a038863e5970" />
 
