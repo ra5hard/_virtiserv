@@ -3,7 +3,15 @@ layout: default
 ---
 
 
-[Natnael Leta - Kalen (ናትናኤል ለታ - ቃሌን)](https://youtu.be/MPwLPDXexRE) // [Selamawit Yohannes - Yebleni'loo | የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA) // [TIMNIT WELDAY - MESYUKA - ትምኒት ወልዳይ - መስዩካ ](https://youtu.be/mPj2jZLFPuU) // 
+ 
+[No Happy Holidays · Mary J. Blige @CityOfLosAngeles](https://youtu.be/WFK_UgYGofo) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [DIRIYAM OO HOO DIRIYAM](https://youtu.be/TuQFpeDd0zA) // [Hieroglyphics - The Way That It Be](https://youtu.be/FlDWQ89MCcg) // [Oakland Blackouts · Hieroglyphics](https://youtu.be/n8qDoVYsOQg?si=evsRorRp2v4KJhhq) // [That's When Ya Lost (I Ain't Trippin' Remix)](https://youtu.be/yp-g_iwGKww) // [Pete Rock & CL Smooth - Straighten It Out ](https://youtu.be/xhDb8LoScpI) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8) // [MC Lyte - Poor Georgie](https://youtu.be/hSTzr2V4KMw) // [Slick Rick - Hey Young World](https://youtu.be/ea-ezolZq5k) // [Slick Rick - Children's Story](https://youtu.be/HjNTu8jdukA) // [West Savannah · Outkast](https://youtu.be/jPeRi2CNYQA?si=QJRIMzS8XT9yxurr) // [Slump · Outkast](https://youtu.be/4Mm566HG3Fc) // [For Real (er) · Skyzoo](https://youtu.be/ZkMX1fjGbVo) // [De La Soul - Stakes Is High](https://youtu.be/radJQyaC5kY) // [Queen Latifah - Just Another Day... ](https://youtu.be/FLYu4jT5Ez4) // [Dilated Peoples & Tash - Soundbombing](https://youtu.be/Dzol0GQVIlU) // [Brick City Kids a k a Artifacts ‎- Brick City Kids](https://youtu.be/KQanE3jdJ3A) // _Jeezy - Holy Ghost_ [🎼🎧](https://youtu.be/SJ1849qTQkM?si=LgQWLwObxMnvh4ys) // [Natnael Leta - Kalen (ናትናኤል ለታ - ቃሌን)](https://youtu.be/MPwLPDXexRE) // [Selamawit Yohannes - Yebleni'loo | የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA) // [TIMNIT WELDAY - MESYUKA - ትምኒት ወልዳይ - መስዩካ ](https://youtu.be/mPj2jZLFPuU) // 
+
+Happy 240th Birthday, Los Angeles!
+_From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
+[@CityOfLosAngeles @LACountyDPH @la-county-isd _`Plz Watch`_](https://youtu.be/DFK21jpZ3t0) // [lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday](https://lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday) _Karen Bass_ my current review of @nasa-jpl @usgs dATArLEASE 78 for MRO [ra5hard.github.io/mars/2026/09/03/Marsblogv2.html](https://ra5hard.github.io/mars/2026/09/03/Marsblogv2.html)
+![https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0](https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0) 
+<img   alt="image" src="https://github.com/user-attachments/assets/4cddeafb-be1c-4f67-a6cd-f6c75947bca2" />
+<img   alt="image" src="https://github.com/user-attachments/assets/96f4a7a5-186d-4416-8834-93def5a00c54" />
 
 
 ---
@@ -26,7 +34,6 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/5a4e2011-7272-4c86-a968-2f48e42a5687" />
 
 
-[No Happy Holidays · Mary J. Blige @CityOfLosAngeles](https://youtu.be/WFK_UgYGofo) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [DIRIYAM OO HOO DIRIYAM](https://youtu.be/TuQFpeDd0zA) // [Hieroglyphics - The Way That It Be](https://youtu.be/FlDWQ89MCcg) // [Oakland Blackouts · Hieroglyphics](https://youtu.be/n8qDoVYsOQg?si=evsRorRp2v4KJhhq) // [That's When Ya Lost (I Ain't Trippin' Remix)](https://youtu.be/yp-g_iwGKww) // [Pete Rock & CL Smooth - Straighten It Out ](https://youtu.be/xhDb8LoScpI) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8) // [MC Lyte - Poor Georgie](https://youtu.be/hSTzr2V4KMw) // [Slick Rick - Hey Young World](https://youtu.be/ea-ezolZq5k) // [Slick Rick - Children's Story](https://youtu.be/HjNTu8jdukA) // [West Savannah · Outkast](https://youtu.be/jPeRi2CNYQA?si=QJRIMzS8XT9yxurr) // [Slump · Outkast](https://youtu.be/4Mm566HG3Fc) // [For Real (er) · Skyzoo](https://youtu.be/ZkMX1fjGbVo) // [De La Soul - Stakes Is High](https://youtu.be/radJQyaC5kY) // [Queen Latifah - Just Another Day... ](https://youtu.be/FLYu4jT5Ez4) // [Dilated Peoples & Tash - Soundbombing](https://youtu.be/Dzol0GQVIlU) // [Brick City Kids a k a Artifacts ‎- Brick City Kids](https://youtu.be/KQanE3jdJ3A) // _Jeezy - Holy Ghost_ [🎼🎧](https://youtu.be/SJ1849qTQkM?si=LgQWLwObxMnvh4ys) //
 
 --- 
 
@@ -34,10 +41,7 @@ layout: default
 
 `@lanajharris i exposed my heart on the train to a potential paperdegree from @USC on  @losangelesmetro @RepKarenBass donald glover hang out here Big MAtriarch, thats like bigmomma in your language and i want you to know lax is where the burners first land and im just embarrased @KeishaForGa they saw me with Trice at #O4w!!!! @burningman @ youtube.com/watch?v=Z8b1Be-HUGU @tanya-mcrae @SupervisorHollyJMitchell`
 
-Happy 240th Birthday, Los Angeles!
-_From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
-[@CityOfLosAngeles @LACountyDPH @la-county-isd _`Plz Watch`_](https://youtu.be/DFK21jpZ3t0) // [lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday](https://lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday) _Karen Bass_ my current review of @nasa-jpl @usgs dATArLEASE 78 for MRO [ra5hard.github.io/mars/2026/09/03/Marsblogv2.html](https://ra5hard.github.io/mars/2026/09/03/Marsblogv2.html)
-![https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0](https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0) 
+
 <img alt="image" src="https://github.com/user-attachments/assets/b1954a6b-96d9-41f7-9efe-a6dfc64803bc" />
 ![@nasa is this real @commercegov @fbicyber @nasa-pds @emit-sds @CityOFSantaMonica](https://cdn.cookielaw.org/logos/437c2fa5-d4fa-4d44-9765-aeab285bb5e7/019bbd5c-8142-76a7-b6e5-3b95b7d45c1a/849a0683-8d9b-4df4-a35e-cdffb06ddde5/NASAFCU_1500x300.png) 
 
