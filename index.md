@@ -6,14 +6,25 @@ layout: default
 
 --- 
 
-### Roman Space Telescope to Scale with Tyrannosaurus rex
+# Burningman !!!!
+@nasa-jpl thanks for the job and knowing I did not violate another human on the playa @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [https://burningman.org/](https://burningman.org/)
+[youtube.com/@burningman](https://www.youtube.com/@burningman) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+##  Hubble vs Roman Space Telescope Image Size Comparisons
+[https://svs.gsfc.nasa.gov/12308/](https://svs.gsfc.nasa.gov/12308/)
+[<video controls loading="lazy"  poster="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman-Hubble_FOV_still_print.jpg" src="https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4" />](https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/Roman_FOV_Comparison_Andromeda_1080.mp4)
 
 [svs.gsfc.nasa.gov/14856/](https://svs.gsfc.nasa.gov/14856/) @nasa-pds roman is transmitting in Madrid @nasa @nasa-jpl 
 Madrid Deep Space Communications Complex
 _DEEP SPACE NETWORK_ [@NASA-JPL @NASA-PDS _HomePAge_mdscc.nasa.gov](https://www.mdscc.nasa.gov/index.php/en/start/)
-![https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg)
 <img   alt="image" src="https://github.com/user-attachments/assets/d999eda4-701f-43e8-8381-116d0f903b0f" />
 
+`Roman Space Telescope to Scale with Tyrannosaurus rex`
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014856/Roman-T-rex_Scale_2.jpg)
+
+![https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/WFIRST-PHAT-full_25percent.jpg](https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012308/WFIRST-PHAT-full_25percent.jpg)
 
 HOT 97 News Live! 9/3/26
 [WATCH - https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH](https://www.youtube.com/live/bKYqfI9nWEg?si=jeOiLGnQiy8EuLKH) ////////// [Battle of Jollof: Hoops, Food & African Culture Take Over NYC](https://youtu.be/WWZqDg4C5cs)
