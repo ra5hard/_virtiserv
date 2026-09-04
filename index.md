@@ -9,7 +9,9 @@ layout: default
 
 
 # The Town of the Queen of Angels
-On September 4, 1781, the eleven men, eleven women, and twenty-two children recruited by Alta California Governor Felipe de Neve founded El Pueblo de la Reyna de Los Angeles (The Town of the Queen of the Angels). They had gathered in August at the Mission San Gabriel in New Spain (present-day Mexico) and traveled together to arrive at the site of the new pueblo alongside the Los Angeles River. [READ MORE](https://www.loc.gov/item/today-in-history/september-04/)
+On September 4, 1781, the eleven men, eleven women, and twenty-two children recruited by Alta California Governor Felipe de Neve founded El Pueblo de la Reyna de Los Angeles (The Town of the Queen of the Angels). They had gathered in August at the Mission San Gabriel in New Spain (present-day Mexico) and traveled together to arrive at the site of the new pueblo alongside the Los Angeles River. [READ MORE](https://www.loc.gov/item/today-in-history/september-04/) /// 
+[MAPS OF LOS ANGELES @CityOfLosAngeles @NASA-JPL @Blackgirlscode for LA-Birthday - lapl.org](https://www.lapl.org/research-guides/maps/maps-los-angeles)
+
 ![https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg](https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg) // [@libraryofcongress](https://youtu.be/YD_fcIwgbO4)
 [[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
 ![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg)
@@ -20,6 +22,8 @@ On September 4, 1781, the eleven men, eleven women, and twenty-two children recr
 Why This Couple Refused To Cancel Their Flooded Wedding
 @ForAtlanta save me [`WATCH` - https://youtu.be/YD_fcIwgbO4](https://youtu.be/YD_fcIwgbO4)
 <img  alt="image" src="https://github.com/user-attachments/assets/5be2009a-7048-4d91-bce8-115eea0f5cfe" />
+
+[MAPS OF LOS ANGELES @CityOfLosAngeles @NASA-JPl for LA-Birthday - lapl.org](https://www.lapl.org/research-guides/maps/maps-los-angeles)
 
 @nasa-jpl I have to do some aquatics @CityOFLosAngeles and continue verifying our new data release 78 @nasa-pds @doug-newman-nasa . . . I might watch a couple YouTube vids, one of Lana's users asked me to post one of those energy drink commercials for her to see. The user does not have a phone anymore @blackgirlscode 
 
