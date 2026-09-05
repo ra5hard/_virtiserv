@@ -5,7 +5,39 @@ layout: default
 
 
 
+# Burningman !!!!
+@nasa-jpl @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [burningman.org/](https://burningman.org/) // [ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
+[youtube.com/@burningman](https://www.youtube.com/@burningman) 
+
+# NS Records 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| burningman.org | matt.ns.cloudflare.com. | 21600 | 
+| burningman.org | michelle.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[blackrockcity.online/map/](https://blackrockcity.online/map/)
+<img  alt="image" src="https://github.com/user-attachments/assets/bda2595c-1b4f-496e-895d-a7d0a464d458" />
+<img  alt="Screenshot 2026-09-04 4 59 22 PM" src="https://github.com/user-attachments/assets/f09fb2c5-8269-4b74-8dd3-e8525df2a2f9" />
+
+# Georgia Guidestones: 'America's Stonehenge' demolished after blast 
+@bbc @CityOFLosAngeles @Newshour @Blackgirlscode 
+![https://d3i6fh83elv35t.cloudfront.net/static/2022/07/2022-07-06T210138Z_1861383863_RC2G6V9BQ9FA_RTRMADP_3_GEORGIA-EXPLOSION-1200x800.jpg @cityoflosangeles @nasa-pds someone is hurting me in the little Tokyo library with a stomach constricting weapon @deptofwar @STATEOFCALiFORNiA](https://d3i6fh83elv35t.cloudfront.net/static/2022/07/2022-07-06T210138Z_1861383863_RC2G6V9BQ9FA_RTRMADP_3_GEORGIA-EXPLOSION-1200x800.jpg)
+
+The Black Rock Guidestones rise in defiance of the arsonists who destroyed the mysterious Georgia Guidestones – a formation meant to offer humanity guidance in the event of a global cataclysm. A 1:1 scale adaptation of that intent, suited to our culture and moment, re-imagined in the desert. Three 20-foot, double-sided panels invite us to remember our responsibility to one another and the larger whole. Speaking across ages and languages, weaving from this shared bounty an earnest offering for tomorrow. @ForAtlanta 
+![https://burningman.widen.net/content/sgwocxoftw/jpeg/a2IVI000002lTBt2AM-1.jpeg](https://burningman.widen.net/content/sgwocxoftw/jpeg/a2IVI000002lTBt2AM-1.jpeg) 
+
 ![https://lovemuseum.art/assets/burning-man-40-badge-BM9R4N7F.png](https://lovemuseum.art/assets/burning-man-40-badge-BM9R4N7F.png)
+
+
+### KarenBass Cameos at [B.E.T](bet.com) Awards
+@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+
+` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
 
 ![https://burningman.widen.net/content/yzfcf0t7jv/jpeg/a2IVI0000031wuf2AA-1.jpeg](https://burningman.widen.net/content/yzfcf0t7jv/jpeg/a2IVI0000031wuf2AA-1.jpeg)
 
@@ -13,7 +45,9 @@ layout: default
 
 
 [pulse-earhtbeat.com/](https://www.pulse-earhtbeat.com/)
+
 ![https://static.wixstatic.com/media/0eefa0_b4e0a3096d854714a0c43ad094146531~mv2.jpg](https://static.wixstatic.com/media/0eefa0_b4e0a3096d854714a0c43ad094146531~mv2.jpg)
+
 ![https://burningman.widen.net/content/avu4qckxdc/jpeg/a2IVI000002dDST2A2-1.jpeg](https://burningman.widen.net/content/avu4qckxdc/jpeg/a2IVI000002dDST2A2-1.jpeg)
 ![https://burningman.widen.net/content/iap39cfocw/jpeg/a2IVI000002adCz2AI-1.jpeg](https://burningman.widen.net/content/iap39cfocw/jpeg/a2IVI000002adCz2AI-1.jpeg) 
 
@@ -85,11 +119,7 @@ _From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Counc
 <img   alt="image" src="https://github.com/user-attachments/assets/4cddeafb-be1c-4f67-a6cd-f6c75947bca2" />
 <img   alt="image" src="https://github.com/user-attachments/assets/96f4a7a5-186d-4416-8834-93def5a00c54" />
 
-### KarenBass Cameos at [B.E.T](bet.com) Awards
-@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
 
-[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
-` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
 
 
 
@@ -142,9 +172,7 @@ Why This Couple Refused To Cancel Their Flooded Wedding
 <img alt="S1D_IW_GRDH_1SDV_20260827T135159_20260827T135224_004312_007F31_B199" src="https://github.com/user-attachments/assets/6cd6adfb-53b0-40ff-8a56-5ed57d0a792b" />
 
 
-# Burningman !!!!
-@nasa-jpl @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [burningman.org/](https://burningman.org/) // [ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
-[youtube.com/@burningman](https://www.youtube.com/@burningman) 
+
 
 # NS Records 
 | Domain Name | NS | TTL | 
@@ -154,22 +182,6 @@ Why This Couple Refused To Cancel Their Flooded Wedding
 | blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
 | blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# NS Records 
-| Domain Name | NS | TTL | 
-|-------------|----|-----|
-| burningman.org | matt.ns.cloudflare.com. | 21600 | 
-| burningman.org | michelle.ns.cloudflare.com. | 21600 | 
-| blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
-| blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
-
-
-
-
-[blackrockcity.online/map/](https://blackrockcity.online/map/)
-<img  alt="image" src="https://github.com/user-attachments/assets/bda2595c-1b4f-496e-895d-a7d0a464d458" />
-<img  alt="Screenshot 2026-09-04 4 59 22 PM" src="https://github.com/user-attachments/assets/f09fb2c5-8269-4b74-8dd3-e8525df2a2f9" />
 
 # HOT 97 News Live! 9/4/26
 [WATCH @DeptOfWAR  youtu.be/J3aHmTTxAiE](https://youtu.be/J3aHmTTxAiE)
