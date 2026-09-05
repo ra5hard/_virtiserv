@@ -5,39 +5,18 @@ layout: default
 
  [No Happy Holidays · Mary J. Blige @CityOfLosAngeles](https://youtu.be/WFK_UgYGofo) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [DIRIYAM OO HOO DIRIYAM](https://youtu.be/TuQFpeDd0zA) // [Hieroglyphics - The Way That It Be](https://youtu.be/FlDWQ89MCcg) // [Oakland Blackouts · Hieroglyphics](https://youtu.be/n8qDoVYsOQg?si=evsRorRp2v4KJhhq) // [That's When Ya Lost (I Ain't Trippin' Remix)](https://youtu.be/yp-g_iwGKww) // [Pete Rock & CL Smooth - Straighten It Out ](https://youtu.be/xhDb8LoScpI) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8) // [MC Lyte - Poor Georgie](https://youtu.be/hSTzr2V4KMw) // [Slick Rick - Hey Young World](https://youtu.be/ea-ezolZq5k) // [Slick Rick - Children's Story](https://youtu.be/HjNTu8jdukA) // [West Savannah · Outkast](https://youtu.be/jPeRi2CNYQA?si=QJRIMzS8XT9yxurr) // [Slump · Outkast](https://youtu.be/4Mm566HG3Fc) // [For Real (er) · Skyzoo](https://youtu.be/ZkMX1fjGbVo) // [De La Soul - Stakes Is High](https://youtu.be/radJQyaC5kY) // [Queen Latifah - Just Another Day... ](https://youtu.be/FLYu4jT5Ez4) // [Dilated Peoples & Tash - Soundbombing](https://youtu.be/Dzol0GQVIlU) // [Brick City Kids a k a Artifacts ‎- Brick City Kids](https://youtu.be/KQanE3jdJ3A) // [_Jeezy - Holy Ghost_ 🎼🎧](https://youtu.be/SJ1849qTQkM?si=LgQWLwObxMnvh4ys) // [Natnael Leta - Kalen (ናትናኤል ለታ - ቃሌን)](https://youtu.be/MPwLPDXexRE) // [Selamawit Yohannes - Yebleni'loo  የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA) // [TIMNIT WELDAY - MESYUKA - ትምኒት ወልዳይ - መስዩካ ](https://youtu.be/mPj2jZLFPuU) // [Haacaaluu Hundeessaa - Maalan Jira...? @CityOfLosAngeles _LittleEthiopia_](https://youtu.be/gliv_skuGL8?list=RDgliv_skuGL8) // [Company Flow - Patriotism @NASA hi ](https://youtu.be/6V8-IppQpbs) // [Brother Ali - Uncle Sam Goddamn](https://youtu.be/OO18F4aKGzQ) // [Fugees - Vocab](https://youtu.be/m4t5R3fTbD0) // [Summertime In The LBC · Dove Shack](https://youtu.be/DlLvRY8QoY4)
 
-# Burningman !!!!
-@nasa-jpl @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [burningman.org/](https://burningman.org/) // [ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
-[youtube.com/@burningman](https://www.youtube.com/@burningman) 
+ Happy 240th Birthday, Los Angeles!
+_From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
+[@CityOfLosAngeles @LACountyDPH @la-county-isd _`Plz Watch`_](https://youtu.be/DFK21jpZ3t0) // [lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday](https://lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday) _Karen Bass_ my current review of @nasa-jpl @usgs dATArLEASE 78 for MRO [ra5hard.github.io/mars/2026/09/03/Marsblogv2.html](https://ra5hard.github.io/mars/2026/09/03/Marsblogv2.html)
+![https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0](https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0) 
+<img   alt="image" src="https://github.com/user-attachments/assets/4cddeafb-be1c-4f67-a6cd-f6c75947bca2" />
+<img   alt="image" src="https://github.com/user-attachments/assets/96f4a7a5-186d-4416-8834-93def5a00c54" />
 
-# NS Records 
-| Domain Name | NS | TTL | 
-|-------------|----|-----|
-| burningman.org | matt.ns.cloudflare.com. | 21600 | 
-| burningman.org | michelle.ns.cloudflare.com. | 21600 | 
-| blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
-| blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
+### KarenBass Cameos at [B.E.T](bet.com) Awards
+@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# NS Records 
-| Domain Name | NS | TTL | 
-|-------------|----|-----|
-| burningman.org | matt.ns.cloudflare.com. | 21600 | 
-| burningman.org | michelle.ns.cloudflare.com. | 21600 | 
-| blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
-| blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
-
-
-
-
-[blackrockcity.online/map/](https://blackrockcity.online/map/)
-<img  alt="image" src="https://github.com/user-attachments/assets/bda2595c-1b4f-496e-895d-a7d0a464d458" />
-<img  alt="Screenshot 2026-09-04 4 59 22 PM" src="https://github.com/user-attachments/assets/f09fb2c5-8269-4b74-8dd3-e8525df2a2f9" />
-
-# HOT 97 News Live! 9/4/26
-[WATCH @DeptOfWAR  youtu.be/J3aHmTTxAiE](https://youtu.be/J3aHmTTxAiE)
-<img  alt="image" src="https://github.com/user-attachments/assets/ac8a935a-6f14-4b61-8f5a-2e9ad2d8ffa8" />
-
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
 
 
 # The Town of the Queen of Angels
@@ -50,6 +29,8 @@ On September 4, 1781, the eleven men, eleven women, and twenty-two children recr
 
 EMIT_L1B_RAD_001_20240825T173115_2423811_008 @UCLA
 <img alt=" @nasa-jpl @whitehouse EMIT_L1B_RAD_001_20240825T173115_2423811_008" src="https://github.com/user-attachments/assets/a2c3d966-c673-4518-a5e7-272800e5665d" />
+
+<img  alt="los angeles birthday 1781-03" src="https://github.com/user-attachments/assets/93aa0e55-fce8-4a8d-9961-8a1091d1fc23" />
 
 EMIT_L1B_RAD_001_20240621T191444_2417313_007
 @la-county-isd @CityOFLOSANGELES @USNAVY I think this is the fuel or oil leak from the river I reported a few weeks ago @Stateofcalifornia
@@ -92,6 +73,43 @@ Why This Couple Refused To Cancel Their Flooded Wedding
 <img alt="S1D_IW_GRDH_1SDV_20260827T135159_20260827T135224_004312_007F31_B199" src="https://github.com/user-attachments/assets/6cd6adfb-53b0-40ff-8a56-5ed57d0a792b" />
 
 
+# Burningman !!!!
+@nasa-jpl @foratlanta @whitehouse @ESA @NASA-PDS @CityOfLosAngeles @blackgirlscode @USNAVY [burningman.org/](https://burningman.org/) // [ctip.defense.gov/TIP-101/](https://ctip.defense.gov/TIP-101/)
+[youtube.com/@burningman](https://www.youtube.com/@burningman) 
+
+# NS Records 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| burningman.org | matt.ns.cloudflare.com. | 21600 | 
+| burningman.org | michelle.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=meIhfk9p_1GNTfvh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# NS Records 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| burningman.org | matt.ns.cloudflare.com. | 21600 | 
+| burningman.org | michelle.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
+
+
+
+
+[blackrockcity.online/map/](https://blackrockcity.online/map/)
+<img  alt="image" src="https://github.com/user-attachments/assets/bda2595c-1b4f-496e-895d-a7d0a464d458" />
+<img  alt="Screenshot 2026-09-04 4 59 22 PM" src="https://github.com/user-attachments/assets/f09fb2c5-8269-4b74-8dd3-e8525df2a2f9" />
+
+# HOT 97 News Live! 9/4/26
+[WATCH @DeptOfWAR  youtu.be/J3aHmTTxAiE](https://youtu.be/J3aHmTTxAiE)
+<img  alt="image" src="https://github.com/user-attachments/assets/ac8a935a-6f14-4b61-8f5a-2e9ad2d8ffa8" />
+
+<img  alt="los angeles birthday 1781-09" src="https://github.com/user-attachments/assets/62f50f84-29dc-4655-a0ce-ff3d5862dddf" />
+
+
+
 @BLACKGiRLSCODE _`Jason Lee?`_ `Vice`Mayor of Stockton @StateOfCalifornia
 see Stockton from our space station peripheral @nasa-jpl @emit-sds
 _District 6 Vice Mayor Jason Lee_ @CityOFlosangeles [stocktonca.gov/government/city_council/district_6.php](https://www.stocktonca.gov/government/city_council/district_6.php)
@@ -112,12 +130,6 @@ EMIT_L1B_RAD_001_20250822T175703_2523412_008 @emit-sds @nasa
 
 
 ![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL2ARFL.001/EMIT_L2A_RFL_001_20250822T175703_2523412_008/EMIT_L2A_RFL_001_20250822T175703_2523412_008.png?A-userid=None&Expires=1788548900&Signature=lsv7Wa9A-32pZ64wHZzWSQFEgocmGxcP0J8rm35YcX5S2FKeDSmN5f0amQHwcLxffZPO7d8SLJhj2MmZGvmL2rU9KlUqEkO5~IBfYFfC2cKKKf4rg2OYoWdVAVz~t0Jondeufz~iqdNMH11F7KDaX-ssqHKrWDPbdJMAjbrKKDD4qHMBPmW~3WGgn5kMNDZyZFORYyHn~qZIA~EC1fd7GJajwsWDrPRXT9VW2x8lXkE8hdv72n61TGlpz02IJnFHEdq9pgAI~SQjVwQZQ24Txoi~zV473baiepE0rTQsYKlDAp6Atn6sNYSyM4VRn1YMpTgbwmmFg9YjLdoHDKC75g__&Key-Pair-Id=K1JHXLBU4LECA2 @stateofcalifornia ](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL2ARFL.001/EMIT_L2A_RFL_001_20250822T175703_2523412_008/EMIT_L2A_RFL_001_20250822T175703_2523412_008.png?A-userid=None&Expires=1788548900&Signature=lsv7Wa9A-32pZ64wHZzWSQFEgocmGxcP0J8rm35YcX5S2FKeDSmN5f0amQHwcLxffZPO7d8SLJhj2MmZGvmL2rU9KlUqEkO5~IBfYFfC2cKKKf4rg2OYoWdVAVz~t0Jondeufz~iqdNMH11F7KDaX-ssqHKrWDPbdJMAjbrKKDD4qHMBPmW~3WGgn5kMNDZyZFORYyHn~qZIA~EC1fd7GJajwsWDrPRXT9VW2x8lXkE8hdv72n61TGlpz02IJnFHEdq9pgAI~SQjVwQZQ24Txoi~zV473baiepE0rTQsYKlDAp6Atn6sNYSyM4VRn1YMpTgbwmmFg9YjLdoHDKC75g__&Key-Pair-Id=K1JHXLBU4LECA2) 
-Happy 240th Birthday, Los Angeles!
-_From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
-[@CityOfLosAngeles @LACountyDPH @la-county-isd _`Plz Watch`_](https://youtu.be/DFK21jpZ3t0) // [lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday](https://lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday) _Karen Bass_ my current review of @nasa-jpl @usgs dATArLEASE 78 for MRO [ra5hard.github.io/mars/2026/09/03/Marsblogv2.html](https://ra5hard.github.io/mars/2026/09/03/Marsblogv2.html)
-![https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0](https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0) 
-<img   alt="image" src="https://github.com/user-attachments/assets/4cddeafb-be1c-4f67-a6cd-f6c75947bca2" />
-<img   alt="image" src="https://github.com/user-attachments/assets/96f4a7a5-186d-4416-8834-93def5a00c54" />
 
 
 ---
@@ -129,11 +141,6 @@ _From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Counc
 <img  alt="image" src="https://github.com/user-attachments/assets/e3d3b9dc-0887-45f2-8140-638ef0e12279" />
 <img   alt="image" src="https://github.com/user-attachments/assets/6d4b000e-d9f0-4b31-8036-fa4a7ac8cd3e" />
 
-### KarenBass Cameos at [B.E.T](bet.com) Awards
-@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
-
-[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
-` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
 <img alt="image" src="https://github.com/user-attachments/assets/2edb1153-3d96-41b7-a216-82d1dced9200" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b79fc0d6-4832-4747-a533-8b60e68888e4" />
