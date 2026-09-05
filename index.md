@@ -4,7 +4,7 @@ layout: default
 
 ## SURVIVING MARS: Planet #4
 [WATCH - youtube.com/watch?v=hLqFbCAu6BI](https://www.youtube.com/watch?v=hLqFbCAu6BI)
-@ForAtlanta @NASA-JPL @doug-Newman-nasa I found this vid from @BurningmanTech YouTube account recs, and thought it should be shared with the lab. I missed the burn and idk who made it to the play but the [Black rock observatory](https://www.blackrockobservatory.com/) was built here and I want to work on it for the next burn if the group is compatible @nasa-pds @la-county-isd @cityoflosangeles @USGS 
+@ForAtlanta @NASA-JPL @doug-Newman-nasa I found this vid from @BurningmanTech YouTube account recs, and thought it should be shared with the lab. I missed the burn and idk who made it to the [playa](https://www.reddit.com/r/BurningMan/comments/1750ich/whats_the_origin_behind_the_word_playa_also_how/?rdt=57776) but the [Black rock observatory](https://www.blackrockobservatory.com/) was built here and I want to work on it for the next burn if the group is compatible @nasa-pds @la-county-isd @cityoflosangeles @USGS 
 <img  alt="image" src="https://github.com/user-attachments/assets/68c934b8-3a92-45b7-ad66-83a8edbdb74e" />
 
 ![https://burningman.widen.net/content/nrngax5jkm/jpeg/a2IVI000002jyi12AA-1.jpeg](https://burningman.widen.net/content/nrngax5jkm/jpeg/a2IVI000002jyi12AA-1.jpeg)
