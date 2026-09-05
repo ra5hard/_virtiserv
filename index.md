@@ -5,6 +5,14 @@ layout: default
 
  [No Happy Holidays · Mary J. Blige @CityOfLosAngeles](https://youtu.be/WFK_UgYGofo) // [Bad Timing · Bombay Bicycle Club](https://youtu.be/UntFEBA-OzE) // [DIRIYAM OO HOO DIRIYAM](https://youtu.be/TuQFpeDd0zA) // [Hieroglyphics - The Way That It Be](https://youtu.be/FlDWQ89MCcg) // [Oakland Blackouts · Hieroglyphics](https://youtu.be/n8qDoVYsOQg?si=evsRorRp2v4KJhhq) // [That's When Ya Lost (I Ain't Trippin' Remix)](https://youtu.be/yp-g_iwGKww) // [Pete Rock & CL Smooth - Straighten It Out ](https://youtu.be/xhDb8LoScpI) // [Pete Rock & CL Smooth - They Reminisce Over You (T.R.O.Y.)](https://youtu.be/k6mdRv0ZdR8) // [MC Lyte - Poor Georgie](https://youtu.be/hSTzr2V4KMw) // [Slick Rick - Hey Young World](https://youtu.be/ea-ezolZq5k) // [Slick Rick - Children's Story](https://youtu.be/HjNTu8jdukA) // [West Savannah · Outkast](https://youtu.be/jPeRi2CNYQA?si=QJRIMzS8XT9yxurr) // [Slump · Outkast](https://youtu.be/4Mm566HG3Fc) // [For Real (er) · Skyzoo](https://youtu.be/ZkMX1fjGbVo) // [De La Soul - Stakes Is High](https://youtu.be/radJQyaC5kY) // [Queen Latifah - Just Another Day... ](https://youtu.be/FLYu4jT5Ez4) // [Dilated Peoples & Tash - Soundbombing](https://youtu.be/Dzol0GQVIlU) // [Brick City Kids a k a Artifacts ‎- Brick City Kids](https://youtu.be/KQanE3jdJ3A) // [_Jeezy - Holy Ghost_ 🎼🎧](https://youtu.be/SJ1849qTQkM?si=LgQWLwObxMnvh4ys) // [Natnael Leta - Kalen (ናትናኤል ለታ - ቃሌን)](https://youtu.be/MPwLPDXexRE) // [Selamawit Yohannes - Yebleni'loo  የብለኒ'ሎ ](https://youtu.be/z59hc7RcbDA) // [TIMNIT WELDAY - MESYUKA - ትምኒት ወልዳይ - መስዩካ ](https://youtu.be/mPj2jZLFPuU) // [Haacaaluu Hundeessaa - Maalan Jira...? @CityOfLosAngeles _LittleEthiopia_](https://youtu.be/gliv_skuGL8?list=RDgliv_skuGL8) // [Company Flow - Patriotism @NASA hi ](https://youtu.be/6V8-IppQpbs) // [Brother Ali - Uncle Sam Goddamn](https://youtu.be/OO18F4aKGzQ) // [Fugees - Vocab](https://youtu.be/m4t5R3fTbD0) // [Summertime In The LBC · Dove Shack](https://youtu.be/DlLvRY8QoY4)
 
+ # The Town of the Queen of Angels
+On September 4, 1781, the eleven men, eleven women, and twenty-two children recruited by Alta California Governor Felipe de Neve founded El Pueblo de la Reyna de Los Angeles (The Town of the Queen of the Angels). They had gathered in August at the Mission San Gabriel in New Spain (present-day Mexico) and traveled together to arrive at the site of the new pueblo alongside the Los Angeles River. [READ MORE](https://www.loc.gov/item/today-in-history/september-04/) /// 
+[MAPS OF LOS ANGELES @CityOfLosAngeles @NASA-JPL @Blackgirlscode for LA-Birthday - lapl.org](https://www.lapl.org/research-guides/maps/maps-los-angeles) ~  [Fugees - Vocab @la-county-isd @nasa-giss](https://youtu.be/m4t5R3fTbD0) // [Summertime In The LBC · Dove Shack](https://youtu.be/DlLvRY8QoY4)
+
+![https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg](https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg) // [@libraryofcongress](https://youtu.be/YD_fcIwgbO4)
+[[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
+![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg)
+
  Happy 240th Birthday, Los Angeles!
 _From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
 [@CityOfLosAngeles @LACountyDPH @la-county-isd _`Plz Watch`_](https://youtu.be/DFK21jpZ3t0) // [lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday](https://lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday) _Karen Bass_ my current review of @nasa-jpl @usgs dATArLEASE 78 for MRO [ra5hard.github.io/mars/2026/09/03/Marsblogv2.html](https://ra5hard.github.io/mars/2026/09/03/Marsblogv2.html)
@@ -19,13 +27,7 @@ _From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Counc
 ` //// ቅድስት ማርያም የኢትዮጵያ ኦርቶዶክስ ቤተ ክርስቲያን በሎስ አንጀለስ::`
 
 
-# The Town of the Queen of Angels
-On September 4, 1781, the eleven men, eleven women, and twenty-two children recruited by Alta California Governor Felipe de Neve founded El Pueblo de la Reyna de Los Angeles (The Town of the Queen of the Angels). They had gathered in August at the Mission San Gabriel in New Spain (present-day Mexico) and traveled together to arrive at the site of the new pueblo alongside the Los Angeles River. [READ MORE](https://www.loc.gov/item/today-in-history/september-04/) /// 
-[MAPS OF LOS ANGELES @CityOfLosAngeles @NASA-JPL @Blackgirlscode for LA-Birthday - lapl.org](https://www.lapl.org/research-guides/maps/maps-los-angeles) ~  [Fugees - Vocab @la-county-isd @nasa-giss](https://youtu.be/m4t5R3fTbD0) // [Summertime In The LBC · Dove Shack](https://youtu.be/DlLvRY8QoY4)
 
-![https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg](https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg) // [@libraryofcongress](https://youtu.be/YD_fcIwgbO4)
-[[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
-![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg)
 
 EMIT_L1B_RAD_001_20240825T173115_2423811_008 @UCLA
 <img alt=" @nasa-jpl @whitehouse EMIT_L1B_RAD_001_20240825T173115_2423811_008" src="https://github.com/user-attachments/assets/a2c3d966-c673-4518-a5e7-272800e5665d" />
