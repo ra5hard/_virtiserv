@@ -2,6 +2,14 @@
 layout: default
 ---
 
+## SURVIVING MARS: Planet #4
+[WATCH - youtube.com/watch?v=hLqFbCAu6BI](https://www.youtube.com/watch?v=hLqFbCAu6BI)
+@ForAtlanta @NASA-JPL @doug-Newman-nasa I found this vid from @BurningmanTech YouTube account recs, and thought it should be shared with the lab. I missed the burn and idk who made it to the play but the [Black rock observatory](https://www.blackrockobservatory.com/) was built here and I want to work on it for the next burn if the group is compatible @nasa-pds @la-county-isd @cityoflosangeles @USGS 
+<img  alt="image" src="https://github.com/user-attachments/assets/68c934b8-3a92-45b7-ad66-83a8edbdb74e" />
+
+![https://burningman.widen.net/content/nrngax5jkm/jpeg/a2IVI000002jyi12AA-1.jpeg](https://burningman.widen.net/content/nrngax5jkm/jpeg/a2IVI000002jyi12AA-1.jpeg)
+
+
 ![https://burningman.widen.net/content/lyn1clkzlg/jpeg/a2IVI000002uM372AE-1.jpeg](https://burningman.widen.net/content/lyn1clkzlg/jpeg/a2IVI000002uM372AE-1.jpeg)
 ![https://burningman.widen.net/content/bcfdvovl9x/jpeg/a2IVI000002u2dt2AA-1.jpeg](https://burningman.widen.net/content/bcfdvovl9x/jpeg/a2IVI000002u2dt2AA-1.jpeg)
 ![https://burningman.widen.net/content/s5fiimdnat/jpeg/a2IVI000002b4Y92AI-1.jpeg](https://burningman.widen.net/content/s5fiimdnat/jpeg/a2IVI000002b4Y92AI-1.jpeg) 
@@ -16,7 +24,7 @@ layout: default
 
 ```
 #GREATBEATSCHLOE @LANAJHARRiS is this you ? ? @repkarenbass https://github.com/virtiserv/virtiserv.github.io/commit/6ab447083efb1ef52063b6dabea9496f92ad67ac @georgiadivisionoffamilychi9316 this looks like latrice but im not sure i just want an update and to clear any beef with her /yall mom and pops @t.i. @prettyhustlerecords @KeishaForGA
-@v103
+@v103 @chloebaileywashere
 rashard @NASAJPL / @USGS @NASa-PDS @NASAGoddard
 Name: Rashard I Kelly
 Username: rashardkelly
