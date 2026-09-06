@@ -8,6 +8,7 @@ layout: default
 ### US-Iran War Update, Pete Hegseth @DeptOfWar / @Whitehouse Drama & [Maria Bartiromo](https://www.linkedin.com/in/mariabartiromo) Fired
  The [Lana](http://threads.com/@lanajharris) Rundown
  [`WATCH` - youtu.be/V0WpEdgK8Q4](https://youtu.be/V0WpEdgK8Q4)
+ 
 <img  alt="image" src="https://github.com/user-attachments/assets/52c78130-5191-4372-959e-e5e39953e1f6" />
 
 
