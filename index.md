@@ -7,6 +7,8 @@ layout: default
 
 @Cityoflosangeles @la-county-isd @CityOfSantaMonica @repkarenbass the balloa creek was super full the water at the coast is unaturally high @CountyofLosAngelesNewsroom @LANAjHARRiS @NASAJPL @NASA-pds
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFquKnqDy2U?si=KSNtq2oVOIcgz0Fd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+@burninbmantech jussa feed Incase the site works well for someone - virtiserv
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8b1Be-HUGU?si=qKh706mgNFNKZm4G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
 [https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
