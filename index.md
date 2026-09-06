@@ -6,6 +6,10 @@ layout: default
 
 
 Ice Cube - Opening for Guns N' Roses at The Rose Bowl!
+[`WATCH` - https://youtu.be/vUXK6ZJ71I4](https://youtu.be/vUXK6ZJ71I4?t=1607)
+<img  alt="image" src="https://github.com/user-attachments/assets/2251c3c5-45b8-4b1b-a1e7-8b61608d32f1" />
+
+Ice Cube - Opening for Guns N' Roses at The Rose Bowl!
 [`WATCH` - https://youtu.be/vUXK6ZJ71I4](https://youtu.be/vUXK6ZJ71I4?t=1231) ///
 <img   alt="image" src="https://github.com/user-attachments/assets/d7011c45-f2b6-4212-8957-3286ce1e4b8e" />
 
