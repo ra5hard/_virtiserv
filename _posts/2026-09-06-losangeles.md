@@ -24,6 +24,113 @@ permalink: losangeles
 
 <iframe allow="autoplay" width="100%" height="200" src="https://www.iheart.com/live/kjazz-881-6655?embed=true" frameborder="0"></iframe>
 
+
+
+ # The Town of the Queen of Angels
+On September 4, 1781, the eleven men, eleven women, and twenty-two children recruited by Alta California Governor Felipe de Neve founded El Pueblo de la Reyna de Los Angeles (The Town of the Queen of the Angels). They had gathered in August at the Mission San Gabriel in New Spain (present-day Mexico) and traveled together to arrive at the site of the new pueblo alongside the Los Angeles River. [READ MORE](https://www.loc.gov/item/today-in-history/september-04/) /// 
+[MAPS OF LOS ANGELES @CityOfLosAngeles @NASA-JPL @Blackgirlscode for LA-Birthday - lapl.org](https://www.lapl.org/research-guides/maps/maps-los-angeles) ~  [Fugees - Vocab @la-county-isd @nasa-giss](https://youtu.be/m4t5R3fTbD0) // [Summertime In The LBC · Dove Shack](https://youtu.be/DlLvRY8QoY4)
+
+![https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg](https://tile.loc.gov/storage-services/service/pnp/pan/6a02000/6a02300/6a02397v.jpg) // [@libraryofcongress](https://youtu.be/YD_fcIwgbO4)
+[[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
+![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000231/full/pct:25/0/default.jpg)
+
+ Happy 240th Birthday, Los Angeles!
+_From_ [_@nasa-jpl @eodis-nasa @emit-sds @nasa-pds @nasa-giss_Regular City Council - 9/4/26](https://youtu.be/aEnW1ldTlqc)
+[@CityOfLosAngeles @LACountyDPH @la-county-isd _`Plz Watch`_](https://youtu.be/DFK21jpZ3t0) // [lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday](https://lacity.gov/news/city-los-angeles-celebrates-its-240th-birthday) _Karen Bass_ my current review of @nasa-jpl @usgs dATArLEASE 78 for MRO [ra5hard.github.io/mars/2026/09/03/Marsblogv2.html](https://ra5hard.github.io/mars/2026/09/03/Marsblogv2.html)
+![https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0](https://lacity.gov/sites/g/files/wph2451/files/styles/narrow_article_cover/public/2021-06/bigstock-Downtown-Los-Angeles-Cityscape-274405954.jpg?h=b3c0538a&itok=cb9IToj0) 
+<img   alt="image" src="https://github.com/user-attachments/assets/4cddeafb-be1c-4f67-a6cd-f6c75947bca2" />
+<img   alt="image" src="https://github.com/user-attachments/assets/96f4a7a5-186d-4416-8834-93def5a00c54" />
+
+
+
+
+
+
+EMIT_L1B_RAD_001_20240825T173115_2423811_008 @UCLA
+<img alt=" @nasa-jpl @whitehouse EMIT_L1B_RAD_001_20240825T173115_2423811_008" src="https://github.com/user-attachments/assets/a2c3d966-c673-4518-a5e7-272800e5665d" />
+
+<img  alt="los angeles birthday 1781-03" src="https://github.com/user-attachments/assets/93aa0e55-fce8-4a8d-9961-8a1091d1fc23" />
+
+EMIT_L1B_RAD_001_20240621T191444_2417313_007
+@la-county-isd @CityOFLOSANGELES @USNAVY I think this is the fuel or oil leak from the river I reported a few weeks ago @Stateofcalifornia
+<img  alt="EMIT_L1B_RAD_001_20240621T191444_2417313_007" src="https://github.com/user-attachments/assets/c8b7c76d-2477-4d72-a8e3-e42327f4f35c" />
+
+<img   alt="los angeles birthday 1781-07" src="https://github.com/user-attachments/assets/b82dadfc-98ca-4ba9-8ed3-18fda8ebea91" />
+
+@emit-sds EMIT_L1B_RAD_001_20260615T203704_2616613_011
+<img  alt="EMIT_L1B_RAD_001_20260615T203704_2616613_011" src="https://github.com/user-attachments/assets/50eaa660-ea63-4e1a-8349-a038863e5970" />
+
+ECOv002_L2T_LSTE_46110_004_11SLT_20260823T095242_0713_01 @emit-sds @UCLA
+<img  alt="image" src="https://github.com/user-attachments/assets/78a31484-e5ea-4401-a796-825f6f95fc00" />
+
+EMIT_L1B_RAD_001_20260404T172021_2609411_003 @emit-sds  @cityoflosangeles @stateofcalifornia
+<img alt="EMIT_L1B_RAD_001_20260404T172021_2609411_003" src="https://github.com/user-attachments/assets/54c38487-4960-4e1f-9a18-0f4f78c650a4" />
+
+@emit-sds @cityoflosangeles @la-county-isd EMIT_L2A_RFL_001_20260602T180011_2615312_003
+<img alt=" @emit-sds @cityoflosangeles @la-county-isd EMIT_L2A_RFL_001_20260602T180011_2615312_003" src="https://github.com/user-attachments/assets/2bc13a3b-de41-41e7-8c26-257dd3844a3b" />
+
+[[Panorama along Broadway St., Los Angeles, California, showing City Hall] ] 
+
+[@USGS @DisNEY @CityOFLosAngeles @HULU @nasa-pds]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-119.5546%2C33.37412%2C-117.61276%2C34.45109%5D&view=%7B%22basemap%22%3A%22EsriUsaTopo%22%2C%22bounds%22%3A%22-119.55459594726564%2C33.37411872061922%2C-117.61276245117189%2C34.45108605177596%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) ////  [Company Flow - Patriotism @NASA hi ](https://youtu.be/6V8-IppQpbs) // [Brother Ali - Uncle Sam Goddamn](https://youtu.be/OO18F4aKGzQ) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/8c56d48a-84d6-4cc9-af53-4c1b3dd108e6" />
+
+Why This Couple Refused To Cancel Their Flooded Wedding
+@ForAtlanta save me [`WATCH` - https://youtu.be/YD_fcIwgbO4](https://youtu.be/YD_fcIwgbO4)
+<img  alt="image" src="https://github.com/user-attachments/assets/5be2009a-7048-4d91-bce8-115eea0f5cfe" />
+<img   alt="image @whitehouse" src="https://github.com/user-attachments/assets/6d0135fd-f01c-4692-9b5d-f02ff6ab19fd" />
+
+[MAPS OF LOS ANGELES @CityOfLosAngeles @NASA-JPl for LA-Birthday - lapl.org](https://www.lapl.org/research-guides/maps/maps-los-angeles)
+
+<img  alt="ECOv002_L2T_LSTE_46268_013_11SLT_20260902T131836_0713_01" src="https://github.com/user-attachments/assets/4ef8fe69-306f-494e-ad25-3dd19d33ef7a" />
+
+@ucla ECOv002_L2T_LSTE_46268_013_11SLT_20260902T131836_0713_01
+
+@nasa-jpl I have to do some aquatics @CityOFLosAngeles and continue verifying our new data release 78 @nasa-pds @doug-newman-nasa . . . I might watch a couple YouTube vids, one of Lana's users asked me to post one of those energy drink commercials for her to see. The user does not have a phone anymore @blackgirlscode 
+
+
+<img  alt=" @isro @nasa @cityoflosangeles fwd to karenbass @La-County-isd NISAR_L2_PR_GCOV_020_034_A_019_4005_DHDH_A_20260511T130828_20260511T130903_P05023_N_F_J_001_NATIVE" src="https://github.com/user-attachments/assets/916cbce6-2f48-4340-80d1-5f88f9b3ffd1" />
+
+<img alt="S1D_IW_GRDH_1SDV_20260827T135159_20260827T135224_004312_007F31_B199" src="https://github.com/user-attachments/assets/6cd6adfb-53b0-40ff-8a56-5ed57d0a792b" />
+
+
+
+
+# NS Records 
+| Domain Name | NS | TTL | 
+|-------------|----|-----|
+| burningman.org | matt.ns.cloudflare.com. | 21600 | 
+| burningman.org | michelle.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | danica.ns.cloudflare.com. | 21600 | 
+| blackrockcity.online | alec.ns.cloudflare.com. | 21600 | 
+
+
+# HOT 97 News Live! 9/4/26
+[WATCH @DeptOfWAR  youtu.be/J3aHmTTxAiE](https://youtu.be/J3aHmTTxAiE)
+<img  alt="image" src="https://github.com/user-attachments/assets/ac8a935a-6f14-4b61-8f5a-2e9ad2d8ffa8" />
+
+<img  alt="los angeles birthday 1781-09" src="https://github.com/user-attachments/assets/62f50f84-29dc-4655-a0ce-ff3d5862dddf" />
+
+
+
+@BLACKGiRLSCODE _`Jason Lee?`_ `Vice`Mayor of Stockton @StateOfCalifornia
+see Stockton from our space station peripheral @nasa-jpl @emit-sds
+_District 6 Vice Mayor Jason Lee_ @CityOFlosangeles [stocktonca.gov/government/city_council/district_6.php](https://www.stocktonca.gov/government/city_council/district_6.php)
+<img  alt="image" src="https://github.com/user-attachments/assets/5c7dd253-5f8e-416a-a40a-26d47db7173d" />
+
+EMIT_L1B_RAD_001_20250822T175703_2523412_008 @emit-sds @nasa 
+
+<img alt="EMIT_L1B_RAD_001_20250822T175703_2523412_008" src="https://github.com/user-attachments/assets/67991f81-c1be-4de4-b542-5798a9ff165c" />
+
+@asfadmin `EMIT_L2A_RFL_001_20250822T175703_2523412_008`
+
+<img  alt="EMIT_L2A_RFL_001_20250822T175703_2523412_008" src="https://github.com/user-attachments/assets/2da680ef-4250-49aa-b782-2cf80d230785" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/02d618bd-9019-4b61-bb07-e79015e8dd41" />
+
+![https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20250822T175703_2523412_008/EMIT_L1B_RAD_001_20250822T175703_2523412_008.png?A-userid=None&Expires=1788549153&Signature=HDiCzjp36a3mnu8rie3H7-NdWrmaGq3T4kB3QDyOJd0g87vri8FajIwVMVgFLKFJpaaTLW-pShh517IUiO7KUG1nr3VUa2EvnZSPYf~N-qeXME0C5PL2jfUDfZUnb11x~qjzQuD5kC-dAn0g5mOd7KRxSj5TJv14KSKruD28L0gIjrPoUMhFj029SHM17VHHEIpz8XnuPHQT0oSf9knIoPso3x1IS6KvepxnBpcI9in1K~FiSCigXGQromOmJfomuXJkuhuiF0Ms6hPUlfGr4UspTpZX7FKx6zvGgZ9SV7EOlJYLGDx3SJOOK~BdN651hk4yATMaXalelzDD~AVlbQ__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/EMITL1BRAD.001/EMIT_L1B_RAD_001_20250822T175703_2523412_008/EMIT_L1B_RAD_001_20250822T175703_2523412_008.png?A-userid=None&Expires=1788549153&Signature=HDiCzjp36a3mnu8rie3H7-NdWrmaGq3T4kB3QDyOJd0g87vri8FajIwVMVgFLKFJpaaTLW-pShh517IUiO7KUG1nr3VUa2EvnZSPYf~N-qeXME0C5PL2jfUDfZUnb11x~qjzQuD5kC-dAn0g5mOd7KRxSj5TJv14KSKruD28L0gIjrPoUMhFj029SHM17VHHEIpz8XnuPHQT0oSf9knIoPso3x1IS6KvepxnBpcI9in1K~FiSCigXGQromOmJfomuXJkuhuiF0Ms6hPUlfGr4UspTpZX7FKx6zvGgZ9SV7EOlJYLGDx3SJOOK~BdN651hk4yATMaXalelzDD~AVlbQ__&Key-Pair-Id=K1JHXLBU4LECA2)
+
+
 <img   alt=" @emit-sds @Cityoflosangeles 4mapping @nasa-pds @usgs image (1)-03" src="https://github.com/user-attachments/assets/60926a93-530f-412b-a6ee-d36b734ebdaa" />
 
 <img alt=" @cityoflosangeles EMIT_L1B_RAD_001_20260525T210941_2614514_002" src="https://github.com/user-attachments/assets/e6c21851-5f6b-4f11-81f3-d63aca908ac2" />
