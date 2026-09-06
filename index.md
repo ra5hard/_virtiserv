@@ -24,6 +24,8 @@ Pasadena, CA 9/5/2026 // [doodles.google/doodle/fathers-day-2026-june-21/](https
 
 <img  alt="image @NASA-JPL @LA-COUnty-isd @CityOfSantaMonica @CityOfLosAngeles " src="https://github.com/user-attachments/assets/9d99f6c5-6287-417e-a22a-4e0897e9ba16" />
 
+![https://www.nasa.gov/wp-content/uploads/2023/06/jsc2000e20836.jpg](https://www.nasa.gov/wp-content/uploads/2023/06/jsc2000e20836.jpg)
+
 ### US-Iran War Update, Pete Hegseth @DeptOfWar / @Whitehouse Drama & [Maria Bartiromo](https://www.linkedin.com/in/mariabartiromo) Fired
  The [Lana](http://threads.com/@lanajharris) Rundown
  [`WATCH` - youtu.be/V0WpEdgK8Q4](https://youtu.be/V0WpEdgK8Q4)
