@@ -7,7 +7,13 @@ layout: default
 
 
 Ice Cube - Opening for Guns N' Roses at The Rose Bowl!
+[`WATCH` - https://youtu.be/vUXK6ZJ71I4](https://youtu.be/vUXK6ZJ71I4?t=999)
+@ESA mercury atlas [github.com/virtiserv/virtiserv.github.io/blob/master/docs/Atlas_Of_MerCury_fwd_to_Bepi.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/Atlas_Of_MerCury_fwd_to_Bepi.pdf)
+<img  alt="image" src="https://github.com/user-attachments/assets/03acc20d-1f5c-4b8c-8c83-79c6f6ac34e1" />
+
+Ice Cube - Opening for Guns N' Roses at The Rose Bowl!
 [`WATCH` - https://youtu.be/vUXK6ZJ71I4](https://youtu.be/vUXK6ZJ71I4)
+
 @NASA-JPL @LA-COUnty-isd @CityOfSantaMonica @CityOfLosAngeles
 Pasadena, CA 9/5/2026 // [doodles.google/doodle/fathers-day-2026-june-21/](https://doodles.google/doodle/fathers-day-2026-june-21/)
 
