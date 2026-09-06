@@ -8,6 +8,9 @@ layout: default
 @Cityoflosangeles @la-county-isd @CityOfSantaMonica @repkarenbass the balloa creek was super full the water at the coast is unaturally high @CountyofLosAngelesNewsroom @LANAjHARRiS @NASAJPL @NASA-pds
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFquKnqDy2U?si=KSNtq2oVOIcgz0Fd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
+[https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
+
 <img  alt="Atlas_Of_MerCury_fwd_to_Bepi-22" src="https://github.com/user-attachments/assets/ad9c40d0-1211-4ff0-bbbf-7d515eccc915" />
 
 Ice Cube - Opening for Guns N' Roses at The Rose Bowl! 
