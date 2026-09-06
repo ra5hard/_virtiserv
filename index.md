@@ -7,12 +7,16 @@ layout: default
 
 
 Ice Cube - Opening for Guns N' Roses at The Rose Bowl!
+[`WATCH` - https://youtu.be/vUXK6ZJ71I4](https://youtu.be/vUXK6ZJ71I4)
 @NASA-JPL @LA-COUnty-isd @CityOfSantaMonica @CityOfLosAngeles
 Pasadena, CA 9/5/2026 // [doodles.google/doodle/fathers-day-2026-june-21/](https://doodles.google/doodle/fathers-day-2026-june-21/)
-[`WATCH` - https://youtu.be/vUXK6ZJ71I4](https://youtu.be/vUXK6ZJ71I4)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/391bf3d5-e171-431b-bc97-37b3875d7b8c" />
 
-![https://www.google.com/logos/doodles/2026/fathers-day-2026-june-21-6753651837110939-2xa.gif](https://www.google.com/logos/doodles/2026/fathers-day-2026-june-21-6753651837110939-2xa.gif)
+![https:// @NASA-JPL @LA-COUnty-isd @CityOfSantaMonica @CityOfLosAngeles www.google.com/logos/doodles/2026/fathers-day-2026-june-21-6753651837110939-2xa.gif](https://www.google.com/logos/doodles/2026/fathers-day-2026-june-21-6753651837110939-2xa.gif)
+
+
+<img  alt="image @NASA-JPL @LA-COUnty-isd @CityOfSantaMonica @CityOfLosAngeles " src="https://github.com/user-attachments/assets/9d99f6c5-6287-417e-a22a-4e0897e9ba16" />
 
 ### US-Iran War Update, Pete Hegseth @DeptOfWar / @Whitehouse Drama & [Maria Bartiromo](https://www.linkedin.com/in/mariabartiromo) Fired
  The [Lana](http://threads.com/@lanajharris) Rundown
