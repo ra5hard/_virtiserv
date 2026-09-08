@@ -5,7 +5,7 @@ layout: default
 
 [Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) //
 
-
+# About Splashdowns @nasa-jpl
 @CityOfLosAngeles, GM [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass): [[1](https://www.congress.gov/member/karen-bass/B001270)],
 
 
@@ -13,6 +13,8 @@ layout: default
 [ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
 ![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
 [lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
 
 [tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814)
 
