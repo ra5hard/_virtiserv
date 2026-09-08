@@ -15,7 +15,7 @@ layout: default
 [lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
 
 
-@ForAtlanta a lot ogfuseful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS]()
+@ForAtlanta a lot ogfuseful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS](https://www.hot97.com/news/hot97tv-atlanta-news/)
 ​​ATL26 is experiencing technical issues with its live stream platforms. We are currently working to resolve. We apologize for the inconvenience.
 
 
