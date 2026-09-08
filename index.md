@@ -10,6 +10,11 @@ layout: default
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+## HOT 97 News Live! 9/8/26
+[`WATCH` - youtu.be/5D_jknNK7TA](https://youtu.be/5D_jknNK7TA)
+_coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html @DonaldJTrumpforPresident #MrPresident iSent these @noaa files2 @LongBeachCityCA rashard @NASAJPL_ @WHiTEHOUSE @nasa-PDS @NASA-JPL 
+<img alt="image" src="https://github.com/user-attachments/assets/5b42f401-7f77-48fb-ba8f-e139d5af90df" />
+
  
 ## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
 # Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
