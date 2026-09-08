@@ -5,6 +5,14 @@ layout: default
 
 [Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) //
 
+
+---
+
+@doug-newman-nasa hi 
+<img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
+![https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_nslct_no_text.png](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_nslct_no_text.png) 
+![https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_uhslc.png](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_uhslc.png)
+
 # About Splashdowns @nasa-jpl
 @CityOfLosAngeles, GM [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass): [[1](https://www.congress.gov/member/karen-bass/B001270)],
 
