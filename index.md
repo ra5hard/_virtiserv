@@ -8,6 +8,10 @@ layout: default
 
 ---
 
+[https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 @doug-newman-nasa hi 
 <img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
 ![https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_nslct_no_text.png](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_nslct_no_text.png) 
