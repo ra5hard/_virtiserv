@@ -9,7 +9,7 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/f9ec8fe0-e88c-4392-9015-ca045d2a2b6c" />
 
 
-[@NASA-jpl https://www.nikonsmallworld.com/tour/fernbank-science-center-1 @foratlanta](https://www.nikonsmallworld.com/tour/fernbank-science-center-1) 
+[@NASA-jpl nikonsmallworld.com/tour/fernbank-science-center-1 @foratlanta](https://www.nikonsmallworld.com/tour/fernbank-science-center-1) 
 <img  alt="image" src="https://github.com/user-attachments/assets/49df4392-4711-46e3-b5e1-baf8c0b34350" />
 
 ## Atlanta City Council Meeting
