@@ -8,6 +8,9 @@ layout: default
 
 ---
 
+## Rashard Kelly 
+ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+ 
 [@NOAAGov archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd @cityofsandiego](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
 
 ![https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png](https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png)
