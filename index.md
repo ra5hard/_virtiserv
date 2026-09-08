@@ -8,7 +8,11 @@ layout: default
 
 ---
 
-[archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
+[archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd @cityofsandiego](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
+
+![https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png](https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png)
+@doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar @la-county-isd @CityOfSantaMonica 
+<img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
