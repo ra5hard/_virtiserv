@@ -11,6 +11,10 @@ layout: default
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+@usgs [usgs.gov/centers/eros](https://www.usgs.gov/centers/eros)
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/7f5a5620-1cd7-4c7f-93c7-3dc1c134bb37" />
+
+
 [Jeanine Santucci @USATODAY - _usatoday.com/story/news/nation/2026/09/08/amazon-plane-crash-miami-victims-identified/91660245007/_](https://www.usatoday.com/story/news/nation/2026/09/08/amazon-plane-crash-miami-victims-identified/91660245007/) plz ~> @newshour
 [`WATCH` - Amazon Cargo Plane Crashes At Miami Airport, Leaving 5 Dead @aws](https://youtu.be/dFYoSHPGGJ8)
 <img   alt="image" src="https://github.com/user-attachments/assets/4da97464-db4d-43ca-9683-54a2404d2311" />
