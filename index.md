@@ -12,7 +12,7 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-@doug-newman-nasa hi 
+@doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar
 <img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
 ![https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_nslct_no_text.png](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_nslct_no_text.png) 
 ![https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_uhslc.png](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_uhslc.png)
