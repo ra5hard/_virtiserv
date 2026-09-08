@@ -5,12 +5,31 @@ layout: default
 
 [Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) //
 
-@doug-newman-nasa can @stateofcalifornia  get supported here or do we have enough and its not monitored porperly like the landers ? [@CityofLosAngeles sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/sea-level-rise?units=meters](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/sea-level-rise?units=meters)
-
 ---
 
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+
+
+# About Splashdowns @nasa-jpl
+@CityOfLosAngeles, GM [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass): [[1](https://www.congress.gov/member/karen-bass/B001270)], the fire in the library destroyed a lot of books that document NAsaJPL work with the coast gaurd of los angeles to recover spacecraft... We have a real history there and @UCLS i think someone got mad and planted kelp. How do we remove the kelp, we have to ask the urchin jungle how do we move you so you dont eat our coral, poisoning things is not how you fix those issues @Whitehouse
+
+
+
+[ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+[lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
+
+![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
+<img  alt="image" src="https://github.com/user-attachments/assets/f9ec8fe0-e88c-4392-9015-ca045d2a2b6c" />
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/71622e6e-1abf-4500-8a81-39e7aedec7de" />
+
+
+
 
 
 ## The Hurricane Missed California Its Waves Didn’t
@@ -26,7 +45,7 @@ layout: default
 [@NOAAGov archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd @cityofsandiego @hsfl](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
 
 ![https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png](https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png)
-@doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar @la-county-isd @CityOfSantaMonica @longbeachinnovationteam ... @commercegov i will email we dealing with a lot of courrupted accounts @NOAAgov the property maps can start 
+@doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar @la-county-isd @CityOfSantaMonica @longbeachinnovationteam ... @commercegov i will email we dealing with a lot of courrupted accounts @NOAAgov the property maps can start  @doug-newman-nasa can @stateofcalifornia  get supported here or do we have enough and its not monitored porperly like the landers ? [@CityofLosAngeles sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/sea-level-rise?units=meters](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/sea-level-rise?units=meters) 
 
 [2025 NOAA NGS DSS 4-Band 8 Bit Imagery: Long Beach, CA @NOAA-OWP @CityOFLOSANGELES](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
 
@@ -115,16 +134,6 @@ https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz
 ![https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_nslct_no_text.png](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_nslct_no_text.png) 
 ![https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_uhslc.png](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/assets/images/logo_uhslc.png)
 
-# About Splashdowns @nasa-jpl
-@CityOfLosAngeles, GM [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass): [[1](https://www.congress.gov/member/karen-bass/B001270)],
-
-
-
-[ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
-![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
-[lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
-
-![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
 
 ```
 Name: Rashard I Kelly
@@ -307,12 +316,6 @@ Welcome to live chat! Remember to guard your privacy and abide by our community 
 
 Chat...
 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/f9ec8fe0-e88c-4392-9015-ca045d2a2b6c" />
-
-
-
-<img alt="image" src="https://github.com/user-attachments/assets/71622e6e-1abf-4500-8a81-39e7aedec7de" />
 
 [ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
 [lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
