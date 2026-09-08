@@ -3,12 +3,14 @@ layout: default
 ---
 
 
-[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY)
+[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd)
 
 ---
 
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+![https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_ID_white-on-green.png?itok=MQJ-2Lfs](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_ID_white-on-green.png?itok=MQJ-2Lfs) 
 
 @CityOfLosAngeles I was being harassed by some sort of gadget that forces me to listen to people that are sentient, and a girl who I think is [RicoNasty](https://youtu.be/bUZEaXgFYqM?si=eWiPETkHuwVRcfHd) was confessing pornhub employment and if you say porn outloud I think the put you out. But I did not say porn, I said pornhub @doug-newman-nasa I think thats who presented themselves yesterday, I hope something legal works out , she is really pretty @blackgirlscode I saw 3 sidewalk stencil tags that said _`LuvaGirl`_ @hulu @disney whatever is going on I will not disrupt your operations but check on you freidns family and fav spots in Long Beach, we had some property damamged from the [hurricane](https://lbpost.com/news/homes-evacuated-peninsula-long-beach-waves-hurricane/) [[1](https://weather.com/2026/09/08/news/weather/video/marie-swells-flood-long-beach-california)] 
 <img  alt="577002137-5bf40fd4-fa3b-4bd2-9b5f-ba5498ad41c6" src="https://github.com/user-attachments/assets/38becbc4-9774-40f7-9f7f-753e732f8cae" />
