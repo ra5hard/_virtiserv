@@ -13,13 +13,16 @@ layout: default
 
 
 # About Splashdowns @nasa-jpl
-@CityOfLosAngeles, GM [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass): [[1](https://www.congress.gov/member/karen-bass/B001270)], the fire in the library destroyed a lot of books that document NAsaJPL work with the coast gaurd of los angeles to recover spacecraft... We have a real history there and @UCLS i think someone got mad and planted kelp. How do we remove the kelp, we have to ask the urchin jungle how do we move you so you dont eat our coral, poisoning things is not how you fix those issues @Whitehouse
+@CityOfLosAngeles, GM [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass): [[1](https://www.congress.gov/member/karen-bass/B001270)], the fire in the library destroyed a lot of books that document NAsaJPL work with the coast gaurd of los angeles to recover spacecraft... We have a real history there and @UCLA i think someone got mad and planted kelp. How do we remove the kelp, we have to ask the urchin jungle how do we move you so you dont eat our coral, poisoning things is not how you fix those issues @Whitehouse 
+
+![https://www.dcms.uscg.mil/Portals/10/Official%20USCG%20Emblem.png?ver=k0Pkgz9UP4yOcke2dly9qw%3d%3d](https://www.dcms.uscg.mil/Portals/10/Official%20USCG%20Emblem.png?ver=k0Pkgz9UP4yOcke2dly9qw%3d%3d)
 
 
 
-[ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
+[ `read`  @nasa-jpl @cityoflosangeles github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
 ![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
-[lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
+[lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) 
+! [www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
 
 ![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
 <img  alt="image" src="https://github.com/user-attachments/assets/f9ec8fe0-e88c-4392-9015-ca045d2a2b6c" />
