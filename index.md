@@ -11,6 +11,10 @@ layout: default
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+[Jeanine Santucci @USATODAY - _usatoday.com/story/news/nation/2026/09/08/amazon-plane-crash-miami-victims-identified/91660245007/_](https://www.usatoday.com/story/news/nation/2026/09/08/amazon-plane-crash-miami-victims-identified/91660245007/) plz ~> @newshour
+[`WATCH` - Amazon Cargo Plane Crashes At Miami Airport, Leaving 5 Dead @aws](https://youtu.be/dFYoSHPGGJ8)
+<img   alt="image" src="https://github.com/user-attachments/assets/4da97464-db4d-43ca-9683-54a2404d2311" />
+
 
 # About Splashdowns @nasa-jpl
 @CityOfLosAngeles, GM [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass): [[1](https://www.congress.gov/member/karen-bass/B001270)], the fire in the library destroyed a lot of books that document NAsaJPL work with the coast gaurd of los angeles to recover spacecraft... We have a real history there and @UCLA i think someone got mad and planted kelp. How do we remove the kelp, we have to ask the urchin jungle how do we move you so you dont eat our coral, poisoning things is not how you fix those issues @Whitehouse 
