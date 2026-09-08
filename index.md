@@ -16,6 +16,8 @@ layout: default
 
 ![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/ba01d8a0-c487-4bad-be59-e574c4f833d1" />
+
 [tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814)
 
 <img alt="image" src="https://github.com/user-attachments/assets/9193f9ea-1eb0-4e3b-9ce7-832aafed4bbc" />
