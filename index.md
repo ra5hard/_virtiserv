@@ -15,6 +15,8 @@ layout: default
 [lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
 
 ![https://www.congress.gov/img/svg/congress-gov-logo.svg](https://www.congress.gov/img/svg/congress-gov-logo.svg) 
+
+```
 Name: Rashard I Kelly
 Username: rashardkelly
 Email Address: holetoanotheruniverse40@gmail.com
@@ -37,6 +39,8 @@ For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Sup
 
 V 4.231.24 Home NASA Accessibility
 NASA Official: Doug Newman @doug-newman-nasa
+```
+
 <img  alt="image" src="https://github.com/user-attachments/assets/ba01d8a0-c487-4bad-be59-e574c4f833d1" />
 
 [tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814)
