@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) //
+[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY)
 
 ---
 
@@ -12,7 +12,7 @@ layout: default
 
 
 @usgs [usgs.gov/centers/eros](https://www.usgs.gov/centers/eros)
-<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/7f5a5620-1cd7-4c7f-93c7-3dc1c134bb37" />
+<img   alt="image" src="https://github.com/user-attachments/assets/7f5a5620-1cd7-4c7f-93c7-3dc1c134bb37" />
 
 
 [Jeanine Santucci @USATODAY - _usatoday.com/story/news/nation/2026/09/08/amazon-plane-crash-miami-victims-identified/91660245007/_](https://www.usatoday.com/story/news/nation/2026/09/08/amazon-plane-crash-miami-victims-identified/91660245007/) plz ~> @newshour
