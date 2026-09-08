@@ -3,6 +3,15 @@ layout: default
 ---
 
 
+[ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
+[https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f9ec8fe0-e88c-4392-9015-ca045d2a2b6c" />
+
+
+[@NASA-jpl https://www.nikonsmallworld.com/tour/fernbank-science-center-1 @foratlanta](https://www.nikonsmallworld.com/tour/fernbank-science-center-1) 
+<img  alt="image" src="https://github.com/user-attachments/assets/49df4392-4711-46e3-b5e1-baf8c0b34350" />
+
 ## Atlanta City Council Meeting
 @blackgirlscode @forAtlanta [`WATCH` - youtu.be/VJzCw6GC5Nw](https://youtu.be/VJzCw6GC5Nw)
  @howard-university-web-services ​​@lanajharris gm, @normani a girl with pink hair came in my path...idk what pink hair means,muna was blue i dont want her to be a stripper like you @keishaforga [youtu.be/Dgfv64iMvm8?si=gJlUta-4VAqa7ErX](youtu.be/Dgfv64iMvm8?si=gJlUta-4VAqa7ErX) @FORATLANTA @nasa-jpl @fbicyber @whitehouse @deptofwar @doug-newman-nasa rashard iman kelly @CityOfLosAngeles @StateOfCalifornia @La-County-isd @LACMTA @ESA @nasa-giss @nasa-pds im being assaulted over one of [Ti HarriS](https://www.officialti.com/) sisters and need help [@nasa-jpl officialti.com/](https://www.officialti.com/)
