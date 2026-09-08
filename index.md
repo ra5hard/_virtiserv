@@ -14,9 +14,13 @@ layout: default
 [`WATCH` - youtu.be/5D_jknNK7TA](https://youtu.be/5D_jknNK7TA)
 _[coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html](coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html) @DonaldJTrumpforPresident #MrPresident iSent these @noaa files2 @LongBeachCityCA rashard @NASAJPL_ @WHiTEHOUSE @nasa-PDS @NASA-JPL [@longBeachInnovationTeam youtube.com/@LongBeachCityCA](https://www.youtube.com/@LongBeachCityCA)
 
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLoaR8lCvFJpeQP9eE_wPHV9iyaaQx8bouxVQ_4k2hA&s](https://hot97atlanta.com/favicon.png) 
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/5b42f401-7f77-48fb-ba8f-e139d5af90df" />
+
+![https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/WqrGBsBFCt6fslSFk6xOZTHVqtULMD71hoHbY7CotJyikwG5A8CNG0A9-O3KfQHmF68Dx7at=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLoaR8lCvFJpeQP9eE_wPHV9iyaaQx8bouxVQ_4k2hA&s](https://hot97atlanta.com/favicon.png) 
 ![https://yt3.googleusercontent.com/S6MkqK9Ku_6w8XC3D_nGCSbMeR6P27L-9x_FcuJX0xz4ZYlv3YOeQYod2KggFksROHpmwsXaAQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/S6MkqK9Ku_6w8XC3D_nGCSbMeR6P27L-9x_FcuJX0xz4ZYlv3YOeQYod2KggFksROHpmwsXaAQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
  
 ## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
