@@ -14,6 +14,9 @@ layout: default
 ![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
 [lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
 
+[tiktok.com/@lanajharris/video/7494267265282624814](https://www.tiktok.com/@lanajharris/video/7494267265282624814)
+
+<img alt="image" src="https://github.com/user-attachments/assets/9193f9ea-1eb0-4e3b-9ce7-832aafed4bbc" />
 
 @ForAtlanta a lot ogfuseful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS](https://www.hot97.com/news/hot97tv-atlanta-news/)
 ​​ATL26 is experiencing technical issues with its live stream platforms. We are currently working to resolve. We apologize for the inconvenience.
