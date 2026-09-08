@@ -10,6 +10,10 @@ layout: default
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg @cityoflosangeles @la-county-isd @nasa-jpl](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg) 
+
+
 ## HOT 97 News Live! 9/8/26
 [`WATCH` - youtu.be/5D_jknNK7TA](https://youtu.be/5D_jknNK7TA)
 _[coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html](coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html) @DonaldJTrumpforPresident #MrPresident iSent these @noaa files2 @LongBeachCityCA rashard @NASAJPL_ @WHiTEHOUSE @nasa-PDS @NASA-JPL [@longBeachInnovationTeam youtube.com/@LongBeachCityCA](https://www.youtube.com/@LongBeachCityCA)
