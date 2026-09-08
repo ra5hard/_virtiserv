@@ -8,7 +8,7 @@ layout: default
 
 ---
 
-[https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
+[archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
