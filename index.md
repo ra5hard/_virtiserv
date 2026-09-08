@@ -11,7 +11,16 @@ layout: default
 
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
- 
+
+
+## The Hurricane Missed California Its Waves Didn’t
+@Cbs-news-data @newshour 
+[@WHiTEHOUSE @USGS youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab](https://youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab)
+[youtube.com/@JonathanPetramala](https://www.youtube.com/@JonathanPetramala)
+<img  alt="image" src="https://github.com/user-attachments/assets/9c4cbea5-a5ef-43ce-b638-714d49c56872" />
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/abb8eaa6-700c-4efd-86d3-eebfc2e55002" />
+
 [@NOAAGov archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd @cityofsandiego @hsfl](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
 
 ![https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png](https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png)
