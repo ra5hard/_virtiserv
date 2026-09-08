@@ -8,13 +8,92 @@ layout: default
 
 ---
 
-[archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd @cityofsandiego](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
+[@NOAAGov archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd @cityofsandiego](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
 
 ![https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png](https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png)
-@doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar @la-county-isd @CityOfSantaMonica 
+@doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar @la-county-isd @CityOfSantaMonica @longbeachinnovationteam ... @commercegov i will email we dealing with a lot of courrupted accounts @NOAAgov the property maps can start 
+
+[2025 NOAA NGS DSS 4-Band 8 Bit Imagery: Long Beach, CA @NOAA-OWP @CityOFLOSANGELES](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
+# Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+[fisheries.noaa.gov/inport/item/76024](https://www.fisheries.noaa.gov/inport/item/76024)
+@howard-university-web-services this link will be up for 14 days @whitehouse @nasa-jpl @podaac @nasa @blackgirlscode
+[coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip](https://coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip) /// [github.com/nmfs-ost](https://github.com/nmfs-ost) // [Shoreline Data Explorer nsde.ngs.noaa.gov/](https://nsde.ngs.noaa.gov/) // [Coastal Mapping Program of Port of San Diego, CA, CA2001-CS-T](https://www.fisheries.noaa.gov/inport/item/67610)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/83443291-2072-4325-9458-595993718872" />
+
+_Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif) _coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif_ . . . Similar design in [New Oreleans - coastalimagery.blob.core.windows.net/digitalcoast/Katrina](https://coastalimagery.blob.core.windows.net/digitalcoast/Katrina_RGB_2005_4916/K_28089-H4_11.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d21895d7-6526-43c9-8e53-c4f86f4c91a4" />
+
+@cbs-news-data @nbcnews @nasa-jpl @CityOFLosAngeles @StateOfCAlifornia
+
+[396000e3738000n -.tif 543.32 MB @nasa-jpl](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3738000n.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
+
+[384000e3738000n.tif 487mb -.tif @noaa-gov](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/384000e3738000n.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ca42caf2-02c2-443b-adef-99950260b2ef" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a41763f4-3f75-4a35-9be8-6a17a2979ba7" />
+
+[DataAccess AllFiles](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/11008b07-f475-464d-8a4a-2cfd77a846f3" />
+
+
+
+# HTML
+[HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
+[ColorNAmes - w3schools.com](https://www.w3schools.com/tags/ref_colornames.asp)
+[https://fonts.google.com/](https://fonts.google.com/) @adobe i hope u guys are ok [I was looking for kuler.adobe.com/ functionality](http://web.archive.org/web/20250212005944/https://kuler.adobe.com/) and i know abt [color.adobe.com](color.adobe.com) for making swatches but the hex values are missing like the tool was downgraded and ad poisoned and i know that can be a sign of cyber attack @cisagov @fbicyber @nasa-jpl @whitehouse @deptofwar [color.adobe.com](https://color.adobe.com/) 
+
+# @Nasa-jpl hi @spaceexplorationtechnologies CRS34 departure confirmation @youtube [https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz](https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz)
+
+```shell
+spacex.com      mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+spacex.com      mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+```
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00028/ids/edr/browse/edl/EUE_0028_0669420947_133ECM_N0030792EDLC00028_0050LUJ01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00028/ids/edr/browse/edl/EUE_0028_0669420947_133ECM_N0030792EDLC00028_0050LUJ01_1200.jpg)
+
+
+
+[396000e3738000n -.tif 543.32 MB @nasa-jpl](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3738000n.tif)
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
+
+[384000e3738000n.tif 487mb -.tif @noaa-gov](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/384000e3738000n.tif)
+<img  alt="image" src="https://github.com/user-attachments/assets/ca42caf2-02c2-443b-adef-99950260b2ef" />
+
+
+# @Nasa-jpl hi @spaceexplorationtechnologies CRS34 departure confirmation @youtube [https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz](https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz)
+
+```shell
+spacex.com      mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+spacex.com      mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+```
+
+<iframe width="649" height="360" src="https://www.youtube.com/embed/k0Mg3vQtudc?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz 
+## SentineL2
+[Falsecolor](https://ia601505.us.archive.org/28/items/longbeach_202605/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_False_color.png) // [TrueColor @eu-cdse @nasa-jpl](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_True_color.png) @nasa-jpl @usgs @la-county-isd @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/c9cb9784-d0df-49a3-8da8-82918818039e" />
+
+
+
 
 @doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar
 <img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
