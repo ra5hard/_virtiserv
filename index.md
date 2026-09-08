@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) //
+
+
 @CityOfLosAngeles, GM [Mayor Bass](https://mayor.lacity.gov/about-mayor-karen-bass): [[1](https://www.congress.gov/member/karen-bass/B001270)],
 
 
@@ -9,6 +13,158 @@ layout: default
 [ @nasa-jpl @cityoflosangeles `read` https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf](https://github.com/virtiserv/virtiserv.github.io/blob/master/docs/PreFireNAsaBook.pdf)
 ![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
 [lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire](https://www.lapl.org/news-stories/articles/april-29-marks-30th-anniversary-1986-fire) ![www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp](https://www.lapl.org/sites/default/files/styles/embedded_988w/public/blogs/2025-10/fire-1.jpg.webp)
+
+
+@ForAtlanta a lot ogfuseful mentions on @Youtube @Newshour plz fwd to [LAnaJHArriS]()
+​​ATL26 is experiencing technical issues with its live stream platforms. We are currently working to resolve. We apologize for the inconvenience.
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​d
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@lanajharris gm, @normani a girl with pink hair came in my path...idk what pink hair means,muna was blue i dont want her to be a stripper if im still being plauged by PB @nasajpl rashard iman kelly
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@ESA its wild out here man
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@FernbankMuseum i leanred about @Black-Rock-Observatory during burning man live streams, somoene is on my mission @NASAJPL can we fix the telescope? @LowellObservatory1894 @GriffithObservatory
+
+
+@LetsTalkPoliticsPodcast
+​
+
+#2
+​Charles Johnson was the Truth 💯
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@TMZ harvey was @lanajharris of @hot97 the girl that approached me bebe kids style @losangelesmetro @georgiadivisionoffamilychi9316
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@ESSENCEMAG @LATTO @NASAJPL @DEPTOFWAR @TMZ harvey was @lanajharris of @hot97 the girl that approached me bebe kids style @losangelesmetro @georgiadivisionoffamilychi9316
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@BLACKGiRSCODE @NORMANI @TMZ harvey was @lanajharris of @hot97 the girl that approached me bebe kids style @losangelesmetro @georgiadivisionoffamilychi9316 @Vogue @cardib
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@ESSENCEMAG @LATTO @NASAJPL @DEPTOFWAR @BLACKGiRSCODE @TMZ harvey was @lanajharris of @hot97 the girl that approached me bebe kids style @losangelesmetro @georgiadivisionoffamilychi9316 @Vogue @cardib
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@portoflongbeach hi its rashard from @nasajpl idk if atlanta know we got hammered during the high surf @repkarenbass
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@SantaMonicaCloseup
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@DEPTOFWAR @LongBeachTelevision • @LongBeachCityCA @TMZ @BLACKGiRSCODE @NORMANI @TMZ harvey was @lanajharris of @hot97 the girl that approached me bebe kids style @losangelesmetro
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@HOT97ontv gm @LANAJHARRiS a girl opportunity happed dtla and it was pink hair, opportunity to speak that is but it was looking like u ,idont want war @DEPTOFWAR @LongBeachTelevision @LongBeachCityCA
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​to the speacker https://youtu.be/7hx4gdlfamo
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@v103 youtu.be/7hx4gdlfamo
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@935KDAYLA
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@power106
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@REAL923LA
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@KMELtv
+
+
+@ATLChannel26
+​​The technical issues impacting this live stream have been resolved. Thank you for your patience.
+
+
+@thakasErikaselassie_kelly
+​
+
+#1
+​@KMELtv i did not support erika at latto city but i did honor my obligations twoards her flesh in my @NASAJPL role @DEPTofWAR cartography and atlanta aquatics
+
+Chat...
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f9ec8fe0-e88c-4392-9015-ca045d2a2b6c" />
 
@@ -21,6 +177,10 @@ layout: default
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f9ec8fe0-e88c-4392-9015-ca045d2a2b6c" />
 
+![https://yt3.googleusercontent.com/Iyl6fDrgggg3Rzny4NE8eX31c6xV_VsM19AuHeNaDrkHRU9o_76LMw7UhJOktfDlRPTOVceX6g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/Iyl6fDrgggg3Rzny4NE8eX31c6xV_VsM19AuHeNaDrkHRU9o_76LMw7UhJOktfDlRPTOVceX6g=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![https://yt3.googleusercontent.com/mgfraVmWqFFygpOmeiOMqgwk7ZKGXaZTRZJYnyGW6LwyR_DamOIXEDVayWmwJmoMWKXqtTmD=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/mgfraVmWqFFygpOmeiOMqgwk7ZKGXaZTRZJYnyGW6LwyR_DamOIXEDVayWmwJmoMWKXqtTmD=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+![https://yt3.googleusercontent.com/z-HoEs-0ArqRmBVT7eZn2RWo6WW6r9NEkCH69YgGF4bH48naTNEj-ozLwLfkAmZTI72YoY8v2w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/z-HoEs-0ArqRmBVT7eZn2RWo6WW6r9NEkCH69YgGF4bH48naTNEj-ozLwLfkAmZTI72YoY8v2w=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 [@NASA-jpl nikonsmallworld.com/tour/fernbank-science-center-1 @foratlanta](https://www.nikonsmallworld.com/tour/fernbank-science-center-1) 
 <img  alt="image" src="https://github.com/user-attachments/assets/49df4392-4711-46e3-b5e1-baf8c0b34350" />
