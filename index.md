@@ -15,9 +15,11 @@ layout: default
 
 ## The Hurricane Missed California Its Waves Didn’t
 @Cbs-news-data @newshour 
-[@WHiTEHOUSE @USGS youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab](https://youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab)
+[`WATCH` - @WHiTEHOUSE @USGS youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab](https://youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab)
 [youtube.com/@JonathanPetramala](https://www.youtube.com/@JonathanPetramala)
 <img  alt="image" src="https://github.com/user-attachments/assets/9c4cbea5-a5ef-43ce-b638-714d49c56872" />
+
+![https://yt3.googleusercontent.com/n993ig0zTHL2VxylLarpCycYUjUO0trKsdD75oaDaCVVjh8GGWmrmd2VqT3F0sqSJysKhP4DyEg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/n993ig0zTHL2VxylLarpCycYUjUO0trKsdD75oaDaCVVjh8GGWmrmd2VqT3F0sqSJysKhP4DyEg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
  <img   alt="image" src="https://github.com/user-attachments/assets/abb8eaa6-700c-4efd-86d3-eebfc2e55002" />
 
