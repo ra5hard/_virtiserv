@@ -37,8 +37,6 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/db33f0c5-fb5e-47ed-877f-669a00c96741" />
 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/ff698200-69e1-455c-a0ad-7ed66a863887" />
-
 @la-county-isd @nasa-jpl @doug-newman-nasa @eodis-nasa 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ff698200-69e1-455c-a0ad-7ed66a863887" />
