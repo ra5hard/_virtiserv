@@ -19,6 +19,11 @@ layout: default
 ---
 
 
+Great Britain Accuses Israel of War Crimes and U.S. States Want to Boycott the U.K.
+[`WATCH` - youtu.be/76vrz6u-xqA?si=jbSeqkGwLh4XeXRu](https://youtu.be/76vrz6u-xqA?si=jbSeqkGwLh4XeXRu)
+<img  alt="image" src="https://github.com/user-attachments/assets/2b0a2899-cc62-4f07-bde6-268e6781bda4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2b65e7fa-818b-4be5-81fe-17947558bbb8" />
 
 
 Mars within 48-72hrs / Sol 499x[ish]-500x[ish] @DeptOFWAR NAsa Curiosity / @Nasa-PDS
