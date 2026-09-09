@@ -19,6 +19,13 @@ layout: default
 
 --- 
 
+
+@CityOFLosAngeles this is 2021 @Nasa-jpl @nasa-giss
+[_`HiReZ`_ - pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_lg.jpg](https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_lg.jpg)
+[STORYMAP @WHiTEHOUSE @DEPToFWAR @USNAVY](https://pace.oceansciences.org/storymaps.htm?id=1885)
+<img alt="image" src="https://github.com/user-attachments/assets/db023440-b948-46c6-ae5c-130a1cc8ce7c" />
+
+
 @NewsHour _Hurricane MAria_
 
 [Return Of The D.J. Vol. II (Bomb Hip-Hop Compilation 1997)](https://youtu.be/2Du6WbtZEAE)
