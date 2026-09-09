@@ -31,8 +31,9 @@ layout: default
 The Dangerous and Unpredictable Job of an LA Park Ranger [@CityOfLosAngeles `WATCH` youtu.be/egANJY0p8Bc](https://youtu.be/egANJY0p8Bc)
 South Pasadena Launches World's First All-Tesla Police Fleet
 [`WATCH` - youtu.be/Qpt6Zdk00KE](https://youtu.be/Qpt6Zdk00KE) // On The Beat - Burbank PD [`WATCH` - youtu.be/41E0H68zcDA](https://youtu.be/41E0H68zcDA)
-[youtube.com/@SoPasadenaPoliceDept](https://www.youtube.com/@SoPasadenaPoliceDept) // City of South Pasadena [youtube.com/@cityofsouthpasadena5090](https://www.youtube.com/@cityofsouthpasadena5090) //
+[youtube.com/@SoPasadenaPoliceDept](https://www.youtube.com/@SoPasadenaPoliceDept) // City of South Pasadena [youtube.com/@cityofsouthpasadena5090](https://www.youtube.com/@cityofsouthpasadena5090) // [youtube.com/@southpasadenan](https://www.youtube.com/@southpasadenan) <~ good @youtube accounts for the lab @nasa-jpl @nasa-giss @doug-newman-nasa @eodis-nasa 
 
+![https://yt3.googleusercontent.com/OozGqPXtV7GBrvIL-lVehUVhDX335oncybDBWQELk6szc-XqiyuYP0rNHNNvHWDSQsqYf2LK=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/OozGqPXtV7GBrvIL-lVehUVhDX335oncybDBWQELk6szc-XqiyuYP0rNHNNvHWDSQsqYf2LK=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 # City of Compton Council Meeting 9-8-2026 
 
