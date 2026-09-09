@@ -23,6 +23,8 @@ Great Britain Accuses Israel of War Crimes and U.S. States Want to Boycott the U
 [`WATCH` - youtu.be/76vrz6u-xqA?si=jbSeqkGwLh4XeXRu](https://youtu.be/76vrz6u-xqA?si=jbSeqkGwLh4XeXRu)
 <img  alt="image" src="https://github.com/user-attachments/assets/2b0a2899-cc62-4f07-bde6-268e6781bda4" />
 
+@nasa-pds [Geoscience](https://pds-geosciences.wustl.edu/missions/mars2020/pixl.htm)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01971/ids/edr/browse/shrlc/SIF_1971_0841953306_089EBY_N0910806SRLC08046_0000LMJ02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01971/ids/edr/browse/shrlc/SIF_1971_0841953306_089EBY_N0910806SRLC08046_0000LMJ02_1200.jpg) 
 <img  alt="image" src="https://github.com/user-attachments/assets/2b65e7fa-818b-4be5-81fe-17947558bbb8" />
 
 
