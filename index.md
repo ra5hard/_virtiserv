@@ -19,7 +19,18 @@ layout: default
 ---
 
 
-# Mars within 48-72hrs / Sol 499x[ish]-500x[ish] @DeptOFWAR / @Nasa-PDS
+
+
+Mars within 48-72hrs / Sol 499x[ish]-500x[ish] @DeptOFWAR NAsa Curiosity / @Nasa-PDS
+/////// @blackgirlscode the Sol is calculated from the first day  of the mission @CityOFLosAngeles KArenBass / KAmala HArris @whitehouse so if a robot is deployed on the surface of Mars today it will report back that its `Sol0` and we about to get some work done 
+
+[Mars Perseverance Sol 1972: PIXL Camera] is from Persevere MArs202 so its another Sol calendar that curiosity may not be concerned with 
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01972/ids/edr/browse/pixl/PCW_1972_0842026324_000ECM_N091080674999449900020LUJ03_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01972/ids/edr/browse/pixl/PCW_1972_0842026324_000ECM_N091080674999449900020LUJ03_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01974/ids/edr/browse/ncam/NLF_1974_0842187667_387ECM_N0910806NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01974/ids/edr/browse/ncam/NLF_1974_0842187667_387ECM_N0910806NCAM00501_01_295J01_1200.jpg) 
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01974/ids/edr/browse/ncam/NLF_1974_0842187667_387ECM_N0910806NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01974/ids/edr/browse/ncam/NLF_1974_0842187667_387ECM_N0910806NCAM00501_01_295J01_1200.jpg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f3868940-64dd-4e64-82e0-bb9e12716014" />
 
 ![https://mars.nasa.gov/msl-raw-images/msss/05006/mcam/5006ML1099630841905112C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05006/mcam/5006ML1099630841905112C00_DXXX.jpg) 
 
