@@ -31,6 +31,9 @@ layout: default
 4 # UNiVERSE#########################VirtiservLatrice#####
 {% endhighlight %}
 
+# City of Compton Council Meeting 9-8-2026
+[`WATCH` @LA-county-isd Holly Mitchell @LACMTA youtu.be/BV54I_Sfoc8](https://youtu.be/BV54I_Sfoc8)
+<img  alt="image" src="https://github.com/user-attachments/assets/a84faf7b-d58d-46b2-88e3-b6500e054c55" />
 
 
 @nasa-pds @nasa-jpl voyager is transmitting on 3 dishes in goldstone 24,25,26 hi @whitehouse Kim Bryant @blackgirlscode [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
