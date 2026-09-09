@@ -15,7 +15,8 @@ layout: default
 </picture>
 
 
-# City of Compton Council Meeting 9-8-2026
+# City of Compton Council Meeting 9-8-2026 
+
 [`WATCH` @LA-county-isd Holly Mitchell @LACMTA youtu.be/BV54I_Sfoc8](https://youtu.be/BV54I_Sfoc8)
 <img  alt="image" src="https://github.com/user-attachments/assets/a84faf7b-d58d-46b2-88e3-b6500e054c55" />
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS). @doug-newman-nasa @cityoflosangeles @nasa-jpl @blaackgirlscode @STATEOFCALiFORNiA @eodis-nasa @howard-university-web-services 
@@ -23,6 +24,9 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 <img alt="image" src="https://github.com/user-attachments/assets/6c11cd1d-402b-4b15-95e4-58af5ca5b804" />
 
 <img alt="nasa-worldview-2026 SEP 01-to-2026 SEP 08" src="https://github.com/user-attachments/assets/2e90d060-b9e1-45d8-aff4-9b86fb27afeb" />
+
+[`play` retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-real-bout-garou-densetsu-2-the-newcomers-ngh-2400.html](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-real-bout-garou-densetsu-2-the-newcomers-ngh-2400.html)
+
 <img  alt="snapshot-2026-09-06" src="https://github.com/user-attachments/assets/735f45eb-4379-4cd2-ac35-701a7e6f3d11" />
 
 
