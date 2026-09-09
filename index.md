@@ -25,7 +25,7 @@ layout: default
 
 
 
-[pace.gsfc.nasa.gov/[(https://pace.gsfc.nasa.gov/)
+[pace.gsfc.nasa.gov/](https://pace.gsfc.nasa.gov/)
 
 [worldview.earthdata.nasa.gov/?v=-138.83722851648858,15.775958724704484](https://worldview.earthdata.nasa.gov/?v=-138.83722851648858,15.775958724704484,-97.49626467794646,39.030250883884435&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance(hidden),OCI_PACE_True_Color,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-06-T00%3A00%3A00Z) 
 
