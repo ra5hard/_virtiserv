@@ -20,6 +20,9 @@ layout: default
 --- 
 
 
+
+# Phytoplankton Blooms Around Los Angeles and Santa Catalina Island
+@StateOfCalifornia [`READ` - pace.oceansciences.org/ocean_color @cbs-news-data @nbcnews](https://pace.oceansciences.org/ocean_color_more.htm?id=466)
 @CityOFLosAngeles this is 2021 @Nasa-jpl @nasa-giss
 [_`HiReZ`_ - pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_lg.jpg](https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_lg.jpg)
 [STORYMAP @WHiTEHOUSE @DEPToFWAR @USNAVY](https://pace.oceansciences.org/storymaps.htm?id=1885)
