@@ -19,6 +19,7 @@ layout: default
 
 --- 
 
+[worldview.earthdata.nasa.gov/?v=-138.06974606731833,17.844299145105712,-110.88278155604897,34.93709366456714&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Combined_Flood_2-Day(hidden,disabled=3-4),VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1,BlueMarble_NextGeneration(hidden),Land_Water_Map,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-07-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-138.06974606731833,17.844299145105712,-110.88278155604897,34.93709366456714&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Combined_Flood_2-Day(hidden,disabled=3-4),VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1,BlueMarble_NextGeneration(hidden),Land_Water_Map,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-07-T00%3A00%3A00Z) 
 
 @nasa-jpl @cityoflosangeles the phytoplankton problem comes from excess fertilizer at times . . . @la-county-isd @deptofwar 
 
