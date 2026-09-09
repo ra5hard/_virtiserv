@@ -22,7 +22,7 @@ layout: default
 # Mars within 48-72hrs @DeptOFWAR / @Nasa-PDS
 Sol 5006
 ![https://mars.nasa.gov/msl-raw-images/msss/05006/mcam/5006ML1099630311905059C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05006/mcam/5006ML1099630311905059C00_DXXX.jpg) 
-
+![https://mars.nasa.gov/msl-raw-images/msss/05000/mcam/5000ML1099470771904747C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05000/mcam/5000ML1099470771904747C00_DXXX.jpg) 
 Sol 5008 [https://mars.nasa.gov/raw_images/1636146/?site=msl](https://mars.nasa.gov/raw_images/1636146/?site=msl)
 ![https://mars.nasa.gov/msl-raw-images/msss/05008/mcam/5008MR1099700012600561C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05008/mcam/5008MR1099700012600561C00_DXXX.jpg)
 
