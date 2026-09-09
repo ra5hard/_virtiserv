@@ -19,13 +19,14 @@ layout: default
 [`WATCH` @LA-county-isd Holly Mitchell @LACMTA youtu.be/BV54I_Sfoc8](https://youtu.be/BV54I_Sfoc8)
 <img  alt="image" src="https://github.com/user-attachments/assets/a84faf7b-d58d-46b2-88e3-b6500e054c55" />
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 [2025 NOAA NGS DSS 4-Band 8 Bit Imagery: Long Beach, CA @NOAA-OWP @CityOFLOSANGELES](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/52111640-eca6-465f-84cb-d65c9b5a6aba" />
 
 <img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
