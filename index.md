@@ -20,6 +20,9 @@ layout: default
 --- 
 
 
+[https://earth.google.com/web/@34.19213061,-118.28995694,288.54976343a,91539.03642654d,35y,127.52839107h,59.99600666t,0r/data=CgRCAggBMikKJwolCiExNDJsSF8tXzRTWEhlNkdUM0hRcTJ3V3FLcGUwZFR5Nk8gAToDCgEwQgIIAEoHCLeXlFUQAQ](https://earth.google.com/web/@34.19213061,-118.28995694,288.54976343a,91539.03642654d,35y,127.52839107h,59.99600666t,0r/data=CgRCAggBMikKJwolCiExNDJsSF8tXzRTWEhlNkdUM0hRcTJ3V3FLcGUwZFR5Nk8gAToDCgEwQgIIAEoHCLeXlFUQAQ) @emit-sds [ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz)
+<img  alt="image" src="https://github.com/user-attachments/assets/35bea030-39bc-429f-8484-b0d4ea60f0be" />
+
 
 # Phytoplankton Blooms Around Los Angeles and Santa Catalina Island
 @StateOfCalifornia [`READ` - pace.oceansciences.org/ocean_color @cbs-news-data @nbcnews](https://pace.oceansciences.org/ocean_color_more.htm?id=466)
