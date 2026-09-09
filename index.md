@@ -29,6 +29,7 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 <img   alt="image" src="https://github.com/user-attachments/assets/3129e394-988f-472b-9a7c-db7d8004c6bc" />
 
 <img  alt="snapshot-2026-09-06" src="https://github.com/user-attachments/assets/735f45eb-4379-4cd2-ac35-701a7e6f3d11" />
+<img   alt="image" src="https://github.com/user-attachments/assets/b9c8cceb-ce35-4f8f-9975-4eea2a50d7cf" />
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
