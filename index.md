@@ -14,6 +14,14 @@ layout: default
   
 </picture>
 
+
+### President Trump Delivers Historic Results for the American People in Under Two Years
+[`READ` - whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/](https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/17b09fd2-5044-4d89-a348-c3f765c394a8" />
+<img  alt="image" src="https://github.com/user-attachments/assets/12c8e67d-040f-4b4e-8b80-4df9dd8b8ec5" />
+
+
 [Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83Ng) // [Surah 4](https://youtu.be/0lMNMwTB5M8) //  [Surah 4](https://youtu.be/0lMNMwTB5M8)
 
 ---
