@@ -24,6 +24,10 @@ Great Britain Accuses Israel of War Crimes and U.S. States Want to Boycott the U
 // [@NASA-PDS an.rsl.wustl.edu/m20/AN/an3.aspx?](https://an.rsl.wustl.edu/m20/AN/an3.aspx?)
 <img  alt="image" src="https://github.com/user-attachments/assets/d93832d1-fe7a-4544-bd43-b37e967ae3c2" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s simple: boycotting the world’s only Jewish state is antisemitism.<br><br>Arkansas law makes clear that we won’t do business with any company that deliberately chooses to engage in BDS activities. Period. <a href="https://t.co/VGUTRbszY4">https://t.co/VGUTRbszY4</a></p>&mdash; Sarah Huckabee Sanders (@SarahHuckabee) <a href="https://x.com/SarahHuckabee/status/2097356537308033055?ref_src=twsrc%5Etfw">September 8, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s simple: boycotting the world’s only Jewish state is antisemitism.<br><br>Arkansas law makes clear that we won’t do business with any company that deliberately chooses to engage in BDS activities. Period. <a href="https://t.co/VGUTRbszY4">https://t.co/VGUTRbszY4</a></p>&mdash; Sarah Huckabee Sanders (@SarahHuckabee) <a href="https://x.com/SarahHuckabee/status/2097356537308033055?ref_src=twsrc%5Etfw">September 8, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
 <img  alt="image" src="https://github.com/user-attachments/assets/2b0a2899-cc62-4f07-bde6-268e6781bda4" />
 
 @nasa-pds [Geoscience](https://pds-geosciences.wustl.edu/missions/mars2020/pixl.htm)
