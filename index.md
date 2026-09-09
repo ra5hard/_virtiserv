@@ -23,6 +23,17 @@ layout: default
 
 [Return Of The D.J. Vol. II (Bomb Hip-Hop Compilation 1997)](https://youtu.be/2Du6WbtZEAE)
 
+
+
+[pace.gsfc.nasa.gov/[(https://pace.gsfc.nasa.gov/)
+
+[worldview.earthdata.nasa.gov/?v=-138.83722851648858,15.775958724704484](https://worldview.earthdata.nasa.gov/?v=-138.83722851648858,15.775958724704484,-97.49626467794646,39.030250883884435&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance(hidden),OCI_PACE_True_Color,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-06-T00%3A00%3A00Z) 
+
+<img  alt="snapshot-2026-09-06 (1)" src="https://github.com/user-attachments/assets/c8bcfef3-93f8-45c2-b745-5c8c48776fc2" />
+
+
+![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png) 
+
 [@cityoflosangeles @la-county-isd worldview.earthdata.nasa.gov/?v=-138.18038880304104,13.155419844021827,-97.43072652080767,36.077104877778105&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-138.18038880304104,13.155419844021827,-97.43072652080767,36.077104877778105&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_NOAA21_DayNightBand,OCI_PACE_True_Color,VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-06-T00%3A00%3A00Z) 
 <img  alt="snapshot-2026-09-06 @cityoflosangeles" src="https://github.com/user-attachments/assets/a5142afe-4d27-4135-bed5-5198ddac63bc" />
 
