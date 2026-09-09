@@ -25,7 +25,13 @@ layout: default
 
 <img alt="image" src="https://github.com/user-attachments/assets/8ad4c7a7-1bc6-455c-bd49-b08fba267416" />
 
-@nasa-pds @nasa-jpl @nasa-giss mro, curiosity Europa clipper, voyager2, mars oddessey , Chandra and one of the magnetic monitoring nodes is are transmitting @usnavy IDK who working that deed to know over there [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+![https://www.baesystems.com/.imaging/mte/bae-systems-theme/1200/dam/Oracle_Archive_Images/7/SPHEREx-16x9.PNG/jcr:content/SPHEREx%2016x9.PNG](https://www.baesystems.com/.imaging/mte/bae-systems-theme/1200/dam/Oracle_Archive_Images/7/SPHEREx-16x9.PNG/jcr:content/SPHEREx%2016x9.PNG)
+![https://www.baesystems.com/.resources/bae-systems/themes/bae-systems-theme/libs/img/logo-red.svg](https://www.baesystems.com/.resources/bae-systems/themes/bae-systems-theme/libs/img/logo-red.svg) 
+[https://www.baesystems.com/en?utm_source=AvjobsCompanyProfile&utm_medium=webpage&utm_campaign=AvjobsCompanyProfile](https://www.baesystems.com/en?utm_source=AvjobsCompanyProfile&utm_medium=webpage&utm_campaign=AvjobsCompanyProfile) 
+<img alt="image" src="https://github.com/user-attachments/assets/38147776-f0f0-4a84-b7c4-50af80fbf585" />
+
+@nasa-pds @nasa-jpl @nasa-giss mro, curiosity Europa clipper, voyager2, mars oddessey , Chandra and one of the magnetic monitoring nodes is are transmitting @usnavy IDK who working that deed to know over there [@baesystemsdigital eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 <img  alt="image" src="https://github.com/user-attachments/assets/503c0c57-f9c3-4c88-a54e-4264fca93b8b" />
 
 The Dangerous and Unpredictable Job of an LA Park Ranger [@CityOfLosAngeles `WATCH` youtu.be/egANJY0p8Bc](https://youtu.be/egANJY0p8Bc)
