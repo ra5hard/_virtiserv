@@ -21,7 +21,8 @@ layout: default
 
 # Mars within 48-72hrs @DeptOFWAR / @Nasa-PDS
 
-![
+Sol 5008 [https://mars.nasa.gov/raw_images/1636146/?site=msl](https://mars.nasa.gov/raw_images/1636146/?site=msl)
+![https://mars.nasa.gov/msl-raw-images/msss/05008/mcam/5008MR1099700012600561C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05008/mcam/5008MR1099700012600561C00_DXXX.jpg)
 
 # hothead8 on [HOT97](https://www.hot97.com/)
 [`WATCH` - https://youtu.be/HnW9ZIzUucg](https://youtu.be/HnW9ZIzUucg)
