@@ -31,7 +31,7 @@ layout: default
 The Dangerous and Unpredictable Job of an LA Park Ranger [@CityOfLosAngeles `WATCH` youtu.be/egANJY0p8Bc](https://youtu.be/egANJY0p8Bc)
 South Pasadena Launches World's First All-Tesla Police Fleet
 [`WATCH` - youtu.be/Qpt6Zdk00KE](https://youtu.be/Qpt6Zdk00KE) // On The Beat - Burbank PD [`WATCH` - youtu.be/41E0H68zcDA](https://youtu.be/41E0H68zcDA)
-City of South Pasadena [youtube.com/@cityofsouthpasadena5090](https://www.youtube.com/@cityofsouthpasadena5090) //
+[youtube.com/@SoPasadenaPoliceDept](https://www.youtube.com/@SoPasadenaPoliceDept) // City of South Pasadena [youtube.com/@cityofsouthpasadena5090](https://www.youtube.com/@cityofsouthpasadena5090) //
 
 
 # City of Compton Council Meeting 9-8-2026 
