@@ -20,6 +20,14 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/a84faf7b-d58d-46b2-88e3-b6500e054c55" />
 
 
+[2025 NOAA NGS DSS 4-Band 8 Bit Imagery: Long Beach, CA @NOAA-OWP @CityOFLOSANGELES](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/52111640-eca6-465f-84cb-d65c9b5a6aba" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
  ## The Hurricane Missed California Its Waves Didn’t
 @Cbs-news-data @newshour 
@@ -41,6 +49,17 @@ layout: default
 <img  alt="image" src="https://github.com/user-attachments/assets/83443291-2072-4325-9458-595993718872" />
 
 _Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif) _coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif_ . . . Similar design in [New Oreleans - coastalimagery.blob.core.windows.net/digitalcoast/Katrina](https://coastalimagery.blob.core.windows.net/digitalcoast/Katrina_RGB_2005_4916/K_28089-H4_11.tif)
+
+@la-county-isd @nasa-jpl @doug-newman-nasa @eodis-nasa 
+[@NOAAGov archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd @cityofsandiego @hsfl](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
+![https://www.noaa.gov/sites/default/files/2022-03/noaa_emblem_logo-2022.png](https://www.noaa.gov/sites/default/files/2022-03/noaa_emblem_logo-2022.png)
+
+![https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png](https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png)
+@doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... here is a [🗺️floodmap @nbcnews @cbs-news-data worldview.earthdata.nasa.gov🗺️](https://worldview.earthdata.nasa.gov/?v=-118.39699127749203,33.6083172435267,-117.99589272888717,33.876378154723014&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,MODIS_Combined_Flood_3-Day(disabled=3-4),MODIS_Combined_Flood_2-Day(disabled=2-3-4),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&l1=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Combined_Flood_3-Day(disabled=2-3-4),MODIS_Combined_Flood_2-Day(disabled=4),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg1=true&ca=true&cv=80&s=-118.1813,33.7717&t=2022-09-08-T00%3A00%3A00Z&t1=2022-09-07-T00%3A00%3A00Z) play with the comparison slider @CityOfLosAngeles  We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar @la-county-isd @CityOfSantaMonica @longbeachinnovationteam ... @commercegov i will email we dealing with a lot of courrupted accounts @NOAAgov the property maps can start  @doug-newman-nasa can @stateofcalifornia  get supported here or do we have enough and its not monitored porperly like the landers ? [@CityofLosAngeles sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/sea-level-rise?units=meters](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/sea-level-rise?units=meters) 
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg @cityoflosangeles @la-county-isd @nasa-jpl](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg) 
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d21895d7-6526-43c9-8e53-c4f86f4c91a4" />
 
@@ -80,22 +99,6 @@ _Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes]
 @la-county-isd @nasa-jpl @doug-newman-nasa @eodis-nasa 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ff698200-69e1-455c-a0ad-7ed66a863887" />
-
-@la-county-isd @nasa-jpl @doug-newman-nasa @eodis-nasa 
-[@NOAAGov archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4 @CityOfLosAngeles @StateOfCalifornia @La-coiunty-isd @cityofsandiego @hsfl](https://archive.org/download/longbeach_202605/CBS_LOS_ANGELES_LANAJHARRIS_KARENBASS_SPACEBEACH_NASAPODAACrashardLongBeachissuesevacuationordersaspowerfulwaveserodeLACountycoastline.mp4)
-
-![https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png](https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png)
-@doug-newman-nasa hi irs rashard from @nasa-jpl , we had an ecological disaster over the weekend and some property got damaged ... here is a [🗺️floodmap @nbcnews @cbs-news-data worldview.earthdata.nasa.gov🗺️](https://worldview.earthdata.nasa.gov/?v=-118.39699127749203,33.6083172435267,-117.99589272888717,33.876378154723014&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,MODIS_Combined_Flood_3-Day(disabled=3-4),MODIS_Combined_Flood_2-Day(disabled=2-3-4),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&l1=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Combined_Flood_3-Day(disabled=2-3-4),MODIS_Combined_Flood_2-Day(disabled=4),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg1=true&ca=true&cv=80&s=-118.1813,33.7717&t=2022-09-08-T00%3A00%3A00Z&t1=2022-09-07-T00%3A00%3A00Z) play with the comparison slider @CityOfLosAngeles  We need coverage in this part of the pacific @USNAVY what happened to the bouys @PODACC did someone steal ours to prep for a tsunami idk @deptofwar @la-county-isd @CityOfSantaMonica @longbeachinnovationteam ... @commercegov i will email we dealing with a lot of courrupted accounts @NOAAgov the property maps can start  @doug-newman-nasa can @stateofcalifornia  get supported here or do we have enough and its not monitored porperly like the landers ? [@CityofLosAngeles sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/sea-level-rise?units=meters](https://sealevel.nasa.gov/flooding-analysis-tool-pacific-islands/sea-level-rise?units=meters) 
-
-[2025 NOAA NGS DSS 4-Band 8 Bit Imagery: Long Beach, CA @NOAA-OWP @CityOFLOSANGELES](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
-<img  alt="image" src="https://github.com/user-attachments/assets/52111640-eca6-465f-84cb-d65c9b5a6aba" />
-
-<img   alt="image" src="https://github.com/user-attachments/assets/54a4a3c3-d50a-4189-b50c-1281297f8a0f" />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-![https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg @cityoflosangeles @la-county-isd @nasa-jpl](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg) 
 
 
 ## HOT 97 News Live! 9/8/26
