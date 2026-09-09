@@ -19,7 +19,12 @@ layout: default
 [`WATCH` @LA-county-isd Holly Mitchell @LACMTA youtu.be/BV54I_Sfoc8](https://youtu.be/BV54I_Sfoc8)
 <img  alt="image" src="https://github.com/user-attachments/assets/a84faf7b-d58d-46b2-88e3-b6500e054c55" />
 
+<img alt="nasa-worldview-2026 SEP 01-to-2026 SEP 08" src="https://github.com/user-attachments/assets/2e90d060-b9e1-45d8-aff4-9b86fb27afeb" />
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/8e7910c4-c0e5-481e-88d1-62e0cd144911" />
 
  
