@@ -21,6 +21,155 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+XP
+ 
+
+
+
+@audreywhitfield2714
+​​I really can’t understand why they can’t have a specific time to start. It’s very annoying
+
+
+@bishoptwoneflowers
+​
+
+#2
+​They did start and went into “Closed Session”…
+
+
+@bishoptwoneflowers
+​
+
+#2
+​Greetings Compton Family💙🤍
+
+
+@90candelarioL
+​
+
+#1
+​As an anthropologist and and compton resident I’ve been attempting to start an ethical study program in the city to find ways to spread cleanliness, peace, and tranquility in the community.
+
+
+@90candelarioL
+​
+
+#1
+​I agree that we need to come up with our own research and our own solutions
+
+
+@R0NB8kerMedia
+​
+
+#3
+​🎯
+
+
+@johnlopez-on4ic
+​​let's go compton 🌴
+
+
+@90candelarioL
+​
+
+#1
+​Would citizens of this city be willing to help grow ethical research & have conversations on what we define as ethical with me as a scientist?
+
+
+@R0NB8kerMedia
+​
+
+#3
+​Let’s do the research
+
+
+@90candelarioL
+​
+
+#1
+​we need a fuel geographic, anthropological, economic & epidemiology research to understand our city
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines. Learn more
+
+@thakasErikaselassie_kelly
+​​hi @lanajharris https://science.jpl.nasa.gov/division/earth-science/sea-level-and-ice/ rashard @NASAJPL @repkarenbass @keishaforga @USGS
+
+
+@thakasErikaselassie_kelly
+​​@riconasty can we clean up in city council my dfacs case with @keishaforga @SupervisorHollyJMitchell @ATLChannel26 / @HeiressDoesItAll can u c how coral feel abt me with another girl ? @Blackgirlscode
+
+
+@thakasErikaselassie_kelly
+​
+
+#3
+​@riconasty can we clean up in city council my dfacs case with @keishaforga @SupervisorHollyJMitchell @ATLChannel26 / @HeiressDoesItAll can u c how coral feel abt me w/another girl ? @t.i. @lanajharris
+
+<img  alt="image" src="https://github.com/user-attachments/assets/819adefc-cc87-4d8a-950b-32169c6ef19b" />
+
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg @cityoflosangeles @la-county-isd @nasa-jpl](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-trio-of-tropical-cyclones-in-the-pacific/pacificstorms_epic_20260901.jpg) 
 
 ![https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png](https://podaac.jpl.nasa.gov/sites/default/files/image/custom_thumbs/podaac_logo.png)
