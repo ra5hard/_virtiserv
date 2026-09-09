@@ -24,11 +24,16 @@ layout: default
 Mars within 48-72hrs / Sol 499x[ish]-500x[ish] @DeptOFWAR NAsa Curiosity / @Nasa-PDS
 /////// @blackgirlscode the Sol is calculated from the first day  of the mission @CityOFLosAngeles KArenBass / KAmala HArris @whitehouse so if a robot is deployed on the surface of Mars today it will report back that its `Sol0` and we about to get some work done 
 
+
+![https://mars.nasa.gov/system/downloadable_items/47418_M2020-Launch-Red-Circle-Logo-Black-Text-Side-Stacked.png](https://mars.nasa.gov/system/downloadable_items/47418_M2020-Launch-Red-Circle-Logo-Black-Text-Side-Stacked.png)
+
 [Mars Perseverance Sol 1972: PIXL Camera] is from Persevere MArs202 so its another Sol calendar that curiosity may not be concerned with 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01972/ids/edr/browse/pixl/PCW_1972_0842026324_000ECM_N091080674999449900020LUJ03_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01972/ids/edr/browse/pixl/PCW_1972_0842026324_000ECM_N091080674999449900020LUJ03_1200.jpg)
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01974/ids/edr/browse/ncam/NLF_1974_0842187667_387ECM_N0910806NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01974/ids/edr/browse/ncam/NLF_1974_0842187667_387ECM_N0910806NCAM00501_01_295J01_1200.jpg) 
 
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01974/ids/edr/browse/ncam/NLF_1974_0842187667_387ECM_N0910806NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01974/ids/edr/browse/ncam/NLF_1974_0842187667_387ECM_N0910806NCAM00501_01_295J01_1200.jpg) 
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f3868940-64dd-4e64-82e0-bb9e12716014" />
 
@@ -40,6 +45,9 @@ Sol 5006
 ![https://mars.nasa.gov/msl-raw-images/msss/05000/mcam/5000ML1099470771904747C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05000/mcam/5000ML1099470771904747C00_DXXX.jpg) 
 Sol 5008 [https://mars.nasa.gov/raw_images/1636146/?site=msl](https://mars.nasa.gov/raw_images/1636146/?site=msl)
 ![https://mars.nasa.gov/msl-raw-images/msss/05008/mcam/5008MR1099700012600561C00_DXXX.jpg](https://mars.nasa.gov/msl-raw-images/msss/05008/mcam/5008MR1099700012600561C00_DXXX.jpg)
+
+[@cityoflosangeles](https://vanschneider.com/mars2020) 
+<img alt="image" src="https://github.com/user-attachments/assets/790f392f-c899-437e-89e8-2010f1dcb00c" />
 
 # hothead8 on [HOT97](https://www.hot97.com/)
 [`WATCH` - https://youtu.be/HnW9ZIzUucg](https://youtu.be/HnW9ZIzUucg)
