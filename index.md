@@ -26,6 +26,7 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 <img alt="nasa-worldview-2026 SEP 01-to-2026 SEP 08" src="https://github.com/user-attachments/assets/2e90d060-b9e1-45d8-aff4-9b86fb27afeb" />
 
 [`play` retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-real-bout-garou-densetsu-2-the-newcomers-ngh-2400.html](https://www.retrogames.cc/arcade-games/real-bout-fatal-fury-2-the-newcomers-real-bout-garou-densetsu-2-the-newcomers-ngh-2400.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/3129e394-988f-472b-9a7c-db7d8004c6bc" />
 
 <img  alt="snapshot-2026-09-06" src="https://github.com/user-attachments/assets/735f45eb-4379-4cd2-ac35-701a7e6f3d11" />
 
