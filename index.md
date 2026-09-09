@@ -3,12 +3,43 @@ layout: default
 ---
 
 
-[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3)
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+
+
+
+[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls)
 
 ---
 
 ## Rashard Kelly 
- MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################VirtiservLatrice#####
+{% endhighlight %}
+
+
+
+@nasa-pds @nasa-jpl voyager is transmitting on 3 dishes in goldstone 24,25,26 hi @whitehouse Kim Bryant @blackgirlscode [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/db33f0c5-fb5e-47ed-877f-669a00c96741" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ff698200-69e1-455c-a0ad-7ed66a863887" />
+
+@la-county-isd @nasa-jpl @doug-newman-nasa @eodis-nasa 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ff698200-69e1-455c-a0ad-7ed66a863887" />
 
