@@ -24,6 +24,12 @@ Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83
 [`WATCH` - https://youtu.be/HnW9ZIzUucg](https://youtu.be/HnW9ZIzUucg)
 @howard-university-web-services _meaning_ ?
 
+@nasa-jpl I'm kind of overwhelmed @CityOFLosAngeles this one is animated @la-county-isd Holly J Mitchell remember we on @Github so software evolves fast and the team is global @whitehouse and we need you to look at our efforts with nations partnering with the states @DeptOfWar @Hulu @NetFlix Hurrican Maria is on this map [aviso-calval.oceandatalab.com/?date=2026-09-06T11:59:48&timespan=1d&zoom=3&center=-17761276.76069_5356461.0479302&extent=-36546440.82944_-3889361.8921577_1023887.30806_14602283.988018&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster&opacity=20_20_100_100_60&stackLevel=120.037_140.004_120.033_50.041_90.021&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=11111](https://aviso-calval.oceandatalab.com/?date=2026-09-06T11:59:48&timespan=1d&zoom=3&center=-17761276.76069_5356461.0479302&extent=-36546440.82944_-3889361.8921577_1023887.30806_14602283.988018&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster&opacity=20_20_100_100_60&stackLevel=120.037_140.004_120.033_50.041_90.021&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=11111)
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/be9e0c7e-62a1-4a2d-b840-0125068183df" />
+
 [coastwatch.noaa.gov/cw_html/cwViewer.html?lat=27.00&lon=-80.80&z=3&daysback=7&layer0=basemapWI&layer1=MESIb](https://coastwatch.noaa.gov/cw_html/cwViewer.html?lat=27.00&lon=-80.80&z=3&daysback=7&layer0=basemapWI&layer1=MESIb)
 <img  alt="image" src="https://github.com/user-attachments/assets/b3cd78f3-521d-4ddf-bc46-451ef87957d0" />
 
