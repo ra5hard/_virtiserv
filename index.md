@@ -15,6 +15,15 @@ layout: default
 </picture>
 
 
+@NewsHour _Hurricane MAria_
+
+
+<img alt="snapshot-2026-09-06" src="https://github.com/user-attachments/assets/688ef91c-4ee4-4967-8f2b-cbc4ddea0d7c" />
+
+@eodis-nasa [worldview.earthdata.nasa.gov/?v=-157.73246890357376,13.845708102897643,-109.56029992254719,37.555447523246656&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-157.73246890357376,13.845708102897643,-109.56029992254719,37.555447523246656&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-06-T00%3A00%3A00Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/9f9a4522-93d6-4ac1-b225-8f59962028d3" />
+
+
 ### President Trump Delivers Historic Results for the American People in Under Two Years
 [`READ` - whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/](https://www.whitehouse.gov/releases/2026/09/president-trump-delivers-historic-results-for-the-american-people-in-under-two-years/) 
 
