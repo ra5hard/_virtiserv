@@ -18,8 +18,12 @@ layout: default
 # City of Compton Council Meeting 9-8-2026
 [`WATCH` @LA-county-isd Holly Mitchell @LACMTA youtu.be/BV54I_Sfoc8](https://youtu.be/BV54I_Sfoc8)
 <img  alt="image" src="https://github.com/user-attachments/assets/a84faf7b-d58d-46b2-88e3-b6500e054c55" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS). @doug-newman-nasa @cityoflosangeles @nasa-jpl @blaqckgirlscode @STATEOFCALiFORNiA 
+[worldview.earthdata.nasa.gov/?v=-128.85198934512985,27.100452838398244,-110.544827505212,39.33543723636315&as=2026-09-01-T00%3A00%3A00Z&ae=2026-09-08-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_NOAA20_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,GHRSST_L4_MUR_Sea_Surface_Temperature,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),BlueMarble_ShadedRelief&lg=true&al=true&ab=on&t=2026-09-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-128.85198934512985,27.100452838398244,-110.544827505212,39.33543723636315&as=2026-09-01-T00%3A00%3A00Z&ae=2026-09-08-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_NOAA20_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,GHRSST_L4_MUR_Sea_Surface_Temperature,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),BlueMarble_ShadedRelief&lg=true&al=true&ab=on&t=2026-09-06-T00%3A00%3A00Z)
+<img alt="image" src="https://github.com/user-attachments/assets/6c11cd1d-402b-4b15-95e4-58af5ca5b804" />
 
 <img alt="nasa-worldview-2026 SEP 01-to-2026 SEP 08" src="https://github.com/user-attachments/assets/2e90d060-b9e1-45d8-aff4-9b86fb27afeb" />
+<img  alt="snapshot-2026-09-06" src="https://github.com/user-attachments/assets/735f45eb-4379-4cd2-ac35-701a7e6f3d11" />
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AvoNqp5EC54?si=qp34jKksBfzxorBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
