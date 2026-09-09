@@ -15,14 +15,55 @@ layout: default
 </picture>
 
 
+# City of Compton Council Meeting 9-8-2026
+[`WATCH` @LA-county-isd Holly Mitchell @LACMTA youtu.be/BV54I_Sfoc8](https://youtu.be/BV54I_Sfoc8)
+<img  alt="image" src="https://github.com/user-attachments/assets/a84faf7b-d58d-46b2-88e3-b6500e054c55" />
 
 
-[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls)
 
----
+ ## The Hurricane Missed California Its Waves Didn’t
+@Cbs-news-data @newshour 
+[`WATCH` - @WHiTEHOUSE @USGS youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab](https://youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab)
+[youtube.com/@JonathanPetramala](https://www.youtube.com/@JonathanPetramala)
+<img  alt="image" src="https://github.com/user-attachments/assets/9c4cbea5-a5ef-43ce-b638-714d49c56872" />
 
-## Rashard Kelly 
- MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
+![https://yt3.googleusercontent.com/n993ig0zTHL2VxylLarpCycYUjUO0trKsdD75oaDaCVVjh8GGWmrmd2VqT3F0sqSJysKhP4DyEg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/n993ig0zTHL2VxylLarpCycYUjUO0trKsdD75oaDaCVVjh8GGWmrmd2VqT3F0sqSJysKhP4DyEg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/abb8eaa6-700c-4efd-86d3-eebfc2e55002" />
+
+## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
+# Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+[fisheries.noaa.gov/inport/item/76024](https://www.fisheries.noaa.gov/inport/item/76024)
+![https://sso.noaa.gov/openam/XUI/img/noaa-login-banner.70fd8ea9.png](https://sso.noaa.gov/openam/XUI/img/noaa-login-banner.70fd8ea9.png)
+@howard-university-web-services this link will be up for 14 days @whitehouse @nasa-jpl @podaac @nasa @blackgirlscode
+[coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip](https://coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip) /// [github.com/nmfs-ost](https://github.com/nmfs-ost) // [Shoreline Data Explorer nsde.ngs.noaa.gov/](https://nsde.ngs.noaa.gov/) // [Coastal Mapping Program of Port of San Diego, CA, CA2001-CS-T](https://www.fisheries.noaa.gov/inport/item/67610)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/83443291-2072-4325-9458-595993718872" />
+
+_Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif) _coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif_ . . . Similar design in [New Oreleans - coastalimagery.blob.core.windows.net/digitalcoast/Katrina](https://coastalimagery.blob.core.windows.net/digitalcoast/Katrina_RGB_2005_4916/K_28089-H4_11.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d21895d7-6526-43c9-8e53-c4f86f4c91a4" />
+
+@cbs-news-data @nbcnews @nasa-jpl @CityOFLosAngeles @StateOfCAlifornia
+
+[396000e3738000n -.tif 543.32 MB @nasa-jpl](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3738000n.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
+
+[384000e3738000n.tif 487mb -.tif @noaa-gov](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/384000e3738000n.tif)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ca42caf2-02c2-443b-adef-99950260b2ef" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a41763f4-3f75-4a35-9be8-6a17a2979ba7" />
+
+[DataAccess AllFiles](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/11008b07-f475-464d-8a4a-2cfd77a846f3" />
+
+
+![https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_ID_white-on-green.png?itok=MQJ-2Lfs](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_ID_white-on-green.png?itok=MQJ-2Lfs) 
 
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
@@ -30,10 +71,6 @@ layout: default
 3 # ANOTHER###############################################
 4 # UNiVERSE#########################VirtiservLatrice#####
 {% endhighlight %}
-
-# City of Compton Council Meeting 9-8-2026
-[`WATCH` @LA-county-isd Holly Mitchell @LACMTA youtu.be/BV54I_Sfoc8](https://youtu.be/BV54I_Sfoc8)
-<img  alt="image" src="https://github.com/user-attachments/assets/a84faf7b-d58d-46b2-88e3-b6500e054c55" />
 
 
 @nasa-pds @nasa-jpl voyager is transmitting on 3 dishes in goldstone 24,25,26 hi @whitehouse Kim Bryant @blackgirlscode [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
@@ -73,40 +110,7 @@ _[coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/
 
 ![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScLoaR8lCvFJpeQP9eE_wPHV9iyaaQx8bouxVQ_4k2hA&s](https://hot97atlanta.com/favicon.png) 
 ![https://yt3.googleusercontent.com/S6MkqK9Ku_6w8XC3D_nGCSbMeR6P27L-9x_FcuJX0xz4ZYlv3YOeQYod2KggFksROHpmwsXaAQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/S6MkqK9Ku_6w8XC3D_nGCSbMeR6P27L-9x_FcuJX0xz4ZYlv3YOeQYod2KggFksROHpmwsXaAQ=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
- 
-## 2025 NOAA NGS DSS 4-Band 8 Bit Imagery:
-# Long Beach, CA - [DataAccess AllFiles @nmfs-ost](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
-[fisheries.noaa.gov/inport/item/76024](https://www.fisheries.noaa.gov/inport/item/76024)
-![https://sso.noaa.gov/openam/XUI/img/noaa-login-banner.70fd8ea9.png](https://sso.noaa.gov/openam/XUI/img/noaa-login-banner.70fd8ea9.png)
-@howard-university-web-services this link will be up for 14 days @whitehouse @nasa-jpl @podaac @nasa @blackgirlscode
-[coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip](https://coast.noaa.gov/dataviewer/pickup/1065946/LongBeach_2025_NOAA_RashardKellyNASAJPLMROECOSTRESSiSSJUNO_LanaHarris_Virtiserv__2025_4BandImagery_LongBeachCA_J1418291.zip) /// [github.com/nmfs-ost](https://github.com/nmfs-ost) // [Shoreline Data Explorer nsde.ngs.noaa.gov/](https://nsde.ngs.noaa.gov/) // [Coastal Mapping Program of Port of San Diego, CA, CA2001-CS-T](https://www.fisheries.noaa.gov/inport/item/67610)
 
-<img  alt="image" src="https://github.com/user-attachments/assets/83443291-2072-4325-9458-595993718872" />
-
-_Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif) _coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3735000n.tif_ . . . Similar design in [New Oreleans - coastalimagery.blob.core.windows.net/digitalcoast/Katrina](https://coastalimagery.blob.core.windows.net/digitalcoast/Katrina_RGB_2005_4916/K_28089-H4_11.tif)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/d21895d7-6526-43c9-8e53-c4f86f4c91a4" />
-
-@cbs-news-data @nbcnews @nasa-jpl @CityOFLosAngeles @StateOfCAlifornia
-
-[396000e3738000n -.tif 543.32 MB @nasa-jpl](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/396000e3738000n.tif)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/ce7b115a-cff3-4db5-9814-6409232b020c" />
-
-[384000e3738000n.tif 487mb -.tif @noaa-gov](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/384000e3738000n.tif)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/ca42caf2-02c2-443b-adef-99950260b2ef" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/a41763f4-3f75-4a35-9be8-6a17a2979ba7" />
-
-[DataAccess AllFiles](https://coastalimagery.blob.core.windows.net/digitalcoast/LongBeachCA_RGBN_2025_10317/index.html)
-
-
-
-<img   alt="image" src="https://github.com/user-attachments/assets/11008b07-f475-464d-8a4a-2cfd77a846f3" />
-
-
-![https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_ID_white-on-green.png?itok=MQJ-2Lfs](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/full_width/public/thumbnails/image/USGS_ID_white-on-green.png?itok=MQJ-2Lfs) 
 
 @CityOfLosAngeles I was being harassed by some sort of gadget that forces me to listen to people that are sentient, and a girl who I think is [RicoNasty](https://youtu.be/bUZEaXgFYqM?si=eWiPETkHuwVRcfHd) was confessing pornhub employment and if you say porn outloud I think the put you out. But I did not say porn, I said pornhub @doug-newman-nasa I think thats who presented themselves yesterday, I hope something legal works out , she is really pretty @blackgirlscode I saw 3 sidewalk stencil tags that said _`LuvaGirl`_ @hulu @disney whatever is going on I will not disrupt your operations but check on you freidns family and fav spots in Long Beach, we had some property damamged from the [hurricane](https://lbpost.com/news/homes-evacuated-peninsula-long-beach-waves-hurricane/) [[1](https://weather.com/2026/09/08/news/weather/video/marie-swells-flood-long-beach-california)] 
 <img  alt="577002137-5bf40fd4-fa3b-4bd2-9b5f-ba5498ad41c6" src="https://github.com/user-attachments/assets/38becbc4-9774-40f7-9f7f-753e732f8cae" />
@@ -148,18 +152,17 @@ _Long Beach Levees @La-county-isd_ [396000e3735000n @nasa-giss @nasa-openscapes]
 
 
 
-## The Hurricane Missed California Its Waves Didn’t
-@Cbs-news-data @newshour 
-[`WATCH` - @WHiTEHOUSE @USGS youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab](https://youtu.be/gGKr9kvw4IY?si=AJUs9b1NEeEJWdab)
-[youtube.com/@JonathanPetramala](https://www.youtube.com/@JonathanPetramala)
-<img  alt="image" src="https://github.com/user-attachments/assets/9c4cbea5-a5ef-43ce-b638-714d49c56872" />
-
-![https://yt3.googleusercontent.com/n993ig0zTHL2VxylLarpCycYUjUO0trKsdD75oaDaCVVjh8GGWmrmd2VqT3F0sqSJysKhP4DyEg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/n993ig0zTHL2VxylLarpCycYUjUO0trKsdD75oaDaCVVjh8GGWmrmd2VqT3F0sqSJysKhP4DyEg=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
- <img   alt="image" src="https://github.com/user-attachments/assets/abb8eaa6-700c-4efd-86d3-eebfc2e55002" />
 
 
 
+
+
+[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls)
+
+---
+
+## Rashard Kelly 
+ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv.github.io/linux](https://virtiserv.github.io/linux/)
 
 # HTML
 [HTML Living Standard](https://html.spec.whatwg.org/multipage/) — Last Updated 3 July 2026 [@mdn](https://github.com/mdn)
