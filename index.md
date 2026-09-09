@@ -25,6 +25,9 @@ layout: default
 
 <img alt="image" src="https://github.com/user-attachments/assets/8ad4c7a7-1bc6-455c-bd49-b08fba267416" />
 
+@nasa-pds @nasa-jpl @nasa-giss mro, curiosity Europa clipper, voyager2, mars oddessey , Chandra and one of the magnetic monitoring nodes is are transmitting @usnavy IDK who working that deed to know over there [eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+<img  alt="image" src="https://github.com/user-attachments/assets/503c0c57-f9c3-4c88-a54e-4264fca93b8b" />
+
 The Dangerous and Unpredictable Job of an LA Park Ranger [@CityOfLosAngeles `WATCH` youtu.be/egANJY0p8Bc](https://youtu.be/egANJY0p8Bc)
 South Pasadena Launches World's First All-Tesla Police Fleet
 [`WATCH` - youtu.be/Qpt6Zdk00KE](https://youtu.be/Qpt6Zdk00KE) // On The Beat - Burbank PD [`WATCH` - youtu.be/41E0H68zcDA](https://youtu.be/41E0H68zcDA)
