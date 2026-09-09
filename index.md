@@ -24,7 +24,11 @@ Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83
 [`WATCH` - https://youtu.be/HnW9ZIzUucg](https://youtu.be/HnW9ZIzUucg)
 @howard-university-web-services _meaning_ ?
 
+[coastwatch.noaa.gov/cw_html/cwViewer.html?lat=27.00&lon=-80.80&z=3&daysback=7&layer0=basemapWI&layer1=MESIb](https://coastwatch.noaa.gov/cw_html/cwViewer.html?lat=27.00&lon=-80.80&z=3&daysback=7&layer0=basemapWI&layer1=MESIb)
+<img  alt="image" src="https://github.com/user-attachments/assets/b3cd78f3-521d-4ddf-bc46-451ef87957d0" />
+
 [aviso-calval.oceandatalab.com/?date=2024-12-31T17:24:31&timespan=12h&zoom=3&center=3048920.114089_-4652263.2191761&extent=-15736243.954661_-13898086.159264_21834084.182839_4593559.7209118&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster&opacity=20_20_100_100_60&stackLevel=120.041_140.008_120.039_50.045_90.025&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=11111](https://aviso-calval.oceandatalab.com/?date=2024-12-31T17:24:31&timespan=12h&zoom=3&center=3048920.114089_-4652263.2191761&extent=-15736243.954661_-13898086.159264_21834084.182839_4593559.7209118&products=3857_cmems_geos_current_vectorfield!3857_SWOT_L3_geos_current_v2_0_1_vectorfield!3857_SWOT_L2_swh_karin!3857_MFWAM_swell1_vectorfield!3857_MFWAM_swh_raster&opacity=20_20_100_100_60&stackLevel=120.041_140.008_120.039_50.045_90.025&filter=!+orbit1,+orbit21!+orbit1,+orbit21&selection=11111)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/4c0143be-117f-4ab1-aad6-2366497905fd" />
 
 [coastwatch.noaa.gov/cw_html/cwViewer.html?lat=27.00&lon=-80.80&z=3&daysback=7&layer0=basemapWI&layer1=MESIb](https://coastwatch.noaa.gov/cw_html/cwViewer.html?lat=27.00&lon=-80.80&z=3&daysback=7&layer0=basemapWI&layer1=MESIb)
