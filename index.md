@@ -28,6 +28,7 @@ Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83
 
 <img alt="image" src="https://github.com/user-attachments/assets/8ad4c7a7-1bc6-455c-bd49-b08fba267416" />
 
+<img  alt="image @nasa-jpl there is a green dot that makes it look like something connected to the waves that hit the coast started here " src="https://github.com/user-attachments/assets/25748402-2ca1-4392-b629-49b242c9df20" />
 
 ![https://www.baesystems.com/.imaging/mte/bae-systems-theme/1200/dam/Oracle_Archive_Images/7/SPHEREx-16x9.PNG/jcr:content/SPHEREx%2016x9.PNG](https://www.baesystems.com/.imaging/mte/bae-systems-theme/1200/dam/Oracle_Archive_Images/7/SPHEREx-16x9.PNG/jcr:content/SPHEREx%2016x9.PNG)
 ![https://www.baesystems.com/.resources/bae-systems/themes/bae-systems-theme/libs/img/logo-red.svg](https://www.baesystems.com/.resources/bae-systems/themes/bae-systems-theme/libs/img/logo-red.svg) 
