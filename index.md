@@ -24,6 +24,8 @@ Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83
 [`WATCH` - https://youtu.be/HnW9ZIzUucg](https://youtu.be/HnW9ZIzUucg)
 @howard-university-web-services _meaning_ ?
 
+[coastwatch.noaa.gov/cw_html/cwViewer.html?lat=27.00&lon=-80.80&z=3&daysback=7&layer0=basemapWI&layer1=MESIb](https://coastwatch.noaa.gov/cw_html/cwViewer.html?lat=27.00&lon=-80.80&z=3&daysback=7&layer0=basemapWI&layer1=MESIb)
+
 <img alt="image" src="https://github.com/user-attachments/assets/8ad4c7a7-1bc6-455c-bd49-b08fba267416" />
 
 
