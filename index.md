@@ -19,6 +19,17 @@ layout: default
 
 ---
 
+hi @la-county-isd 
+
+![https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=1920&q=75](https://www.hollyjmitchell.com/_next/image?url=https%3A%2F%2Fmedia.designedtorun.com%2F5a7f31fb-4ca3-458b-86e1-c9a2c104048b%2FHolly_Mitchell-logo_designs_RE-ELECT-r0-14---runcbt%3A%3A0%2Ccbl%3A%3A140.71361502347418%2Ccbw%3A%3A406.57276995305165%2Ccbh%3A%3A300%2Cd%3A%3A1676042294918%2Co%3A%3Ahttps%3A--slash----slash--media.designedtorun.com--slash--5a7f31fb-4ca3-458b-86e1-c9a2c104048b--slash--1676042293913-Holly_Mitchell-logo_designs_RE-ELECT-r0-14-.pngrun--.png&w=1920&q=75)
+
+OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1_VEG-DIST-STATUS
+[@la-county-isd @cityoflosangeles holly j mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) FireRecovery its old from a year ago but its a great vegitation map for the firemeetings 
+<img  alt="OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1_VEG-DIST-STATUS @la-county-isd @cityoflosangeles holly j mitchell FireRecovery" src="https://github.com/user-attachments/assets/5f5387e6-14f8-4157-9b25-bd444107e59e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ff7426ad-1e4e-41d1-ae1d-021eafaf2f90" />
+
+![ @la-county-isd @cityoflosangeles holly j mitchell FireRecovery its old from a year ago but its a great vegitation map for the firemeetings  @nasa-pds @doug-newman-nasa https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/OPERA_L3_DIST-ANN-HLS_V1/OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1/OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1_VEG-DIST-STATUS.png?A-userid=None&Expires=1789069569&Signature=kDpA7Iv98aLPuN8J8qsd6rRCPbMn33IkqXhwt6jWxovwJNrtZ3QEE5cGi2U7PFd3D7CsSbHshiv18-Tv1kcMyTu8161900T20MqePslhSZum-IH1v7JaCFj0hiXjGOFqxpK8z7JURfMCoIjo9V7KsG2QXpuNnSYK-O75-wnHPxdEijnUFzVzE5-nMEJyiNVy33B8TbAV5O5SR6oXpeeDPSgv-23iKjO3uv5XpFkuyBVFy-tkZae0eQvOO3e6l0wwbqPL9~34rXMIQpvyXpClEeuZ6wuqy15vFRAE02cCSiojUg6cdD2G2YAn8Bl~q4wUXaTXoTD6FYBDA-HkAH0cmg__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/OPERA_L3_DIST-ANN-HLS_V1/OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1/OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1_VEG-DIST-STATUS.png?A-userid=None&Expires=1789069569&Signature=kDpA7Iv98aLPuN8J8qsd6rRCPbMn33IkqXhwt6jWxovwJNrtZ3QEE5cGi2U7PFd3D7CsSbHshiv18-Tv1kcMyTu8161900T20MqePslhSZum-IH1v7JaCFj0hiXjGOFqxpK8z7JURfMCoIjo9V7KsG2QXpuNnSYK-O75-wnHPxdEijnUFzVzE5-nMEJyiNVy33B8TbAV5O5SR6oXpeeDPSgv-23iKjO3uv5XpFkuyBVFy-tkZae0eQvOO3e6l0wwbqPL9~34rXMIQpvyXpClEeuZ6wuqy15vFRAE02cCSiojUg6cdD2G2YAn8Bl~q4wUXaTXoTD6FYBDA-HkAH0cmg__&Key-Pair-Id=K1JHXLBU4LECA2)
 
 8./25 @UCLA .amazonaws.com/ECO_L3T_JET.002/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01 @nasa-jpl
 <img  alt="image" src="https://github.com/user-attachments/assets/f16e13de-d5f7-4551-8226-ba31c01a67ee" />
