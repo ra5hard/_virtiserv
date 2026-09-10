@@ -20,8 +20,12 @@ layout: default
 ---
 
 # Lana J. Harris on Hot97TV
+[`WATCH` - Elon Musk’s Ex Rejects $40M To Expose Him](https://youtu.be/c6BNh_dh6_0?si=sD4OEuhi3V2e0RGI)
+@teslamotors @tesla she want her story verified @cia she claim she read off a teleprompter,,, i just started thinkin she bullshit @foratlanta @howard-university-web-services 
+<img   alt="image" src="https://github.com/user-attachments/assets/3e4229c7-0f7a-4e31-9b5a-cefaaa41a5bf" />
+
 [`WATCH` - Toxic Orange Chemical Cloud, Flock Camera Nightmare & Dangling Bridge Crash](https://youtu.be/oJuC8Pkpqmk)
-Chemical leak
+Chemical leak // [La Habra Shelter in Place Order Lifted After Orange Plume Hovers Above City Hall Neighborhood ](https://voiceofoc.org/2026/09/la-habra-shelter-in-place-order-lifted-after-orange-plume-hovers-above-city-hall-neighborhood/)
 La Habra tank emits unknown chemical @nbcnews @nasa-jpl [laist.com/brief/news/chemical-leak-tank-la-habra](https://laist.com/brief/news/chemical-leak-tank-la-habra)
 
 ![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg) 
