@@ -19,6 +19,11 @@ layout: default
 
 ---
 
+
+8./25 @UCLA .amazonaws.com/ECO_L3T_JET.002/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01 @nasa-jpl
+<img  alt="image" src="https://github.com/user-attachments/assets/f16e13de-d5f7-4551-8226-ba31c01a67ee" />
+
+
 # Phytoplankton Blooms Around Los Angeles and Santa Catalina Island
 @StateOfCalifornia [`READ` - pace.oceansciences.org/ocean_color @cbs-news-data @nbcnews](https://pace.oceansciences.org/ocean_color_more.htm?id=466)
 @CityOFLosAngeles this is `yesterday` @Nasa-jpl @nasa-giss
