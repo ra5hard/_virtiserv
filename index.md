@@ -27,6 +27,7 @@ layout: default
 @blackgirlscode just pass to my demographic @emergingCoders* @NASA-JPL @CiTYOFLOSANGELEs @FORATLANTA
 `@NASAJPL @WHiTEHOUSE for #FAMiLYSERViCES @REPKARENBASS @KEiSHAFORGA like the fact that their socials are verified by email cut me out completely and its just a planned attrocity, i hope i can find someone on my level...`
 <img alt="image" src="https://github.com/user-attachments/assets/29071ee5-16e9-463f-95b8-6f619eb1309d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/fb71f986-dd6d-426a-acd9-046792ae1225" />
 
 ## Coi Leray - Bops 
 [`WATCH` - youtu.be/ttDtl94JNx0?list=RDttDtl94JNx0](https://youtu.be/ttDtl94JNx0?list=RDttDtl94JNx0) + [Black Girl Lost · Nas](https://youtu.be/ZMAoZrJVQKI) & [Usher - My Way](https://youtu.be/dthjojjVhDo)
