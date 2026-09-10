@@ -19,6 +19,12 @@ layout: default
 
 ---
 
+8./25 @UCLA .amazonaws.com/ECO_L3T_JET.002/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01 @nasa-jpl
+<img  alt="image" src="https://github.com/user-attachments/assets/f16e13de-d5f7-4551-8226-ba31c01a67ee" />
+8/25 ECOv002_L3T_MET_46145_010_11SLT_20260825T162506_0713_01
+<img  alt="image" src="https://github.com/user-attachments/assets/15a09569-f39e-4c90-9329-22582c7ebb35" />
+
+
 hi @la-county-isd . . . . @nasa-openscapes @nasa-jpl image troubleshooting OPERA_L3_DSWx-HLS_T11SLT_20260904T182921Z_20260906T024808Z_S2C_30_v1 1_BROWSE
 <img  alt="OPERA_L3_DSWx-HLS_T11SLT_20260904T182921Z_20260906T024808Z_S2C_30_v1 1_BROWSE" src="https://github.com/user-attachments/assets/d166b3f9-00b7-4f91-b450-98e116cd4c27" />
 
@@ -31,9 +37,6 @@ OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1_VEG-DIST-STATUS
 <img  alt="image" src="https://github.com/user-attachments/assets/ff7426ad-1e4e-41d1-ae1d-021eafaf2f90" />
 
 ![ @la-county-isd @cityoflosangeles holly j mitchell FireRecovery its old from a year ago but its a great vegitation map for the firemeetings  @nasa-pds @doug-newman-nasa https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/OPERA_L3_DIST-ANN-HLS_V1/OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1/OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1_VEG-DIST-STATUS.png?A-userid=None&Expires=1789069569&Signature=kDpA7Iv98aLPuN8J8qsd6rRCPbMn33IkqXhwt6jWxovwJNrtZ3QEE5cGi2U7PFd3D7CsSbHshiv18-Tv1kcMyTu8161900T20MqePslhSZum-IH1v7JaCFj0hiXjGOFqxpK8z7JURfMCoIjo9V7KsG2QXpuNnSYK-O75-wnHPxdEijnUFzVzE5-nMEJyiNVy33B8TbAV5O5SR6oXpeeDPSgv-23iKjO3uv5XpFkuyBVFy-tkZae0eQvOO3e6l0wwbqPL9~34rXMIQpvyXpClEeuZ6wuqy15vFRAE02cCSiojUg6cdD2G2YAn8Bl~q4wUXaTXoTD6FYBDA-HkAH0cmg__&Key-Pair-Id=K1JHXLBU4LECA2](https://d1nklfio7vscoe.cloudfront.net/s3-2d2df3a34830d5223d1e9547cd713408/lp-prod-public.s3.us-west-2.amazonaws.com/OPERA_L3_DIST-ANN-HLS_V1/OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1/OPERA_L3_DIST-ANN-HLS_T11SLT_2025_20260109T171932Z_30_v1_VEG-DIST-STATUS.png?A-userid=None&Expires=1789069569&Signature=kDpA7Iv98aLPuN8J8qsd6rRCPbMn33IkqXhwt6jWxovwJNrtZ3QEE5cGi2U7PFd3D7CsSbHshiv18-Tv1kcMyTu8161900T20MqePslhSZum-IH1v7JaCFj0hiXjGOFqxpK8z7JURfMCoIjo9V7KsG2QXpuNnSYK-O75-wnHPxdEijnUFzVzE5-nMEJyiNVy33B8TbAV5O5SR6oXpeeDPSgv-23iKjO3uv5XpFkuyBVFy-tkZae0eQvOO3e6l0wwbqPL9~34rXMIQpvyXpClEeuZ6wuqy15vFRAE02cCSiojUg6cdD2G2YAn8Bl~q4wUXaTXoTD6FYBDA-HkAH0cmg__&Key-Pair-Id=K1JHXLBU4LECA2)
-
-8./25 @UCLA .amazonaws.com/ECO_L3T_JET.002/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01 @nasa-jpl
-<img  alt="image" src="https://github.com/user-attachments/assets/f16e13de-d5f7-4551-8226-ba31c01a67ee" />
 
 
 # Phytoplankton Blooms Around Los Angeles and Santa Catalina Island
