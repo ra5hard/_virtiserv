@@ -15,7 +15,7 @@ layout: default
 </picture>
 
 
-[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh)
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh) // [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs)
 
 ---
 
@@ -26,6 +26,9 @@ I dont know how well i am reading inferograms but  i know it needs to be in the 
 [earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1](https://www.earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1) //// [aria.caltech.edu/products/aria-s1-gunw](https://aria.caltech.edu/products/aria-s1-gunw)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/36dcaa48-1aa5-43ee-bf95-dd14a6240d6f" />
+[YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs)
+`@NASAJPL @ESA fwd to @LANAJHARRiS esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png @repkarenbass she and her posse helped move a lot of sentinel data during the fire, idk what decom means this far away from earth but some datasets are not updating and they siad it was going away esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A @DEPTOFWAR @WHiTEHOUSE @HOWARDUNiVERSiTY`
+<img  alt="image" src="https://github.com/user-attachments/assets/50abf1a2-3ad3-4244-915d-ff3148daaae5" />
 
 <img   alt="image @eodis-nasa the data stops 2025 @asfadmin" src="https://github.com/user-attachments/assets/6fcb9d48-e37b-4199-a4c3-4141ca17cf96" />
 
