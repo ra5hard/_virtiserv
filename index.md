@@ -19,6 +19,14 @@ layout: default
 
 ---
 
+
+@CityOfSanDiego @SANDAG 
+this @nasa-jpl image from 7/17 shows something in your water, find other maps of that day, im learning how to read the new formats myself 
+2026-07-16 `ECOv002_L3T_MET_45513_003_11SMS_20260716T004628_0713_01`
+<img  alt="image" src="https://github.com/user-attachments/assets/1149911b-ddd9-426b-97e5-e3feb16c391b" />
+
+
+---
 8./25 @UCLA .amazonaws.com/ECO_L3T_JET.002/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01/ECOv002_L3T_JET_46145_010_11SLT_20260825T162506_0713_01 @nasa-jpl
 <img  alt="image" src="https://github.com/user-attachments/assets/f16e13de-d5f7-4551-8226-ba31c01a67ee" />
 8/25 ECOv002_L3T_MET_46145_010_11SLT_20260825T162506_0713_01
