@@ -26,6 +26,7 @@ layout: default
 [https://worldview.earthdata.nasa.gov/?v=-146.8084947355166,13.954597382713416,-104.09308360930692,42.50202561062584&as=2026-09-03-T00%3A00%3A00Z&ae=2026-09-08-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden),IMERG_Precipitation_Rate,OCI_PACE_True_Color,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&al=true&ab=on&t=2026-09-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-146.8084947355166,13.954597382713416,-104.09308360930692,42.50202561062584&as=2026-09-03-T00%3A00%3A00Z&ae=2026-09-08-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden),IMERG_Precipitation_Rate,OCI_PACE_True_Color,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&al=true&ab=on&t=2026-09-06-T00%3A00%3A00Z) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5ad5b2a8-0938-4c4f-a279-5cd0103b986e" />
+<img  alt="snapshot-2026-09-06" src="https://github.com/user-attachments/assets/0a3db1eb-4073-46f8-9cb0-7c6ab5dbc3d4" />
 
 
 
