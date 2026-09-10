@@ -18,6 +18,9 @@ layout: default
 [CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA)
 
 ---
+
+<img   alt="MSLSP_11SLT_2019 1" src="https://github.com/user-attachments/assets/8982676a-ab55-4f87-8f2c-dbe03f7bdc0a" />
+
 landsat @cityoflosangeles L57 Globe month11 2001 hh08vv05 h1v4 doy307to334 NBAR v3 1 1 @nasa-jpl
 <img width="1024" height="1024" alt="L57 Globe month11 2001 hh08vv05 h1v4 doy307to334 NBAR v3 1 1" src="https://github.com/user-attachments/assets/6a468650-0ca9-481b-aa9c-838c092fdbd2" />
 
