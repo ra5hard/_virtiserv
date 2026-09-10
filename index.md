@@ -15,7 +15,7 @@ layout: default
 </picture>
 
 
-[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh) // [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs)
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh) // [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs) // [The Clash - Rock the Casbah](https://youtu.be/bJ9r8LMU9bQ?si=Csoqq7yLa4DT5LfM) // [Heart - "Barracuda"](https://youtu.be/PeMvMNpvB5M)
 
 ---
 
