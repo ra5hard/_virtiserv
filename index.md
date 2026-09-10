@@ -23,6 +23,8 @@ layout: default
 @StateOfCalifornia [`READ` - pace.oceansciences.org/ocean_color @cbs-news-data @nbcnews](https://pace.oceansciences.org/ocean_color_more.htm?id=466)
 @CityOFLosAngeles this is `yesterday` @Nasa-jpl @nasa-giss
 RexRichardson for HurricaneCleanup Mayor KAren Bass LA_COUNTY -
+<img   alt="image" src="https://github.com/user-attachments/assets/b19127fd-e2c3-400c-8bdc-0eff1f67139b" />
+
 <img  alt="2026-09-09-00_00_2026-09-09-23_59_Sentinel-2_L2A_True_color (1)" src="https://github.com/user-attachments/assets/1992800a-10ae-44b0-ab6a-177c8e56e6e2" />
 
 <img  alt="2026-09-09-00_00_2026-09-09-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/b14495e2-dca6-47ad-8f9c-d372ba5dd911" />
