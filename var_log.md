@@ -4,6 +4,67 @@ layout: default
 
 <img alt="tumblr_1b096c693a6e4ab9d54d4f7b329ecfdb_519b4a8d_12802-ezgif com-webp-to-gif-converter" src="https://github.com/user-attachments/assets/4e703873-067b-47d7-a182-a7596b67645f" />
 
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
+
+
+[<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
+
+
+<img  alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089894EDR_F1232544NCAM00354M_ @NASA-PDS @NASA-GISS @LA-COUNTY-ISD " src="https://github.com/user-attachments/assets/febe7f15-6aca-4823-a3e2-3f38b3f8ffcf" />
+
+
+[<video autoplay loading="eager" controls src="https://ia600506.us.archive.org/11/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963a.mp4" />](https://ia600506.us.archive.org/11/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963a.mp4)
+
+<img  alt="_mars nasa gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04963_opgs_edr_ncam_NLB_838089926EDR_F1232544NCAM00354M_ @TESLA " src="https://github.com/user-attachments/assets/735e9368-d380-406e-9955-ea4479376dd5" />
+
+[<video autoplay loading="eager" controls src="https://ia600506.us.archive.org/11/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963b.mp4" />](https://ia600506.us.archive.org/11/items/lander-vision-system-camera-perseverance-landing-mars-2020/CuriosityWheelCheck_BLACKGiRLSCODENORMANiLATRiCE_LESSONPLANSmsl_redops_ods_surface_sol_04963b.mp4)
+
+
+
+@tesla _BLOCKQUOTES_
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">back to black 🖤 <a href="https://t.co/jlq7nD1tHT">pic.twitter.com/jlq7nD1tHT</a></p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/1718351383571939787?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+```html
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">back to black 🖤 <a href="https://t.co/jlq7nD1tHT">pic.twitter.com/jlq7nD1tHT</a></p>&mdash; Normani (@Normani) <a href="https://x.com/Normani/status/1718351383571939787?ref_src=twsrc%5Etfw">October 28, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+```
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/hashtag/relationshiptips?src=hash&amp;ref_src=twsrc%5Etfw">#relationshiptips</a> <a href="https://x.com/CareshaPlease?ref_src=twsrc%5Etfw">@CareshaPlease</a> i want all of you, thats natural, but Vanessa Walker is intimate and im ready to touch if she is interested <a href="https://x.com/hashtag/blacktwitter?src=hash&amp;ref_src=twsrc%5Etfw">#blacktwitter</a> <a href="https://x.com/hashtag/777radio?src=hash&amp;ref_src=twsrc%5Etfw">#777radio</a> <a href="https://t.co/8qa26994gi">pic.twitter.com/8qa26994gi</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://x.com/BubbleGumPop510/status/1723491903117922417?ref_src=twsrc%5Etfw">November 12, 2023</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+@CityOfLosAngeles @NAsa-JPL @NASA-PDS @Whitehouse @Blackgirlscode 
+
+[<video autoplay loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
+
+
+## BIA - FALLBACK
+[Spotify](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) // [SoundCloud](https://soundcloud.com/bia/sets/really-her-3) // [@Apple Music](https://music.apple.com/us/album/really-her-intl-deluxe/1709172617)
+(Official Music Video)
+Los Angeles, CA [TicketMAster](https://www.ticketmaster.com/bia-los-angeles-california-08-16-2026/event/090064E625AD0801) // [LiveNation](https://www.livenation.com/event/vvG10Z_CbPl8Ov/bia) // [@la-county-isd SEATGEEK](https://seatgeek.com/bia-tickets/los-angeles-california-echoplex-2026-08-16-7-pm/concert/18355914)
+Sun 7:00 PM · [Echoplex](https://www.theecho.com/) @CityOfLosAngeles [ @yelp ](https://www.yelp.com/biz/echoplex-los-angeles)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tpj93Kv7exY?si=Env6bdmS0Yy4AT3-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### "Operation Sunflower" saves over 100 exploited children
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8qSNcnVyOY?si=26xcSW_Tybbt0M2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE#########################VirtiservLatrice#####
+{% endhighlight %}
+
+
+## "Enjoy the Show—Safely:" 
+### How does a field office protect a city during a special event?
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmdHQu4bxGY?si=8jCMS1Oqf4aVBARR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://x.com/LACityCouncil?ref_src=twsrc%5Etfw">@LACityCouncil</a> watch and define <a href="https://x.com/hashtag/Eugenics?src=hash&amp;ref_src=twsrc%5Etfw">#Eugenics</a><a href="https://x.com/hashtag/Akire?src=hash&amp;ref_src=twsrc%5Etfw">#Akire</a> how r u its <a href="https://x.com/hashtag/Rashard?src=hash&amp;ref_src=twsrc%5Etfw">#Rashard</a>, she is <a href="https://x.com/hashtag/NAtiveIslamic?src=hash&amp;ref_src=twsrc%5Etfw">#NAtiveIslamic</a> <a href="https://x.com/hashtag/ThisVideo?src=hash&amp;ref_src=twsrc%5Etfw">#ThisVideo</a> <a href="https://x.com/hashtag/PleaseAcceptHer?src=hash&amp;ref_src=twsrc%5Etfw">#PleaseAcceptHer</a> / <a href="https://x.com/hashtag/mambeeto?src=hash&amp;ref_src=twsrc%5Etfw">#mambeeto</a><a href="https://x.com/UN?ref_src=twsrc%5Etfw">@un</a><br> <a href="https://t.co/SSpQSNCSZS">https://t.co/SSpQSNCSZS</a>… its still<a href="https://x.com/kashdoll?ref_src=twsrc%5Etfw">@kashdoll</a>/<a href="https://x.com/MagicCity?ref_src=twsrc%5Etfw">@magiccity</a><a href="https://x.com/hashtag/littleEthiopia?src=hash&amp;ref_src=twsrc%5Etfw">#littleEthiopia</a><a href="https://x.com/SartuAdem?ref_src=twsrc%5Etfw">@sartuadem</a> <a href="https://x.com/Latto?ref_src=twsrc%5Etfw">@latto</a> <a href="https://x.com/Ethiomari?ref_src=twsrc%5Etfw">@Ethiomari</a> <a href="https://x.com/hashtag/X?src=hash&amp;ref_src=twsrc%5Etfw">#X</a> c also <a href="https://t.co/c5oQlnAyZP">https://t.co/c5oQlnAyZP</a> <a href="https://t.co/qvNuprEscR">pic.twitter.com/qvNuprEscR</a></p>&mdash; BubbleGumPop (@BubbleGumPop510) <a href="https://x.com/BubbleGumPop510/status/1780388871572009322?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
