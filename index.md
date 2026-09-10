@@ -21,6 +21,13 @@ layout: default
 
 ![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png @emit-sds idk how whoever got this color out... its hard to get to a commandline for imagemagick and photoshop is a pipedream in this era @PODACC @CityOfLosAngeles 
 ](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png)
+
+@la-county-isd @nasa @USGS there are some data products that im seeking to complete my [hurricane report](https://www.facebook.com/watch/?v=1093287340315082) with that i cannot use bc noone at the library knows what [netCDF](https://www.giss.nasa.gov/tools/panoply/) is ... @CiTYOFLoSANGELES [SupLindseyHoravath @la-county-isd](https://lindseyhorvath.lacounty.gov/meet-lindsey/), i need to install _`Panoply`_ and idk what robin wants in totality  , but @deptofwar style military reporting works @nasa-jpl and im just signing off on the issue, oh yeah the green stuff from the river washed up on the beach. I dont have a camera so best i can say is walk to the sand and you will see the once green florets yellow @LongbeachinnovationTeam @CityOFSantaMonica [giss.nasa.gov/tools/panoply/ @nasa-giss](https://www.giss.nasa.gov/tools/panoply/)
+
+![https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png](https://www.giss.nasa.gov/tools/panoply/gfx/panoply_500_1440x960.png)
+
+![https://lindseyhorvath.lacounty.gov/wp-content/uploads/2023/03/horvath.light_.pink_.v3.png](https://lindseyhorvath.lacounty.gov/wp-content/uploads/2023/03/horvath.light_.pink_.v3.png) 
+
 @emit-sds idk how whoever got this color out... its hard to get to a commandline for imagemagick and photoshop is a pipedream in this era @PODACC @CityOfLosAngeles 
 
 ![https://pace.oceansciences.org/images/ocig/LC08_L1TP_041036-037_20211127_20211127_01_RT_CatalinaIsland_sm.jpg @emit-sds idk how whoever got this color out... its hard to get to a commandline for imagemagick and photoshop is a pipedream in this era @PODACC @CityOfLosAngeles 
