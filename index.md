@@ -19,6 +19,11 @@ layout: default
 
 ---
 
+# San Bernadino
+<img   alt="image" src="https://github.com/user-attachments/assets/b4fea0d7-e148-4c57-a422-909bc18ae83c" />
+
+---
+<img  alt="image send 2 lana @blackgirlscode @emergingCoders " src="https://github.com/user-attachments/assets/9c7d763d-2ece-4e04-8f57-df154380e828" />
 
 @CityOfSanDiego @SANDAG 
 this @nasa-jpl image from 7/17 shows something in your water, find other maps of that day, im learning how to read the new formats myself 
