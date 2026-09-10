@@ -25,6 +25,8 @@ I dont know how well i am reading inferograms but  i know it needs to be in the 
 `Interferometry is an imaging technique in which waves are superimposed in a manner to cause interference.` - [READMORE](https://science.nasa.gov/mission/nisar/interferometry/)
 [earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1](https://www.earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1) //// [aria.caltech.edu/products/aria-s1-gunw](https://aria.caltech.edu/products/aria-s1-gunw)
 
+![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/sentinel-1_animated_patch/26417500-1-eng-GB/Sentinel-1_animated_patch_pillars.gif](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/sentinel-1_animated_patch/26417500-1-eng-GB/Sentinel-1_animated_patch_pillars.gif) 
+
 <img   alt="image" src="https://github.com/user-attachments/assets/36dcaa48-1aa5-43ee-bf95-dd14a6240d6f" />
 
 [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs)
