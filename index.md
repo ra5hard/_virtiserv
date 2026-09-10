@@ -19,6 +19,12 @@ layout: default
 
 --- 
 
+
+## Coi Leray - Bops 
+[`WATCH` - youtu.be/ttDtl94JNx0?list=RDttDtl94JNx0](https://youtu.be/ttDtl94JNx0?list=RDttDtl94JNx0)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/be1daad2-377a-4286-a60b-39c0a58385f2" />
+
 ## Rico Nasty - Block List 
 [`WATCH` - youtu.be/oe_3y_RjnpA?si=G4MSzqCFti_8sX4_](https://youtu.be/oe_3y_RjnpA?si=G4MSzqCFti_8sX4_)
 @blackgirlscode just pass to my demographic @emergingCoders* @NASA-JPL @CiTYOFLOSANGELEs @FORATLANTA
@@ -28,7 +34,12 @@ layout: default
 
 [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
 
+
+
+
 [<video  loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
+
+
 
 [Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
 
