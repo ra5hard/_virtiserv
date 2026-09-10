@@ -15,21 +15,23 @@ layout: default
 </picture>
 
 
-[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83Ng) // [Surah 4](https://youtu.be/0lMNMwTB5M8) //  [Surah 4](https://youtu.be/0lMNMwTB5M8) // [Fat Joe - They Wanna Know ](https://youtu.be/UZIaR-3H32U?si=Y9ObscCYLMc_Fuuk) // [Return Of The D.J. Vol. II (Bomb Hip-Hop Compilation 1997)](https://youtu.be/2Du6WbtZEAE) // [Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0) // [Rico Nasty - Block List](https://youtu.be/oe_3y_RjnpA) // [Black Girl Lost · Nas](https://youtu.be/ZMAoZrJVQKI)
+[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83Ng) // [Surah 4](https://youtu.be/0lMNMwTB5M8) //  [Surah 4](https://youtu.be/0lMNMwTB5M8) // [Fat Joe - They Wanna Know ](https://youtu.be/UZIaR-3H32U?si=Y9ObscCYLMc_Fuuk) // [Return Of The D.J. Vol. II (Bomb Hip-Hop Compilation 1997)](https://youtu.be/2Du6WbtZEAE) // [Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0) // [Rico Nasty - Block List](https://youtu.be/oe_3y_RjnpA) // [Black Girl Lost · Nas](https://youtu.be/ZMAoZrJVQKI) // [Usher - My Way](https://youtu.be/dthjojjVhDo) // [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
 
 --- 
 
 
-## Coi Leray - Bops 
-[`WATCH` - youtu.be/ttDtl94JNx0?list=RDttDtl94JNx0](https://youtu.be/ttDtl94JNx0?list=RDttDtl94JNx0) + [Black Girl Lost · Nas](https://youtu.be/ZMAoZrJVQKI)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/be1daad2-377a-4286-a60b-39c0a58385f2" />
 
 ## Rico Nasty - Block List 
 [`WATCH` - youtu.be/oe_3y_RjnpA?si=G4MSzqCFti_8sX4_](https://youtu.be/oe_3y_RjnpA?si=G4MSzqCFti_8sX4_)
 @blackgirlscode just pass to my demographic @emergingCoders* @NASA-JPL @CiTYOFLOSANGELEs @FORATLANTA
 `@NASAJPL @WHiTEHOUSE for #FAMiLYSERViCES @REPKARENBASS @KEiSHAFORGA like the fact that their socials are verified by email cut me out completely and its just a planned attrocity, i hope i can find someone on my level...`
 <img alt="image" src="https://github.com/user-attachments/assets/29071ee5-16e9-463f-95b8-6f619eb1309d" />
+
+## Coi Leray - Bops 
+[`WATCH` - youtu.be/ttDtl94JNx0?list=RDttDtl94JNx0](https://youtu.be/ttDtl94JNx0?list=RDttDtl94JNx0) + [Black Girl Lost · Nas](https://youtu.be/ZMAoZrJVQKI) & [Usher - My Way](https://youtu.be/dthjojjVhDo)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/be1daad2-377a-4286-a60b-39c0a58385f2" />
 
 
 [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
