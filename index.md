@@ -15,6 +15,10 @@ layout: default
 </picture>
 
 
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA)
+
+---
+
 ![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png @emit-sds idk how whoever got this color out... its hard to get to a commandline for imagemagick and photoshop is a pipedream in this era @PODACC @CityOfLosAngeles 
 ](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png)
 @emit-sds idk how whoever got this color out... its hard to get to a commandline for imagemagick and photoshop is a pipedream in this era @PODACC @CityOfLosAngeles 
