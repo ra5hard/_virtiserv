@@ -15,9 +15,30 @@ layout: default
 </picture>
 
 
-[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I)
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh)
 
 ---
+
+# ARIA Sentinel-1 Geocoded Unwrapped Interferograms
+@ASFOpenSARlab @asfadmin @nasa-jpl
+I dont know how well i am reading inferograms but  i know it needs to be in the @la-county-isd datapool for storm damage recovery. The Scans of Losangeles County stop in 2025. @ESA this article says that its _"Time to say goodbye to Sentinel-1A"_ - [READ](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A) so if the dataset was decommed for Sentinel1 im looking for it under @isro / @nasa 's [NiSar](https://bhoonidhi.nrsc.gov.in/NISAR/) but thats another session or a jupyter notebook. Im still learning to use [Nisar](https://science.nasa.gov/mission/nisar/) - [Rashard @nasa-pds](https://github.com/ra5hard/ra5hard.github.io) @doug-newman-nasa im just overwhelmed, ppl want data but its kind of hard with the computer / netaccess situation @CityOfLosANGELEs @la-county-isd @LAcountyDPH
+`Interferometry is an imaging technique in which waves are superimposed in a manner to cause interference.` - [READMORE](https://science.nasa.gov/mission/nisar/interferometry/)
+[earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1](https://www.earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1) //// [aria.caltech.edu/products/aria-s1-gunw](https://aria.caltech.edu/products/aria-s1-gunw)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/36dcaa48-1aa5-43ee-bf95-dd14a6240d6f" />
+
+<img   alt="image @eodis-nasa the data stops 2025 @asfadmin" src="https://github.com/user-attachments/assets/6fcb9d48-e37b-4199-a4c3-4141ca17cf96" />
+
+_@stateOFCalifornia Earthquake_ 
+![https://aria.caltech.edu/images/products/ridgecrest_2019_browse_gunw.png](https://aria.caltech.edu/images/products/ridgecrest_2019_browse_gunw.png)
+<img   alt="image" src="https://github.com/user-attachments/assets/8a606300-a576-4c02-bbf9-688453c3936c" />
+
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-12/esds-org-chart_0.png?VersionId=ZcE7OzMfjpzI5JDgzxTxPGuCvJEON.k4&itok=7NTqQqz-](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-12/esds-org-chart_0.png?VersionId=ZcE7OzMfjpzI5JDgzxTxPGuCvJEON.k4&itok=7NTqQqz-)
+
+![https://aria.caltech.edu/images/logos/aria-logo.png](https://aria.caltech.edu/images/logos/aria-logo.png) 
+
+![https://www.esa.int/eologos/images/sentinel-1_neg.jpg](https://www.esa.int/eologos/images/sentinel-1_neg.jpg)
+![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png) 
 
 <img   alt="MSLSP_11SLT_2019 1" src="https://github.com/user-attachments/assets/8982676a-ab55-4f87-8f2c-dbe03f7bdc0a" />
 
