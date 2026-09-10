@@ -19,6 +19,8 @@ layout: default
 
 ---
 
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05009/opgs/edr/ncam/NRB_842150940EDR_M1242368NCAM00579M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05009/opgs/edr/ncam/NRB_842150940EDR_M1242368NCAM00579M_.JPG) 
+
 ![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png @emit-sds idk how whoever got this color out... its hard to get to a commandline for imagemagick and photoshop is a pipedream in this era @PODACC @CityOfLosAngeles 
 ](https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png)
 
