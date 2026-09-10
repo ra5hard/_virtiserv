@@ -15,7 +15,7 @@ layout: default
 </picture>
 
 
-[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh) // [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs) // [The Clash - Rock the Casbah](https://youtu.be/bJ9r8LMU9bQ?si=Csoqq7yLa4DT5LfM) // [Heart - "Barracuda"](https://youtu.be/PeMvMNpvB5M) // [Dire Straits - Money For Nothing](https://youtu.be/wTP2RUD_cL0)
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh) // [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs) // [The Clash - Rock the Casbah](https://youtu.be/bJ9r8LMU9bQ?si=Csoqq7yLa4DT5LfM) // [Heart - "Barracuda"](https://youtu.be/PeMvMNpvB5M) // [Dire Straits - Money For Nothing](https://youtu.be/wTP2RUD_cL0) // [The Fact Is (I Need You)](https://youtu.be/4YnnIsdSwic?si=PNZL2QVwxm2LRMKM)
 
 ---
 
@@ -24,6 +24,11 @@ _Why An AI Researcher Quit Over An Extinction Threat_
 [`WATCH` - youtu.be/VS7L51mjI-g](https://youtu.be/VS7L51mjI-g)
 <img alt="image" src="https://github.com/user-attachments/assets/4f8553c2-f3d3-4d66-be17-29ff49d4088c" />
 
+```
+https://youtu.be/4YnnIsdSwic?si=PNZL2QVwxm2LRMKM
+@doyouwantmore we got philly images @QuestloveSupreme you need tiff file functionality to view 
+https://coastalimagery.blob.core.windows.net/digitalcoast/PhiladelphiaPA_RGBN_2026_14640/index.html   @NASAJPL @DEPTofWAR  @NASAEARTHDATA i found @NOAA files and shared as instructed @NASA @repkarenbass @lacityclerk @LANAjHARRiS @missjillscott @DJJazzyJeffVEVO @djjazzyjeff
+```
 -- sea level rise viewer
 [coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor)
 <img   alt="image" src="https://github.com/user-attachments/assets/e30cac5e-5691-4ee4-a72c-24122ee95fc9" />
