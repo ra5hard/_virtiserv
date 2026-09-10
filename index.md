@@ -19,6 +19,12 @@ layout: default
 
 ---
 
+# Phytoplankton Blooms Around Los Angeles and Santa Catalina Island
+@StateOfCalifornia [`READ` - pace.oceansciences.org/ocean_color @cbs-news-data @nbcnews](https://pace.oceansciences.org/ocean_color_more.htm?id=466)
+@CityOFLosAngeles this is `yesterday` @Nasa-jpl @nasa-giss
+RexRichardson for HurricaneCleanup Mayor KAren Bass LA_COUNTY -
+<img  alt="2026-09-09-00_00_2026-09-09-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/b14495e2-dca6-47ad-8f9c-d372ba5dd911" />
+
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05009/opgs/edr/ncam/NRB_842150940EDR_M1242368NCAM00579M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05009/opgs/edr/ncam/NRB_842150940EDR_M1242368NCAM00579M_.JPG) 
 
 ![https://pace.oceansciences.org/images/layout/pace_l2_banner_txt.png @emit-sds idk how whoever got this color out... its hard to get to a commandline for imagemagick and photoshop is a pipedream in this era @PODACC @CityOfLosAngeles 
