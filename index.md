@@ -24,6 +24,10 @@ _Why An AI Researcher Quit Over An Extinction Threat_
 [`WATCH` - youtu.be/VS7L51mjI-g](https://youtu.be/VS7L51mjI-g)
 <img alt="image" src="https://github.com/user-attachments/assets/4f8553c2-f3d3-4d66-be17-29ff49d4088c" />
 
+-- sea level rise viewer
+[coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor)
+<img   alt="image" src="https://github.com/user-attachments/assets/e30cac5e-5691-4ee4-a72c-24122ee95fc9" />
+
 [`WATCH` - Elon Musk’s Ex Rejects $40M To Expose Him](https://youtu.be/c6BNh_dh6_0?si=sD4OEuhi3V2e0RGI)
 @teslamotors @tesla she want her story verified @cia she claim she read off a teleprompter,,, i just started thinkin she bullshit @foratlanta @howard-university-web-services if her dad not iCe-t Karen Bass i get that she been running from his violators for a long time, if t.i. her brother i really think there is a patriarch that works in aerospace in real time, so i just want to make sure im not out of line @blackgirlscode [Ice-T Sets The Record Straight On Who Really Started Gangsta Rap... A Hip-Hop Master Class](https://youtu.be/KEmKZIX3kDE) ////////// @cityofsandiego @cityoflosangeles [Remnants of Hurricane Marie hit San Diego County with lightning, winds and heat](https://www.sandiegouniontribune.com/2026/09/08/san-diego-countys-oppressively-hot-weather-will-last-until-late-this-week/#) 
 <img   alt="image" src="https://github.com/user-attachments/assets/3e4229c7-0f7a-4e31-9b5a-cefaaa41a5bf" />
@@ -43,6 +47,7 @@ La Habra tank emits unknown chemical @nbcnews @nasa-jpl [laist.com/brief/news/ch
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1f244dad-ee7c-4626-838f-82abbe07046f" />
+
 
 
 # ARIA Sentinel-1 Geocoded Unwrapped Interferograms
