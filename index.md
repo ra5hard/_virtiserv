@@ -21,7 +21,7 @@ layout: default
 
 # Lana J. Harris on Hot97TV
 [`WATCH` - Elon Musk’s Ex Rejects $40M To Expose Him](https://youtu.be/c6BNh_dh6_0?si=sD4OEuhi3V2e0RGI)
-@teslamotors @tesla she want her story verified @cia she claim she read off a teleprompter,,, i just started thinkin she bullshit @foratlanta @howard-university-web-services 
+@teslamotors @tesla she want her story verified @cia she claim she read off a teleprompter,,, i just started thinkin she bullshit @foratlanta @howard-university-web-services if her dad not iCe-t Karen Bass i get that she been running from his violators for a long time, if t.i. her brother i really think there is a patriarch that works in aerospace in real time, so i just want to make sure im not out of line @blackgirlscode [Ice-T Sets The Record Straight On Who Really Started Gangsta Rap... A Hip-Hop Master Class](https://youtu.be/KEmKZIX3kDE)
 <img   alt="image" src="https://github.com/user-attachments/assets/3e4229c7-0f7a-4e31-9b5a-cefaaa41a5bf" />
 
 [`WATCH` - Toxic Orange Chemical Cloud, Flock Camera Nightmare & Dangling Bridge Crash](https://youtu.be/oJuC8Pkpqmk)
