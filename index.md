@@ -19,6 +19,13 @@ layout: default
 
 ---
 
+# Lana J. Harris on Hot97TV
+[`WATCH` - Toxic Orange Chemical Cloud, Flock Camera Nightmare & Dangling Bridge Crash](https://youtu.be/oJuC8Pkpqmk)
+<img  alt="image" src="https://github.com/user-attachments/assets/295f4284-da5e-40f2-a676-0a3f68981484" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1f244dad-ee7c-4626-838f-82abbe07046f" />
+
+
 # ARIA Sentinel-1 Geocoded Unwrapped Interferograms
 @ASFOpenSARlab @asfadmin @nasa-jpl
 I dont know how well i am reading inferograms but  i know it needs to be in the @la-county-isd datapool for storm damage recovery. The Scans of Losangeles County stop in [2025 @asfadmin](https://search.asf.alaska.edu/#/?dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA)&resultsLoaded=true&granule=S1-GUNW-D-R-144-tops-20250725_20250707-140104-00121W_00033N-PP-23ef-v3_0_1&zoom=8.800&center=-118.816,33.840&searchType=Geographic%20Search&useFrameForBaseline=true&polygon=POLYGON((-118.5101%2033.7067,-117.7373%2033.7067,-117.7373%2034.1998,-118.5101%2034.1998,-118.5101%2033.7067))) . @ESA this article says that its _"Time to say goodbye to Sentinel-1A"_ - [READ](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A) so if the dataset was decommed for Sentinel1 im looking for it under @isro / @nasa 's [NiSar](https://bhoonidhi.nrsc.gov.in/NISAR/) but thats another session or a jupyter notebook. Im still learning to use [Nisar](https://science.nasa.gov/mission/nisar/) - [Rashard @nasa-pds](https://github.com/ra5hard/ra5hard.github.io) @doug-newman-nasa im just overwhelmed, ppl want data but its kind of hard with the computer / netaccess situation @CityOfLosANGELEs @la-county-isd @LAcountyDPH
