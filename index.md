@@ -19,6 +19,11 @@ layout: default
 
 --- 
 
+## Rico Nasty - Block List 
+[`WATCH` - youtu.be/oe_3y_RjnpA?si=G4MSzqCFti_8sX4_](https://youtu.be/oe_3y_RjnpA?si=G4MSzqCFti_8sX4_)
+@blackgirlscode just pass to my demographic @emergingCoders* @NASA-JPL @CiTYOFLOSANGELEs @FORATLANTA
+`@NASAJPL @WHiTEHOUSE for #FAMiLYSERViCES @REPKARENBASS @KEiSHAFORGA like the fact that their socials are verified by email cut me out completely and its just a planned attrocity, i hope i can find someone on my level...`
+<img alt="image" src="https://github.com/user-attachments/assets/29071ee5-16e9-463f-95b8-6f619eb1309d" />
 
 
 [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
