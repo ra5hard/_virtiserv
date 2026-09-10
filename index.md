@@ -27,6 +27,7 @@ layout: default
 <img   alt="image" src="https://github.com/user-attachments/assets/910cb5a3-2afa-450c-8e99-9e9f4539d994" />
 
 
+Tokyo Jetz Talks About T.I., Cancel Culture, New Music, Adjusting To Being A Mother - [youtu.be/_vm6toX3jy0](https://youtu.be/_vm6toX3jy0)
 <img alt="image" src="https://github.com/user-attachments/assets/b4a18708-be4c-4ad4-88c0-882bfc070342" />
 
 T.I. Opens Up About His BET Awards Opening, Legacy & Kill The King
