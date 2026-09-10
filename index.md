@@ -21,6 +21,11 @@ layout: default
 
 # Lana J. Harris on Hot97TV
 [`WATCH` - Toxic Orange Chemical Cloud, Flock Camera Nightmare & Dangling Bridge Crash](https://youtu.be/oJuC8Pkpqmk)
+Chemical leak
+La Habra tank emits unknown chemical @nbcnews @nasa-jpl [laist.com/brief/news/chemical-leak-tank-la-habra](https://laist.com/brief/news/chemical-leak-tank-la-habra)
+
+![https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg](https://scpr.brightspotcdn.com/3d/90/a00620904650ba75eb573b46106b/laistlogo-black.svg) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/295f4284-da5e-40f2-a676-0a3f68981484" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1f244dad-ee7c-4626-838f-82abbe07046f" />
