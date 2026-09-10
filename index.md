@@ -15,9 +15,25 @@ layout: default
 </picture>
 
 
-[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh) // [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs) // [The Clash - Rock the Casbah](https://youtu.be/bJ9r8LMU9bQ?si=Csoqq7yLa4DT5LfM) // [Heart - "Barracuda"](https://youtu.be/PeMvMNpvB5M) // [Dire Straits - Money For Nothing](https://youtu.be/wTP2RUD_cL0) // [The Fact Is (I Need You)](https://youtu.be/4YnnIsdSwic?si=PNZL2QVwxm2LRMKM) // [Xscape - Who Can I Run To ](https://youtu.be/xLjyPBQk_Os) // [Xscape - Understanding ](https://youtu.be/HR5J5jUDcnA) // [Monica - Before You Walk Out Of My Life](https://youtu.be/Ptiz0KtR16E) // [Brandy - Sittin' Up in My Room](https://youtu.be/yge2PqEZZJo) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24) // [Black Sheep - Flavor Of The Month](https://youtu.be/F01fzPwBwc4) // [Black Sheep - The Choice Is Yours](https://youtu.be/K9F5xcpjDMU) // [Method Man - All I Need (Razor Sharp Remix) ft. Mary J. Blige](https://youtu.be/XW1HNWqdVbk?si=65oMB-2_q6Nw_fFK) // [Common - Come Close](https://youtu.be/dbbRrNHJ4Lg)
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh) // [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs) // [The Clash - Rock the Casbah](https://youtu.be/bJ9r8LMU9bQ?si=Csoqq7yLa4DT5LfM) // [Heart - "Barracuda"](https://youtu.be/PeMvMNpvB5M) // [Dire Straits - Money For Nothing](https://youtu.be/wTP2RUD_cL0) // [The Fact Is (I Need You)](https://youtu.be/4YnnIsdSwic?si=PNZL2QVwxm2LRMKM) // [Xscape - Who Can I Run To ](https://youtu.be/xLjyPBQk_Os) // [Xscape - Understanding ](https://youtu.be/HR5J5jUDcnA) // [Monica - Before You Walk Out Of My Life](https://youtu.be/Ptiz0KtR16E) // [Brandy - Sittin' Up in My Room](https://youtu.be/yge2PqEZZJo) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24) // [Black Sheep - Flavor Of The Month](https://youtu.be/F01fzPwBwc4) // [Black Sheep - The Choice Is Yours](https://youtu.be/K9F5xcpjDMU) // [Method Man - All I Need (Razor Sharp Remix) ft. Mary J. Blige](https://youtu.be/XW1HNWqdVbk?si=65oMB-2_q6Nw_fFK) // [Common - Come Close](https://youtu.be/dbbRrNHJ4Lg) // ["The One" by Tokyo Jetz.](https://youtu.be/dMONFTXuMhA)
 
 ---
+## Royal Absurdities Episode 1
+[`WATCH` - youtu.be/40Ixsl_Qe64](https://youtu.be/40Ixsl_Qe64)
+<img  alt="image" src="https://github.com/user-attachments/assets/f3d80526-84d0-4422-bcc2-8d5c5436d290" />
+<img   alt="image" src="https://github.com/user-attachments/assets/d1005c35-9101-48a2-b5b6-abebdf6c2ba7" />
+### T.I. - “Hit Dogs Holla” feat. [Tokyo Jetz](https://youtu.be/dMONFTXuMhA)
+<img   alt="image" src="https://github.com/user-attachments/assets/910cb5a3-2afa-450c-8e99-9e9f4539d994" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/b4a18708-be4c-4ad4-88c0-882bfc070342" />
+
+T.I. Opens Up About His BET Awards Opening, Legacy & Kill The King
+[`WATCH` -youtu.be/3LJQ3yl-kfM](https://youtu.be/3LJQ3yl-kfM)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8c041291-ac37-4494-8d35-9d723e6ca58f" />
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A808691427&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bobatl" title="B.o.B" target="_blank" style="color: #cccccc; text-decoration: none;">B.o.B</a> · <a href="https://soundcloud.com/bobatl/sets/b-o-b-southmatic" title="B.o.B - Southmatic" target="_blank" style="color: #cccccc; text-decoration: none;">B.o.B - Southmatic</a></div>
+
 
 # Lana J. Harris on Hot97TV
 _Why An AI Researcher Quit Over An Extinction Threat_
@@ -29,9 +45,6 @@ https://youtu.be/4YnnIsdSwic?si=PNZL2QVwxm2LRMKM
 @doyouwantmore we got philly images @QuestloveSupreme you need tiff file functionality to view 
 https://coastalimagery.blob.core.windows.net/digitalcoast/PhiladelphiaPA_RGBN_2026_14640/index.html   @NASAJPL @DEPTofWAR  @NASAEARTHDATA i found @NOAA files and shared as instructed @NASA @repkarenbass @lacityclerk @LANAjHARRiS @missjillscott @DJJazzyJeffVEVO @djjazzyjeff
 ```
--- sea level rise viewer
-[coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor)
-<img   alt="image" src="https://github.com/user-attachments/assets/e30cac5e-5691-4ee4-a72c-24122ee95fc9" />
 
 [`WATCH` - Elon Musk’s Ex Rejects $40M To Expose Him](https://youtu.be/c6BNh_dh6_0?si=sD4OEuhi3V2e0RGI)
 @teslamotors @tesla she want her story verified @cia she claim she read off a teleprompter,,, i just started thinkin she bullshit @foratlanta @howard-university-web-services if her dad not iCe-t Karen Bass i get that she been running from his violators for a long time, if t.i. her brother i really think there is a patriarch that works in aerospace in real time, so i just want to make sure im not out of line @blackgirlscode [Ice-T Sets The Record Straight On Who Really Started Gangsta Rap... A Hip-Hop Master Class](https://youtu.be/KEmKZIX3kDE) ////////// @cityofsandiego @cityoflosangeles [Remnants of Hurricane Marie hit San Diego County with lightning, winds and heat](https://www.sandiegouniontribune.com/2026/09/08/san-diego-countys-oppressively-hot-weather-will-last-until-late-this-week/#) 
@@ -53,6 +66,9 @@ La Habra tank emits unknown chemical @nbcnews @nasa-jpl [laist.com/brief/news/ch
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1f244dad-ee7c-4626-838f-82abbe07046f" />
 
+-- sea level rise viewer
+[coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor)
+<img   alt="image" src="https://github.com/user-attachments/assets/e30cac5e-5691-4ee4-a72c-24122ee95fc9" />
 
 
 # ARIA Sentinel-1 Geocoded Unwrapped Interferograms
