@@ -15,9 +15,19 @@ layout: default
 </picture>
 
 
-[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83Ng) // [Surah 4](https://youtu.be/0lMNMwTB5M8) //  [Surah 4](https://youtu.be/0lMNMwTB5M8) // [Fat Joe - They Wanna Know ](https://youtu.be/UZIaR-3H32U?si=Y9ObscCYLMc_Fuuk) // [Return Of The D.J. Vol. II (Bomb Hip-Hop Compilation 1997)](https://youtu.be/2Du6WbtZEAE)
+[Kenny Rogers - The Gambler](https://youtu.be/7hx4gdlfamo) // [Troubles · Alicia Keys](https://youtu.be/dsadjRYwaxY) // [Rico Nasty - Animal (Prod By. Mel-O-Dee)](https://youtu.be/bUZEaXgFYqM?si=vLCMjW3zBOO2Vxcd) // [Perfect Match · Cella Dwellas @doug-newman-nasa](https://youtu.be/5WHySdRlcUE?si=9Ds5oZPwNV7XzlU3) // [Bonobo ft Szjerdene - Get Thy Bearings](https://youtu.be/4-mWpknZ6Ls) // [Don't Save Her · Project Pat · Crunchy Black](https://youtu.be/Yu___7W69eE) // [Dj Total Eclipse Juggle Fest Rare Mixtape Cassette A](https://youtu.be/QpHtjIc83Ng) // [Surah 4](https://youtu.be/0lMNMwTB5M8) //  [Surah 4](https://youtu.be/0lMNMwTB5M8) // [Fat Joe - They Wanna Know ](https://youtu.be/UZIaR-3H32U?si=Y9ObscCYLMc_Fuuk) // [Return Of The D.J. Vol. II (Bomb Hip-Hop Compilation 1997)](https://youtu.be/2Du6WbtZEAE) // [Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
 
 --- 
+
+
+
+[The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck)
+
+[<video  loading="eager" controls src="https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4" />](https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4)
+
+[Glamour Life](https://www.youtube.com/watch?v=1QnOCkQLTC0)
+
+<img alt="tumblr_1b096c693a6e4ab9d54d4f7b329ecfdb_519b4a8d_12802-ezgif com-webp-to-gif-converter" src="https://github.com/user-attachments/assets/4e703873-067b-47d7-a182-a7596b67645f" />
 
 [worldview.earthdata.nasa.gov/?v=-138.06974606731833,17.844299145105712,-110.88278155604897,34.93709366456714&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Combined_Flood_2-Day(hidden,disabled=3-4),VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1,BlueMarble_NextGeneration(hidden),Land_Water_Map,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-07-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-138.06974606731833,17.844299145105712,-110.88278155604897,34.93709366456714&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Combined_Flood_2-Day(hidden,disabled=3-4),VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1,BlueMarble_NextGeneration(hidden),Land_Water_Map,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-07-T00%3A00%3A00Z) 
 
