@@ -18,6 +18,10 @@ layout: default
 
 ---
 
+### Los Angeles : the enormous village 1781-1981
+@CityOfLosAngeles @nasa-jpl @nasa @nasa-pds @LACMTA : the enormous village 1781-1981 [READ](https://archive.org/details/losangelesenormo0000weav/mode/1up)
+<img   alt="image" src="https://github.com/user-attachments/assets/216ff54d-e41b-410d-8da0-8b371f3fd985" />
+
 ## Hurricane MArie
 [https://worldview.earthdata.nasa.gov/?v=-136.99937294724108,16.20073452649428,-104.69159728436418,37.79256479623875&z=4&ics=true&ici=5&icd=10&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),GOES-West_ABI_Air_Mass(hidden),GOES-West_ABI_Band13_Clean_Infrared(hidden),GOES-West_ABI_Band2_Red_Visible_1km(opacity=0.56),GOES-West_ABI_GeoColor(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-09-06-T17%3A03%3A59Z](https://worldview.earthdata.nasa.gov/?v=-136.99937294724108,16.20073452649428,-104.69159728436418,37.79256479623875&z=4&ics=true&ici=5&icd=10&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Coastlines_15m(hidden),GOES-West_ABI_Air_Mass(hidden),GOES-West_ABI_Band13_Clean_Infrared(hidden),GOES-West_ABI_Band2_Red_Visible_1km(opacity=0.56),GOES-West_ABI_GeoColor(hidden),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-09-06-T17%3A03%3A59Z)
 
