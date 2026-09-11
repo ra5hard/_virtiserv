@@ -33,7 +33,7 @@ there's a hanger at hunter, I know you not supposed to sleep in those things but
 Migos - Straightenin [`WATCH` - youtu.be/E553AnMAvlU](https://youtu.be/E553AnMAvlU)
 [youtube.com/channel/UC9YcTIQuhwgoOQqYMKYqW9A](https://www.youtube.com/channel/UC9YcTIQuhwgoOQqYMKYqW9A)
 <img   alt="image" src="https://github.com/user-attachments/assets/b3357e56-59e4-4ae6-a11f-1669785a1b1e" />
-
+[Yung Miami On Her Relationship with Diddy, JT Fallout, and Reclaiming Her Voice - Caresha Please](https://youtu.be/GE0jfYMaQuI?si=k0cOsbsKwhyZU815) // [Latto Talks 'Big Mama,' Motherhood, 21 Savage, Drake, Ice Spice, Cardi B + More](https://youtu.be/UFnOLE4NFag) // [City Girls Documentary: Point Blank Period](https://youtu.be/YQ4oglk_v7M) // [Yung Miami On JT Release, Sex Raps, Trina & Meeting Drake](https://youtu.be/dxT-DalLbf0)
 
 ## Royal Absurdities Episode 1
 [`WATCH` - youtu.be/40Ixsl_Qe64](https://youtu.be/40Ixsl_Qe64)
