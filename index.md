@@ -18,6 +18,39 @@ layout: default
 
 ---
 
+# The Lana Rundown
+@Whitehouse @dhs-gov @commercegov @FBiCYBER @NASA  @NASA-GiSS @NASA-jpl
+Trump’s $5,000 Check Promise, Iran War Update & RNC Drama 
+[`WATCH` - youtu.be/Kis7DAHwGRk?si=GO3cBgBpiXvvVlRa](https://youtu.be/Kis7DAHwGRk?si=GO3cBgBpiXvvVlRa)
+<img  alt="image" src="https://github.com/user-attachments/assets/37a90429-a01f-4361-ab4c-0e3c8e54fc03" />
+@DEPTOFWAR @HOT(& @NASAJPL pass to @LANAJHARRiS youtu.be/RyZJljseZ_M @HOT97 pass this to @Lanajharris its about elon it will clear personality misomers up and improve her reports @REPKARENBASS can u file that as factchecking  @nasajpl @nasa-pds @USGS - RASHARD NASA meatball logo EARTHDATA LOGIN youtu.be/RyZJljseZ_M Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-11-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman
+
+Feedback @SupervisorHollyJMitchell @riconasty  @RubiRoseVEVO  @HezakyaNewz
+
+<img alt="image" src="https://github.com/user-attachments/assets/13dd7689-0737-4980-9868-bc383d43d29b" />
+<img  alt="image" src="https://github.com/user-attachments/assets/6e61597d-add5-470e-ba24-8a6bb8635a0f" />
 
 
 # DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
