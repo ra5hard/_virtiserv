@@ -18,9 +18,40 @@ layout: default
 
 ---
 
+
+
+# DOD INSTRUCTION 2200.01 @DeptOfDefense @whitehouse @dhs-gov
+COMBATING TRAFFICKING IN PERSONS (CTIP)
+#### [@nasa-jpl this is the @DeptOfWar](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf?ver=2019-06-21-102951-257) stance on sex trafficking, 
+[ @cityoflosangeles @stateofcalifornia @blackgirlscode esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
+1.2. POLICY. It is DoD policy to:
+a. Oppose prostitution, forced labor, and any related activities contributing to the
+phenomenon of trafficking in persons (TIP). CTIP will be applied across the entire spectrum of
+DoD missions, functions, programs, and activities.
+b. Deter activities of Service members, civilian employees, indirect hires, DoD contractors,
+foreign national employees of DoD, grant and cooperative agreement recipients, and all
+dependents that could facilitate or support TIP, domestically and overseas. These activities, to
+which DoD Components will uniformly refer using these terms when issuing internal
+implementing instructions and regulations, are:
+(1) Prostitution, pimping, pandering, and patronizing a prostitute. Even though such
+activities may be legal in a host country, they are in violation of:
+(a) Chapter 47 of Title 10, United States Code (U.S.C.), also known and referred to
+in this issuance as the “Uniform Code of Military Justice.”
+(b) Paragraph 106 of Part IV of the Manual for Courts-Martial.
+(2) Activities in violation of Chapter 77 of Title 18, U.S.C. including:
+(a) Forced labor and involuntary servitude.
+(b) Document tampering (e.g., withholding passports, fraudulent visas).
+(c) Sex trafficking of children.
+(3) Sex trafficking by force, fraud, or coercion in violation of Chapter 117 of Title 18,
+U.S.C.
+(4) Additional TIP-related offenses in Sections 1581, 1584, 1590-1597, 2421, 2421A,
+and 2422 of Title 18, U.S.C. 
+[esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/220001p.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/a889a2eb-f963-4ffa-a8c8-57e06953a4c7" />
+
 ## @nasa-jpl heres a news clip @Deptofwar
 Thanks to President Trump, America will DOMINATE SPACE for generations to come.
-[`WATCH` - youtu.be/hhg95p5dzoU?si=vr3AT3hUvDL5BiPu](https://youtu.be/hhg95p5dzoU?si=vr3AT3hUvDL5BiPu)
+[`WATCH` - youtu.be/hhg95p5dzoU?si=vr3AT3hUvDL5BiPu](https://youtu.be/hhg95p5dzoU?si=vr3AT3hUvDL5BiPu) /// @Deptofwar pete im so sorry im on a physical cycle with a girl in the pornography world and she chose a new partner and im just trying to get verified , theres other pretty girls @blackgirlscode have normani make any splits communicated with the small business dept at @nasa-jpl , @disney im afraid to stop chloe flow bc theres 5 latrices im binded to and i dont what her accused of castration if they get me , striptease and prostitution was neglected @ForAtlanta to remain a pissing hole and genocide watering hole @Stateofcalifornia 
 <img alt="image" src="https://github.com/user-attachments/assets/df6e26b7-3cf2-4952-8041-44f5e7eba1b0" />
 
 ### Los Angeles : the enormous village 1781-1981
