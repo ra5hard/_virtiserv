@@ -16,7 +16,7 @@ layout: default
 
 
 [CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [The Chemical Brothers - We've Got To Try](https://youtu.be/mRfSM-lv55I) // [T.N.T. · AC/DC](https://youtu.be/NhsK5WExrnE) // [Houses of the Holy  · Led Zeppelin](https://youtu.be/k77oT3jQ23g?si=vn0F4Lh1vGOIVbvu) // [Journey - Wheel in the Sky](https://youtu.be/MxGEVIvSFeY) // [REO Speedwagon - Keep on Loving You](https://youtu.be/wJzNZ1c5C9c?si=KeZAIeI3W3KKFALh) // [YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs) // [The Clash - Rock the Casbah](https://youtu.be/bJ9r8LMU9bQ?si=Csoqq7yLa4DT5LfM) // [Heart - "Barracuda"](https://youtu.be/PeMvMNpvB5M) // [Dire Straits - Money For Nothing](https://youtu.be/wTP2RUD_cL0) // [The Fact Is (I Need You)](https://youtu.be/4YnnIsdSwic?si=PNZL2QVwxm2LRMKM) // [Xscape - Who Can I Run To ](https://youtu.be/xLjyPBQk_Os) // [Xscape - Understanding ](https://youtu.be/HR5J5jUDcnA) // [Monica - Before You Walk Out Of My Life](https://youtu.be/Ptiz0KtR16E) // [Brandy - Sittin' Up in My Room](https://youtu.be/yge2PqEZZJo) // [Gang Starr - Mass Appeal](https://youtu.be/y9lNbNGbo24) // [Black Sheep - Flavor Of The Month](https://youtu.be/F01fzPwBwc4) // [Black Sheep - The Choice Is Yours](https://youtu.be/K9F5xcpjDMU) // [Method Man - All I Need (Razor Sharp Remix) ft. Mary J. Blige](https://youtu.be/XW1HNWqdVbk?si=65oMB-2_q6Nw_fFK) // [Common - Come Close](https://youtu.be/dbbRrNHJ4Lg) // ["The One" by Tokyo Jetz.](https://youtu.be/dMONFTXuMhA) // [LightSkinKeisha - "On Read" FEAT. Kash Doll ](https://youtu.be/E5RY0GUFNrs) // [MEGAN THEE STALLION - _
-_STALLI FREESTYLE_ ](https://youtu.be/gvSD05Yu7Ig) // [All-Women Cypher Featuring Latto, Flo Milli, Monaleo, Maiya The Don and Mello Buckzz](https://youtu.be/fIs7Cv1JQdM) // [#MeganMonday: I Think I love Her Freestyle](https://youtu.be/t6sHHHU82aQ?si=hugqBDchccffHYol) // [Rico Nasty - PEPPER](https://youtu.be/hpeXv2BbvpY) // [Jill Scott - Norf Side](https://youtu.be/rRCxe0og5Js) // [DJ Khaled - I Got the Keys](https://youtu.be/SFLSOIufuhM) // [Drake - Worst Behavior](https://youtu.be/U5pzmGX8Ztg) // [Nicki Minaj - Moment 4 Life](https://youtu.be/Ks3_kuRAzHs) // [T.i feat quavo : baller alert](https://youtu.be/31e7ObLfqsk?si=5h_2wP8ZKpKjnyUn)
+_STALLI FREESTYLE_ ](https://youtu.be/gvSD05Yu7Ig) // [All-Women Cypher Featuring Latto, Flo Milli, Monaleo, Maiya The Don and Mello Buckzz](https://youtu.be/fIs7Cv1JQdM) // [#MeganMonday: I Think I love Her Freestyle](https://youtu.be/t6sHHHU82aQ?si=hugqBDchccffHYol) // [Rico Nasty - PEPPER](https://youtu.be/hpeXv2BbvpY) // [Jill Scott - Norf Side](https://youtu.be/rRCxe0og5Js) // [DJ Khaled - I Got the Keys](https://youtu.be/SFLSOIufuhM) // [Drake - Worst Behavior](https://youtu.be/U5pzmGX8Ztg) // [Nicki Minaj - Moment 4 Life](https://youtu.be/Ks3_kuRAzHs) // [T.i feat quavo : baller alert](https://youtu.be/31e7ObLfqsk?si=5h_2wP8ZKpKjnyUn) // [Quavo Feat. Yung Miami - Strub Tha Ground](https://youtu.be/BL0jEPZ8QUo)
 
 ---
 
@@ -28,6 +28,11 @@ there's a hanger at hunter, I know you not supposed to sleep in those things but
 ## This is What Quavo did at Takeoff's Funeral.🥺😭♥️😔
 [`watch` - youtube.com/shorts/t6Kn9b-dtcI?feature=share](https://www.youtube.com/shorts/t6Kn9b-dtcI?feature=share)
 <img   alt="image" src="https://github.com/user-attachments/assets/1eeb3288-34a8-403d-b3f8-81669c0f5950" />
+
+
+[youtube.com/channel/UC9YcTIQuhwgoOQqYMKYqW9A](https://www.youtube.com/channel/UC9YcTIQuhwgoOQqYMKYqW9A)
+<img   alt="image" src="https://github.com/user-attachments/assets/b3357e56-59e4-4ae6-a11f-1669785a1b1e" />
+
 
 ## Royal Absurdities Episode 1
 [`WATCH` - youtu.be/40Ixsl_Qe64](https://youtu.be/40Ixsl_Qe64)
