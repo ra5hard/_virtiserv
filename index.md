@@ -18,6 +18,8 @@ layout: default
 
 ---
 
+
+[hon-Pete](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) @deptofwar [aanandmadhav.com/work/emirates-mars-mission](https://aanandmadhav.com/work/emirates-mars-mission)
 @nasa-pds [marssim.space/](https://marssim.space/)
 
 # 🕋 Makkah Live
