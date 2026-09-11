@@ -19,7 +19,7 @@ layout: default
 ---
 
 ## VISIONS: The EMIT Open Data Portal
-[@CityOfLosAngles _Mayor Karen Bass_earth.jpl.nasa.gov/emit/data/data-portal/Greenhouse-Gases](https://earth.jpl.nasa.gov/emit-mmgis/?s=0ibfl)
+[@CityOfLosAngeles _Mayor Karen Bass_earth.jpl.nasa.gov/emit/data/data-portal/Greenhouse-Gases](https://earth.jpl.nasa.gov/emit-mmgis/?s=0ibfl)
 try the map [@deptofwar she may need extra help today @nasa-jpl](https://earth.jpl.nasa.gov/emit-mmgis/?s=0ibfl) 
 <img  alt="image" src="https://github.com/user-attachments/assets/c69c80d0-1a93-4bda-a80c-cbfbd272ad9b" />
 
