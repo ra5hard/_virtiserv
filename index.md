@@ -23,6 +23,7 @@ _STALLI FREESTYLE_ ](https://youtu.be/gvSD05Yu7Ig) // [All-Women Cypher Featurin
 ## Savannah @emit-sds
 there's a hanger at hunter, I know you not supposed to sleep in those things but I do want to see how I can clear for travel... at the same time I can tell its a building time so I'm patient in that way although I still feel stranded @foratlanta [CRAZE -- NEW SLAVES ROUTINE](https://youtu.be/Ielxe6wjLLE)
 <img   alt="image @emit-sds @foratlanta " src="https://github.com/user-attachments/assets/79f18c60-b27d-43e2-8959-987a537ca328" />
+<img  alt="EMIT_L2A_RFL_001_20231220T175025_2335412_012" src="https://github.com/user-attachments/assets/b04e4d75-f183-45cd-8de6-b75311e772e5" />
 
 
 ## This is What Quavo did at Takeoff's Funeral.🥺😭♥️😔
