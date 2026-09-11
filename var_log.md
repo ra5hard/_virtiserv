@@ -9,6 +9,9 @@ layout: default
 
 # 🕋 Makkah Live
 @nasas-jpl @cityoflosangeles hi [`Watch` - youtu.be/YSBijY6W4yY](https://youtu.be/YSBijY6W4yY)
+
+<img alt="image" src="https://github.com/user-attachments/assets/50e69fb9-3b80-4c84-8755-b239ef5dd6f1" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/2e58b2d6-90d0-40a2-a4e1-79603dca4bcf" />
  
 
