@@ -18,6 +18,13 @@ layout: default
 
 ---
 
+# Aria
+@caltech this is what i was trying to do for the flood . . this is old @emit-sds
+![ @nasa-jpl @caltech this is what i was trying to do for the flood . . this is old](https://ia801409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_S~2.GIF)
+
+
+![https://aria.caltech.edu/images/logos/aria-logo.png](https://aria.caltech.edu/images/logos/aria-logo.png) 
+
 # The Lana Rundown
 @Whitehouse @dhs-gov @commercegov @FBiCYBER @NASA  @NASA-GiSS @NASA-jpl
 Trump’s $5,000 Check Promise, Iran War Update & RNC Drama 
@@ -50,6 +57,34 @@ NASA Official: Doug Newman
 Feedback @SupervisorHollyJMitchell @riconasty  @RubiRoseVEVO  @HezakyaNewz
 
 <img alt="image" src="https://github.com/user-attachments/assets/13dd7689-0737-4980-9868-bc383d43d29b" />
+
+# ARIA Sentinel-1 Geocoded Unwrapped Interferograms
+@ASFOpenSARlab @asfadmin @nasa-jpl
+I dont know how well i am reading inferograms but  i know it needs to be in the @la-county-isd datapool for storm damage recovery. The Scans of Losangeles County stop in [2025 @asfadmin](https://search.asf.alaska.edu/#/?dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA)&resultsLoaded=true&granule=S1-GUNW-D-R-144-tops-20250725_20250707-140104-00121W_00033N-PP-23ef-v3_0_1&zoom=8.800&center=-118.816,33.840&searchType=Geographic%20Search&useFrameForBaseline=true&polygon=POLYGON((-118.5101%2033.7067,-117.7373%2033.7067,-117.7373%2034.1998,-118.5101%2034.1998,-118.5101%2033.7067))) . @ESA this article says that its _"Time to say goodbye to Sentinel-1A"_ - [READ](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A) so if the dataset was decommed for Sentinel1 im looking for it under @isro / @nasa 's [NiSar](https://bhoonidhi.nrsc.gov.in/NISAR/) but thats another session or a jupyter notebook. Im still learning to use [Nisar](https://science.nasa.gov/mission/nisar/) - [Rashard @nasa-pds](https://github.com/ra5hard/ra5hard.github.io) @doug-newman-nasa im just overwhelmed, ppl want data but its kind of hard with the computer / netaccess situation @CityOfLosANGELEs @la-county-isd @LAcountyDPH
+`Interferometry is an imaging technique in which waves are superimposed in a manner to cause interference.` - [READMORE](https://science.nasa.gov/mission/nisar/interferometry/)
+[earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1](https://www.earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1) //// [aria.caltech.edu/products/aria-s1-gunw](https://aria.caltech.edu/products/aria-s1-gunw)
+
+![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/sentinel-1_animated_patch/26417500-1-eng-GB/Sentinel-1_animated_patch_pillars.gif](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/sentinel-1_animated_patch/26417500-1-eng-GB/Sentinel-1_animated_patch_pillars.gif) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/36dcaa48-1aa5-43ee-bf95-dd14a6240d6f" />
+
+[YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs)
+`@NASAJPL @ESA fwd to @LANAJHARRiS esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png @repkarenbass she and her posse helped move a lot of sentinel data during the fire, idk what decom means this far away from earth but some datasets are not updating and they siad it was going away esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A @DEPTOFWAR @WHiTEHOUSE @HOWARDUNiVERSiTY`
+<img  alt="image" src="https://github.com/user-attachments/assets/50abf1a2-3ad3-4244-915d-ff3148daaae5" />
+
+<img   alt="image @eodis-nasa the data stops 2025 @asfadmin" src="https://github.com/user-attachments/assets/6fcb9d48-e37b-4199-a4c3-4141ca17cf96" />
+
+_@stateOFCalifornia Earthquake_ 
+![https://aria.caltech.edu/images/products/ridgecrest_2019_browse_gunw.png](https://aria.caltech.edu/images/products/ridgecrest_2019_browse_gunw.png)
+<img   alt="image" src="https://github.com/user-attachments/assets/8a606300-a576-4c02-bbf9-688453c3936c" />
+
+![https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-12/esds-org-chart_0.png?VersionId=ZcE7OzMfjpzI5JDgzxTxPGuCvJEON.k4&itok=7NTqQqz-](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-12/esds-org-chart_0.png?VersionId=ZcE7OzMfjpzI5JDgzxTxPGuCvJEON.k4&itok=7NTqQqz-)
+
+![https://aria.caltech.edu/images/logos/aria-logo.png](https://aria.caltech.edu/images/logos/aria-logo.png) 
+
+![https://www.esa.int/eologos/images/sentinel-1_neg.jpg](https://www.esa.int/eologos/images/sentinel-1_neg.jpg)
+![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png) 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/6e61597d-add5-470e-ba24-8a6bb8635a0f" />
 
 
@@ -237,33 +272,6 @@ La Habra tank emits unknown chemical @nbcnews @nasa-jpl [laist.com/brief/news/ch
 [coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor](https://coast.noaa.gov/slr/#/layer/slr/3/-13200426.60342599/3990766.260359932/9.520/satellite/82/0.8/2050/interHigh/noAccretion/NOS_Minor)
 <img   alt="image" src="https://github.com/user-attachments/assets/e30cac5e-5691-4ee4-a72c-24122ee95fc9" />
 
-
-# ARIA Sentinel-1 Geocoded Unwrapped Interferograms
-@ASFOpenSARlab @asfadmin @nasa-jpl
-I dont know how well i am reading inferograms but  i know it needs to be in the @la-county-isd datapool for storm damage recovery. The Scans of Losangeles County stop in [2025 @asfadmin](https://search.asf.alaska.edu/#/?dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA)&resultsLoaded=true&granule=S1-GUNW-D-R-144-tops-20250725_20250707-140104-00121W_00033N-PP-23ef-v3_0_1&zoom=8.800&center=-118.816,33.840&searchType=Geographic%20Search&useFrameForBaseline=true&polygon=POLYGON((-118.5101%2033.7067,-117.7373%2033.7067,-117.7373%2034.1998,-118.5101%2034.1998,-118.5101%2033.7067))) . @ESA this article says that its _"Time to say goodbye to Sentinel-1A"_ - [READ](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A) so if the dataset was decommed for Sentinel1 im looking for it under @isro / @nasa 's [NiSar](https://bhoonidhi.nrsc.gov.in/NISAR/) but thats another session or a jupyter notebook. Im still learning to use [Nisar](https://science.nasa.gov/mission/nisar/) - [Rashard @nasa-pds](https://github.com/ra5hard/ra5hard.github.io) @doug-newman-nasa im just overwhelmed, ppl want data but its kind of hard with the computer / netaccess situation @CityOfLosANGELEs @la-county-isd @LAcountyDPH
-`Interferometry is an imaging technique in which waves are superimposed in a manner to cause interference.` - [READMORE](https://science.nasa.gov/mission/nisar/interferometry/)
-[earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1](https://www.earthdata.nasa.gov/data/catalog/alaska-satellite-facility-distributed-active-archive-center-aria-s1-gunw-version-1) //// [aria.caltech.edu/products/aria-s1-gunw](https://aria.caltech.edu/products/aria-s1-gunw)
-
-![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/sentinel-1_animated_patch/26417500-1-eng-GB/Sentinel-1_animated_patch_pillars.gif](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/11/sentinel-1_animated_patch/26417500-1-eng-GB/Sentinel-1_animated_patch_pillars.gif) 
-
-<img   alt="image" src="https://github.com/user-attachments/assets/36dcaa48-1aa5-43ee-bf95-dd14a6240d6f" />
-
-[YES - Owner of a Lonely Heart](https://youtu.be/SVOuYquXuuc?si=3mbyOuUwtB2Nowvs)
-`@NASAJPL @ESA fwd to @LANAJHARRiS esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png @repkarenbass she and her posse helped move a lot of sentinel data during the fire, idk what decom means this far away from earth but some datasets are not updating and they siad it was going away esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A @DEPTOFWAR @WHiTEHOUSE @HOWARDUNiVERSiTY`
-<img  alt="image" src="https://github.com/user-attachments/assets/50abf1a2-3ad3-4244-915d-ff3148daaae5" />
-
-<img   alt="image @eodis-nasa the data stops 2025 @asfadmin" src="https://github.com/user-attachments/assets/6fcb9d48-e37b-4199-a4c3-4141ca17cf96" />
-
-_@stateOFCalifornia Earthquake_ 
-![https://aria.caltech.edu/images/products/ridgecrest_2019_browse_gunw.png](https://aria.caltech.edu/images/products/ridgecrest_2019_browse_gunw.png)
-<img   alt="image" src="https://github.com/user-attachments/assets/8a606300-a576-4c02-bbf9-688453c3936c" />
-
-![https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-12/esds-org-chart_0.png?VersionId=ZcE7OzMfjpzI5JDgzxTxPGuCvJEON.k4&itok=7NTqQqz-](https://earthdata.nasa.gov/s3fs-public/styles/hds_large/public/2025-12/esds-org-chart_0.png?VersionId=ZcE7OzMfjpzI5JDgzxTxPGuCvJEON.k4&itok=7NTqQqz-)
-
-![https://aria.caltech.edu/images/logos/aria-logo.png](https://aria.caltech.edu/images/logos/aria-logo.png) 
-
-![https://www.esa.int/eologos/images/sentinel-1_neg.jpg](https://www.esa.int/eologos/images/sentinel-1_neg.jpg)
-![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/06/sentinel-1_patch/26187920-1-eng-GB/Sentinel-1_patch_pillars.png) 
 
 <img   alt="MSLSP_11SLT_2019 1" src="https://github.com/user-attachments/assets/8982676a-ab55-4f87-8f2c-dbe03f7bdc0a" />
 
