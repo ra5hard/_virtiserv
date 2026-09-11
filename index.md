@@ -18,8 +18,33 @@ layout: default
 
 ---
 
+## Hurricane MArie
+[worldview.earthdata.nasa.gov/?v=-131.6737056280827,19.96643058507049,-109.2496069160361,34.95283318965609&z=4&ics=true&ici=5&icd=10&l=Reference_Labels_15m,DoS_International_Boundaries(hidden),Coastlines_15m,GOES-West_ABI_Air_Mass,GOES-West_ABI_Band13_Clean_Infrared,GOES-West_ABI_Band2_Red_Visible_1km,GOES-West_ABI_GeoColor,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-09-06-T17%3A03%3A59Z](https://worldview.earthdata.nasa.gov/?v=-131.6737056280827,19.96643058507049,-109.2496069160361,34.95283318965609&z=4&ics=true&ici=5&icd=10&l=Reference_Labels_15m,DoS_International_Boundaries(hidden),Coastlines_15m,GOES-West_ABI_Air_Mass,GOES-West_ABI_Band13_Clean_Infrared,GOES-West_ABI_Band2_Red_Visible_1km,GOES-West_ABI_GeoColor,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-09-06-T17%3A03%3A59Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/789b756d-7d42-400b-9036-07434506e026" />
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-10-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
 
-@nasa-pds contact Dwayne gooden for a report on my behavior in Atlanta @marinecoders
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman 
+@nasa-pds contact Dwayne gooden for a report on my behavior in Atlanta @marinecoders @doug-newman-nasa @DEPTofWAR @BLACKGiRLSCODE @DiSNEY @NETFLiX 
 [@nasa-jpl](https://ammos.nasa.gov/openmct/) is this where I'm supposed to build my Rover commands and a runner on @Github is enough or a jupyter notebook ? hi  @blackgirlscode
 ![https://ammos.nasa.gov/media/openmct1.png](https://ammos.nasa.gov/media/openmct1.png)
 
