@@ -15,6 +15,12 @@ layout: default
 </picture>
 
 
+@doug-newman-nasa @cityoflosangeles @nasa-jpl @nasa-pds @usgs @la-county-isd
+someone is mad at me in this building!!!!!!!~ it was [here](https://search.earthdata.nasa.gov/search?sp[0]=-118.25237%2C34.05183&lat=34.05163842667505&long=-118.25236134250899&overlays=placeLabels&zoom=19.377160463443715) not [there](https://search.earthdata.nasa.gov/search?sp[0]=-118.25114%2C34.05316&lat=34.0533931441099&long=-118.25090889142115&overlays=placeLabels&zoom=19.095570501164147)
+<img alt="image" src="https://github.com/user-attachments/assets/d6375519-8983-4855-bc9f-cb8e076c0404" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6b57306b-6dd0-4f66-a63a-7ad696c0d344" />
+
 ### EMIT L2B Estimated Carbon Dioxide Plume Complexes 60 m V002
 [`READ` - earthdata.nasa.gov/data/catalog/lpcloud-emitl2bco2plm-002](https://www.earthdata.nasa.gov/data/catalog/lpcloud-emitl2bco2plm-002)
 @emit-sds is  this dataset in [worldview](https://www.earthdata.nasa.gov/data/tools/worldview) ? . . . [@nasa-jpl](https://www.jpl.nasa.gov/) [@doug-newman-nasa](https://www.linkedin.com/in/doug-newman-682037390) I saw an accident in front of [wells Fargo center](https://search.earthdata.nasa.gov/search?sp[0]=-118.25114%2C34.05316&lat=34.0533931441099&long=-118.25090889142115&overlays=placeLabels&zoom=19.095570501164147) last night...  [@CityOfLosangeles](https://lacity.gov/) [@LA-County-iSD](https://isd.lacounty.gov/) [@LAcountyDPH](https://www.publichealth.lacounty.gov/) please protect me from scary municipal employees  that would be interested in disabling cartography, this map been hacked [@nasa-develop](https://commonresearchmodel.larc.nasa.gov/langley-research-center/)  [@nasa-giss](https://www.nasa.gov/goddard/) y'all better [check on us](https://github.com/nasa/earthdata-search) @USGS ...  @howard-university-web-services @emergincoders account  for each other [@whitehouse](https://www.whitehouse.gov/) [@DEPTofWAR](https://www.war.gov/)  .... @Nasa-pds is black lady roman ok, her cousin presented herself to me Pershing Station with pink braids after I made a vulgar comment @dhs-gov @NASA so I hope she was not in the black sedan  that went over, it was barely patched filled with wood . . . unnecessary @USATODAY @NEWSHOUR the engine caught fire and from my view there were no signs of life! but I did not go down Supervisor Mitchell @StateOfCAlifornia @FORATLANTA
