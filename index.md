@@ -30,6 +30,7 @@ there's a hanger at hunter, I know you not supposed to sleep in those things but
 <img   alt="image" src="https://github.com/user-attachments/assets/1eeb3288-34a8-403d-b3f8-81669c0f5950" />
 
 
+Migos - Straightenin [`WATCH` - youtu.be/E553AnMAvlU](https://youtu.be/E553AnMAvlU)
 [youtube.com/channel/UC9YcTIQuhwgoOQqYMKYqW9A](https://www.youtube.com/channel/UC9YcTIQuhwgoOQqYMKYqW9A)
 <img   alt="image" src="https://github.com/user-attachments/assets/b3357e56-59e4-4ae6-a11f-1669785a1b1e" />
 
