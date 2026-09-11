@@ -18,6 +18,11 @@ layout: default
 
 ---
 
+## @nasa-jpl heres a news clip @Deptofwar
+Thanks to President Trump, America will DOMINATE SPACE for generations to come.
+[`WATCH` - youtu.be/hhg95p5dzoU?si=vr3AT3hUvDL5BiPu](https://youtu.be/hhg95p5dzoU?si=vr3AT3hUvDL5BiPu)
+<img alt="image" src="https://github.com/user-attachments/assets/df6e26b7-3cf2-4952-8041-44f5e7eba1b0" />
+
 ### Los Angeles : the enormous village 1781-1981
 @CityOfLosAngeles @nasa-jpl @nasa @nasa-pds @LACMTA : the enormous village 1781-1981 [READ](https://archive.org/details/losangelesenormo0000weav/mode/1up)
 <img   alt="image" src="https://github.com/user-attachments/assets/216ff54d-e41b-410d-8da0-8b371f3fd985" />
