@@ -18,6 +18,11 @@ layout: default
 
 ---
 
+
+@nasa-pds contact Dwayne gooden for a report on my behavior in Atlanta @marinecoders
+[@nasa-jpl](https://ammos.nasa.gov/openmct/) is this where I'm supposed to build my Rover commands and a runner on @Github is enough or a jupyter notebook ? hi  @blackgirlscode
+![https://ammos.nasa.gov/media/openmct1.png](https://ammos.nasa.gov/media/openmct1.png)
+
 ## VISIONS: The EMIT Open Data Portal
 [@CityOfLosAngeles _Mayor Karen Bass_earth.jpl.nasa.gov/emit/data/data-portal/Greenhouse-Gases](https://earth.jpl.nasa.gov/emit-mmgis/?s=0ibfl)
 try the map [@deptofwar she may need extra help today @nasa-jpl](https://earth.jpl.nasa.gov/emit-mmgis/?s=0ibfl) 
