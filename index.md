@@ -17,6 +17,11 @@ layout: default
 [CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA)
 
 ---
+# 🕋 Makkah Live
+@nasas-jpl @cityoflosangeles hi [`Watch` - youtu.be/YSBijY6W4yY](https://youtu.be/YSBijY6W4yY)
+kaselassie_kelly#1: ​@lanajharris , imma watch your show some at 4 i hope thats enough @howard-university-web-services 
+<img alt="image" src="https://github.com/user-attachments/assets/749f569a-4cff-4edf-89db-56a01c451455" />
+
 ### Thanks to President Trump, America will DOMINATE SPACE for generations to come.
 [`WATCH` - Thanks to President Trump, America will DOMINATE SPACE for generations to come.](https://youtu.be/hhg95p5dzoU)
 @deptoFWAR @Nasa : [Officer iSSACMAN](https://www.nasa.gov/people/jared-isaacman/), Hi its [rashard _ MRO](https://ra5hard.github.io/) from [@NAsa-JPL](https://earth.jpl.nasa.gov/emit/), Im concerned with [hon-Pete](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)'s language Dominate, what about our partners? I want to perform helthily with @UKSpaceAgency @jaxa @isro i forgot who else but since @CityOfLosAngeles is a melting pot you guys have to be aware to explain context so we dont get competative with eachother @whitehouse please provide scope to Dominate and how that language should effect my daily work @eodis-nasa / @nasa-pds @usgs @NASA-JPL @STATEOFCALiFORNiA @FORATLANTA 
