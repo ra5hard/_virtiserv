@@ -18,6 +18,10 @@ layout: default
 
 ---
 
+# 🕋 Makkah Live
+@nasas-jpl @cityoflosangeles hi [`Watch` - youtu.be/YSBijY6W4yY](https://youtu.be/YSBijY6W4yY)
+<img alt="image" src="https://github.com/user-attachments/assets/2e58b2d6-90d0-40a2-a4e1-79603dca4bcf" />
+
 # Aria
 @caltech this is what i was trying to do for the flood . . this is old @emit-sds
 ![ @nasa-jpl @caltech this is what i was trying to do for the flood . . this is old](https://ia801409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_S~2.GIF)
