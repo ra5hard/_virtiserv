@@ -14,6 +14,15 @@ layout: default
   
 </picture>
 
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA)
+
+---
+
+## VISIONS: The EMIT Open Data Portal
+[@CityOfLosAngles _Mayor Karen Bass_earth.jpl.nasa.gov/emit/data/data-portal/Greenhouse-Gases](https://earth.jpl.nasa.gov/emit-mmgis/?s=0ibfl)
+try the map [@deptofwar she may need extra help today @nasa-jpl](https://earth.jpl.nasa.gov/emit-mmgis/?s=0ibfl) 
+<img  alt="image" src="https://github.com/user-attachments/assets/c69c80d0-1a93-4bda-a80c-cbfbd272ad9b" />
+
 
 @emit-sds we are not in [worldview](https://www.earthdata.nasa.gov/data/tools/worldview) there's a lot of weather data sets that can be bundled that don't require any tile stitching, like this [methane-map](https://earth.jpl.nasa.gov/emit/data/data-portal/Greenhouse-Gases/) @USGS 
 [\Worldview.earthdata.nasa.gov/?v=-74.46038955679316,-93.44742158783762,185.5169641056584,80.29981972122653&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Coastlines_15m,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,AIRS_L3_Methane_400hPa_Volume_Mixing_Ratio_Monthly_Day,AIRS_L3_Methane_400hPa_Volume_Mixing_Ratio_Daily_Night,AIRS_L3_Methane_400hPa_Volume_Mixing_Ratio_Daily_Day,AIRS_L2_Methane_400hPa_Volume_Mixing_Ratio_Night,AIRS_L2_Methane_400hPa_Volume_Mixing_Ratio_Day,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-03-T16%3A43%3A30Z](https://worldview.earthdata.nasa.gov/?v=-74.46038955679316,-93.44742158783762,185.5169641056584,80.29981972122653&l=Reference_Labels_15m(hidden),DoS_International_Boundaries(hidden),Coastlines_15m,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,AIRS_L3_Methane_400hPa_Volume_Mixing_Ratio_Monthly_Day,AIRS_L3_Methane_400hPa_Volume_Mixing_Ratio_Daily_Night,AIRS_L3_Methane_400hPa_Volume_Mixing_Ratio_Daily_Day,AIRS_L2_Methane_400hPa_Volume_Mixing_Ratio_Night,AIRS_L2_Methane_400hPa_Volume_Mixing_Ratio_Day,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-09-03-T16%3A43%3A30Z)
