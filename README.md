@@ -1,3 +1,27 @@
+
+<img alt="image" src="https://github.com/user-attachments/assets/bbbc8644-a70b-4bc3-bc43-775218813fb1" />
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-11-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa @la-county-isd @blackgirlscode @cityoflosangeles @foratlanta @stateofcalifornia @howard-university-web-services @Jdwalli @hu-open-sci I'm mentioning Howard web resources because that's how [@nasa-jpl @nasa-pds latrice told me to communicate to protect virtiserv](https://www.instagram.com/reel/CeOTCPnl1SF/) and she can be my bookkeeper and everything will workout especially fixing my relationship with [coral  @blackgirlscode @foratlanta](https://thakarashard.github.io/coral/) 
 ![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg)
 
 @blackgirlscode is someon numerology oriented hacking ? 
