@@ -20,7 +20,7 @@ layout: default
 
 
 
-[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [M.I.A. - Bring The Noize](https://youtu.be/RvUVxYndYuU) // 
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [M.I.A. - Bring The Noize](https://youtu.be/RvUVxYndYuU) // [Chloe Bailey Reveals What She's Looking For In Her Next Partner](https://www.youtube.com/watch?v=HfPuYiwvS1Q) // [Chloe Bailey Heated After Troll Mentions String Showing During Her Essence Fest Performance! 😡](https://www.youtube.com/watch?v=IU9hL9qVaEs)
 
 <div class="tupperware">
 
@@ -33,6 +33,13 @@ layout: default
 
 [Kleptomaniac Pebbles The Flintstones: Season 4, Episode 11 @BLACKGiRLSCODE](https://www.b98.tv/video/kleptomaniac-pebbles/)
 <img   alt="image" src="https://github.com/user-attachments/assets/34c3b706-4aea-4152-b9f5-b118ba1a66cf" />
+
+# Dear_Coral,
+So Sartu does the whole "Thass_MaY_HUSBiN!!" thing and they haul her off to rape again! At least everybody in the same spot so chill. The bad foster parent deal will ice out bruh. Its gonna be fun bruh
+<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Ffootlongdevelopment%2Fdj-rhettmatics-the-wedding-mixer-vol-25-side-a%2F" frameborder="0" ></iframe>
+Thats a dj style you should learn, because your generation is going to see more unions celebrated and thats a nice niche for a gal like you that knows what love is from growing up with a ton of women that all married a dope ass man that you know better than them! They dont even know me that good... Just explore DonalGlovah old mix tapes and search and replace name of someone I have genital contact with aand know their poor choices in sexual partners
+<hr>
+
 
 
 ## BuNNY_LAKE_iS_MiSSiNG
@@ -60,6 +67,17 @@ Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, fe
 
 [Chloe Bailey Reveals What She's Looking For In Her Next Partner](https://www.youtube.com/watch?v=HfPuYiwvS1Q)
 [Chloe Bailey Heated After Troll Mentions String Showing During Her Essence Fest Performance! 😡](https://www.youtube.com/watch?v=IU9hL9qVaEs)
+
+# What your parents, siblings, peers, and admins are coping with
+## Forms_of_wartime_violence
+# Wartime Sexual Violence
+ <img src="https://16days.thepixelproject.net/wp-content/uploads/2011/11/War-rape.jpg" style="width:400px;height:600px;margin-left:15px;" align="right" alt="Pineapple" /> 
+<p>Wartime sexual violence is rape or other forms of sexual violence committed by combatants during armed conflict, war, or military occupation often as spoils of war, but sometimes, particularly in ethnic conflict, the phenomenon has broader sociological motives. Wartime sexual violence may also include gang rape and rape with objects. A war crime, it is distinguished from sexual harassment, sexual assaults and rape committed amongst troops in military service.[1][2][3]</p>
+<p>During war and armed conflict, rape is frequently used as a means of psychological warfare in order to humiliate the enemy. Wartime sexual violence may occur in a variety of situations, including institutionalized sexual slavery, wartime sexual violence associated with specific battles or massacres, as well as individual or isolated acts of sexual violence.</p>
+<p>Rape can also be recognized as genocide when committed with the intent to destroy, in whole or in part, a targeted group. International legal instruments for prosecuting perpetrators for genocide were developed in the 1990s, with the Akayesu case of the International Criminal Tribunal for Rwanda being widely considered as a precedent.[4] However, these legal instruments have so far only been used for international conflicts, thus putting the burden of proof in citing the international nature of conflict in order for prosecution to proceed.</p>
+<p>## Definition of wartime sexual violence # Main article: Rape There is no consensus definition of wartime sexual violence, as there is variance in what forms of violence are included in the definition and variance in which violence is considered conflict-related.[5] The terms rape, sexual assault and sexual violence are frequently used interchangeably.[6] The Explanatory Note of the Rome Statute, which binds the International Criminal Court, defines rape as follows: </p><p> The perpetrator invaded the body of a person by conduct resulting in penetration, however slight, of any part of the body of the victim or of the perpetrator with a sexual organ, or of the anal or genital opening of the victim with any object or any other part of the body.[7] and The invasion was committed by force, or by threat of force or coercion, such as that caused by fear of violence, duress, detention, psychological oppression or abuse of power, against such person or another person, or by taking advantage of a coercive environment, or the invasion was committed against a person incapable of giving genuine consent.[7] </p><p>The concept of "invasion" is intended to be broad enough to be gender-neutral and the definition is understood to include situations where the victim may be incapable of giving genuine consent if affected by natural, induced or age-related incapacity.[8] A prominent data-set on conflict-related sexual violence, Sexual Violence in Armed Conflict (SVAC), builds on the ICC definition and covers seven forms of violence: "(a) rape, (b) sexual slavery, (c) forced prostitution, (d) forced pregnancy, (e) forced sterilization/abortion, (f) sexual mutilation, and (g) sexual torture."[5] The data-set defines conflict-related sexual violence as the sexual violence committed "armed actors (specifically, state militaries, rebel groups, and progovernment militias) during periods of conflict or immediately postconflict," thus excluding sexual violence by civilians.[5] More expansive definitions may define wartime sexual violence as being committed even by civilians if the conflict creates a sense of impunity.[5]</p>
+
+<hr>
 <hr>
 
 ## Dear_Coral
