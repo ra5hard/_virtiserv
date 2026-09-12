@@ -16,10 +16,7 @@ layout: default
 
 
 
-## Dear_Coral
-`OLD` @nasa-jpl its a story a little girl broadcasted when I was sleeping at central library straight into my head, The Rihanna painting was some copy and paste code from a demo I did for [Ella MAi](https://www.instagram.com/ellamai/?hl=en) . . . I never finished the theme but its a kit to accompany her [classroom dojo](https://github.com/class-dojo) or whatever she using tasks at school @CityOfLosAngeles MAYOR KEAREN BASS / / DFCS SUPERViSOR HOLLY J AMiTCHELL @ForAtlanta 
-Your sister Cynthia was concieved near one of these according to her mother. [SCAD's Jen Library](https://scad.libguides.com/c.php?g=164802&p=1081661) Was nothing Like [Cental in Loss_Angeles](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/), They had dope computers for everyone not just students. They had to close it to the public due to prostituition according to what I heard from a former scad professor, he work somewhere else now... Los Angeles has a rep for sexual perversion so we out here... Just code on codepen... Please dont lose your life discording and darkwebbing IDK what MATT and KENNiE and MASHONGA did with Erika... LATTOH... you dont even get the humor, but check it the population is flipping and Im sure we will cross paths again soon [Learn Arabic With Toofa + Zaky Songs](https://youtu.be/CAkg_9Wp8wk) // [_One4kids_ youtube.com/@One4kids-Zaky](https://www.youtube.com/@One4kids-Zaky)
-<a href="https://youtu.be/J8YtRNuhp3M"><IMG src="https://cdn.britannica.com/89/23889-004-9BE09A6D/Apple-manufacturing-plant-iMac.jpg?s=1500x700&q=85"></a>
+
 
 
 
@@ -34,6 +31,24 @@ Your sister Cynthia was concieved near one of these according to her mother. [SC
 
 ---
 <img   alt="image" src="https://github.com/user-attachments/assets/34c3b706-4aea-4152-b9f5-b118ba1a66cf" />
+
+
+## BuNNY_LAKE_iS_MiSSiNG
+<iframe src="https://archive.org/embed/bunny-lake-is-missing" width="100%" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+## Dear Coral
+Im trying out a new theme base fo ya [mamaAuntieStepMAMAafroMexiethioMoMMyTHiNG_QUXUBE.](https://thakasartu.github.io/quxube/) It does not have the flatfiile structure the hacker-theme has that gives this blog its structure... Its got sections and each page is like a post entry instead of just editing a long HTML document. [Its still Jekyllized go check it out](https://jekyllthemes.io/theme/millennial) 
+
+![MiLLENiAL_THEME](https://jekyll-themes.imgix.net/images/themes/millennial-jekyll-theme.jpg?w=1140&h=713&fm=webp&fit=crop&crop=top)
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269925599&color=%23547464&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/edc-sunrise" title="EDC Sunrise 2016" target="_blank" style="color: #cccccc; text-decoration: none;">EDC Sunrise 2016</a></div>
+<hr>
+
+## Dear_Coral
+`OLD` @nasa-jpl its a story a little girl broadcasted when I was sleeping at central library straight into my head, The Rihanna painting was some copy and paste code from a demo I did for [Ella MAi](https://www.instagram.com/ellamai/?hl=en) . . . I never finished the theme but its a kit to accompany her [classroom dojo](https://github.com/class-dojo) or whatever she using tasks at school @CityOfLosAngeles MAYOR KEAREN BASS / / DFCS SUPERViSOR HOLLY J AMiTCHELL @ForAtlanta 
+Your sister Cynthia was concieved near one of these according to her mother. [SCAD's Jen Library](https://scad.libguides.com/c.php?g=164802&p=1081661) Was nothing Like [Cental in Loss_Angeles](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/), They had dope computers for everyone not just students. They had to close it to the public due to prostituition according to what I heard from a former scad professor, he work somewhere else now... Los Angeles has a rep for sexual perversion so we out here... Just code on codepen... Please dont lose your life discording and darkwebbing IDK what MATT and KENNiE and MASHONGA did with Erika... LATTOH... you dont even get the humor, but check it the population is flipping and Im sure we will cross paths again soon [Learn Arabic With Toofa + Zaky Songs](https://youtu.be/CAkg_9Wp8wk) // [_One4kids_ youtube.com/@One4kids-Zaky](https://www.youtube.com/@One4kids-Zaky)
+<a href="https://youtu.be/J8YtRNuhp3M"><IMG src="https://cdn.britannica.com/89/23889-004-9BE09A6D/Apple-manufacturing-plant-iMac.jpg?s=1500x700&q=85"></a>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A294231048&color=%23009fff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/outlier003-nts" title="OUTLIER Radio 003 on NTS" target="_blank" style="color: #cccccc; text-decoration: none;">OUTLIER Radio 003 on NTS</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A666422090&color=%23009fff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/chemicalxclub" title="Chemical X Club" target="_blank" style="color: #cccccc; text-decoration: none;">Chemical X Club</a> · <a href="https://soundcloud.com/chemicalxclub/high-tide-prod-acemo-eartheater" title="Eartheater - High Tide (prod. Acemo, Eartheater)" target="_blank" style="color: #cccccc; text-decoration: none;">Eartheater - High Tide (prod. Acemo, Eartheater)</a></div>
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/bbbc8644-a70b-4bc3-bc43-775218813fb1" />
