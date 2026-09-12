@@ -17,7 +17,7 @@ Agreed To Meris EULA: True
 Agreed To Sentinel-3 EULA: True
 Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
 
-For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+For questions regarding the @EOSDIS-NASA Earthdata Login, please contact Earthdata Support
 
 
 V 4.231.25 Home NASA Accessibility
