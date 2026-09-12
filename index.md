@@ -16,8 +16,14 @@ layout: default
 
 
 
+## Dear_Coral
+`OLD` @nasa-jpl its a story a little girl broadcasted when I was sleeping at central library straight into my head, The Rihanna painting was some copy and paste code from a demo I did for [Ella MAi](https://www.instagram.com/ellamai/?hl=en) . . . I never finished the theme but its a kit to accompany her [classroom dojo](https://github.com/class-dojo) or whatever she using tasks at school @CityOfLosAngeles MAYOR KEAREN BASS / / DFCS SUPERViSOR HOLLY J AMiTCHELL @ForAtlanta 
+Your sister Cynthia was concieved near one of these according to her mother. [SCAD's Jen Library](https://scad.libguides.com/c.php?g=164802&p=1081661) Was nothing Like [Cental in Loss_Angeles](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/), They had dope computers for everyone not just students. They had to close it to the public due to prostituition according to what I heard from a former scad professor, he work somewhere else now... Los Angeles has a rep for sexual perversion so we out here... Just code on codepen... Please dont lose your life discording and darkwebbing IDK what MATT and KENNiE and MASHONGA did with Erika... LATTOH... you dont even get the humor, but check it the population is flipping and Im sure we will cross paths again soon [Learn Arabic With Toofa + Zaky Songs](https://youtu.be/CAkg_9Wp8wk) // [_One4kids_ youtube.com/@One4kids-Zaky](https://www.youtube.com/@One4kids-Zaky)
+<a href="https://youtu.be/J8YtRNuhp3M"><IMG src="https://cdn.britannica.com/89/23889-004-9BE09A6D/Apple-manufacturing-plant-iMac.jpg?s=1500x700&q=85"></a>
 
-[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA)
+
+
+[CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE) // [LateNightTales - Bonobo](https://youtu.be/leeFJHgCRlw?si=rrStsO_T4_uv1uZA) // [M.I.A. - Bring The Noize](https://youtu.be/RvUVxYndYuU)
 
 <div class="tupperware">
 
@@ -27,6 +33,7 @@ layout: default
 </div>
 
 ---
+<img   alt="image" src="https://github.com/user-attachments/assets/34c3b706-4aea-4152-b9f5-b118ba1a66cf" />
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/bbbc8644-a70b-4bc3-bc43-775218813fb1" />
