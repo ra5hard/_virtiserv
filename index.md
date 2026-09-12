@@ -19,6 +19,67 @@ layout: default
 ---
 
 
+<img alt="image" src="https://github.com/user-attachments/assets/bbbc8644-a70b-4bc3-bc43-775218813fb1" />
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 09-11-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the @EOSDIS-NASA Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.25 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa @la-county-isd @blackgirlscode @cityoflosangeles @foratlanta @stateofcalifornia @howard-university-web-services @Jdwalli @hu-open-sci I'm mentioning Howard web resources because that's how [@nasa-jpl @nasa-pds latrice told me to communicate to protect virtiserv](https://www.instagram.com/reel/CeOTCPnl1SF/) and she can be my bookkeeper and everything will workout especially fixing my relationship with [coral  @blackgirlscode @foratlanta](https://thakarashard.github.io/coral/) 
+![https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg](https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/147000/147806/atlanta_oli_2020127_lrg.jpg)
+
+
+## _`OLD`_ Why Trump’s "4th Term" Speech Has Everyone Talking
+[WATCH - @nasa-jpl @nasa-giss youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr](https://youtu.be/U3boTwZAxtg?si=AhBzpDvlNZwEXyCr)
+ @eodis-nasa / @nasa-pds @usgs @NASA-JPL @STATEOFCALiFORNiA @FORATLANTA 
+hi @BLACKGiRLSCODE share this with your parents for perspective idk who might be scared of me bc of my job [`WATCH` - Thanks to President Trump, America will DOMINATE SPACE for generations to come.](https://youtu.be/hhg95p5dzoU) @NASA [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck) @ASU @ESA [@DHS-GOV @NASA @DEPTofWAR _Hon-Pete_](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) @deptofwar
+<img alt="image" src="https://github.com/user-attachments/assets/85e848af-89c9-499f-93fe-26792bdb7474" />
+
+@blackgirlscode is someon numerology oriented hacking ? 
+```
+Job is about to start running on the hosted runner: GitHub Actions 1000002913
+Requested labels: ubuntu-latest
+Job defined at: /dynamic/pages/pages-build-deployment@refs/heads/master
+Waiting for a runner to pick up this job...
+Evaluating build.if
+Evaluating: success()
+Result: true
+Job is waiting for a hosted runner to come online.
+Requested labels: ubuntu-latest
+Job defined at: /dynamic/pages/pages-build-deployment@refs/heads/master
+Waiting for a runner to pick up this job...2026-08-06T20:20:31.2270000Z Evaluating build.if
+Evaluating: success()
+Result: true
+Job is waiting for a hosted runner to come online.
+Job is about to start running on the hosted runner: GitHub Actions 1000002916
+Requested labels: ubuntu-latest
+Job defined at: /dynamic/pages/pages-build-deployment@refs/heads/master
+Waiting for a runner to pick up this job...
+```
+
+pages build and deployment #999 hung sesh [https://github.com/virtiserv/virtiserv.github.io/actions/runs/31127423085/job/92703989170 @github @nasa-jpl ](https://github.com/virtiserv/virtiserv.github.io/actions/runs/31127423085/job/92703989170)
+<img   alt="image" src="https://github.com/user-attachments/assets/1632a6b8-d375-4915-9957-880e1102f557" />
+<img   alt="image" src="https://github.com/user-attachments/assets/51da98ad-c1e8-49a4-a2f9-c36d3db4e177" />
+
+
+
+
  ### Thanks to President Trump, America will DOMINATE SPACE for generations to come. [`WATCH` - Thanks to President Trump, America will DOMINATE SPACE for generations to come.](https://youtu.be/hhg95p5dzoU)
 @deptoFWAR @Nasa : [Officer iSSACMAN](https://www.nasa.gov/people/jared-isaacman/), Hi its [rashard _ MRO](https://ra5hard.github.io/) from [@NAsa-JPL](https://earth.jpl.nasa.gov/emit/), Im concerned with [hon-Pete](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)'s language Dominate, what about our partners? I want to perform helthily with @UKSpaceAgency @jaxa @isro i forgot who else but since @CityOfLosAngeles is a melting pot you guys have to be aware to explain context so we dont get competative with eachother @whitehouse please provide scope to Dominate and how that language should effect my daily work @eodis-nasa / @nasa-pds @usgs @NASA-JPL @STATEOFCALiFORNiA @FORATLANTA 
 hi @BLACKGiRLSCODE share this with your parents for perspective idk who might be scared of me bc of my job [`WATCH` - Thanks to President Trump, America will DOMINATE SPACE for generations to come.](https://youtu.be/hhg95p5dzoU) @NASA [The Lady In The Bottle  I Dream Of Jeannie s1e1](https://www.youtube.com/watch?v=F41Y37XTZck) @ASU @ESA [@DHS-GOV @NASA @DEPTofWAR _Hon-Pete_](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/) @deptofwar [aanandmadhav.com/work/emirates-mars-mission](https://aanandmadhav.com/work/emirates-mars-mission)
