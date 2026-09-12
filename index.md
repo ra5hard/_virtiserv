@@ -45,6 +45,21 @@ Im trying out a new theme base fo ya [mamaAuntieStepMAMAafroMexiethioMoMMyTHiNG_
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269925599&color=%23547464&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/edc-sunrise" title="EDC Sunrise 2016" target="_blank" style="color: #cccccc; text-decoration: none;">EDC Sunrise 2016</a></div>
 <hr>
 
+[Film Noir](https://www.filmnoirfoundation.org/)
+Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, femme fatales, mean city streets and deserted backroads, bags of loot and dirty double-crossers...[WatchMore](https://archive.org/details/Film_Noir)
+* [60 Free Film Noir Movies](https://www.openculture.com/free_film_noir_movies)
+* [What Exactly Is Film Noir?](https://www.nfi.edu/film-noir/)
+* [Roger Ebert A Guide to Film Noir Genre](https://www.rogerebert.com/roger-ebert/a-guide-to-film-noir-genre)
+* [Top 50 Film-Noir Movies and TV Shows##ACCORDiNG_TO_iMDB##METRiCS](https://www.imdb.com/search/title/?&genres=film_noir&explore=title_type,genres)
+
+<img src="https://www.slantmagazine.com/wp-content/uploads/2019/03/lists_100greatestnoirfilms.jpg">
+
+<hr>
+
+[Chloe Bailey Reveals What She's Looking For In Her Next Partner](https://www.youtube.com/watch?v=HfPuYiwvS1Q)
+[Chloe Bailey Heated After Troll Mentions String Showing During Her Essence Fest Performance! 😡](https://www.youtube.com/watch?v=IU9hL9qVaEs)
+<hr>
+
 ## Dear_Coral
 `OLD` @nasa-jpl its a story a little girl broadcasted when I was sleeping at central library straight into my head, The Rihanna painting was some copy and paste code from a demo I did for [Ella MAi](https://www.instagram.com/ellamai/?hl=en) . . . I never finished the theme but its a kit to accompany her [classroom dojo](https://github.com/class-dojo) or whatever she using tasks at school @CityOfLosAngeles MAYOR KEAREN BASS / / DFCS SUPERViSOR HOLLY J AMiTCHELL @ForAtlanta 
 Your sister Cynthia was concieved near one of these according to her mother. [SCAD's Jen Library](https://scad.libguides.com/c.php?g=164802&p=1081661) Was nothing Like [Cental in Loss_Angeles](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/), They had dope computers for everyone not just students. They had to close it to the public due to prostituition according to what I heard from a former scad professor, he work somewhere else now... Los Angeles has a rep for sexual perversion so we out here... Just code on codepen... Please dont lose your life discording and darkwebbing IDK what MATT and KENNiE and MASHONGA did with Erika... LATTOH... you dont even get the humor, but check it the population is flipping and Im sure we will cross paths again soon [Learn Arabic With Toofa + Zaky Songs](https://youtu.be/CAkg_9Wp8wk) // [_One4kids_ youtube.com/@One4kids-Zaky](https://www.youtube.com/@One4kids-Zaky)
