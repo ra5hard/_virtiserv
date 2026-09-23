@@ -2,6 +2,9 @@
 layout: default
 ---
 
+@nasa-jpl I'm hurting bad, someone hurt my back  with a DEW @USNAY 
+<img width="490" height="554" alt="image" src="https://github.com/user-attachments/assets/b34ef433-f46f-4df5-8847-87b5b73ea64a" />
+
 <img width="366" height="347" alt="277782120-9f61f185-50ba-43c0-b992-aa21d35e2b91" src="https://github.com/user-attachments/assets/4e2df93c-2283-4d49-994b-331e00fefbb9" />
 
 i was  late doug neman @doug-newman-nasa @nasa @la-county-isd ! and i was there! and missed everything! MayorKaren Bass / Rex Richardson MAyor of long beach,i at least leared about shape files [@CityOfLosAngles Holly Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/), [my reports](https://virtiserv.github.io/wildfire) should improve 
