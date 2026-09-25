@@ -57,11 +57,11 @@ NASA's Viking Project found a place in history when it became the first U.S. mis
 
 
 @thakasErikaselassie_kelly ​​@deptofwar @lanajharris abandoned me after a blackface screw ,, this is the girl [github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288](github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288) @HOWARDUNiVERSiTY @WHiTEHOUSE
-```
+
 
 [github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf](https://github.com/virtiserv/virtiserv.github.io/commit/3917e2e5f2e2b4d478e7b5d00f00d38f646705bf)
 
- @nasa-pds I had to fix my LLC virtiserv [@howard-university-web-services markdown](https://www.markdownguide.org/) , if you don't close a tag it breaks the [markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) @jekyll @salesforce [@blackgirlscode @nasa](https://skillhub.cn/skills/clawhub_520xiaomumu/html-markdown-hybrid) @nasa-jpl @cityoflosangeles 
+@nasa-pds I had to fix my LLC virtiserv [@howard-university-web-services markdown](https://www.markdownguide.org/) , if you don't close a tag it breaks the [markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) @jekyll @salesforce [@blackgirlscode @nasa](https://skillhub.cn/skills/clawhub_520xiaomumu/html-markdown-hybrid) @nasa-jpl @cityoflosangeles 
  
 <img alt=" @nasa-pds I had to fix my LLC virtiserv @howard-university-web-services markdown, if you don't close a tag it breaks the markdown @jekyll @salesforce @blackgirlscode @nasa @nasa-jpl @cityoflosangeles image" src="https://github.com/user-attachments/assets/9a1f62b0-38fc-4fb7-85ec-30a4041bf1cd" />
 
@@ -72,7 +72,7 @@ NASA's Viking Project found a place in history when it became the first U.S. mis
 / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)
 [snk.fandom.com/wiki/Samurai_Shodown_II](https://snk.fandom.com/wiki/Samurai_Shodown_II)
 [reddit.com/r/gaming/comments/1d7g1p/i_have_a_huge_collection_of_fighting_game/?rdt=42248](https://www.reddit.com/r/gaming/comments/1d7g1p/i_have_a_huge_collection_of_fighting_game/?rdt=42248)
-[[@deptofwar makesure @blackgirlscode gets this @nasa-pds](https://imgur.com/a/s8YP3)
+[@deptofwar makesure @blackgirlscode gets this @nasa-pds](https://imgur.com/a/s8YP3)
 
 [`PLAY` - @nasa-jpl retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html](https://www.retrogames.cc/arcade-games/samurai-shodown-ii-shin-samurai-spirits-haohmaru-jigokuhen-ngm-063-ngh-063.html)
 
