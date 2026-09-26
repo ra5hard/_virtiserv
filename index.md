@@ -4,6 +4,61 @@ mathjax: true
 ---
 
 
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+
+# MX Records @nasa-jpl @usnavy
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg @deptofwar @saccounty @cityoflosangeles @nasa-giss ](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg) 
+
+
+[ @nasa @nasa-jpl @nasa-pds draperutah.gov/](https://www.draperutah.gov/)
+jpl.nasa.gov	mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov	mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+## mxa-0020b901.gslb.pphosted.com.
+
+| Mx Record | mxa-0020b901.gslb.pphosted.com. | 
+| -----------|---------------------------------|
+| IP | 67.231.155.103 | 
+| Status | Success | 
+| Test duration(ms) | 25 | 
+| AS Number | AS22843 | 
+| Organization | Proofpoint, Inc. | 
+| Domain | proofpoint.com | 
+| Country | United States | 
+| Abuse Contact | Network : 67.231.144.0/20<br />Name : Proofpoint ARIN Abuse<br />Email : abuse@proofpoint.com<br />Phone : +1-801-748-4494<br />Address : US, UT, Draper @nasa @nasa-jpl @nasa-pds, 13997 S Minuteman Dr, 84020<br />Country: US<br /> | 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/269ad24e-9ad5-49d9-a476-0b120edd802a" />
+
+
+`jekyll.version`  {{ jekyll.version }}
+{{ site.time | date: '%B %d, %Y' }}
+{{ site.time }}
+
+
+// [UGK (Underground Kingz) - It's Supposed To Bubble ](https://youtu.be/DB_QSvLWFE4?list=RDDB_QSvLWFE4) // [Kool G Rap & DJ Polo, Big Daddy Kane & Biz Markie - Erase Racism](https://youtu.be/wWuFj_HAjYs?list=RDwWuFj_HAjYs) //
+
+
+![https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg @nasa-jpl hi ](https://www.draperutah.gov/media/35fctv0w/city-of-draper-logo-vector.svg)
+
+<a href="https://youtu.be/nUa32C6LuDE?si=E23brWEiJBr4xfuk">Sevyn Streeter On 76ers Stopping Her From Wearing “We Matter” Shirt</a> <a href="https://www.youtube.com/watch?v=Y2TbLohPKI0">The Breakfast Club Classic - Jay Z Interview 2013</a> <a href="https://www.youtube.com/watch?v=SM9oFokxCKw">Sevyn Streeter Perfoms in We Matter Jersey</a>  <a href="https://x.com/thakasartu/media">Media Upload ThakaSartu</a> <a href="https://thakasartu.github.io/">Thakasartu bulliten board of sorts on github [css archive]</a> <a href="https://youtu.be/yS_GWY6B_y8?si=OgN1CE7OerTzRYUZ">Kevin Hart Exposes Disturbing Party Footage Of Diddy.. (Exclusive)</a> <a href="https://www.youtube.com/watch?v=XRxItoK6wKc">Jay-Z - Things That U Do (Feat. Mariah Carey)</a> <a href="https://youtu.be/pPoFtP-65sM?si=A2jrbVpkfGIrovgy">Tru Playaz</a> 
+
 # HOT 97 News Live! 9/25/26
 [`WATCH` @ForAtlanta youtube.com/watch?v=hOLdKX_xUF8 @Doug-newman-nasa @nasa-jpl](https://www.youtube.com/watch?v=hOLdKX_xUF8)
 ///// [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @nasa-pds Roman is transmitting 
