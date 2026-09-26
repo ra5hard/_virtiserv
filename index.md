@@ -3,9 +3,11 @@ layout: default
 mathjax: true
 ---
 
-[Big Pun - It's So Hard](https://youtu.be/eMIzWh1yhCA?list=RDDB_QSvLWFE4)
+[Big Pun - It's So Hard](https://youtu.be/eMIzWh1yhCA?list=RDDB_QSvLWFE4) // [Stretch & Bobbito (Hot 97) April 21,1996 (X-Men)](https://youtu.be/UW9JxiqoWjw)
 
 // 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e975dd52-7486-46dc-9061-36fa9a363015" />
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
