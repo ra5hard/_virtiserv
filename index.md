@@ -3,6 +3,12 @@ layout: default
 mathjax: true
 ---
 
+
+## AppEEARS_PACE_Land_Webinar_01-McKibben.pdf
+@Doug-newman-nasa im working on the appears webinar assignments @eodis-nasa i have excel open and trying to figure out the format for an area extraction for @CityOfLosAngeles @la-county-isd @Saccounty @Longbeachinnovationteam @CityOFSantaMonica [nasa-ext.app.box.com/s/x7qahm2072raw7kx1tpu2k9z8bdhhalg/file/2483679230069 @blackgirlscode](https://nasa-ext.app.box.com/s/x7qahm2072raw7kx1tpu2k9z8bdhhalg/file/2483679230069) // [Stretch & Bobbito (Hot 97) April 21,1996 (X-Men)](https://youtu.be/UW9JxiqoWjw?t=819)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a62692a6-8c7a-4941-aa52-27211b70650c" />
+
 [Big Pun - It's So Hard](https://youtu.be/eMIzWh1yhCA?list=RDDB_QSvLWFE4) // [Stretch & Bobbito (Hot 97) April 21,1996 (X-Men)](https://youtu.be/UW9JxiqoWjw)
 
 // 
