@@ -4,6 +4,8 @@ mathjax: true
 ---
 
 
+![ @nasa-pds](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/ncam/NLB_843403673EDR_F1250558NCAM00353M_.JPG)
+
 ## AppEEARS_PACE_Land_Webinar_01-McKibben.pdf
 @Doug-newman-nasa im working on the appears webinar assignments @eodis-nasa i have excel open and trying to figure out the format for an area extraction for @CityOfLosAngeles @la-county-isd @Saccounty @Longbeachinnovationteam @CityOFSantaMonica [nasa-ext.app.box.com/s/x7qahm2072raw7kx1tpu2k9z8bdhhalg/file/2483679230069 @blackgirlscode](https://nasa-ext.app.box.com/s/x7qahm2072raw7kx1tpu2k9z8bdhhalg/file/2483679230069) // [Stretch & Bobbito (Hot 97) April 21,1996 (X-Men)](https://youtu.be/UW9JxiqoWjw?t=819)
 
