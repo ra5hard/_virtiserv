@@ -3,6 +3,7 @@ layout: default
 mathjax: true
 ---
 
+![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/ncam/NLB_843402793EDR_F1250558NCAM00225M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/ncam/NLB_843402793EDR_F1250558NCAM00225M_.JPG)
 
 ![ @nasa-pds](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/05023/opgs/edr/ncam/NLB_843403673EDR_F1250558NCAM00353M_.JPG)
 
