@@ -10,6 +10,12 @@ mathjax: true
 
 <img  alt="image ezgif com-gif-maker (1) image  @thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and she did it and returned again under several skin tones!!!! @Blackgirlscode @bbc @nasa-giss @eodis-nasa github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOuse that's the girl that said she was muna Ahmed, but there was another one at pricilla house that did the same thing but she looked different and I don't know where my child is @doug-newmna-nasa @cia I swear I have been working in due diligence for my own healing and that of my family @StateOfCAlifornia @CityOfLosAngeles  @ra5hard  imag " src="https://github.com/user-attachments/assets/402c8659-0a02-4e10-bcb0-1f1f4a2f533b" />
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An image processing method developed at JPL – for Mars – is helping uncover ancient rock art, buildings, and even tattoos on mummified human remains on Earth.
+
+See more (literally): https://t.co/hvDTt0S0FN https://t.co/lQ3sKCDobo</p>&mdash; NASA JPL (@NASAJPL) <a href="https://x.com/NASAJPL/status/2103260187192947160?ref_src=twsrc%5Etfw">September 24, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+
+
 ![https://raw.githubusercontent.com/virtiserv/virtiserv.github.io/refs/heads/master/assets/video/_mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04953_opgs_edr_fcam_FRB_837196089EDR_D1231308TRAV01504M_.webp](https://raw.githubusercontent.com/virtiserv/virtiserv.github.io/refs/heads/master/assets/video/_mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04953_opgs_edr_fcam_FRB_837196089EDR_D1231308TRAV01504M_.webp)
 
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04982/opgs/edr/fcam/FLB_839782865EDR_F1240480FHAZ00200M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04982/opgs/edr/fcam/FLB_839782865EDR_F1240480FHAZ00200M_.JPG)
