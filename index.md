@@ -4,7 +4,24 @@ mathjax: true
 ---
 
 
+
+#  Front Left Hazard Avoidance Camera (Hazcam)
+@nasa-pds arm pics 
+
+
 <img  alt="ezgif com-gif-maker (1) image  @thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and she did it and returned again under several skin tones!!!! @Blackgirlscode @bbc @nasa-giss @eodis-nasa github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOuse that's the girl that said she was muna Ahmed, but there was another one at pricilla house that did the same thing but she looked different and I don't know where my child is @doug-newmna-nasa @cia I swear I have been working in due diligence for my own healing and that of my family @StateOfCAlifornia @CityOfLosAngeles  @ra5hard  image" src="https://github.com/user-attachments/assets/fd5a1cdb-09fa-42ff-801f-2377a4588a0f" />
+
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01981/ids/edr/browse/fcam/FLF_1981_0842807549_727ECM_N0910970FHAZ00215_01_275J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01981/ids/edr/browse/fcam/FLF_1981_0842807549_727ECM_N0910970FHAZ00215_01_275J01_1200.jpg)
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01976/ids/edr/browse/fcam/FLF_1976_0842367348_066ECM_N0910806FHAZ02008_10_095J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01976/ids/edr/browse/fcam/FLF_1976_0842367348_066ECM_N0910806FHAZ02008_10_095J02_1200.jpg) 
+
+### Why [Chris](https://chrisbrown.fandom.com/wiki/Chris_Brown) [Brown](https://en.wikipedia.org/wiki/Talk:Chris_Brown) Just Rejected His Own State Honor [`Query` = `Chris Brown`](https://www.google.com/search?sca_esv=f0da1ac9b7a45388&rlz=1CASLJZ_enUS1233&sxsrf=APpeQnu9nRE2O20khoaeQJSH2qhjzaHh5A:1790042249228&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpBml1fU3A7DJSeYYIw7Ru-0IfSG8OiAq-y2FJ_WzTNunw47yLgZqTMacgtkngEuvZt6THVvVL15Y6Mi8kRs3iJMBja9_6nNbrabDz_RexNX1OLmQo24M8fadNk2TzYydDEloelw&q=chris+brown&sa=X&ved=2ahUKEwicpJeDi4GXAxUnOUQIHUdeGpgQtKgLegQIIxAB&cshid=1790042421542805&biw=1414&bih=945&dpr=1#ip=1)
+
+@blackgirlscode check on the situation , worst case he's not offended anyone else! @disney 
+[`WATCH` - youtu.be/-9h95lDvTac](https://youtu.be/-9h95lDvTac) /////////// [J Dilla - The Shining (Promo)](https://youtu.be/2ujXj-uCeiE?list=RD2ujXj-uCeiE) ////
+[LA Graffiti / FX CREW & STP CREW @ 3:55 - 50 YEARS OF HIPHOP MURAL 3/2023 Monstroe @ 13:02](https://youtu.be/jd-5KIRUtAw) // [Atlanta Style Writing - Influential Graffiti Artists Test Their Skills](https://youtu.be/l9GahWY_-wY) // [FX CREW Graffiti Writers Crew New York, 1998 VHS documentary](https://youtu.be/2SojebL03K0) // [H.E.R. on Being California’s Most Talented Kid, Favorite Filipino Food & New Movie Forgotten Island](https://youtu.be/WmjIOrhBDIs)
+
+<img   alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/c1606065-65fd-4c2b-8713-14e6b0f82f50" />
 
 <img  alt="ezgif com-gif-maker image  @thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and she did it and returned again under several skin tones!!!! @Blackgirlscode @bbc @nasa-giss @eodis-nasa github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOuse that's the girl that said she was muna Ahmed, but there was another one at pricilla house that did the same thing but she looked different and I don't know where my child is @doug-newmna-nasa @cia I swear I have been working in due diligence for my own healing and that of my family @StateOfCAlifornia @CityOfLosAngeles  @ra5hard  image" src="https://github.com/user-attachments/assets/41a52b0e-d86c-46bd-8ce8-ffe895fc7908" />
 
@@ -849,19 +866,6 @@ NASA Official: Doug Newman
 [https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01982/ids/edr/browse/fcam/FLF_1982_0842894333_441ECM_N0910970FHAZ02008_07_095J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01982/ids/edr/browse/fcam/FLF_1982_0842894333_441ECM_N0910970FHAZ02008_07_095J01_1200.jpg)
 ![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01982/ids/edr/browse/fcam/FLF_1982_0842894333_441ECM_N0910970FHAZ02008_07_095J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01982/ids/edr/browse/fcam/FLF_1982_0842894333_441ECM_N0910970FHAZ02008_07_095J01_1200.jpg)
 
-
-#  Front Left Hazard Avoidance Camera (Hazcam)
-@nasa-pds arm pics 
-
-
-![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01981/ids/edr/browse/fcam/FLF_1981_0842807549_727ECM_N0910970FHAZ00215_01_275J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01981/ids/edr/browse/fcam/FLF_1981_0842807549_727ECM_N0910970FHAZ00215_01_275J01_1200.jpg)
-![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01976/ids/edr/browse/fcam/FLF_1976_0842367348_066ECM_N0910806FHAZ02008_10_095J02_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01976/ids/edr/browse/fcam/FLF_1976_0842367348_066ECM_N0910806FHAZ02008_10_095J02_1200.jpg) 
-
-### Why [Chris](https://chrisbrown.fandom.com/wiki/Chris_Brown) [Brown](https://en.wikipedia.org/wiki/Talk:Chris_Brown) Just Rejected His Own State Honor [`Query` = `Chris Brown`](https://www.google.com/search?sca_esv=f0da1ac9b7a45388&rlz=1CASLJZ_enUS1233&sxsrf=APpeQnu9nRE2O20khoaeQJSH2qhjzaHh5A:1790042249228&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832VTJOOCxW_fyN-Q_ezyf8gLZhoVnym8adqD7lVa5VazpBml1fU3A7DJSeYYIw7Ru-0IfSG8OiAq-y2FJ_WzTNunw47yLgZqTMacgtkngEuvZt6THVvVL15Y6Mi8kRs3iJMBja9_6nNbrabDz_RexNX1OLmQo24M8fadNk2TzYydDEloelw&q=chris+brown&sa=X&ved=2ahUKEwicpJeDi4GXAxUnOUQIHUdeGpgQtKgLegQIIxAB&cshid=1790042421542805&biw=1414&bih=945&dpr=1#ip=1)
-
-@blackgirlscode check on the situation , worst case he's not offended anyone else! @disney 
-[`WATCH` - youtu.be/-9h95lDvTac](https://youtu.be/-9h95lDvTac) /////////// [J Dilla - The Shining (Promo)](https://youtu.be/2ujXj-uCeiE?list=RD2ujXj-uCeiE) ////
-[LA Graffiti / FX CREW & STP CREW @ 3:55 - 50 YEARS OF HIPHOP MURAL 3/2023 Monstroe @ 13:02](https://youtu.be/jd-5KIRUtAw) // [Atlanta Style Writing - Influential Graffiti Artists Test Their Skills](https://youtu.be/l9GahWY_-wY) // [FX CREW Graffiti Writers Crew New York, 1998 VHS documentary](https://youtu.be/2SojebL03K0) // [H.E.R. on Being California’s Most Talented Kid, Favorite Filipino Food & New Movie Forgotten Island](https://youtu.be/WmjIOrhBDIs)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3d8b9792-906e-4be6-94ea-e3b56ca49dbf" />
 <img alt="image" src="https://github.com/user-attachments/assets/ff60a731-ba68-482c-b96b-cc6a17bbb31a" />
