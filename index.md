@@ -4,6 +4,8 @@ mathjax: true
 ---
 
 
+![https://raw.githubusercontent.com/virtiserv/virtiserv.github.io/refs/heads/master/assets/video/_mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04953_opgs_edr_fcam_FRB_837196089EDR_D1231308TRAV01504M_.webp](https://raw.githubusercontent.com/virtiserv/virtiserv.github.io/refs/heads/master/assets/video/_mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04953_opgs_edr_fcam_FRB_837196089EDR_D1231308TRAV01504M_.webp)
+
 ![https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04982/opgs/edr/fcam/FLB_839782865EDR_F1240480FHAZ00200M_.JPG](https://mars.nasa.gov/msl-raw-images/proj/msl/redops/ods/surface/sol/04982/opgs/edr/fcam/FLB_839782865EDR_F1240480FHAZ00200M_.JPG)
 
 ![https://raw.githubusercontent.com/virtiserv/virtiserv.github.io/refs/heads/master/assets/video/EngineeringCamerasFrontHazardAvoidanceCameras.webp](https://raw.githubusercontent.com/virtiserv/virtiserv.github.io/refs/heads/master/assets/video/EngineeringCamerasFrontHazardAvoidanceCameras.webp)
