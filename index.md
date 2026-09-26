@@ -3,6 +3,9 @@ layout: default
 mathjax: true
 ---
 
+[Big Pun - It's So Hard](https://youtu.be/eMIzWh1yhCA?list=RDDB_QSvLWFE4)
+
+// 
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
