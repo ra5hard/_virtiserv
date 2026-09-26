@@ -5,7 +5,9 @@ mathjax: true
 
 
 ## Doctor Slain In Bed, LA Orb Sighting & Texas AC Ruling
-@nasa-jpl @cityoflosangeles im going to check on thie la orb sighting @USNAVY its in my job desc @LA-county-isd [youtu.be/cT6WddtiLaQ](https://youtu.be/cT6WddtiLaQ)
+@nasa-jpl @cityoflosangeles im going to check on thie la orb sighting @USNAVY its in my job desc @LA-county-isd [`WATCH` youtu.be/cT6WddtiLaQ](https://youtu.be/cT6WddtiLaQ) /// 
+// [Stretch & Bobbito (Hot 97) April 21,1996 (X-Men) @Cbs-news-data @nbcnews ](https://youtu.be/UW9JxiqoWjw?t=4316)
+
 <img  alt="image ezgif com-gif-maker (1) image  @thakasErikaselassie_kelly ​​@lanajharris abandoned me after a blackface screw ,, this is the girl @ForAtlanta there may be a rape rumor I'm fighting, she was in my bed when I woke up and she did it and returned again under several skin tones!!!! @Blackgirlscode @bbc @nasa-giss @eodis-nasa github.com/virtiserv/virtiserv.github.io/commit/f1a0071405ea29caa16949e6a955bafd1591d288 @HOWARDUNiVERSiTY @WHiTEHOuse that's the girl that said she was muna Ahmed, but there was another one at pricilla house that did the same thing but she looked different and I don't know where my child is @doug-newmna-nasa @cia I swear I have been working in due diligence for my own healing and that of my family @StateOfCAlifornia @CityOfLosAngeles  @ra5hard  imag " src="https://github.com/user-attachments/assets/402c8659-0a02-4e10-bcb0-1f1f4a2f533b" />
 
 ![https://raw.githubusercontent.com/virtiserv/virtiserv.github.io/refs/heads/master/assets/video/_mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04953_opgs_edr_fcam_FRB_837196089EDR_D1231308TRAV01504M_.webp](https://raw.githubusercontent.com/virtiserv/virtiserv.github.io/refs/heads/master/assets/video/_mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04953_opgs_edr_fcam_FRB_837196089EDR_D1231308TRAV01504M_.webp)
